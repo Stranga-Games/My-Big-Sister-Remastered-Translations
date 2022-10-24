@@ -1,0 +1,7852 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+// Text encoding hint - ASCII or UTF-8
+//#Encoding=UTF-8
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+mark
+
+jack
+
+minx
+
+duck
+
+chapter1
+
+chapter2
+
+chapter3
+
+chapter4
+
+chapter5
+
+chapter6
+
+chapter7
+
+chapter8
+
+chapter9
+
+chapter10
+
+credits
+
+hoarder
+
+playtrack1
+
+playtrack2
+
+playtrack3
+
+playtrack4
+
+playtrack5
+
+playtrack6
+
+playtrack7
+
+playtrack8
+
+playtrack9
+
+playtrack10
+
+playtrack11
+
+playtrack12
+
+playtrack13
+
+playtrack14
+
+playtrack15
+
+playtrack16
+
+playtrack17
+
+whatisthis
+
+whatsthetime
+
+restart
+
+tpmenu
+
+mushroom
+
+ashina
+
+Ashina
+
+Luzia
+
+WaitForLongest: duration1 cannot be negative!
+
+WaitForLongest: duration2 cannot be negative!
+
+WaitForLongest: duration3 cannot be negative!
+
+WaitForLongest: duration4 cannot be negative!
+
+WaitForLongest: duration5 cannot be negative!
+
+WaitForLongest: duration6 cannot be negative!
+
+SetTimerForLongest: timeout1 cannot be negative!
+
+SetTimerForLongest: timeout2 cannot be negative!
+
+SetTimerForLongest: timeout3 cannot be negative!
+
+SetTimerForLongest: timeout4 cannot be negative!
+
+SetTimerForLongest: timeout5 cannot be negative!
+
+SetTimerForLongest: timeout6 cannot be negative!
+
+Cannot create new tween because the Tween module is currently playing %d tween(s), which is the maximum. You can increase this max number on the Tween module script header.
+
+Cannot create Tween. Invalid index!
+
+WMIygj
+
+ -=+.,:;!?
+
+%d
+
+Um, excuse me?
+
+I said I was hungry.
+
+And yes, I am talking about you behind the screen.
+
+Please, I need your help.
+
+You are starting to get on my nerves.
+
+No...
+
+ACH_SOMBIE_DEATH
+
+Type the filename:
+
+.png
+
+Screenshot Saved!
+
+Manual Text
+
+Auto Text
+
+V 0.3
+
+Press OPTIONS to skip
+
+Press Menu to skip
+
+Press + to skip
+
+Press START to skip
+
+Press ESC to skip
+
+Please wait...
+
+ACH_TALK_OF_THE_TOWN
+
+Good Ending
+
+Bad Ending
+
+I can't use this here.
+
+A
+
+S
+
+H
+
+I
+
+N
+
+ashina is: %d
+
+AshinaTruth is: now %d
+
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+%4d %4d %s
+
+The Marketplace
+
+Save Screenshot as:
+
+Starting a New Game will erase previous saved Game. Continue?
+
+YES
+
+NO
+
+Movement
+
+Action
+
+Inventory
+
+Menu / Skip Cutscene
+
+W S A D
+
+ENTER
+
+E
+
+ESC
+
+Press ESC to return to menu
+
+Time:
+
+00
+
+Where to go?
+
+Main Carriage
+
+Bedding Carriage
+
+Luggage Carriage
+
+Front Carriage
+
+Are you sure you want to quit?
+
+Yes
+
+No
+
+Select Save File
+
+Auto Save
+
+Save State
+
+SELECT LANGUAGE
+
+English
+
+Select Chapter
+
+Flashlight
+
+Resume Game
+
+Sound
+
+Music
+
+GAME SETTINGS
+
+Dialogue
+
+Item Name
+
+Item Description
+
+....
+
+New Game
+新しいゲーム
+Continue
+継続する
+v1.00
+
+Stranga Games©
+
+Chapter Select
+
+ARatalaika
+
+Press 'B' to switch profile.
+
+Cancel
+
+Press any button to continue.
+
+Npc
+
+Noodle Lady
+
+Thearapist
+
+New character
+
+Nikuya
+
+Lady on the Wall
+
+Cean Lady
+
+Cyndil
+
+Landy
+
+Jimmy
+
+Laundry Lady
+
+Mudo
+
+Pepe
+
+Wiji
+
+Noodle Gashia
+
+Gus
+
+Stretch
+
+Verd
+
+Mom
+
+Sombria
+
+Boiler Key
+
+Blue Cup
+
+Battery
+
+Chopsticks
+
+Coat Hanger
+
+Bobby Pin
+
+Bloody Picture
+
+Doll
+
+Brain
+
+Therapy Key
+
+Red Tile
+
+Stranga Mask
+
+Knife
+
+Dead Fish
+
+A Red Spider Lily
+
+Wood
+
+Magnet
+
+Fishing Line
+
+Sewer Key
+
+Metal Pipe
+
+Power Cable
+
+Fishing Pole
+
+Apple
+
+Gate Key
+
+Bath House Key
+
+Candy Bar
+
+Mushroom
+
+Noodles
+
+Special Leaf
+
+Engine Keycard
+
+Luggage Keycard
+
+Screwdriver
+
+Shovel
+
+Mom's Heart
+
+Cigarettes
+
+$SAVEGAMEDIR$/MBSCS.dat
+
+$SAVEGAMEDIR$/version.txt
+
+1
+
+Spanish
+
+Español
+
+Portuguese
+
+Português
+
+French
+
+Français
+
+German
+
+Deutsch
+
+This game contains scenes of a graphic and disturbing nature, as well as inappropriate language.
+ゲームには不適切な言葉だけでなく、不快な性質のグラフィックやシーンも含まれています。
+Account Picker requested
+
+$SAVEGAMEDIR$/agssave.001
+
+There are no save files.
+
+1: A Bad Dream?
+
+2: Is this all real?
+
+3: Taken
+
+4: Escape?
+
+5: Of Blood and Water
+
+6: A Long Ride Home
+
+7: The Bus Stop
+
+8: Cold Rails
+
+9: Wake Up!
+
+10: Our Last Stop
+
+11: Break or Strengthen
+
+No hotspot
+
+Hotspot 1
+
+Hotspot 2
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+Stranga Splash
+
+Splash GTG
+
+Splash AGS
+
+THE MARKETPLACE
+
+I had that dream again
+
+It's like a broken record
+
+Going around and around
+
+But I know a way.
+
+One day...
+
+I will break it.
+
+Demo
+
+A BAD DREAM?
+
+And just like that...
+
+Our lives would change, forever.
+
+IS THIS ALL REAL?
+
+But I don't need any help!
+
+I'm fine! There's nothing wrong with me!
+
+It must be her fault! She did this to me!
+
+TAKEN
+
+Don't worry...
+
+Everything will be okay...
+
+We'll get through this...
+
+I promise.
+
+ESCAPE?
+
+W-What is happening to me?
+
+Why can't I just be "normal"?
+
+OF BLOOD AND WATER
+
+She should've had her life ruined! Not me!
+
+I don't deserve this, you do! 
+
+A LONG RIDE HOME
+
+Heh, ya know...
+
+this is kinda fun!
+
+We should do this more often...but it's a little late now.
+
+THE BUS STOP
+
+It's kinda creepy out here...
+
+but strangely farmilliar. I feel too comfortable.
+
+COLD RAILS
+
+We're almost home.
+
+I can feel it getting closer.
+
+But...
+
+What will happen once we reach home?
+
+Will everything go back to the way it was?
+
+...
+
+Will Luzia and I go back to the way we were?
+
+Will I lose my sister...
+
+Forever?
+
+WAKE UP...PLEASE?
+
+The tunnel of sorrows...
+
+It shows us our worst realities.
+
+I couldn't tell her the truth about what I saw.
+
+It'll haunt me forever.
+
+OUR LAST STOP
+
+Well...this is it...
+
+the end of the line.
+
+I'm glad we grew closer, together. 
+
+We're all counting on you, Luzia. 
+
+BREAK OR STRENGTHEN
+
+Home...just the way it was. 
+
+It's finally over.
+
+Or is it?
+
+The truth lies in the reflection of my name.
+
+HAPPILY EVER AFTER
+
+S-She did it.
+
+Thank you, Luzia! I love you so much! 
+
+Thank you, Luzia.
+
+We did it!
+
+SECRET END
+
+Early Access Checkpoint
+
+Stranga Games says: Thanks for playing!
+
+W-Wha? Where am I?
+ここはどこ？
+Wake up! 
+出られない...
+P-Please?
+なぜ私はここにいるのですか？
+Anybody?
+誰かいませんか？
+I-I need to find my way home!
+家に帰る必要があります。
+W-What are you doing here?
+あなたはここで何をしているの？
+I need your help, Luzia.
+私はあなたを助けたいです
+Not here! People will see you!
+ここではありません！人々はあなたを見つけるでしょう！
+B-But I...
+しかし、私 ...
+Just go away, Sombria! 
+私をほっといて！
+Luzia...
+...
+Just go!
+私をほっといて！
+Why can't she just leave me alone. 
+彼女が他の人に見られるのは危険すぎる。
+*Sigh* I'm sorry, Sombria.
+ごめん。
+We'll figure this out soon.
+家に帰る道を見つける必要がある
+I can't open it.
+
+The lock's broken.
+
+Hello!?
+
+Is anyone in there!?
+
+I guess not.
+
+It's a poster for a cola company.
+
+"Feel fresh! With our new buzz blast cola!"
+
+The bottle's stuck between her boobs.
+
+They're old animal cages.
+
+Yuck! The smell! 
+
+They must've dies in them... 
+
+the poor things. 
+
+Hey! What's that?
+
+A key!
+
+I can't reach it, my hands won't fit through the bars.
+
+I could use somthing smaller and longer to rach them. 
+
+A little closer...
+
+A ha! Gotcha!
+
+CoatHanger
+
+Now that's something I can use.
+
+A coathanger.
+
+There's nothing else useful in here.
+
+It's pretty dark down there.
+
+Wait!
+
+There's something shining down there...
+
+but I can't fit through the gap.
+
+I need something long and wirey to reach it. 
+
+Whoops! Almost dropped it!
+
+I can use this to reach that shiny thing.
+
+It's a small flashlight.
+
+I'll hang onto it, could be useful. 
+
+I don't need this coat hanger anymore.
+
+It's unlocked!
+
+You can keep the chopsticks darling.
+
+Thanks!
+ありがとうございました
+MmmNoodles
+
+Mmmm...
+...
+That smells delicious!
+おいしそう！
+Hello there, child. 
+こんにちは小さな女の子
+You seem lost?
+あなたは迷子になっていますか？
+Maybe, I don't know?
+わからない。
+I fell asleep...
+私は眠ってしまった
+when I woke up I was here.
+次に私が学んだことは、私がここで目が覚めたということでした
+Do you need anything, my darling?
+さて、何か必要な場合は、私に会いに来てください
+How about some of those tasty noodles!
+それらの麺のいくつかはどうですか
+I'm starving!
+私はお腹が空いています
+It's all yours.
+
+Here, try some.
+
+Mmmmmm, yum!
+
+ACH_YUMMY_NOODLES
+
+FishGuy
+
+Excuse me?
+
+Can you tell me where I am?
+
+Huh? Oh, you're in the downtown marketplace.
+
+Do you know how I can get home?
+
+Where are your parents?
+
+I-I'm not sure, I woke up here. 
+
+Maybe you should just wait here.
+
+I'm sure they'll return for you. 
+
+Ok, thanks. 
+
+Say, you haven't found a key, have you?
+
+I dropped it around here somewhere.
+
+Nope, sorry, Mister. 
+
+Just wait here.
+
+I'm sure they will find you.
+
+I-It's an air duct.
+
+Maybe I can crawl through. 
+
+It's pretty dark in there, though.
+
+I'll need some sort of light before I can go in there.
+
+Ok, that's better. 
+
+I hope this is the way home.
+
+Yes?
+
+I found your key, Mister!
+
+Huh? Oh, thank you! 
+
+I thought I'd never find it! 
+
+ACH_COMMON_COURTESY
+
+Empty
+
+Door
+
+Serving Window
+
+Poster
+
+Creates
+
+Cutscene
+
+Man
+
+Air Duct
+
+Locker
+
+Boiler Room
+
+Man Hole
+
+Neon Light
+
+Vent
+
+Smoke
+
+Fireplace
+
+ATruck
+
+Huh?
+
+What's going on?
+
+Wait a minute...
+
+That's not mom's car.
+
+Sombie's boyfriend maybe?
+
+Why does he own a moving truck?
+
+I wonder if they're making out in the back?
+
+SaveState
+
+A ha! Caught'ya! I could smell you a mile away!
+
+Oh great, the smoke police. 
+
+So, you gonna tell mom?
+
+No, as usual. 
+
+I can't sleep Sombie.
+
+I told you before, stop calling me that!
+
+Well, what do your friends call you?
+
+Somba. 
+
+Pfft! That's stupid.
+
+I like Sombie better. 
+
+It sounds like you're calling me a "zombie".
+
+Do I look like a zombie to you?
+
+Yeah, when your getting outta the shower. 
+
+Grr! Shut up, Luzia! 
+
+You look like a creepy doll!
+
+Yeah, but you can still cuddle a doll.
+
+I wouldn't want to cuddle a zombie. 
+
+*Sigh* So, why can't you sleep?
+
+I had that dream again....
+
+Again? Which one?
+
+The Chinese markets?
+
+Or that German singing alligator?
+
+*Sigh* Please...
+
+I was trying to forget about that one, that damed song. 
+
+It was the Chinese market one.
+
+You mean the one where I'm like this "ghost-like" thing? 
+
+Yep! 
+
+Doesn't that bother you at all?
+
+Why? It's your dream, after all.
+
+But you're dead. 
+
+It's just a dream Luzia.
+
+Whatever you say, Sombie...
+
+just don't say I didn't warn you. 
+
+You worry too much, besides...
+
+you better get back to bed, mom's gonna be home soon. 
+
+She'll get mad if you're up again.
+
+Besides, it's cold out here. 
+
+Ok, Ok, I'm going inside. 
+
+Good, see you inside. 
+
+Sommmmbieeee?
+
+BobbyPin
+
+What's this?
+
+A Bobby Pin.
+
+I used to pick Sombie's room with these. 
+
+Ewww, there's a hair on it. 
+
+WHy do I feel a sharp pain in my neck?
+
+Weird.
+
+Game Saved!
+
+Mailbox
+
+Truck
+
+Trash Can
+
+Dead Grass
+
+Save Point
+
+Chapter1
+
+The same freakin' dream! 
+それは同じ夢です！
+Grr! 
+毎晩！
+*Sigh*
+
+Perfect! 
+素晴らしい！
+Now I can't get back to sleep! 
+今は眠れない！
+Better see what Sombie's up to. 
+私の妹はどこですか
+Hopefully, I can go back to sleep.
+
+Ok...
+
+this is not working! 
+
+WHY CAN'T I SLEEP?!
+
+Oh, yeah! The lights! 
+
+Better turn them off. 
+
+Like duh. 
+
+That was quick, I didn't even leave the bed.
+
+Maybe a fuse or something? 
+
+I know I'm gonna to get in trouble for this...but what the hell.
+
+MOM! MOMMY! THE LIGHT'S BLEW UP! 
+
+M-Mom?
+
+I bet Sombie's just tryin' to scare me again. 
+
+SOMBIE! YOU'RE GONNA GET IT! 
+
+Sombria!?
+
+Fine, I guess I'll just go and fix the lights myself!
+
+I can't sleep.
+
+I hate that dream, so much...
+
+Although, those noodles do sound delicious!
+
+Only my mom's lucky screwdriver, which I don't need. 
+
+Why is it in here?
+
+Does he forget his tools every time he fixes something here?
+
+I always hated this picture.
+
+My bow is so crooked and everything. Where did I get it anyway?
+
+Geez, mom!
+
+I better stay out of her room, she'd kill me. 
+
+Even just peeking in. 
+
+Besides, it's locked
+
+Well, just a peek. She's not gonna mind.
+
+Who am I kidding? She's gonna kill me!
+
+Great! The boby pin broke anyway! 
+
+A photo?
+
+Who drew this? 
+
+I don't need to use it.
+
+My laptop needs to be charged.
+
+Y'know, I think I'll go for a glass of milk.
+
+That should help me sleep!
+
+Bed
+
+Computer
+
+Draw
+
+Picture
+
+Sombria's Room
+
+Downstairs
+
+SombriasBlood
+
+It's pretty dark outside.
+
+I'll watch TV a little later.
+
+I should really find Sombie. 
+
+GetToBed
+
+And just where do you think you're going?
+
+Hmm?
+
+Well, MOM! I'm just going to the kitchen to get a glass of milk!
+
+Is that okay with you?
+
+Typical eight year old.
+
+Uh, I'm twelve, dumb dumb!
+
+Whatever, just hurry up and get to bed!
+
+Mom's gonna be home any minute now, and you're gonna get it!
+
+Don't worry, I'll just tell her I was having a quick smoke before bed.
+
+GRR! JUST HURRY UP, LUZIA! 
+
+Ok, ok! 
+
+Yeesh!
+
+MomsHome
+
+You hear that?
+
+Sounds like mom pulling up in the driveway.
+
+You better get to bed, now!
+
+Oh shit! 
+
+Hey! Watch your language!
+
+Bed! Now!
+
+WhereIsSombria
+
+S-Sombie?
+
+If this is some sick joke, I'm telling mom!
+
+did you hear me!?
+
+I bet she wants me to follow that trail...
+
+but guess what, I'm not dumb enough to fall for that!
+
+She's hiding in the kitchen, I know it!
+
+Upstairs
+
+Window
+
+TV
+
+Kitchen
+
+Front Door
+
+NotHere
+
+Huh, she's not in here.
+
+Maybe she's hiding in the bathroom?
+
+It's a sink...
+
+I think they're neat.
+
+If anyone is listening to me right now, I'm using sarcasm!
+
+I would use this mug...
+
+but Sombie's been slobbering all over it.
+
+Yuck! Smells like cigarettes!
+
+Why has mom not noticed it yet?
+
+Haha! The toaster.
+
+I remember when Sombie caught her hands in here.
+
+Twice!
+
+In half an hour!
+
+Ha! She was trying to get her earring!
+
+What an idiot!
+
+I better not.
+
+It's dark enough already. 
+
+Sombie!
+
+Sombria! Open up!
+
+I know you're in there!
+
+Great, I'm gonna have to follow that trail.
+
+I don't need to go to the bathroom.
+
+Gee, I wonder why "assface" gets to stay up so late.
+
+She doesn't even do anything besides stink up the place and be annoying! 
+
+Maybe I should tell mom she's smoking.
+
+But then...she'd probably tell mom about the roach.
+
+I need to find a better home for it besides Sombie's underware draw. 
+
+It's probably cleaner than her uderware. 
+
+Anyways, I better get back to bed. 
+
+I can't believe mom has that stupid cat drawing.
+
+I did that when I was like, three!
+
+I should've drawn a tiger.
+
+Much cooler!
+
+Well, it's a picture after all.
+
+Somehow I don't think mom's gonna like it.
+
+Huh? The picture changed!
+
+There's a new marking on it.
+
+ACH_FINDING_SECRETS
+
+Living Room
+
+Bathroom
+
+Refridgerator
+
+Sink
+
+Mug
+
+Toaster
+
+Light Switch
+
+Somb...
+
+SOMBIE!
+
+L-Luzia?
+
+Y-You need t-to...
+
+Sombria, what happened?
+
+RUN LUZIA! RUN!
+
+Oh no!
+
+So, Luzia...
+
+what are we going to talk about today?
+
+*Shrugs* I dunno.
+
+How about we start with these reoccurring dreams?
+
+Would you like to talk to me about the last one you had?
+
+...No.
+
+Luzia, how can I help you if you're not going to open up to me?
+
+Can I ask you something?
+
+You can ask me anything, Luzia. 
+
+You were diagnosed with a rare but bizarre mental illness, Luzia. That's why you're-
+
+Why am I really here?
+
+All you want to talk about are my dreams...
+
+maybe, it's not the dreams or the illness...
+
+maybe, it's me.
+
+Your dreams drive your illness, Luzia.
+
+I think your sister's death is the key to your problem. 
+
+Sombie's not dead, though.
+
+Luzia, we've been through this. She's dead, you must accept it. 
+
+We need to make some sort of progress if we're going to make you feel better.
+
+F-Fine, I'll accept it then.
+
+Good, we finally made some progress. 
+
+You've finally come to accept your sister's- 
+
+Because they don't help, they make me forget about things.
+
+No, I accept that she is still alive. 
+
+We may have to reduce your dosage, you could be having hallucinations. 
+
+I'll prescribe you with something a little less-
+
+I haven't been taking them...
+
+for weeks now.
+
+You haven't been taking them?
+
+She is alive, it's true.
+
+Luzia, this may be hard for you to understand, but it was you who found her body...
+
+hanging, in her room. 
+
+You're lying! 
+
+The thing is...
+
+It's ok, Luzia. It's-
+
+Do you believe in the afterlife, Mr. Black?
+
+Hmm, what do you mean by that, Luzia?
+
+Like, ghosts, spirits? 
+
+Kinda.
+
+Ghosts can't touch you...hurt you.
+
+A poltergeist, maybe? 
+
+I don't know...
+
+do poltergeist eat?
+
+I don't see the need if they're already spirits of the dead.
+
+Then why does Sombie eat?
+
+Because she eats, a lot!
+
+And just what does she eat, Luzia?
+
+Noodles!
+
+Oh?
+
+Oh, and people!
+
+People? 
+
+Sometimes...
+
+only when she's mad. 
+
+Well, that settles it. I think you're going to have to start taking your medication again.
+
+Trust me, it'll help you, I promise. 
+
+It doesn't help, it makes things worse. I can't even remember the last time I saw you. 
+
+L-Let's try something, Luzia.
+
+An exercise, I want you to find something in this room, any object.
+
+It has to relate to how you feel right now. 
+
+Pick anything you want in this room and bring it to me. 
+
+Once you have an item, bring it to me.
+
+Please, just be careful with the items...
+
+I want to keep everything in its place.
+
+OK.
+
+There's nothing here.
+
+Ick, a brain... 
+
+I better take this, he'll think I'm smart or something. 
+
+DollChoice
+
+Hey! A doll!
+
+Maybe it's just me...
+
+but dolls creep me the heck out! 
+
+So you brought me the doll.
+
+Let's talk about that.
+
+Please, take a seat.
+
+So, why did you pick the doll?
+
+It's cute I guess?
+
+In a creepy sorta way. 
+
+Hmm, I can assure you it means more than just "cute".
+
+This to me, means vulnerability... 
+
+are you feeling fragile, Luzia?
+
+Fragile? What's that supposed to mean?
+
+Did your sister ever "hurt" you, or "touch" you in any wa-
+
+What?! No! 
+
+My mom would never do such a thing!
+
+Besides, mom's never home, she's always working. 
+
+She's a nurse, so she works late. 
+
+What about your sister?
+
+I told you before, I don't have one. 
+
+First it's my mom, and now it's my sister?
+
+Well, Luzia, you did pick the doll. 
+
+I picked it because it was cute. I like dolls! 
+
+Not because I'm vulnerable.
+
+You're holding back, Luzia. 
+
+It's ok to tell me, I want to help you. 
+
+*Sigh* There is one thing...
+
+but I really don't like to talk about it.
+
+I-I watched my sister...die.
+
+Touch you? I knew it! 
+
+I knew you had already come to terms with your sister's death.
+
+No, she didn't "touch" me, she...
+
+did hurt me. 
+
+This is still a breakthrough! How did she hurt you?
+
+She...she said I was adopted. That we're not really sisters...
+
+and mom is not really my mom.
+
+Is that all?!
+
+Sombie! Come on! Show yourself!
+
+Just show yourself!
+
+Luzia, I think we're done here today. 
+
+...please...
+
+I'll have the receptionist book your next appointment and please, take your medication. 
+
+See the lady at the desk on your way out.
+
+ACH_DOLL
+
+Hmm, the brain.
+
+Interesting. 
+
+Why did you pick this?
+
+Because I'm smart! 
+
+It's also all pink and squishy! 
+
+To me it means intellectuality. 
+
+You seem like a smart girl, Luzia. 
+
+Sombie thought so too...
+
+a "smart ass".
+
+*I can see why*
+
+Tell me something, if you're a smart girl...
+
+why do you still insist your sister is still alive?
+
+I-I...
+
+look, I don't want to talk about her anymore. 
+
+We still have another twenty minutes left, Luzia. 
+
+I said, no more. 
+
+Don't do this again, don't waste my time, Luzia.
+
+Remember what happened the last time you did?
+
+...Yes.
+
+Now, can we please get back to your sister-
+
+You can't do that to me anymore. 
+
+D-Do what?
+
+Hurt me...
+
+W-What are you talking about? I don't hurt-
+
+...Touch me.
+
+How dare you! I would never-
+
+The medication helps me forget...remember?
+
+L-Luzia? What's happened to your voice?
+
+I don't think he get's it, Luzia. 
+
+I think it's time we show him... 
+
+what it means to feel "alive".
+
+G-Get the hell away from me! 
+
+I'm sorry, Mr. Black...
+
+I really am.
+
+W-What's that sound?
+
+W_WHAT IS THAT THING! 
+
+That? 
+
+That is Sombria. 
+
+IMPOSSIBLE! 
+
+Told ya so! 
+
+STAY AWAY, PLEASE!
+
+See, she's alive. 
+
+Now do you believe me?
+
+Well? W-Wait! Sombie! 
+
+NO! STAY AWAY!
+
+Sombie! What the heck?! I only meant scare him! 
+
+You may as well have licked the chair clean!
+
+No blood or anything!
+
+Hee wass hurrrrtinnnng youuu, Luzzzzia. 
+
+Please don't put the voice on, it's stupid. 
+
+You're not scary, Sombie. 
+
+Sorry, but I can't stand it! This body aches, I'm always hungry, and the pain...is excruciating! 
+
+I can't live like this.
+
+You're fine, Sombie.
+
+Don't put yourself down.
+
+Do I look fine to you? I'm a hideous creature! 
+
+I don't know if I'm dead or alive?
+
+Well, at least you're out of your room finally.
+
+THIS ISN'T FUNNY! 
+
+Well, it's better than being depressed?
+
+You wouldn't know a thing about being depressed, Luzia! 
+
+Y-You're right, I-I'm sorry, Sombie.
+
+I want to help you. 
+
+You can't, Luzia...
+
+no one can.
+
+Well, I'm here if you want any help.
+
+That's what sisters are for.
+
+Wow Luzia, I can't believe you just said that.
+
+Thanks.
+
+It's okay.
+
+Let's go home.
+
+Uh...O-Okay?
+
+ACH_BRAIN
+
+Find something in this room and bring it to me.
+
+Toys
+
+Brain Statue
+
+Desk Drawer
+
+Couch
+
+Reception
+
+There's nothing interesting in here.
+
+That's strange...
+
+There's no one in there.
+
+Just a bunch of sporting magazines.
+
+NoodleLadyWaitingRoom
+
+The door's locked?
+
+What the hell's going on?
+
+Oh, that's a shame.
+
+Wait a minute?
+
+What are you doing here?
+
+Just like everyone else.
+
+I've got some issues I need sorting.
+
+What about you darling?
+
+Taking your sister out for lunch?
+
+Don't you have noodles to sell or something?
+
+Don't you have a sister that needs you?
+
+There's nothing else I can do for her. 
+
+She doesn't want my help, anyway. 
+
+That's what they all say.
+
+What do you mean?
+
+Do you think she want's you to ask you for your help?
+
+Heh, but what do I know? 
+
+I'm just an old Lady, after all. 
+
+But you said it yourself...
+
+she can't be changed back.
+
+That doesn't mean she can't be helped...
+
+put yourself in her position, then tell me how you feel.
+
+Then tell me how you would feel?
+
+That word Sombie said before...
+
+depressed.
+
+Gosh!
+
+I don't know why you're seeing this fool! 
+
+I should start my own clinic, and get out of noodles.
+
+Is there a way to get out of here?
+
+I need to help Sombria.
+
+You're twelve, you're better figuring this out than me! 
+
+You're better at figuring this stuff out than me.
+
+Besides, the key to your problem is better off flushed away.
+
+Great, now I can get outta here.
+
+Feeling sick my darling?
+
+You took your time in there.
+
+I-It must have been something I ate for lunch.
+
+Okay dear, see you next time.
+
+I hope I don't see "you" anymore.
+
+It's just a bunch of brochures for holiday parks.
+
+Hey! This place doesn't look too bad.
+
+Dayfield Motel.
+
+It's got a western cowboy sorta vibe.
+
+Sounds like a nice place for a vacation.
+
+ACH_JIT_REFERENCE
+
+Thearapists Room
+
+Magazines
+
+Receptionist
+
+Garbage
+
+Exit
+
+Brochures
+
+No, No, NO!
+
+The door's locked!
+
+Oh, it's just you.
+
+Hey, Sombie...
+
+what I said back there, I didn't really mean it. 
+
+I'm just trying to make you happ-
+
+ACH_APOLOGY
+
+Wait, why didn't you show yourself to him!?
+
+He think's I'm crazy! 
+
+It's not all just about you, ya'know-
+
+Wait?
+
+Why do you look like that?
+
+Why is this happening, Luzia?!
+
+YOU RUINED MY LIFE!
+
+I wish you were never born!
+
+S-Sombie, I'm really sorr-
+
+GO TO HELL, LUZIA!
+
+I WISH YOU WERE CURSED, JUST LIKE ME!
+
+...maybe you're right Sombie. 
+
+I should have been the one that was cursed. 
+
+Well, it's too late, little sister. 
+
+You can't change your mistakes.
+
+...she's right. 
+
+She's getting worse by the day...
+
+and I keep making it worse...
+
+don't worry, Sombria.
+
+I will fix this, I promise. 
+
+Is that the door?
+
+TherpyKey
+
+Why is there a hand coming out of the toilet?
+
+It holding a key...
+
+you've got to be kidding me. 
+
+I remember my cousin, Mark said he was eaten by a toilet once...
+
+he's weird. Still... 
+
+that does sound quite terrifying. 
+
+I'll wash my hands later.
+
+Toilet
+
+Garbage Can
+
+So, where are we going?
+
+Well?
+
+I don't know, Luzia! 
+
+How can you be so calm about this?!
+
+Easy, this has to be a prank!
+
+A prank? You think this is a prank, Luzia?!
+
+WE'RE BEING KIDNAPPED! 
+
+When is that going to sink into that stupid little head of yours?!
+
+Well, what are we going to do about it, then?
+
+The door's locked...
+
+there's no way out. 
+
+Huh? Well that's not good.
+
+Still so chirpy, I don't get you at all. 
+
+Only thing to do is see where they take us. 
+
+Who's ''they''?
+
+I don't know, they were wearing masks.
+
+I thought I saw...
+
+an old-
+
+Hey! Do you hear that?
+
+It sounds like a parade?
+
+Where are we?
+
+It sounds like...
+
+Little Asia!
+
+Little Asia?
+
+Yeah, I can hear the Asian music! 
+
+Weird thing is we don't have any Asian towns near us?
+
+We must be in Little Tokyo.
+
+I don't know. 
+
+Anyway, we need a plan for when that door opens.
+
+I'll kick the guy that opens it and then we make a run for it, ok?
+
+That's a stupid plan, it'll never work. 
+
+Oh, and why not?
+
+Well, in the movies...
+
+the kidnapped people usually fall asleep before they arrive.
+
+In the movies?
+
+Yes, the movies. 
+
+You think this is a movie?!
+
+*Sigh* It'll work, trust me. 
+
+If you say so, sis. 
+
+Okay, let's get ready.
+
+Hopefully, we'll be arriving soon. 
+
+FirstEnter
+
+Well...
+
+it's about time you showed up. 
+
+Hopefully you girls had a smooth ride?
+
+I deeply apologize for the rough transportation... 
+
+You're both probably wanting an explanation for all of this?
+
+Actually, I wanna know why you're naked?
+
+Well, aren't you the mischievous one.
+
+Welcome, to my bathhouse. 
+
+We're fine, thanks. 
+
+I wanna go swimming! 
+
+Shut up, Luzia! Now is definitely not the time to go-
+
+Oh! But where are my manners?
+
+I am Ashina... 
+
+But everybody calls me The Red Witch.
+
+A witch?
+
+Like, pointy hat, warts and, black cats?
+
+Heh, sort of.
+
+Your Luzia, right?
+
+I've heard a lot about you, we're not so different you and I. 
+
+What do you want with us?
+
+Why did you bring us here?
+
+Skipping introductions? 
+
+Very well. 
+
+I only wanted you, Sombria...
+
+Your sister was a bonus that idiot brought along.
+
+What! Why!?
+
+Thing is, you have something that I want, that I need. 
+
+You see, when we can't have what we want in life, we take it.  
+
+And all I wanted was a pair of legs...
+
+A pair of long, beautiful, luscious legs.
+
+To attract the man of my dreams.
+
+I couldn't have what I wanted...
+
+well, not in this world. 
+
+To get what I desired was to make a sacrifice...
+
+I took the legs from my sister, ripped them off of her waist! 
+
+She had all the perfections any girl would ever dream of! 
+
+Especially those long, silky, luscious legs.
+
+but at a cost.
+
+This, this is my prize for my sacrifice! 
+
+As you can see...
+
+this is my curse. 
+
+No way!
+
+W-What do you want with me?
+
+We look very much alike, you and I.
+
+It's uncanny how much we resemble one another...
+
+we are almost, identical.
+
+I would like to offer you a trade...
+
+my body, for yours.
+
+W-What?! No! 
+
+This all could be yours, the bathhouse, the fame, the riches...all of it. Anything you wish.  
+
+She ain't gettin' your stilts, lady!
+
+You better let us go-
+
+Wait, did you say "anything"?
+
+LUZIA!
+
+Sombie, ask for a pony, quickly! 
+
+just ask for a really tall one! 
+
+Ha Ha! Sombria, I love your little sister!
+
+What a sense of humor! 
+
+LUZIA, STOP IT!
+
+Ok, then forget about it, lady! 
+
+Heh, it was just an offer, sweetie. 
+
+And you're more than welcome to say no Sombria.
+
+Then why did you kidnap us?
+
+Funny, I don't remember asking for you to be kidnapped?
+
+I'll make sure to punish whoever did that to you. 
+
+Oh, and Sombria...
+
+think about my offer. 
+
+I don't want to think about it!
+
+I just want us to go home!
+
+Then, let's got you both home.
+
+I'll arrange a ride back for both of you, but in the mean time...
+
+feel free to enjoy the buffet, you must be hungry. 
+
+You got a buffet?!
+
+All you can eat.
+
+Ok, I'm sold.
+
+C'mon, Sombie! Let's go chow down! 
+
+If only you girls knew...
+
+Did I say you could come in? 
+
+Surely a mother can visit her daughter?
+
+You are no mother of mine.
+
+You gave me this wretched curse, and destroyed Tena's-
+
+And you took my daughters for greed over some stupid man. 
+
+â€¦why are you here?
+
+Just a friendly word of caution.
+
+What?
+
+Beware of the child. 
+
+She bares the mark of Roh-
+
+I know who she is! 
+
+She's too innocent to cause any trouble. 
+
+ACH_JUST_A_LITTLE_GIRL
+
+That is her speciality my daughter.
+
+Well, you thought wrong, you old crone. 
+
+Once I have Sombria's body, your wretched curse will be no more!  
+
+I will finally be free.
+
+*Tisk, tisk* My poor daughter, I'm sorry...
+
+but you will never be free, just like your friend, Tanto. 
+
+Now what?
+
+Great! The passage is shut! 
+
+I guess, I can't look in here. 
+
+It looks like there's something missing where the eyes should be.
+
+Hallway
+
+Tiled Wall
+
+SombieCutscene
+
+Where is everybody?
+
+Where's the all you can eat buffet?
+
+Luzia, please, shut up! 
+
+I'm not in the mood to eat. 
+
+I'm always hungry.
+
+I know you are.
+
+I can't just stand here with an empty stomach!
+
+I'm gonna go snoop around.
+
+No, you stay right here! 
+
+Sorry ''mom'', I can't do that.
+
+I wont go too far, ok?
+
+*Sigh* You're not going to listen to me anyway.
+
+I'll bring you back a donut or something.
+
+Hey Sombie!
+
+What Luzia?
+
+Can I have one of your hair pins?
+
+Why?
+
+My fringe is loose.
+
+It looks fine to me. 
+
+My back fringe, duh.
+
+Whatever. Here, just leave me alone for a while. 
+
+That lady was freaky!
+
+Not now, Luzia. 
+
+If she was a spider, she'd be called a mommy Long Legs!
+
+ENOUGH, LUZIA!
+
+I am not in the mood for this right now. 
+
+Pfft, fine. Hey, Sombie-
+
+STOP CALLING ME THAT! 
+
+Ok, yeash! Sorry! 
+
+I didn't mean to make you upset.
+
+...No it's okay. *Sigh*
+
+I just want to go home. 
+
+There's a small hole in the wall.
+
+I wonder what's in there?
+
+Hmm, nothing.
+
+Bummer.
+
+RedTile
+
+Hey! What's this?
+
+DeadFish
+
+It's a dead fish.
+
+Poor little guy.
+
+You should be in a frying pan with your buddies. 
+
+Maybe I can find you one. 
+
+Water goes on, water goes off.
+
+Yep, that's a sink alright.
+
+ACH_SINK
+
+Crack in the wall.
+
+Storage Room
+
+Fountain
+
+Strange...
+
+this picture is different. 
+
+Woah! This wall is made out of paper?
+
+I can't, I have to see that butcher guy. 
+
+I'm sorry wall, but this is for your own good.
+
+Dun, Dun, Dun!
+
+Now that looks pretty creepy. 
+
+There's something written here.
+
+For far too long have I been chained to these filth covered walls, like some sort of animal. You will all choke on the thick blood of your selfishness! 
+
+LadyFace
+
+Buffet
+
+Bathing Room
+
+Change Room
+
+Hollow Wall
+
+Bloody Message
+
+HangInThere
+
+Oh good.
+
+It's still here.
+
+About time you showed up!
+
+Can you let me down? I need to reattach myself! 
+
+Sorry I took so long.
+
+*Sigh* Hey, look kid...
+
+sorry about before, got a little tied up in my emotions. 
+
+You're so sweet for a man with no face.
+
+Don't make me blush, really, I'll kill ya. Oh! before I forget, I got you something. 
+
+It's on the bench over there. 
+
+It's not much.
+
+MeetTheButcher
+
+What does this look like? Child care center? NO KIDS! 
+
+Ha! I knew it! 
+
+So there are people working here... 
+
+and about time too, I'm starving!
+
+You got rocks in that little head of yours? Didn't you hear me say "No kids allowed in my kitchen"!? 
+
+I did, but I'm a delinquent.
+
+So, who are you?
+
+*Sigh* This is why I hate kids.
+
+My name is Nikuya, but the witch calls me ''The Butcher''.
+
+I thought you were the chef?
+
+I don't cook, well, not anymore.
+
+Everything here is raw.
+
+Oh, like sushi?
+
+*Sigh* NO, not like sushi!
+
+Do you know what witches eat?
+
+I think my mom read me a book on that.
+
+they eat gingerbread houses.
+
+Kid, look, this isn't exactly a safe place for you to be in. 
+
+People, especially humans, go missing round here...
+
+just be careful. 
+
+Gotcha...
+
+but is there anything to eat around here?
+
+*Goddammit* Look! I'll try and find you a candy bar or something, happy?!
+
+Just don't touch anything!
+
+ok.
+
+HangingButcher
+
+Oh...
+
+H-Hello Mr. Butcher.
+
+Wait, that's the-
+
+THE WITCH'S HEAD!
+
+Huh? It's on your body?
+
+Choppy
+
+Yes! Some delecious noodles! 
+
+I knew there was something to eat around here.
+
+Although, I don't think roaches were in the recipe...
+
+I'll just take the chopsticks, yuck.
+
+It's locked.
+
+Hey a freezer!
+
+The door's locked.
+
+I'd hate to get locked in there.
+
+Excuse me, Mr. Butcher. 
+
+Have you met the lady on the wall? 
+
+Wait! How do you know about her?!
+
+I used the knife you gave me to cut a hole in the wallpaper.
+
+*Sigh*Why do I always end up in stupid-
+
+I should've just gutter her like a fish...
+
+but no, I gave her the damn knife! I could been somewhere far away from this shi-
+
+*Sigh* Listen kid, stay away from her...
+
+she's nothing but trouble. 
+
+Too late, Mr. Butcher.
+
+*Sigh*Well, last time I played her little game she wanted an object or something?
+
+Can't you just tell me how to get outta here?
+
+What if the witch finds out? You're not the only one who'll be gutted...again. 
+
+Just do what the lady wants, she can take the blame. 
+
+If you wanna know more about the item to give her just bring it to me first. 
+
+I can shed some info on it for you. 
+
+Thanks, oh, and by the way...
+
+where's your face?
+
+It's in my car, why? 
+
+I think you're lying. 
+
+Everyone should have a face!
+
+Do I need one? 
+
+I'm not even human.
+
+Then, what are you?
+
+Kid, you ask way too many questions. 
+
+Well, how about one more?
+
+Can I have that big, sharp knife?
+
+A little girl with a big knife?
+
+I just got a chill down my spine, and I don't even have one. 
+
+Oh, right, no. It's mine
+
+Can't have everything we want, sorry. 
+
+Just like me. 
+
+Well, what do you want? A face?
+
+I wouldn't say no to one, could use a face lift. 
+
+Hey! Mr. Butcher!
+
+I have a surprise for you!
+
+I found you a face!
+
+Really? Who'd you steal it off? 
+
+You didn't cut someone's face-
+
+Ta da!
+
+Oh...a mask. 
+
+So, what do you think?
+
+Honestly, it doesn't look half bad!
+
+Thanks kid!
+
+So, can I have that knife now?
+
+Sure, go nuts! 
+
+Just be responsible with it...
+
+you don't wanna go round killin' anyone with it or anything. 
+
+Can you tell me a little more about this item?
+
+Uh, I already know that.
+
+Looks like my lunch, a dead traditional koi fish. 
+
+A very dead traditional koi fish. 
+
+I found it on the counter in the buffet. 
+
+Yep, that was my lunch. 
+
+Gross.
+
+ACH_WHAT_IS_THIS
+
+Hey! Be careful with that!
+
+Do you have any idea what that is?
+
+A flower?
+
+Pfft! "Flower".
+
+That's a spider lily, it resembles death, 
+
+Cool name, but why is so dangerous?
+
+It's used to kill spirits and demons in the afterlife... 
+
+and I've died far too many times to be touched by that thing for my liking. 
+
+Whoa! Is death painful?
+
+Is death painful?
+
+*Sigh* I just found something even more painful. 
+
+Well wadda ya know!
+
+A pair of chopsticks?
+
+Apart from them being very useful with cooking and eating, they are basically just to sticks. 
+
+Satisfied? 
+
+No.
+
+Great! Now leave me alone! 
+
+Well, aren't you the life of the party. 
+
+PulllTheKnife
+
+There's a knife in your neck...
+
+it looks pretty painful.
+
+Hold still and I'll pull it out for ya.
+
+Mhmphmphpmhp.
+
+Huh? What was that?
+
+Just let me pull out the knife...
+
+then I'll let you down. 
+
+Ughh, gross! 
+
+MHMPHMPHPHPM!!!
+
+There we go!
+
+What have I done?!
+
+I'VE KILLED HIM!
+
+Wait, he's alive?!
+
+H-Han.Mphp...Ah! Finally!
+
+I've been trying to pry open her lips so I can talk...
+
+and now that I can...
+
+WHY THE HELL DID YOU DO THAT FOR!!?
+
+I can't believe you're still alive!
+
+As I said be for, I'm already dead! 
+
+NOW I'M JUST A HEAD! YOU LITTLE DIP-
+
+Sorry about that, but what the hell happened here?
+
+*Sigh* ...She did this.
+
+the lady who's not so on the wall. 
+
+She broke free. 
+
+How? 
+
+Listen kid, there's no time to waste...
+
+she's after someone named Sombria. 
+
+That's my sister!
+
+Find her and get out while you still can! 
+
+She will kill you both if you stay here. 
+
+But I need that head you're wearing!
+
+Listen kid, just get out! She is coming for you! 
+
+Look, I'm going to find Sombria...
+
+just hang in there, and try not to lose your head- I mean her head! 
+
+What is that? Some kind of headless joke?
+
+*yes, I remember*
+
+Oh! A candy bar! 
+
+ACH_I_WANT_CANDY
+
+Loading Door
+
+Freezer
+
+Butcher
+
+Hanging Butcher
+
+I don't need a shower right now.
+
+I don't smell that bad, don't I?
+
+It's a sauna.
+
+I can't see through the glass. 
+
+It's locked but...
+
+There's something shiny in there.
+
+If only I had someway of picking the lock? 
+
+A hair pin, perhaps?
+
+There's nothing else in here.
+
+Okay, this should work.
+
+There! I got it!
+
+Whoops, the hairpin broke...
+
+sorry, Sombie. 
+
+Hey! What's this? 
+
+A mask?
+
+It looks kinda creepy. 
+
+CutYourself
+
+Sombie! Where the hell have you been!?
+
+I was looking everywhere for you!
+
+Luzia, there's no time.
+
+I need you to stand in the other circle now!
+
+Why? What's going on?
+
+You need to do exactly what I tell you.
+
+Go now!
+
+You need to cut your hand and draw blood! 
+
+Spill it in the circle! 
+
+ARE YOU INSANE!?
+
+She's attracted to blood!
+
+WHY DO WE WANT TO ATTRACT HER FOR!?
+
+SHE IS GOING TO EAT US!
+
+Luzia, you need to trust me!
+
+Use something to cut yourself!
+
+Luzia, hurry! Get in the other circle! 
+
+UseKnife
+
+Just close your eyes and...
+
+Ahhhh!
+
+N-Now what?!
+
+Just wait. 
+
+I know you're in here! I can smell you! 
+
+Oh, hiding in the sauna are we?
+
+I'm surprised you can fit in there with those long legs!
+
+Wait! WHAT IS THIS?!
+
+A trap!? You fool!
+
+That won't stop me ripping the legs off you!
+
+So now wha-
+
+Shh! 
+
+Just go get the head and lets get the heck outta here. 
+
+I don't know how long this trap will hold.
+
+Just lock the door.
+
+You can't from the outside.
+
+Who's there? 
+
+I can hear talking out there.
+
+Pipe down in there, freak! 
+
+Wait, Luzia? 
+
+You two met?
+
+Uh oh. 
+
+Luzia, go get the head now!
+
+We'll meet back at the noodle lady's house! 
+
+Shower
+
+Saurner
+
+Lockers
+
+Strange locker
+
+Circle Center
+
+UseFlashlight
+
+It's still pretty dark in here.
+
+Where's my flashlight?
+
+Oh, here! In my pocket!
+
+LadyOnTheWall
+
+Gross...
+
+And really creepy.
+
+D-Did you say something, my dear?
+
+W-Wah? No way!
+
+It's alive?
+
+It? 
+
+I-U, uh- 
+
+"It" is not my name...
+
+I am known as "The Lady On The Wall".
+
+And whom do I have the pleasure of meeting?
+
+What is your name, my dear?
+
+I-It's Luzia.
+
+Hmm, strange name for a young girl.
+
+My mom said it's a bright name.
+
+Such a dark place to be in for one with such a..."bright" name. 
+
+Tell me Luzia, why are you here?
+
+We were kidnapped by the witch in the bath and-
+
+We?
+
+There's someone with you?
+
+Yeah, my sister, Sombria.
+
+Heh...
+
+How ironic, the opposites. Light and Dark. 
+
+Tell me, did the witch make either of you an offer?
+
+Well, not to me...
+
+she did to Sombie though. 
+
+I knew it! Trying to escape your wretched curse now, are you?
+
+I don't think so, we're just waiting for our ride home.
+
+She's not letting you leave, Luzia...
+
+but I may be able to help you, both. 
+
+Okay, how?
+
+I'll make you a deal...
+
+You bring me something that I wan't. and I'll tell you how to escape, deal?
+
+Okay, that sounds fair.
+
+However, if you bring me something that I don't want...
+
+then you will nourish my withing body with yours, deal?
+
+Wait, what?! No way, lady! 
+
+I could just eat you now? Save me the rouble of waiting. 
+
+But I'm feeling generous today, so, bring me something of...
+
+Usefulness.
+
+Death.
+
+Tradition.
+
+Oh, would you look at that!
+
+Such a lifeless, greasy body. A dead fish...
+
+Looks like you made the right choice. 
+
+I shall help you, but just this once. 
+
+You need to find the secret passage somewhere in the bathing room.
+
+You'll need this tile plus one other to activate the passage.
+
+You should hurry if you want to save your sister...
+
+and...I'm also getting quite hungry.
+
+*Tisk,tisk* You dissapoint me, Luzia. 
+
+But you won't dissapoint me stomach.
+
+Such a deadly flower, such beauty. 
+
+The table is broken.
+
+ACH_LADY_ON_THE_WALL
+
+ShesGone
+
+Hey! S-She's...gone!
+
+Not good!
+
+Wait, what's this?
+
+You...took my legs, my looks, my...life. I will never forgive you for what you have done to me! You shall all choke on your thick greedy blood. 
+
+I need to warn Sombie.
+
+Table
+
+BloodWater
+
+Oh my gosh!
+
+What the hell happened here?
+
+We were literally gone for a few hours...
+
+w-who did this?
+
+but I have a feeling we're about to find out. 
+
+So, where is the head?
+
+I think it's in the secret bathroom.
+
+I'll go check there, you look around here. 
+
+We'll meet up in the sauna room if anything happens. 
+
+Be careful.
+
+How does she vanish like that?
+
+So cool!
+
+FlashlightDrawer
+
+I don't think anyone would mind me looking.
+
+A flashlight? 
+
+This should come in handy.
+
+SpiderLily
+
+Hey, what's this?
+
+It smells lovely.
+
+Even though a wicked witch runs this place...
+
+she still finds the time to recycle. 
+
+Great! We're locked in.
+
+Maybe there's another way out.
+
+I can't leave now.
+
+Not without the head.
+
+RedWitch
+
+Luzia, I'm glad you could join us. 
+
+Wait! Stop!
+
+You let her go!
+
+LUZIA! JUST RUN! GET OUT OF HERE!
+
+You're not going anywhere. 
+
+I need you both for my plan of redemption! 
+
+I'm not leaving without my sister!
+
+Luzia, I love your bravery.
+
+But seriously, what are you going to do?
+
+Something you wouldn't like.
+
+Maybe something like this?
+
+*Gasp* SOMBRIA!!!
+
+Whoops, sorry Luzia.
+
+But she's mine now.
+
+WHAT DID YOU DO TO SOMBRIA!
+
+Something that was done to me, a long time ago.
+
+I will fuse my spirit with hers and leave this forsaken world! 
+
+You will stay here with the others. 
+
+CHANGE HER BACK!
+
+There's no going back! I am tired of having to live in those cold salty waters for too long! 
+
+She is no longer your sister, Luzia!
+
+You're wrong...
+
+Luzia! Hurry!
+
+We can escape through this pipe in the water. 
+
+MovePlayer
+
+SewerIntro
+
+Sombie...
+
+W-What has she done to you?
+
+You look, different-
+
+I KNOW, LUZIA!
+
+I-I, know.
+
+I'm sorry, I didn't mean to-
+
+Please, just don't say anything right now...
+
+leave me alone. 
+
+But you always want to be alone!
+
+Well, I can't be alone when you're around!
+
+Why is this happening to me?
+
+What did I do to deserve this?
+
+This must be the way out of here.
+
+But it's locked.
+
+I'll have to find a key.
+
+Just because I'm dry, doesn't mean I want to jump back in.
+
+More dead animal cages floating in there. 
+
+There's a door on the other side.
+
+I don't think I can jump that gap. 
+
+Maybe, I could make a bridge.
+
+I hope this holds.
+
+I don't want to get wet again.
+
+Eww gross!
+
+Sewer water, yuck! 
+
+Hey! There's something shiny in there.
+
+Hmm, I ain't sticking my hand in there. 
+
+I'll need to fish it out somehow. 
+
+FindMetalPole
+
+Hopefully that shiny thing is made out of metal. 
+
+Well, it worked!
+
+It's a metal pipe.
+
+Maybe I can find a use for it.
+
+I could use this plank of wood to make a bridge. 
+
+It looks pretty old though. 
+
+I just hope it doesn't break.
+
+There's nothing else in there.
+
+There's something glimmering in there...
+
+but I ain't sticking my hand in to find out. 
+
+I'll need something long to reach it. 
+
+FindString
+
+This'll save me using my hand.
+
+Some fishing line? 
+
+What kind of fish would you catch down here?
+
+Okay, let's make a fishing pole.
+
+There's some sort of metal cable floating in the water.
+
+I could fish it out if I had a fishing pole.
+
+I still can't reach it with the pole...
+
+but I could make a fishing pole if I had some string...
+
+and a hook. 
+
+SewerKey
+
+There you are! Mr. Gate Key! 
+
+Let's get out of here.
+
+Sombie! I found the key to the gate.
+
+We can get outta here!
+
+Just go without me, Luzia...
+
+leave me here. 
+
+Pfft, I knew you were going to say that!
+
+Look Sombie, I don't know what the witch lady did to you...
+
+but we can fix it, we can't just give up.
+
+There must be a way to change you back!
+
+I-I don't know, Luzia. 
+
+You won't unless you try, Sombie. 
+
+But the witch, she's dead... 
+
+how are we going to change me back?
+
+Maybe someone else knows? Lets go ask around! 
+
+Ok, and thanks, Luzia. 
+
+I should say it a lot more but it's hard, y'know? 
+
+It's fine, Sombie.
+
+Let's get going!
+
+Gate
+
+Ladder
+
+Gap
+
+WaterPipe
+
+Pile of Wood
+
+Control Room
+
+Key
+
+Hole
+
+Fishing Spot
+
+WaterEmpty
+
+oKey
+
+Hmm, there must be a key in here somewhere?
+
+I'll fix this, Sombie. 
+
+I don't need to use this anymore.
+
+What does this thing do?
+
+Water drainage? 
+
+There's no power. 
+
+UsePowerCable
+
+Let's power this baby up! 
+
+What's that sound?
+
+GetMagnet
+
+Hey, now we're talking!
+
+Cool magnet!
+
+Main Sewer
+
+Shelves
+
+Ok, lets go find someone who can help you. 
+
+I-I don't think it would be a good idea that people would see me like this. 
+
+Pfft! You look fine, Sombie. 
+
+I don't know, Luzia. 
+
+*Sigh!* Fine...
+
+you stay here, I'll come get you when I find someone that can help you. 
+
+I really don't wanna go back in there...
+
+but I need to help Sombie. 
+
+I should look around for some answers first. 
+
+Mmm smells delicious!
+
+How much for a bowl of noodles?
+
+3 coins a bowl! 
+
+Would you like some?
+
+Sorry, but I wish I had some money...
+
+I'm so hungry. 
+
+Sorry, little lady! 
+
+No dough, no noodles! 
+
+Who you callin' little?!
+
+You're shorter than me! 
+
+So cliché.
+
+It's a laundromat.
+
+I could use some clean clothes right about now.
+
+Explaination
+
+I'm looking for someone who can help my-
+
+Sorry, little one. I'm really busy with this mess. 
+
+Do you know anyone who can help me? 
+
+I think my sister is cursed.
+
+Hmm, you should find Yoko. 
+
+She's an expert on such things. 
+
+Yoko?
+
+Where can I find her?
+
+Well, my friend usually sees her in the laundromat, washing her blankets. 
+
+But for some reason, some wise-ass locked the gate to the laundromat and has the key. 
+
+Explaination2
+
+What's wrong with your sister?
+
+I think she's sick?
+
+Oh my, that's not good. 
+
+What kind of sickness does she have?
+
+Something that makes you pale, with really long arms-
+
+That sounds more like a curse to me.
+
+I thought so. 
+
+You didn't meet a witch by chance? Did you?
+
+Maybe.
+
+Well, the only person I know that could help you is Yoko. 
+
+She's also known as the "Noodle Lady".
+
+Noodle lady?
+
+Yeah, she's like an expert on curses n' stuff.
+
+So where can I find her?
+
+She's usually in the laundromat, washing her underwear. 
+
+Really? I need to was my undies too! 
+
+Probably the rest of my clothes too. 
+
+No offence, but you smell like you need a wash in general.
+
+Where have you been? Ugh! 
+
+It's not like I went swimming in a sewer or anything.
+
+Did you?
+
+That's gross! 
+
+Ok, seeya! 
+
+Find the noodle lady. 
+
+She can help your sister.
+
+Great, it's locked!
+
+Maybe someone here has a key?
+
+FindMeAnApple
+
+Excuse me!
+
+Could you help me and my sister out?
+
+Can you help me out? 
+
+This bozo won't give me any more fried fish, and I'm starving! 
+
+If you eat anymore, you'll put me out of business!
+
+You're worse than that Tanto guy! 
+
+Look, mister...
+
+Give me one, and I'll show you.
+
+Nice try!
+
+Maybe you should eat some fruit for once! Much healthier! 
+
+Ya know, I could eat an apple right about now.
+
+I'll tell you what, you find me an apple and I'll give you the gate key to the laundromat, deal?
+
+*Sigh* Fine...
+
+but if you don't, I'll make you choke on that apple. 
+
+It's a deal, then! 
+
+Thanks for the apple.
+
+GetApple
+
+FREE APPLES!
+
+Huh? A sign?
+
+Take one a day to keep the witch away. 
+
+One it is then! 
+
+Gosh, I'm so hungry! 
+
+UseGateKey
+
+I don't need this key anymore.
+
+LaundryDoor
+
+GiveApple
+
+Well? My apple?
+
+Here, I spit shined it for you.
+
+Oh, awesome! Thanks!
+
+Now, your end of the deal!
+
+Oh, right. Here, take this. 
+
+You can unlock the gate to the laundromat with it.
+
+I better head to the bathhouse.
+
+I said I'll do this on my own.
+
+Well, I figured you might need the key to get in.
+
+We ain't gonna find the witch's head standing here.
+
+Hey...
+
+Thanks...lil' sis.
+
+Bath House
+
+Noodle Shop
+
+Menu
+
+Laundry
+
+Laundry Door
+
+Locked Door
+
+Trash
+
+Apples
+
+Mary
+
+Karl
+
+Stairs
+
+Noodle Lady's House
+
+I've been expecting you...
+
+Luzia.
+
+And I've been expecting you...
+
+old woman. 
+
+You don't even know who I am, do you?
+
+No, no I don't. 
+
+Do you remember me? 
+
+Wait a hoot picking toot! 
+
+You're the noodle lady in my dreams! 
+
+Oh my!
+
+You're all wet and smelly!
+
+Why don't you call your sister...
+
+I'll pay for your closed to be cleaned. 
+
+Wow, really? Thank you that's real nic-
+
+Wait! How do you know that I have sister?
+
+I know a lot about you, Luzia. 
+
+I never asker for your help!
+
+I think you were just about to.
+
+You're not another witch are you?
+
+C'mon, young one...
+
+lets get you out of those wet clothes. 
+
+But what will I wear? I can't just stand here naked?
+
+I wouldn't worry about that...
+
+there's only one other lady who uses this laundromat...
+
+and she only comes in on Tuesdays. 
+
+So tell me girls...
+
+lovely weather we're having, isn't it?
+
+Not a cloud in the night sky.
+
+It's a little cold, to be honest. 
+
+Huh...
+
+must be Tuesday. 
+
+Washing Machine
+
+Oh? You girls are back?
+
+You look surprised to see us?
+
+Well with the Lady running around, I was sure you'd be done for.
+
+Are you spying on us?
+
+Word travels fast around the slums, hun. 
+
+C'mon, don't bullshit me, old lady!
+
+Luzia! Watch your language!
+
+Hey! You're not in charge of me anymore!
+
+Monsters can't be babysitters!
+
+Ouch.
+
+Shut up, Luzia! You're the real monster!
+
+Oh how I've missed this.
+
+How could you miss this? 
+
+I have to live with this little brat every day! 
+
+I look like a freak because of her! 
+
+I still remember when my daughters used to get along so well.
+
+All they ever do now is fight for centuries...
+
+just like you two. 
+
+Wait! Centuries?
+
+How old are you?
+
+How old do you think I am, Luzia? 
+
+A hundred, maybe?
+
+Huh, must be the hair.
+
+Eighty? 
+
+You can keep guessing, you'll never get it. 
+
+How can the witch- I mean, your daughter, look as old as me?
+
+We're in the spirit world, young lady. 
+
+Age means nothing here. 
+
+So we don't age? 
+
+Really?
+
+You could be a thousand years old and have the complexity of a child. 
+
+We are stuck in an endless limbo, until me move on to the planes above. 
+
+However, there are those who wish to return to where they once came...
+
+just like Ashina. 
+
+Wait, you can go back?!
+
+We can go home?!
+
+There is ways to do it, but it takes a lot of complex-
+
+C-Can we fix my condition, first?
+
+Yes, of course.
+
+Now that we have my daughter's head...
+
+I can use her blood to make a cure for the curse. 
+
+All you need to do is drink it.
+
+It'll take some time to work but once it does, it should change you back to your old self. 
+
+So how does it work?
+
+It'll break the loop of the curse, what it does is-
+
+Just get to the point, old lady! 
+
+This is a complicated curse Luzia.
+
+Once Sombria drinks the antidote, she will have only 3 days to return home.
+
+Otherwise...you will be stuck in the curse's loop forever.
+
+For ever?
+
+You mean Sombie, right?
+
+S-Sure. 
+
+Just remember...
+
+that when the time comes, you will have to make a choice. 
+
+Just tell me what I have to do.
+
+Heh, just drink this and go home.
+
+That is all.
+
+Wait, really?
+
+That's it?
+
+No magic spells, voodoo or rituals? 
+
+That sounds too easy.
+
+It does, doesn't it. 
+
+I can assure you that it is much more complicated behind the veil.
+
+Once you both return home...
+
+it shall be broken.
+
+So how do we get home?
+
+We were kidnapped in the back of a truck!
+
+I have no idea where we are or what this "spirit place" is?
+
+I know someone who can take you as far as the countryside.
+
+I can arrange travel as far as the country side but from there you will need to return on your own.
+
+There's a convenient bus route that can get you as far as the Chikara express train line. Here are some tickets for the bus and the train.  
+
+Now get some rest, you leave in the morning. 
+
+Oh, before I forget...
+
+did you remember to lock the bathhouse doors when you were done?
+
+U-Uh, whoops!
+
+NoodleCutscene
+
+You were kidnapped?
+
+Yeah, and they beat up Sombie too! 
+
+That settles it, she has gone too far this time! 
+
+Uh, who has?
+
+Well, it's about time I introduced myself.
+
+Yes, where are they?
+
+I am Yokona Kagami...
+
+But everyone just calls me Noodle Lady.
+
+Let me guess, it's because you sell noodles?
+
+I own the Ramen shop next door. 
+
+I see you both have met my daughter, Ashina.
+
+The witch is your daughter?
+
+This is perfect! You can help Sombie! 
+
+Right?
+
+Hmm, by the looks of things it may be too late for her, Luzia. 
+
+You mean I'll be stuck like this forever?
+
+My dear, I hate to be the one to tell you this but, you're dead. 
+
+I'M DEAD?!
+
+But she's standing right there! 
+
+Sombria, place your hand over your heart.
+
+Do you feel a beat?
+
+THERE'S NO BEAT! I'M DEAD!!
+
+WHAT THE HECK HAPPENED TO ME?!
+
+By the looks of things you're now a Yokai Sombria.
+
+What's a Yokai?
+
+A yokai, a ghost, spirit, whatever you want to call it...
+
+well actually, maybe poltergeist is probably a better term. 
+
+It seems Ashina wanted something from you but what exactly?
+
+S-She wanted to swap bodies.
+
+Hmm, looks like it didn't go all to plan. 
+
+Something went wrong as you've turned into one of us. 
+
+One of you? You still look human! 
+
+I look like a hideous creature!
+
+You just look like a human, only with long arms and pale skin.
+
+And no legs, what happened to those?
+
+Anyway, you look fine, Sombie. 
+
+Where is Ashina now?
+
+She's dead, I think.
+
+Her head was floating in the bath.
+
+Dead?! Ha! Serves her right! 
+
+Wow really? I'd really hate to have you as a mom. 
+
+I think Sombie killed her. 
+
+Well this is certainly some good news! 
+
+Good news?
+
+We may be able to reverse the curse.
+
+Reverse the curse? How?
+
+All we need is some of Ashina's blood. 
+
+So if you both are able to retrieve her head then-
+
+Um, how about NO!
+
+I never want to set foot back in that place again!
+
+Don't you want to help your sister?
+
+I do, but isn't there another way?
+
+I'll go.
+
+Wait, Sombie...
+
+You've done enough, Luzia. 
+
+I need to fix this myself. 
+
+I love it when sisters squabble.
+
+Don't you, Luzia?
+
+Yeah, whoopie. 
+
+What are you waiting for?
+
+Go after her.
+
+She obviously doesn't want my help.
+
+They never do...
+
+so why wait for an invitation?
+
+Huh, you're right, old noodle lady. 
+
+Besides, I've probably pissed her off enough for one day. 
+
+Here's the spare key to the bathhouse, I keep it incase of emergencies. 
+
+Thanks. 
+
+Good luck, little one. You're gonna need it. 
+
+So explain to me again...
+
+why are we riding with the door open? Isn't it a little dangerous?
+
+Just look at that view! 
+
+Look at the never-ending line of fences!
+
+It's breathtaking...
+
+It's nauseating, I think I'm gonna *ugh*...
+
+the smell of cows isn't helping. 
+
+Ha! They smell better than you right now!
+
+*Sniff* I don't notice anything? 
+
+It's a proven fact you can't smell yourself.
+
+No it isn't.
+
+Then how come you can't smell your own farts?
+
+You're an idiot.
+
+It's true!
+
+Everybody else can smell mine, except me.
+
+That's because you leave the room right after you do one!
+
+Nah, I think it's fart magic.
+
+Speaking of magic...
+
+did you take that magic potion?
+
+It's not a magic potion, it's an antidote...
+
+and yes I did. 
+
+I would have taken it when I got home.
+
+Didn't the old noodle lady said it would go off in a few days?
+
+Yes but it shouldn't take us that long to get home, I think?
+
+Two days. I remember her saying something about that this morning...
+
+and some mumbo jumbo about breaking the "loop".
+
+Loop? What loop?
+
+Loop of the curse, I don't know. I wasn't paying attention. 
+
+Actually, there was one thing she did say before we left. 
+
+T-That I should...
+
+*ugh* enjoy my time with you. 
+
+Ha! That's easy! What's not to enjoy? 
+
+I'm always fun, baby! 
+
+Whatever. 
+
+And I'm smoke free! 
+
+Rubbing it in, huh? 
+
+You know what? We're not fighting, right now. 
+
+she was right.
+
+This is kinda enjoyable.
+
+*Deep breath* I can't get enough of that stank, cow fart infested air! 
+
+Annnd there it goes. Enjoyment gone. 
+
+Heh, you're a weird girl Luzia.
+
+So much for the truck ride.
+
+Just be thankful it got us this far. 
+
+Where are we anyway?
+
+It looks like a bus stop. 
+
+Congratulations, Luzia...
+
+you won a cookie. 
+
+Wait, really? 
+
+Gimme! I'm starving! 
+
+All I ate was a dead fish I found in the buffet! 
+
+Please tell me that didn't happen?
+
+I stole it from that faceless guy. 
+
+I can't believe we're even related.
+
+I was being sarcastic about the cookie, Luzia. 
+
+Damn.
+
+This bus sure is slow.
+
+Well, I'm bored. 
+
+Oh no, you're not wandering off again!
+
+Please?
+
+The last time you wondered off I turned into this hideous creature!
+
+Do you really think I'm going to let that happen again?
+
+This time, you stay here...
+
+I'm gonna go see if I can find someone  around here, maybe they'll have some food...I'm hungry too. 
+
+You too?!
+
+J-Just wait here, I can smell something...
+
+Call out when the bus arrives. 
+
+Huh, so this is what it feels like. 
+
+Hey! A mushroom! 
+
+I could eat it.
+
+If I were desperate, looks poisonous.
+
+Mushroom2
+
+I hope this helps her.
+
+Here you go, Sombie. 
+
+This'll keep you dry. 
+
+Please tell me you didn't just do that.
+
+A leaf? This is going to keep me dry?
+
+I feel silly.
+
+You look silly. 
+
+So, find anything in there?
+
+Nothing out of the ordinary.
+
+Heh, after everything we've seen what is ordinary anymore.
+
+We should probably stand under the bus shelter.
+
+I like the rain.
+
+It's nice.
+
+It is peaceful, but we're probably gonna catch a cold.
+
+what will happen with us, when this is all over?
+
+I, I don't know...
+
+it'll all go back to normal, I guess. 
+
+Even us?
+
+The fighting, the arguing, stuff like that?
+
+Oh! Well, we don't have to...
+
+it all depends. 
+
+On what?
+
+On how much you owe me after this.
+
+I have a feeling that I'm never gonna hear the end of this once we get home. 
+
+Oh, you better believe it sister. 
+
+Fantastic! 
+
+Yep! I'm gonna remind you all the time, about how you saved my life.
+
+So, you're not mad at me anymore?
+
+I was never mad at you, Luzia.
+
+Once you get older things become more complicated...
+
+sometimes, I wish I could be as young as you again. 
+
+We can't go back...
+
+we need to keep moving forward...
+
+and if I stay mad at you...
+
+I won't be going anywhere. 
+
+I get what you mean. 
+
+I thought you never would...
+
+Just promise me one thing. 
+
+Please, quit smoking. You're stinking up the whole house! 
+
+Heh, we'll see, Luzia.
+
+H-Hey! Is that the bus?
+
+ACH_NEIGHBOR_SOMBIE
+
+Where's the bus?
+
+It hasn't arrived yet?
+
+Nope. 
+
+After everything we've seen, what's ordinary anymore? 
+
+W-Well, good! 
+
+Saving won't help you now.
+
+Forest
+
+Hey, a sign!
+
+An ancient spirit lives in this forest. An offering of tasty noodles is required to summon it.
+
+Mushroom1
+
+Here's a big one!
+
+To Bus Stop
+
+To Lake
+
+Sign
+
+Dark Forest
+
+I wish you the best of luck, Luzia. 
+
+UseNoodles
+
+Oh, by the way...
+
+I brought you this.
+
+Ah! Noodles! 
+
+Delicious.
+
+Not everything is as it seems...
+
+when the time is right...
+
+choose wisely. 
+
+ACH_SPIRIT_NOODLE
+
+Whoa!
+
+W-Who is that?
+
+Uh, hi!
+
+My name is Luzia-
+
+I know who you are.
+
+You do?
+
+I swear we haven't met.
+
+We didn't have to, I just know. 
+
+Why have you come here, young Luzia?
+
+Because I'm hungry.
+
+Besides that, I mean why are you really here. 
+
+We're stuck while wating for the bus to take us home...
+
+but I'm still hungry. 
+
+The why is your sister here?
+
+How do you-
+
+I am Wiji! 
+
+I am the spirit of the forest! 
+
+I have seen many things in my time amongst the trees...
+
+but I must admit, I'd never thought I'd see you again.
+
+Again?
+
+What do you mean again?
+
+Hmm, it seems like you have forgotten...
+
+such a strange anomaly. 
+
+Tell me, are you planning on breaking your "loop"?
+
+Enough with this loop business! 
+
+First, the noodle lady, now Sombri-
+
+Noodle Lady?
+
+Yes, the old woman. I can't seem to remember her name though.
+
+Yoko, something. 
+
+Yokona Kagami. 
+
+Yeah that's it!
+
+Seems like their plan didn't work after all. 
+
+Young Luzia, you must listen to me very carefully...
+
+...To end it all.
+
+Wait, what does that mean? I'm gonna die?! 
+
+We will see, young Luzia. Good luck. 
+
+Wait, before I go...
+
+why does everyone loves noodles so much? 
+
+B-Because they're delecious! 
+
+Do you know what makes them more delecious?
+
+Wild mushrooms.
+
+Here, take this. It'll give your noodles a bit of a kick in flavor! 
+
+Mushroom3
+
+This should help Sombie.
+
+To Forrest
+
+SombriaDeer
+
+Oh!
+
+Thank god, it's you! 
+
+I thought you were some kind of monster for a second.
+
+Sooo hungry!
+
+I'm so hungry, it hurts!
+
+Sombie?
+
+The pain, the hunger...
+
+p-please, help me.
+
+O-Ok...
+
+just wait right here. 
+
+I'll find you something to eat.
+
+*Ugh* Hurry! 
+
+Please help Luzia.
+
+Mushroom4
+
+Maybe she could eat this.
+
+Mushroom5
+
+Well, it's better than nothing.
+
+Please...
+
+Bring me more.
+
+Thank you, Luzia. 
+
+I feel much better, much...stronger. 
+
+But, you shouldn't have left the bathhouse.
+
+Luzia, you are in great *Ugh* dange- *Ugh*
+
+AHh!
+
+Huh? What's going on?
+
+Oh, my, GOSH!
+
+I can see my own butt!
+
+Luzia! What is happening?!
+
+I have absolutely no idea, Sombie. 
+
+Hang on a second.
+
+I think I can fix my-
+
+OH NO!
+
+THAT POOR DEER!
+
+What happened?!
+
+Uh...I think you had Bambs for lunch Sombie.
+
+I-I did this?
+
+What is wrong with me?
+
+Look Sombie, we should really be heading back to the bus stop.
+
+I'll wait for you there.
+
+I can't just leave her like this.
+
+I need to help Sombie first.
+
+To Noodle Hut
+
+To Forest Entrance
+
+ForestNoodles
+
+No way...
+
+There's a noodle house in the middle of the forest?!
+
+I must be dreaming...
+
+or just really hungry. 
+
+Sorry, I don't mean to be rude...
+
+But what are you?
+
+Mudo no talk! 
+
+Mudo eating! 
+
+So, your name is Mudo?
+
+*Munch* Yes. *Munch*
+
+Mudo will give girl something if you bring Mudo...
+
+mushroom, for Mudo's noodles. 
+
+I'm sorry, but my sister ate all the mushrooms I could find.
+
+Sad Mudo. 
+
+*Munch, munch, munch*
+
+UseMushroom
+
+I have something for you.
+
+Ta-da!
+
+Mmm, mushroom!
+
+ACH_MUSHROOM
+
+Thank *Munch* you.
+
+Take this *Munch*.
+
+Oh cool!
+
+It's a, really big leaf?
+
+Special big leaf. *Munch*
+
+MeetingJacketto
+
+Hey there little guy.
+
+Little? I'm not little! 
+
+Everyone is too big!
+
+Huh? I guess you're right. 
+
+So, why is little girl here in the woods?
+
+For the noodles, duh.
+
+What is duh noodles?
+
+What's in the bowl! You adorable little thing, you! 
+
+What's your name, little guy?
+
+Everyone just calls me Little Jacket.
+
+No problem, LJ. 
+
+You're just so cute! 
+
+I could just take you home! 
+
+Hmm, maybe I could-
+
+I-I'm fine, thank you strange girl! 
+
+MmmNoodlesAgain
+
+One bowl please!
+
+Hello, young one. 
+
+You're a little far in the woods to be-
+
+I said, one bowl please!
+
+Well, you must be hungry.
+
+I am.
+
+Then please, take a bowl of noodles. 
+
+That was good!
+
+In exchange, could I ask a favor? 
+
+Sure!
+
+Could you please take a bowl and place it by the shrine...
+
+it's for someone, special.
+
+Thank you, young one. 
+
+To Forest
+
+NoodleGashia
+
+TrainCutscene
+
+Now this is the way to travel!
+
+A truck, a bus, now a train?!
+
+What's next?
+
+An airplane?!
+
+Nope! Forget that!
+
+Why? What's the matter?
+
+Afraid of heights?
+
+I'm not worried about being up in the sky.
+
+I used to have dreams about being on a plane.
+
+What happened?
+
+Well, I went to the bathroom...
+
+and when I cam back everyone was gone! 
+
+Everyone, it was just me. 
+
+That's a pretty crazy dream. 
+
+That's all I can think about right now!
+
+Remember when uncle Robert tried fixing mom's microwave?
+
+He forgot to unplug it.
+
+Heh, some engineer he is...to bad he disappeared. 
+
+Whatever happened to aunt Claire and cousin Mark?
+
+She dies, Luzia. Mark, I have no clue, to be honest with you. I think he went to a foster home. 
+
+Really? Why didn't he come live with us?
+
+You're already a handful.
+
+Besides, I think it's for the best...
+
+I couldn't imaging the amount of mental problems that boy would have with all that's happened to him. 
+
+Yeah, it's pretty sad...
+
+*Sigh* I miss home.
+
+So do I.
+
+I miss mom too.
+
+Pfft! I don't.
+
+She was never home.
+
+I get that being a nurse is hard work...
+
+but we need attention too! 
+
+What's with you, Luzia? 
+
+These things shouldn't matter to a twelve year old. 
+
+You don't seem like yourself anymore.
+
+I don't even feel like myself...
+
+I feel as if this has all happened before...
+
+like I'm living someone else's life, y'know? 
+
+I'm not me. 
+
+You get what I mean?
+
+I do...
+
+I haven't felt myself since the kidnaping. 
+
+I guess we share the same feelings.
+
+You know what else is weird, though?
+
+Where the heck is everyone?
+
+The train's empty! 
+
+There was no one on the bus either.
+
+I'm gonna take a look around.
+
+Okay, I'll take a look too.
+
+If something happens, we'll meet up in the bathroom.
+
+Ok, we'll-
+
+The bathroom?
+
+For privacy. 
+
+Don't want anything else going astray now, don't we?
+
+Ok, just make sure you're not actually using it when I come in. 
+
+For crying out loud, Luzia. 
+
+Who's crying, now?
+
+SombieTrainBathroom
+
+JESUS! SOMBIE!
+
+You scared the hell outta me!
+
+I thought you weren't scared of anything?
+
+Only by spontaneous surprises!
+
+I'll remember to leave a sign on the door next time.
+
+So, did you find anything?
+
+I met the train driver.
+
+What did he say?
+
+Just some really weird stuff.
+
+Well what?
+
+Do you think this is all a dream?
+
+A dream?
+
+Am I really Luzia?
+
+Only for as long as I've know you.
+
+You're sounding really weird right now, Luzia. 
+
+There's something not right in the back of my mind...
+
+I'm just not sure what it is...
+
+like we're being set or something. 
+
+C'mon, cheer up, Luzia. 
+
+We need to make it home! 
+
+Let's stay focused.
+
+I'll go talk to the driver.
+
+You check the back of the train. 
+
+Oh, I also found this keycard...
+
+not sure what it's for, it didn't work on any of the doors...
+
+maybe you can find a way to use it.
+
+Exit Bathroom
+
+I can't turn back now.
+
+TrainNoodles
+
+Wait a minute, what are you doing here?!
+
+Why are you following us?
+
+Am I following you? I can travel too, y'know. 
+
+I'm just visiting an old friend in the city. 
+
+Yeah right, like I'd believe that! 
+
+You don't look very pleased to see me, hmm?
+
+I'm just worried about Sombie. The creepy killer lady is after her! 
+
+Oh? 
+
+She may even kill her.
+
+Not unless I can help it!
+
+Hmm, just be careful, Luzia. You're life is worth far more than your sister's
+
+What?! Mine is worthless without hers! 
+
+I need to find her.
+
+You need to stop, Luzia.
+
+but I know all about your little plan daughter. 
+
+I'll be waiting.
+
+ACH_NOODLES_AGAIN
+
+YellowJacket
+
+Hey! It's you!
+
+Yes it is I! Little Jacke...
+
+Could you help me?
+
+*Sigh* What does little girl want?
+
+Do you know a way to unlock this door?
+
+Maybe...
+
+I need a keycard to do that.
+
+I can crawl through the vent and unlock it from the other side. 
+
+Wait! How did she escape?!
+
+I left the bathhouse door open.
+
+whoops.
+
+StretchDies
+
+Stretch!
+
+T-That, woman, s-she did this...
+
+came out of n-nowhere...
+
+ripped the trolley r-right of my head.
+
+Stretch, is there anything I can do to help you?
+
+Anything?!
+
+S-She's after s-someone named...
+
+Sombria. 
+
+Which way did she go?
+
+S-She went into the secret carriage.
+
+p-press the button, on t-the wall. Then, t-the gate. *...*
+
+Stretch...
+
+I-I'm so sorry.
+
+I have to find Sombria. 
+
+T-That woman s-said she was after...
+
+Y-You.
+
+I'm very sorry Stretch.
+
+I must go.
+
+I-It's okay L-Luzia.
+
+Y-You g-gggggg....uhhh...
+
+Stretch!!!
+
+I'm so sorry. 
+
+SombieMoves
+
+SecretLadder
+
+This must be the control switch for the door.
+
+Keycard required.
+
+Great! Where am I going to find a keycard?
+
+The door won't budge!
+
+It must work electronically.
+
+Maybe, there's a switch somewhere.
+
+There are no slots to insert the card.
+
+It must be on the other side of the door.
+
+It's a small duct.
+
+I could get into the other room through there.
+
+Only if I were smaller.
+
+*Whistling*
+
+Little Jacket wonders, what Mudo is doing?
+
+Is this what I need?
+
+It looks like it could work.
+
+Little Jacket will try this card.
+
+Wait here.
+
+Open sesame!
+
+Gosh! Thank you! You adorable little thing!
+
+Little Jacket will close the door if you say that again.
+
+Whoops! I mean, thank you!
+
+What the hell is that!
+
+I'm sorry little girl, no passengers allowed back here.
+
+Who are you?
+
+Me? N-No one ever takes notice of me.
+
+Everyone just calls me Stretch.
+
+I just deal with the passenger's luggage.
+
+But where are all the passengers?
+
+I-I don't know. I'm not permitted to leave this room.
+
+How long have you been here?
+
+W-Well, as long as I can remember.
+
+Why do you want to know Miss....
+
+Luzia, my name is Luzia.
+
+P-Pleased to meet you Luzia.
+
+Please, there's no need to be shy.
+
+I-I'm sorry.
+
+I don't mean to be shy.
+
+It's just, I-I've heard a lot about you.
+
+Tell me, are you still trying to break the curse?
+
+You mean the loo...wait!
+
+How do you know about that?!
+
+I'm sorry, I didn't mean to make you upset.
+
+Please, tell me what you know about me.
+
+I-I can't.
+
+All I can say is that old lady said a lot about you.
+
+She also said bad things may happen if I talk to you.
+
+Please forgive me.
+
+Bad things!
+
+You're literally a walking head!
+
+Bad hit you a long time ago pal!
+
+I'm sorry.
+
+I'll just hide in the baggage compartment, and be out of your way.
+
+Wait! ...no...
+
+Great! I feel like jerk!
+
+This is a travel point!
+
+Travel to any section on the train.
+
+This must be the switch.
+
+Strange, I feel...
+
+Sleepy.
+
+ACH_SECRET_SWITCH
+
+I don't need to press it again.
+
+E Switch (Damaged)
+
+E Door
+
+Duct
+
+Travel Point
+
+Secret Switch
+
+E-Door
+
+Room1
+
+This room...
+
+I've been here before.
+
+A keycard?
+
+There's a note here too.
+
+Why am I on this train? What happened? Where's Sombria?
+
+Where this train is taking me?
+
+It's been three days! I am still stuck in this room!
+
+Why won't they let me leave?
+
+First the truck, the bathhouse, the forest and now this?
+
+What does this all mean!?
+
+D-Did I write this?
+
+Room2
+
+This room feels colder.
+
+Probably forgot to close the window.
+
+A note?
+
+Why can't I wake up?
+
+I can't breathe!
+
+The window is open, but I can't escape!
+
+Maybe I can't leave?
+
+What is stopping me?
+
+Is it...Sombria?
+
+I don't remember writing this?
+
+Room3
+
+This room feels warmer.
+
+It smells like, burnt leather.
+
+A burnt note?
+
+It's time.
+
+It's time to end this mess.
+
+The loop must be broken!
+
+I can't go through all of this again!
+
+The Old Lady has to go!
+
+The one who starts the loop...
+
+Is the one that ends it.
+
+Luzia, when you wake up...
+
+Don't hesitate...
+
+Kill her...
+
+The Old Lady?
+
+ACH_FORTHTIME
+
+This must be the engine.
+
+I can hear humming coming from the otherside.
+
+Door requires a keycard...great.
+
+GustophLuzia
+
+Excuse me, Mr. Gustoph?
+
+Well, if it isn't little Luzia!
+
+What can I do for you?
+
+I'm wondering if you had seen my sister?
+
+Hmm, I dunno. What does she look like?
+
+A tall, ghost-ish looking girl with long arms!
+
+That is the most freakish description I've ever heard!
+
+But yes, she did come through here.
+
+Lookin' for you as a matter of fact!
+
+Did she say where she was going?!
+
+She said she was going back to her seat to wait for you.
+
+But that's impossible!
+
+I would have seen her!
+
+Maybe you walked straight past her, without noticing?
+
+N-No, I don't think so.
+
+Nothing ever gets past me!
+
+And nothing gets past Gustoph too.
+
+Because he takes up the entire doorway!
+
+HA HA HA!
+
+Are you sure you saw her?
+
+I am sure, little one.
+
+A ghoulish girl with long arms.
+
+Goulish?
+
+Yes, goulish...or ghost-ish.
+
+Something like that.
+
+She did seem quite happy to see me though.
+
+I think we both are.
+
+Before you go, could you please check on my buddy Stretch?
+
+Haven't heard from him in a while now.
+
+If you haven't hurt his feelings already!
+
+I-I think I did.
+
+Where does he hide?
+
+He should be in the luggage compartment somewhere.
+
+Always waiting to take someones luggage.
+
+The poor guy.
+
+Okay, I'll go find him.
+
+MeetGustoph
+
+Sorry to interrupt.
+
+But can...
+
+Do do do do...Oh!
+
+Hello there, little one!
+
+What are you?
+
+Who, me?
+
+Well, I'm the guy who drives the train!
+
+And what I wanna know is...
+
+How did you get in here?
+
+I found a keycard in the bed carriage.
+
+That's where I left the darned keycard!
+
+Excuse me but, who are you?
+
+They call me Gustoph!
+
+And you must be Luzia?
+
+How do you know my name?!
+
+I know everything!
+
+Plus, it's in the passengers log book.
+
+Gotta keep a head count on all who ride the rails!
+
+Even if hey don't have a head!
+
+How many people are on the train?
+
+Hmm, let me see...
+
+Just one!
+
+Just one!?
+
+But what about my sister?!
+
+Your sister?
+
+You only said how many people, little one.
+
+She's a person too, ya know!
+
+Ho Ho! I'm sure she was!
+
+So, are you on holiday?
+
+No, but I would need one after all this.
+
+Been in a bit of a pickle have we Missy?
+
+You can say that again.
+
+But, we're finally on our way home to end all of this mess.
+
+Well, I'm glad it all worked out for you.
+
+Sure thing, little one.
+
+Where are the rest of the passengers?
+
+Ha Ha! The rest of the passengers!?
+
+Why, they're all around you!
+
+Can't you see them?
+
+Well, no I can't.
+
+They're probably just shy...or...
+
+Maybe...they're scared of something.
+
+Scared? Of who?
+
+You'd best be gettin' back to your cabin young Missy.
+
+Once we're in the tunnel of sorrows, you don't wanna be wonderin' round.
+
+But come see me later! If you're still alive, that is!
+
+Alive?
+
+H-Hey, are you okay?
+
+What home...
+
+Our home.
+
+We don't have a home, Luzia.
+
+Of course we do!
+
+Please don't give up on me now!
+
+Luzia, answer me something.
+
+What do you remember about mother?
+
+Well, not much.
+
+She was never around.
+
+I guess she was too busy working at the hospital.
+
+Luzia...we don't have a mother.
+
+W-What do you mean?
+
+S-She died over a year ago.
+
+I've been lying about her coming home late.
+
+That's the reason I've been sending you to bed early.
+
+B-But her car?!
+
+I hear her pull up every night!
+
+That was my boyfriend.
+
+I've been lying to you this whole time!
+
+I don't know who to trust anymore.
+
+For the first time in my life...
+
+...I feel empty.
+
+Luzia...I-I...
+
+Little one!
+
+Come here quick!
+
+Stop listening to the lies!
+
+Lies?
+
+Sorry little one!
+
+But I could not help over hearing your conversation.
+
+What's it matter anyway...
+
+You don't believe that garbage do you?!
+
+What did I say earlier? Hmm?
+
+U-Uh...I forgot.
+
+Well at least we're out the other end.
+
+End of what?
+
+Ho Ho! The tunnel!
+
+I see the tunnel of sorrows has affected your mind somehow?
+
+The tunnel of sorrows?
+
+When the train passes through the tunnel your worst doubts emerge.
+
+The tunnel shows you the worst possible things that could happen to you.
+
+So it was all a dream?
+
+Well, sort of, my tiny friend.
+
+More like a mirage.
+
+So...none of it was real?
+
+See, that's the thing, it could be real.
+
+If you want it to be real then it will become real.
+
+Fire away little Missy!
+
+What do you see when you go through the tunnel?
+
+Y-Ya know...nobody has ever asked me that before.
+
+What I saw...was me crashing this train...
+
+...Killing every passenger.
+
+...Except me.
+
+Is that what happened to you?
+
+I should have slowed down...
+
+That corner, the ice...
+
+H-How do you know this?
+
+This is going to sound strange.
+
+But, I remember.
+
+I remember being a passenger on this train when it crashed.
+
+I just can't remember why I was on this train.
+
+Then I must say, I deeply apologize little one.
+
+How did you die?
+
+I-In my home.
+
+I thought I could drink away the pain.
+
+Instead, I made it worse.
+
+Once I had joined my passengers.
+
+I could understand, what it felt like to be let down.
+
+They depended on me.
+
+It wasn't your fault.
+
+These things happen.
+
+We don't control life.
+
+Life controls us.
+
+Are you sure you're the little girl I spoke to earlier?
+
+You sound a lot older.
+
+I don't know what is happening to me.
+
+But whatever it is, I feel it has almost consumed me.
+
+Like...I'm finally about to wake up.
+
+Well, you are truly remarkable little one.
+
+How is Stretch doin'?
+
+H-He...didn't make it.
+
+Poor kid.
+
+It's okay little one.
+
+He has arrived at his final station.
+
+Speaking of which!
+
+So are we!
+
+Gustoph
+
+Jeez! It's freezing out here!
+
+But still, such an amazing view.
+
+White fading into black.
+
+I-Is this really me?
+
+I don't normally talk like this.
+
+Don't I?
+
+Ahh! WHAT'S WRONG WITH ME!
+
+I wish none of this ever happened!
+
+I wish...I never...
+
+Killed her.
+
+!!!
+
+What are you doing out here little guy?
+
+Little Jacket couldn't help but overhear little girl.
+
+Little Jacket wants to know why little girl is screaming?
+
+Ug, ''little girl'' does have a name, ya know?
+
+Little Jacket already knows Luzia's name!
+
+What Little Jacket doesn't know is, why is Luzia upset?
+
+Because, I don't know if I'm myself anymore?
+
+I act differently, I fight with my older sister a lot more.
+
+I feel like I've done something really bad...
+
+But I have no idea what I've done.
+
+This reminds Little Jacket of a story.
+
+A story called the two sisters.
+
+The two sisters?
+
+Haven't you heard that story before?
+
+Little Jacket will tell you.
+
+Once upon a ti...
+
+Is this going to be a long story?
+
+Little Jacket doesn't have to tell you the story.
+
+Okay, okay. Go ahead.
+
+Once there were two sisters.
+
+They were the best of friends.
+
+They did everything together. They liked the same things.
+
+They liked the same man.
+
+Man only liked one of the sisters.
+
+Man only liked the older one.
+
+Man liked her silky-smooth, luscious legs.
+
+Younger sister was upset.
+
+Younger sister wanted man to like her instead.
+
+Younger sister got witch to use magic to make legs like older sister.
+
+Witch said, needs older sister's legs to make potion.
+
+Younger sister cut off older sister's legs in her sleep.
+
+Older sister died, lost too much blood.
+
+Younger sister got nicer legs...but at a price.
+
+Wait, I've heard this before.
+
+Ashina...The Red Witch.
+
+Red Witch yes, but not Ashina.
+
+What do you mean by that?
+
+Red Witch started curse.
+
+Ashina not her real name.
+
+Real name is...
+
+Nice to see you again.
+
+YOU ATE HIM!
+
+Oh, I'm sorry.
+
+You see, I'm very hungry Luzia.
+
+And I still am.
+
+WHAT DO YOU WANT WITH ME!?
+
+Oh? You think this is about you?
+
+HA HA!
+
+No my little friend.
+
+I'm here to see my sister.
+
+I know she is on this train.
+
+Sister?
+
+Yes, the one you call...Sombria.
+
+But she's my sister!
+
+She was your sister.
+
+And when I find her, I'm going to break those god damn legs of hers!
+
+You will not lay a finger on her you witch!
+
+Not one finger...all of my fingers.
+
+And then once I kill her, you're next...
+
+...Mother.
+
+This looks like some sort of entertainment stage.
+
+S-Sombie!?
+
+Are you okay?!
+
+I-I'm...
+
+What's wrong?!
+
+Hello Luzia.
+
+It's you!
+
+Give me back my sister!
+
+Luzia, I don't have much time.
+
+You need to listen to me.
+
+Why should I listen to you?!
+
+You killed my sister!
+
+Your sister is fine.
+
+Trust me.
+
+Why did you do this?
+
+Because...I want this all to end.
+
+What to end?
+
+For hundreds of years, me and my sister have been stuck like this.
+
+Trying to find a way to set us free.
+
+I'm sorry Luzia, but this was the only way.
+
+So you stole my sister's body?!
+
+Do you think it's okay to steal other people's bodies?!
+
+Luzia, you don't understand.
+
+I don't have to!
+
+This was your problem not ours!
+
+Turn my sister back now!
+
+I can't.
+
+Not until the curse has been lifted.
+
+Then how do I lift the curse?!
+
+By breaking the loop.
+
+We are already on our way to break the loop!
+
+You are both heading towards the beginning.
+
+Once you reach your home, you will restart the loop.
+
+That's not true!
+
+The Noodle Lady told me!
+
+Luzia, don't listen to her.
+
+She is lying to you.
+
+She wants you to return home.
+
+I will stay like this, for all eternity!
+
+That is not my problem.
+
+YOU CAN'T DO THIS TO ME!
+
+You should of thought about that before you kidnapped us.
+
+I-I know about your dreams.
+
+The marketplace, the therapist.
+
+Sombria won't admit that she has them too.
+
+But why? Why would Sombie hide them from me?
+
+It seems like she is protecting you.
+
+Protecting me from what?
+
+Sombria was easily drawn to me.
+
+It's like we already had a connection.
+
+But you...
+
+Why you?
+
+What is so special about you?
+
+Mother warned me about you.
+
+What are you talking about?!
+
+It is remarkable that you have all the answers.
+
+But why can't you answer this?
+
+Luzia, something is going to happen soon.
+
+And when the time comes...
+
+You're going to have to make a choice.
+
+What choice?
+
+The choice to save your life...
+
+...Or hers.
+
+You don't mean me and Sombria?!
+
+If you choose to listen to her be warned.
+
+This will not go the way you think it will.
+
+All I want is my sister back.
+
+So we can go home.
+
+But, there is something that still bugs me...
+
+If you're not The Red Witch...
+
+Then who is?
+
+H-How did you know...
+
+I finally found you.
+
+Little sister.
+
+Hiding in the bodies of the living.
+
+For too long have I awaited this moment.
+
+Hanging from your bathhouse wall like a photo frame.
+
+Thinking of all those years how I could have spent my life.
+
+Sister...I'm very sorr...
+
+Shut up Ashina!
+
+I've heard your lies through the centuries!
+
+There is nothing you can say that will make me forgive you!
+
+Please listen to me.
+
+This little one, she may be the key to setting us free.
+
+DON'T YOU SAY ANYTHING ABOUT FREEDOM!
+
+You have no idea what it's like to have your damn legs cut off!
+
+Then chained to a wall for centuries!
+
+This is all mother's fault!
+
+Was it?!
+
+What is going on?
+
+Go on sis! Tell her one of your famous lies.
+
+You and your sister were not picked randomly.
+
+The curse is like a living mother.
+
+In order for it to survive it must give birth.
+
+You two are its newest children.
+
+The loop.
+
+That's impossible!
+
+We have a mother!
+
+And so do we.
+
+And she is going to pay also.
+
+Leave these two out of this.
+
+They are more than welcome to leave.
+
+But you aren't going anywhere.
+
+Luzia, take your sister and go.
+
+The answers you seek lie somewhere on this train.
+
+But only if you wish to find them.
+
+Now go!
+
+Chapter9Start
+
+Thank god you're ok.
+
+W-Who did this?
+
+P-Pleasssse...
+
+H-Help...meee...
+
+ACH_IT_WAS_HER
+
+!
+
+LUZIA?!
+
+Can you please keep it down!
+
+I'm trying to listen out for my...
+
+OH, SHUT UP YOURSELF! YA OLD CAVE BAT!
+
+YOUR DAUGHTERS ARE ALREADY HERE!
+
+They are?
+
+Yes, Luzia! I'm here!
+
+W-we need t-to go home...
+
+Yes, we do! And now we can! I can't believe you're...
+
+W-We...n-need t-to go...
+
+...home.
+
+No...NO!
+
+NO,NO,NO!
+
+LUZIA! DON'T GO PLEASE!!!
+
+*Giggle*
+
+Syke!
+
+A HA HA HA!
+
+B-B-but h-how?
+
+Oh, I've been awake for the last couple of days now.
+
+I just unplugged my heart machine cord...thingy.
+
+ARHHHHHHHH!!!!!!!
+
+Geez, Sombie, take it easy. It's just a prank.
+
+A PRANK?!
+
+I'LL SHOW YOU A PRANK!
+
+Can you please keep it...
+
+If you open your mouth again, I will choke you with your fluid cord!
+
+Sombie, calm down.
+
+I'm...I'm sorry, Luzia.
+
+I was really scared.
+
+Scared of what?
+
+That you wouldn't wake up.
+
+Duh, that's what happens after you sleep.
+
+You wake up.
+
+Luzia, I want to say I'm sorry for everything.
+
+I just wanted to show mom I can be responsible.
+
+And it seems like I failed both of you.
+
+It's not your fault, Sombie.
+
+It is, Luzia.
+
+Because of me, you will never walk again!
+
+That's because I'm lying down you dummy.
+
+I guess they haven't told you yet.
+
+Oh, wait!
+
+I know what you're talking about!
+
+The doctor said I'll be fine.
+
+It was just a scratch!
+
+Can you believe it?!
+
+This is too good to be true.
+
+Yeah, he thought I was someone else!
+
+The nurse gave him the wrong files.
+
+Oh! And they gave me cake to say sorry!
+
+WHY DOESN'T ANYBODY TELL ME ANYTHING?!
+
+Hey, pipe down!
+
+You'll upset granny next door!
+
+I just can't believe this all happened.
+
+Right under my nose
+
+Hey, can we get some waffles?!
+
+I've got a bad craving for some waffles!
+
+Okay, sure.
+
+I'll see the nurse about your discharge.
+
+ACH_GOOD_ENDING
+
+And that was the last time I stayed at the Dayfield Motel!
+
+I wish you would just...wake up, Luzia.
+
+I can't stand to see you like this anymore.
+
+I want my sister back...
+
+M-My real sister back.
+
+Please, if you can hear me...
+
+Give me a sign.
+
+It's been 3 weeks now!
+
+I hope the fourth one is the charm!
+
+...I don't think that's how it goes.
+
+It doesn't matter!
+
+You will wake up! I know it!
+
+I...just do...
+
+Please.
+
+I-I didn't mean to do it.
+
+I-It was an accident
+
+I-I wish I just had slowed down.
+
+The corner...the car...
+
+I wish we never even went to see mom that day!
+
+I'm so sorry Luzia!
+
+Because of my mistake you will never walk again!
+
+Just please wake up!
+
+I-I guess I'll just have to wait until you're ready.
+
+Christ! *Sniff* I need a smoke.
+
+I'll be right back Luzia.
+
+W-We need t-to go home...
+
+TrueEndingScene
+
+And that's why Mr. Gustoph had a drinking problem.
+
+Mom said she would be here soon.
+
+I don't see what's taking her so long?
+
+She works here.
+
+*Sigh* Who am I kiddin'?
+
+You can't hear me anyway.
+
+Excuse me deary?
+
+Can you please keep it down?
+
+I'm waiting for my daughters to arrive, and I can't hear them.
+
+*Sigh* I'm sorry.
+
+I'll keep my voice down for you.
+
+Thank you.
+
+Main Foyer
+
+I'll come back right after I have a smoke.
+
+I-It's a giant doll...
+
+RealVerd
+
+That's a cute doll you have there.
+
+Hey! Thanks!
+
+Her name's Molly!
+
+Heh, I know Verd.
+
+Now, don't you loose her again.
+
+I won't Sombria!
+
+Please, call me Sombie.
+
+Luzia always does.
+
+How is Luzia, she's been here a for a long time now.
+
+She's doing really well!
+
+...I hope.
+
+I'm sure she will wake up soon!
+
+Then she can play with me and Molly!
+
+Wanna play tea party?
+
+Sorry Verd. I've got stuff to do.
+
+RealButcher
+
+Hey Sombs, hows it goin'?
+
+...Not so good.
+
+Still worried about Luzia, eh?
+
+She's a tough kid.
+
+She'll be alright.
+
+I hope so.
+
+Still seeing the psychologist?
+
+Got no choice.
+
+Either this or jail.
+
+What did you do to win that deal?
+
+Tried to rob a gas station, with a butcher's knife and a mask.
+
+But, I couldn't do it in the end.
+
+I scared the kid standing next to me.
+
+I just couldn't do it after I saw her cry.
+
+So, I gave her a candy bar and waited for the cops.
+
+At least you did the right thing.
+
+Yeah, I guess!
+
+Are you seeing him today?
+
+Nah, I don't really want to see him anymore.
+
+I don't blame ya. The guy's a creep!
+
+Anyway, I'll probably be ready to go in soon.
+
+Well, good luck in there.
+
+I'll catch ya later Sombs!
+
+RealAshina
+
+Hey! Can I ask you something?
+
+Uh, sure?
+
+Who does your hair?
+
+It's so cute!
+
+Uh, thanks.
+
+My mom does it for me.
+
+It's a traditional look, apparently.
+
+Pfft! She looks more like a big mouse!
+
+I don't know why you want to look like her, Ashina.
+
+Don't mind her, she's just jealous!
+
+More like you're jealous!
+
+Yeah, right.
+
+The only thing I would be jealous about is that you're taller than me!
+
+She has really nice legs ya know?
+
+See? Jealous!
+
+Yes I know, you both fight about this every day.
+
+You girls visiting your mother again?
+
+How come your mother is a lot older than you two?
+
+Well, she's not really our mother.
+
+She's our grandmother.
+
+Our mother died and she just took over.
+
+You can thank her for that.
+
+She died giving birth to her.
+
+I'm sorry to hear that.
+
+It's fine, we have a new mother now.
+
+Yeah, whats left of her that is.
+
+I'll catch up with you two later.
+
+Okay, talk to you later.
+
+I still love your hair!
+
+I'm not in the mood for talking.
+
+Talk to my sister, she never shuts up.
+
+G-Gustoph?
+
+RealGustoph
+
+Ah! Sombria my darling!
+
+How's da little one?!
+
+She's getting much better!
+
+The doctor said she could wake up anytime now.
+
+That's grand news, young one!
+
+I wish all the best for your younger sibling!
+
+Thanks, Gustoph.
+
+How is everything with you?
+
+Well, so far, everything is good!
+
+I have cut back de' drinking!
+
+And I can return to work next week!
+
+Well, maybe.
+
+That's still good news!
+
+I wish the best for you!
+
+And hope you can drive those trains again soon!
+
+Thank you, young one.
+
+You're a very nice girl.
+
+And I'm sure your sister will be fine.
+
+Now time for a littlt *yawn*...nap....Zzz.
+
+RealStretch
+
+Remember me?
+
+O-Oh yes.
+
+You're Somboro right?
+
+Actually, it's Sombria.
+
+But that was a pretty good guess.
+
+I'm sorry about that.
+
+I don't usually come in here.
+
+Well, only to use the vending machine.
+
+The one at the hotel is...
+
+I know, I know. It's broken.
+
+You say that every day when you come here.
+
+I come here every day?
+
+Yep, every break you have.
+
+I noticed that you never buy anything from the machine.
+
+I buy snacks from the machine all the time!
+
+Okay, okay Mister, I'm not making it obvious.
+
+Just make sure you don't stare at my butt for too long.
+
+Was I really that obvious!?
+
+I'm so sorry.
+
+It's fine.
+
+I've known for awhile now.
+
+I feel like an idiot.
+
+I should hide in a closet somewhere.
+
+And never come out.
+
+Well, maybe you should.
+
+But then you wouldn't be able to see my butt.
+
+I promise I won't look at it anymore.
+
+You can look at it when ever you want.
+
+But next time, just talk to me.
+
+It's a much better way to break the ice.
+
+Thanks, Sombria.
+
+DeathSurprise
+
+W-What's going...
+
+WHAT HAPPENED HERE?!
+
+0
+
+Entrance
+
+Butch
+
+Verdinya
+
+Nurse
+
+Little Boy
+
+Sister
+
+SmokesAhoy
+
+BadSmoke
+
+It's so...peaceful outside.
+
+What a quiet night though...
+
+They seem to be getting longer.
+
+It feels like she has been that coma forever.
+
+I just need a sign.
+
+Anything...
+
+...please?
+
+It's getting way too cold out here now.
+
+I better head inside.
+
+GoodSmoke
+
+Christ! I needed that!
+
+It's getting too cramped in there.
+
+We need to go home, Luzia.
+
+I know you can pull through.
+
+I just want us to forget this ever happened.
+
+But I can't...
+
+It'll haunt me til' the day I die.
+
+Just please be alright, Luzia.
+
+I better see how Luzia is doing.
+
+Although, I already know nothing has changed.
+
+And maybe, it never will.
+
+Front door
+
+AshBin
+
+Wall
+
+A subway station?
+
+Where is home?!
+
+Sombie!?
+
+I-I remember this place...
+
+I used to come here all the time.
+
+W-When I was upset.
+
+You did?
+
+Why were you upset for?
+
+I-I just, get like that sometimes.
+
+I can't explain it.
+
+So, you're depressed?
+
+I'm not even surprised by your intelligence anymore.
+
+Luzia, I've been like this for a very long time.
+
+Does mom know?
+
+I don't like to share this with anyone.
+
+But you told me.
+
+Who else have you told?
+
+Just my therapist.
+
+I basically tell him everything.
+
+But he doesn't help.
+
+Isn't he supposed to?
+
+I guess, but he...
+
+...look, never mind.
+
+You can tell me?
+
+I-I can't...I'm sorry, Luzia.
+
+I just need some time to myself, please.
+
+Okay, I'm going to do some exploring.
+
+Do you remember where the exit is?
+
+I can't remember right now.
+
+Okay, but don't go anywhere.
+
+You can be depressed here okay?
+
+Lighten up Sombie, it's just a joke.
+
+I'll be back soon.
+
+Boy, am I hungry!
+
+Too bad I don't have any money!
+
+It's...
+
+Another sink.
+
+MetalPipe
+
+There's a loose pipe here.
+
+It could be useful.
+
+It's not working.
+
+I wonder where it goes?
+
+It's a long way down.
+
+...a long way down.
+
+...but.
+
+It smells like...
+
+Chocolate?
+
+This seems so stupid.
+
+What is that sound?
+
+W-What are you?
+
+*Shakes head*
+
+Can you talk?
+
+Can you understand me?
+
+*Nods*
+
+Okay, I need to reach the basement.
+
+Is there a way down?
+
+*Points to candy bar*
+
+You want this?
+
+Well, could you do me a favor?
+
+I need to turn on the backup generator.
+
+Where did you go?!
+
+Hey! You did it!
+
+Here you go, you deserve it!
+
+I wonder...
+
+Why would people throw chocolate down the elevator shaft?
+
+And yet, it smells like chocolate down here?
+
+I-I can hear you in there.
+
+I need to talk to you.
+
+Leave me alone.
+
+You know I can't do that, right?
+
+You're my big sister!
+
+I'm supposed to be around you to annoy you.
+
+Y-You...you don't understand.
+
+Luzia, you will never understand!
+
+But Sombie...
+
+I do understand.
+
+I understand what it's like to be alone.
+
+To have no one.
+
+To have no life left to live.
+
+That's why I made the loop.
+
+You're just say...
+
+Wait! What?!
+
+I know who I really am now.
+
+I am the one who caused all this.
+
+You can't be!
+
+I made this loop to protect you.
+
+To protect me from what?!
+
+F-From...
+
+...killing yourself.
+
+Killing myself?!
+
+It's starting to make sense now.
+
+Sombria, this is the place...
+
+Where you die.
+
+You are not my sister!
+
+I was scared!
+
+I was scared that I might lose you!
+
+I was never going to!
+
+I was going to chicken out!
+
+Sometimes...we don't chicken out.
+
+I know I can't stop you...
+
+Even though I tried to.
+
+I know this is not my choice.
+
+It's yours.
+
+I can't save you...
+
+But I can help you.
+
+We still have a shot to break the loop.
+
+You need to trust me.
+
+Sombie! Show him! Please! 
+
+I...
+
+...O-okay.
+
+We need to do this together.
+
+I think you were right about what you said before.
+
+About what?
+
+That this feels like someone else's problem.
+
+I don't know what is going to happen.
+
+But I want you there when something does.
+
+Luzia, thank you.
+
+For everything.
+
+So are you coming?
+
+In a minute.
+
+I sorta need to go while I'm in here anyway.
+
+Okay, I'll meet you at the exit.
+
+I found this doll.
+
+Do you want it?
+
+I can't leave without Sombie.
+
+Subway Office
+
+Vending Machine
+
+Cubicle
+
+Elevator
+
+Tickets
+
+CandyBar
+
+*Sigh* ...so hungry.
+
+There's something in the tray!
+
+It's a candy bar!
+
+A very old candybar!
+
+Yuck!
+
+Maybe Sombie will eat it.
+
+I could enter through here!
+
+If I were a lot smaller.
+
+I need to find something to widen the gap.
+
+I'll use this to pry open the window.
+
+I can just unlock the door now.
+
+GatePC
+
+It's an old computer.
+
+At least it still works.
+
+Gate Control.
+
+It must open the gate next door.
+
+But it says it needs power.
+
+Back up generator located in the basement.
+
+Access the basement via elevator.
+
+How am I going to use an elevator without power?
+
+Okay, now we have power.
+
+GateOpened
+
+I can hear...laughing.
+
+There's a strange sound coming from this tunnel.
+
+I think I'll leave it for now.
+
+It's locked and won't budge.
+
+Subway Main
+
+Ticketway
+
+AbandonedTunnel
+
+MeetVerd
+
+Boop!
+
+He he!
+
+Another one to play with!
+
+Who am I?
+
+I asked first!
+
+Well, you're cheeky, aren't ya!
+
+I am Verdinya, but everyone calls me Verd.
+
+Everyone?
+
+Yes!
+
+I have friends ya know!
+
+So what are you doing here?
+
+My sister and I are trying to get home.
+
+We just got off the train.
+
+Train?
+
+Trains haven't come through this subway for 10 years!
+
+Wait?!
+
+How can you see me right now?!
+
+You're alive?!
+
+So you're a ghost huh?
+
+I'm not a ghost!
+
+I'm a girl!
+
+I'm just a dead girl!
+
+What is your name?!
+
+My name is Luzia...I think.
+
+...Luzia?
+
+You know me already?
+
+You're the one that did this to us!
+
+What?! Me?!
+
+Yes! You witch!
+
+I'm no...
+
+...witch?
+
+Thanks to you, we're all stuck in limbo!
+
+Don't act dumb with me!
+
+You're The Red Witch!
+
+WHAT?!
+
+THAT'S NOT TRUE!
+
+THAT'S IMPOSSIBLE!
+
+You are!
+
+You're just...
+
+A little girl?
+
+That's because I am not the witch!
+
+All of us deadies know you are!
+
+To obtain ones true desire, The Red Witch will conspire!
+
+You cannot lie to me!
+
+But I'm...not...me...
+
+Am I really the witch?
+
+Why does everyone hate me?
+
+Because you left us all in purgatory!
+
+In this godforsaken loop!
+
+The loop?
+
+Did I create the loop?
+
+You don't know your own story?
+
+Damn! You really did lose your mind!
+
+I-I don't remember anything.
+
+The last thing I remember is waking up.
+
+I couldn't sleep, so I went to find Sombria.
+
+I know Sombria!
+
+She's the girl that comes here to cry!
+
+To cry?
+
+She said she comes here when she's...
+
+Depressed?
+
+Yeah, she does depress a lot, he he!
+
+Why did I create this loop?
+
+To punish us!
+
+You put all of us in Purgatory!
+
+All for your sister's sake!
+
+My sister?
+
+What are you talking about?
+
+Do you know why your sister comes here all the time?!
+
+Because she's depressed?
+
+Ha ha!
+
+All of us have a tragic story of how we died.
+
+Your sister is looking for hers too.
+
+...no...Sombie.
+
+You created the loop to trap her and all of us here!
+
+Just so you could keep her alive!
+
+JUST LET HER DIE!!!
+
+So we all can!
+
+I...I can't.
+
+You don't understand, she is my sister!
+
+I don't understand?
+
+I'M ALREADY DEAD!
+
+I CAN'T MOVE ON!
+
+We all have to make choices that we don't like.
+
+What would happen if she did?
+
+We could all move on.
+
+The loop would be broken.
+
+I have a hard choice to make.
+
+You owe us.
+
+We've suffered a lot longer than you have.
+
+I need to speak to Sombria.
+
+I'll be back.
+
+Well, I ain't goin' no where.
+
+Thanks to you.
+
+LastChance
+
+So...
+
+What's it gonna be? Witch.
+
+I have made my decision.
+
+And?
+
+I'm going to break the loop.
+
+I'm going to be free from this nightmare?!
+
+Yes, we all will.
+
+Including my sister.
+
+W-What?!
+
+No!
+
+Please!
+
+We have suffered enough!
+
+I don't know if I am one who made the loop.
+
+But I do know, that I am the one to end it.
+
+Let her die!
+
+It's the only way!
+
+There is...another.
+
+I know there is.
+
+FINE!
+
+JUST LEAVE US HERE!
+
+YOU WITCH!
+
+Verd.
+
+GO AWAY!
+
+Before I go.
+
+I thought you may want your doll back.
+
+M-Molly?!
+
+W-Where did you find her?!
+
+My sister found her.
+
+I-I lost her, over 10 years ago.
+
+I died trying to find her.
+
+I...fell, onto the tracks.
+
+How did you know she was mine?
+
+I know what it's like to lose someone special.
+
+It's a special sense you get.
+
+T-Thank you.
+
+We're just like you.
+
+Trying to find a way home.
+
+It looks like I was told a lie.
+
+The Noodle Lady was wrong about you.
+
+The Noodle Lady?
+
+She talks about the story of The Red Witch all the time.
+
+But she never mentioned you to be so...nice.
+
+The Noodle Lady told you I was The Red Witch?
+
+She said, only The Red Witch can break the loop.
+
+But to break it, she must spill the blood of her sister.
+
+I-I'm sorry for how I acted back there.
+
+I've forgotten that I was once was alive.
+
+I will break the loop...I promise.
+
+Good luck, Luz...
+
+What is it?
+
+There's that laugh again.
+
+We... G-good luck Luzia.
+
+???
+
+ACH_RETURN_DOLL
+
+Offices
+
+Who...
+
+...are you?
+
+Don't you remember me?
+
+You're...me?
+
+Mmhmm?
+
+Well, I am actually Luzia thank you very much!
+
+You're just a cranky old lady!
+
+Want to play games huh?
+
+I love to play games!
+
+How about truth or dare?
+
+W-What?
+
+*Sigh* Truth or dare.
+
+Okay, okay...truth.
+
+Playing it safe, huh? Okay.
+
+Have you ever kissed a boy?
+
+Okay, your turn.
+
+Truth or...
+
+Dare! Ha!
+
+Watcha gonna do now?!
+
+Well I dare you to kill me!
+
+COME ON! KILL ME!
+
+NO!
+
+KILL YOURSELF!
+
+...Truth.
+
+Why are you naked?
+
+Because I've got nothing to hide.
+
+Wait, isn't it my turn?
+
+We've all had enough turns at this game.
+
+I want you to end it.
+
+...How do I end the loop?
+
+Kill The Red Witch.
+
+Who is The Red Witch?
+
+...Dare.
+
+Kill me...
+
+For Sombria.
+
+Why is that your answer?
+
+Sombie has suffered enough from me.
+
+Ever since I was little.
+
+All I ever did was get in her way and interrupt her life.
+
+I don't deserve someone like her.
+
+Go home...
+
+Just go...now.
+
+Self sacrifice...
+
+Your mother was pathetic, in giving you my name...
+
+I did what was possible to keep my daughters alive.
+
+But you're not going to take them away from me.
+
+ACH_FAKE_LUZIA
+
+We made it!
+
+Sombie! We're finally home!
+
+Yes...we did
+
+It's good to finally see home again.
+
+And now we can stop this cursed loop, and bring you back to normal!
+
+...Right?
+
+I-I guess so.
+
+Are you feeling alright, Luzia?
+
+I feel great! Just like pickles!
+
+Why? Aren't you feeling good, too?
+
+O-Oh I am, but, you seem different.
+
+You seem...normal?
+
+Umm, what are you talking about?
+
+I've always been normal?
+
+You seem, less intelligent than before.
+
+Hey! What's that supposed to mean?!
+
+Are you calling me dumb?!
+
+N-No no, I didn't mean it like tha...
+
+Well, you're ugly! And stupid!
+
+And you look like a freak!
+
+Maybe...I am just a freak after all.
+
+That's right! Run!
+
+BobbyPin2
+
+Another bobby pin?
+
+How many does Sombie need to keep those balls of hair up?
+
+The ground is soft here.
+
+If only I had a shovel.
+
+It's The Butcher's knife?
+
+There's some writing on the handle.
+
+Good luck kid! Butcher.
+
+Heh, he trusts me with knives now.
+
+Y-Yes...I was sick
+
+My poor darling.
+
+Once you're done up there, I will make you a bowl of noodles.
+
+Is there something wrong, Luzia?
+
+You seem, shaken.
+
+W-Who me?
+
+I'm fine
+
+If you say so.
+
+I'll wait here until you return.
+
+I just want to say...thanks.
+
+For helping me understand Sombria.
+
+Oh, you're very welcome my dear.
+
+I know what I have to do.
+
+Where'd she go?!
+
+The big cry baby!
+
+It's cold outside.
+
+The windows are frosting over.
+
+That's enough imagination for me.
+
+Hey, can I ask you something?
+
+Who? Me?
+
+Yes, you.
+
+You can ask me anything my dear.
+
+Truth or dare?
+
+This isn't the time to be playing gam...
+
+Truth...or dare?
+
+Fine!
+
+Truth!
+
+I've told you before!
+
+I am Yokona Kagam...
+
+You're lying again.
+
+Luzia, you shouldn't be putting your nose into...
+
+You seemed so eager to play this game with me before.
+
+So, play it with me now.
+
+Who are you?!
+
+I'm...Luzia...Sombria's conscience.
+
+I am an older envision of you.
+
+But a far better one.
+
+Wait! Don't I get a turn?
+
+Haven't you had enough turns at this game?
+
+Why am I so different now?
+
+Pfft!
+
+Haven't you noticed anything lately?
+
+Now that your mother is gone...
+
+Your personality will change, back to its stupid old self.
+
+Your pathetic mother's spirit was infused with yours.
+
+Until she died! HA!
+
+She failed to break the loop!
+
+Now you will follow in her footsteps!
+
+Enough of this pathetic game!
+
+Your time is up, Luzia!
+
+TRUTH OR DARE!
+
+DARE!!!
+
+What are you gonna do about that!
+
+*Sniff*
+
+I d-dare..
+
+I dare you..
+
+WHAT?! WHAT DO YOU DARE ME TO DO?!
+
+I dare you, to listen to my little secret.
+
+A secret?!
+
+HA HA HA! Is that all?!
+
+Okay, Luzia.
+
+What's your secret?
+
+For telling me the truth.
+
+Finally.
+
+I could really could just go back to bed.
+
+I've missed you so much.
+
+Wow! I never thought I'd ever say that!
+
+But...I feel...
+
+So...sleepy...
+
+NO! I can't go to sleep just yet!
+
+I can't keep my eyes open.
+
+I can't take it anymore.
+
+Zzz.
+
+ACH_DONT_CARE_ANYMORE
+
+BobsScrewdriver
+
+Say your prayers screws!
+
+I always loved this picture.
+
+My bow looks great!
+
+Thanks, mom!
+
+I'll let her stay in there until she wants to be nice to me.
+
+Besides, it's locked anyway...
+
+And, awfully...quiet?
+
+H-Hey Sombie?
+
+I just wanted to check on you.
+
+No, not yet.
+
+I'm still mad at her.
+
+I'll come back in a little while.
+
+I can't use it.
+
+ACH_THE_LOOP
+
+My Big Sister
+
+By Stranga Games
+
+[[[
+
+STORY/CONCEPT/CHARACTERS
+
+Stranga Games and Duckman
+
+[[
+
+SPRITES/ARTWORK/SCRIPTING/MUSIC/SOUNDS
+
+Stranga Games
+
+CREDITS THEME SONG
+
+By Stranga Games and Monsta Matt Henderson
+
+ADITIONAL SOUNDS
+
+Provided by various royalty free websites.
+
+GAME TESTERS
+
+Duckman
+
+TRANSLATORS
+
+Arthur Pereira de Menezes
+
+PROOF READERS
+
+Taeorae
+
+Dr. Stanley Stepanic.
+
+PATREONS
+
+sarah diaz
+
+Peat Z.
+
+Karl Savant
+
+André Policarpo
+
+SPECIAL THANKS
+
+Credits Module 1.17 by SSH
+
+Grab The Games
+
+My Wife and Sons! Love you both so much!
+
+[[[[[
+
+GAME ENGINE
+
+Adventure Game Studio
+
+Thanks for playing!
+
+THE BAD ENDING
+
+Sombie.
+
+S-She's...gone.
+
+She told you didn't she?
+
+She told you everything.
+
+She did.
+
+So what are you going to do now?
+
+I have to do what is right.
+
+Then do it.
+
+Where are you going?
+
+I'm going to bed, it's late.
+
+What do you mean it's late?
+
+Why won't you kill...
+
+Because I don't have to.
+
+I may be twelve, but I can tell when a story is done.
+
+I'll see you in the morning.
+
+But...h-how?
+
+...Sombria
+
+She doesn't know...does she?
+
+What?! She doesn't know?
+
+How many times has she been in this godforsaken loop?
+
+She needs to wake up.
+
+You know she won't
+
+She needs to die!
+
+Wait. Is that what you saw in the tunnel Sombria?
+
+You know you cannot save her?
+
+I can try.
+
+She saved me remember?
+
+Besides, she's my sister...
+
+Thank you for playing My Big Sister.\n\n(press button to continue)
+
+...Is this how your story ends?
+
+I'm sure you can find a better ending than this one.
+
+Gee, you're up early.
+
+I wanted to *munch* eat some cereal!
+
+I can see that.
+
+Sooo...
+
+About last night?
+
+You mean this morning?
+
+Yes, I mean this morning.
+
+Yeah?
+
+How did you know?
+
+How did I know what?
+
+How did you know how to break the loop?
+
+Oh! *Munch* That!
+
+See, what I did was *munch,munch,munch*
+
+And then,*munch,munch,munch*
+
+Oh! And I also,*munch,munch,munch*
+
+And voila!,*munch,munch,munch*
+
+What kind of cereal are you eating anyway?
+
+Crunchy hearts! What else!
+
+Uh, why is the milk red?
+
+And what's that lump in the middle of the bowl?
+
+It's just cereal, okay! *Munch*
+
+Geez! *munch munch*
+
+ACH_A_MOTHERS_HEART
+
+Can you not talk with your mouth full.
+
+It's disgusting!
+
+There! Your majesty!
+
+Now...
+
+Before you say anything...
+
+I want to say...
+
+Love you, big sis.
+
+And I love you too, ya little knuckle head!
+
+If you tell anyone I said that, I'll really kill you.
+
+Yeah, sure.
+
+Hey, listen.
+
+Do you wanna go grab some waffles or something at Daisy's?
+
+AHHH! I haven't had waffles in ages!
+
+You better not be lyin' to me!
+
+Come on, go get ready.
+
+I'm already ready!
+
+ACH_A_HAPPY_ENDING
+
+Hey! What are you doing in our house?!
+
+Oh, me?
+
+I thought I'd drop by.
+
+Just to see if you two made it back alright.
+
+It took a while, but we made it!
+
+So, where's your sister?
+
+Pffft, probably crying in her room.
+
+Serves her right for calling me dumb.
+
+Now that is not very sisterly, is it?
+
+I don't care!
+
+She should be nice to me!
+
+Yes, she should.
+
+That's right!
+
+She should!
+
+It's not like she thanked me for helping her get home or anything!
+
+And it was me who did everything!
+
+Maybe we should remind her of your efforts, Luzia.
+
+But how?
+
+Just tell her how ungrateful she was for you help.
+
+That she just got in your way.
+
+She is going to get it!
+
+Not another sink.
+
+It's Sombie's mug.
+
+It smells like ciggaretts.
+
+I remember when Sombie caught her hands...
+
+Wow...
+
+That's not even funny anymore.
+
+I don't need  to do that.
+
+There's a picture on here.
+
+It's the basement door.
+
+But, the door looks like it's gonna fall off anyway.
+
+The screws on the hinges are loose.
+
+TrueEnding
+
+Ah, you called my name.
+
+It seems my mother was wrong. You are the smart one.
+
+Not, Luzia.
+
+Now that we're finally meeting, would you like to see something?
+
+I can show you the TRUE ending to this story.
+
+Are you ready?
+
+Then kill my mother, and save Sombria.
+
+I can hear something.
+
+It sounds like someone calling my name.
+
+Should I call back?
+
+It's a mirror.
+
+Basement Door
+
+Mirror
+
+...L-Luzia.
+
+A-Are you still there?
+
+W-What have you done?
+
+M-My heart...
+
+Why didn't you just let me die?
+
+What's all this noise down here?
+
+Sombria?!
+
+Is that you?!
+
+MOM?!
+
+What are you doing down here?!
+
+What happened to you?!
+
+Sombria, please tell me you took the key with you?
+
+W-What? N-No it's upstairs...
+
+What was that?!
+
+Luzia?!
+
+Luzia! Unlock this door right now!
+
+LUZIA!!!
+
+I-Is s-someone there?
+
+H-Hello?
+
+Lu...Luzia?!
+
+Is that really you!
+
+W-What are you?!
+
+I-It's me!
+
+P-please remember!
+
+It's me!
+
+M-Mom?!
+
+Y-Yes my sweetheart.
+
+MOM!!!
+
+This is going to sound strange to you...
+
+But...your sister did this.
+
+She created this place, these people...these stories.
+
+This is all Sombie's fault?!
+
+Y-Yes...and n-no.
+
+See, your sister is a very special girl.
+
+So I'm not special?!
+
+You girls are very special to me.
+
+I-I mean Sombria's a witch.
+
+SOMBIE'S THE RED WITCH?!
+
+Y-Yes...
+
+H-How do you know that?
+
+All this time I thought I was!
+
+Y-You've been speaking to t-the Noodle Lady have you?
+
+Yes, how do you know that?
+
+I-It's the loop.
+
+Everything that you've seen, heard and felt...
+
+They're all just distractions.
+
+I-It's Sombria's emotions...her imagination.
+
+She created all of it....
+
+But, why?
+
+B-Because...
+
+S-She's...
+
+...Depressed.
+
+I've tried to talk to her.
+
+But she won't listen to me.
+
+I-I tried to break the loop m-myself.
+
+But...I failed.
+
+T-That's why I'm here.
+
+But, you still have a chance, Luzia.
+
+But why me?
+
+I haven't been myself lately.
+
+B-Because you two are sisters, Luzia.
+
+For some reason, you both can understand each other.
+
+I can't explain it...
+
+But, you two have a special connection with each other.
+
+Y-You, share each others thoughts, emotions and imagination.
+
+I guess, parents just don't get it.
+
+But, Luzia...
+
+You...
+
+Have to kill Sombria...
+
+But...I can't.
+
+Luzia! Please! I would have it any other way!
+
+But this is the only way!
+
+I can't kill my sister!
+
+You have to, Luzia!
+
+Please, it will bring everything to peace...
+
+Even your sister.
+
+How do I know you're not lying to me?!
+
+You were never there when we needed you!
+
+Luzia! I did everything I could for you girls!
+
+I even risked my own life, to save Sombria!
+
+I've sacrificed myself, to make sure you both have a life!
+
+Please...you have to trust me.
+
+But how would I kill her?
+
+I left you a clue under Sombie's door.
+
+I'm not sure if you got it earlier.
+
+So I put it on the refrigerator.
+
+Please...do this for Sombria.
+
+I...I...
+
+I know...
+
+I can't make up your mind for you.
+
+That's for you to decide...and you only.
+
+Just, promise me something, Luzia.
+
+Yes mommy?
+
+Never forget, that I love you both, so very very much...
+
+I won't, I promis...
+
+Mom?!
+
+It's mom's gardening shovel.
+
+...mom...
+
+MomsHeart
+
+It's been a while since we've been here.
+
+Where are my damn waffles!
+
+Hey, take it easy tiger.
+
+I need waffles!
+
+Sorry sis.
+
+But I've been in a coma for like forever!
+
+Okay, okay.
+
+I see you're back to your normal self again.
+
+No, I'm back to my hungry self.
+
+WHERE ARE THESE DAMN WAFFLES?!
+
+H-Hey, Luzia.
+
+Can I show you something after breakfast?
+
+It's sorta' my secret place to chill out.
+
+It's not a boring place is it?
+
+No way! It's got everything!
+
+A swing, a great view and big ol' tree!
+
+Does it have dinosaurs?
+
+W-Well, no.
+
+Then it doesn't have everything.
+
+*Sigh* Lil' sis, I've missed you.
+
+And I've missed you too, Sombie.
+
+And you're long arms.
+
+Where are my damned waffles!
+
+Sorry sis, but I need something other than noodles!
+
+Wow! I didn't think you'd ever get sick of food.
+
+Hey now! I said noodles, not food!
+
+You leave food alone!
+
+Okay, okay, geez.
+
+Yeah...
+
+I know, Luzia.
+
+I'm sorry about mom.
+
+You couldn't help it.
+
+I know she's still here.
+
+Nagging us to brush our teeth and stuff.
+
+Heh, maybe you to brush your teeth.
+
+You mean, this whole time you were off the hook?!
+
+I would have made you brush your teeth with the toilet brush!
+
+Heh, it's good to have you back, Luzia.
+
+And you too, big sis!
+
+You know...
+
+You still haven't told me how you figured all this out.
+
+I know.
+
+It's our little secret.
+
+Our secret?
+
+But you haven't told me?
+
+No, not you.
+
+The person behind the screen.
+
+Okay, Luzia. Whatever you say.
+
+Hey! After breakfast, I wanna show you something.
+
+My little secret.
+
+Okay, but it better not be a crab with a knife!
+
+Those things are dangerous!
+
+Luzia, you need to stop watching too much tv.
+
+Think of what?
+
+This place?
+
+It's pretty neat.
+
+It has a swing after all.
+
+Well, at least you're enjoying yourself.
+
+This is my secret place!
+
+I usually come here to chill out.
+
+But I can't anymore.
+
+How come?
+
+Because I have to baby sit you silly!
+
+But now, we can enjoy it together.
+
+Hey, Sombie!
+
+Mhmm?
+
+Who are all those people?
+
+What people?
+
+All the people at the hospital.
+
+They said goodbye to you when we were leaving.
+
+Oh, they were just the regulars.
+
+I've been visiting you every day.
+
+So I got to know them.
+
+Huh, the funny thing is though...
+
+They were all in my dream.
+
+But, they weren't people.
+
+They were ghosts!
+
+That's the imagination of a girl who watches too much TV!
+
+Hey! At least I have an imagination.
+
+Yours would just be about boys and depressing music.
+
+And I wouldn't change it for the world.
+
+Speaking of boys...
+
+You still seeing that loser?
+
+Geez, when did you learn all of these fancy words?
+
+And no.
+
+I caught him making out with another girl...
+
+In the back of his truck.
+
+Doesn't he move furniture in that?
+
+He did...until I rang his boss.
+
+Kissing in a truck...eww, that's gross!
+
+Don't ever change.
+
+I won't.
+
+But only if we can stay up late.
+
+And, watch some scary movies!
+
+Just don't tell mom.
+
+It's okay, I guess.
+
+This is my secret I was telling you about!
+
+I used to come here everyday, after school.
+
+It's...relaxing.
+
+Lucky this place has a swing!
+
+Otherwise, it would be boring!
+
+Nothing ever pleases you, does it?
+
+...Yeah...some things.
+
+Like...stuff.
+
+Is it weird talking to me like this?
+
+Well...yeah, a little.
+
+You've never been this...happy, before.
+
+Yeah, that is weird.
+
+So...what's gonna happen now?
+
+Well, I guess I'm gonna have to look after you.
+
+Seeing how...
+
+Don't worry, her heart will always be inside of me.
+
+*That sounded so weird*
+
+It'll be okay.
+
+Now that I have my big sis looking after me...
+
+I can stay up as late as I want!
+
+Oh no you ain't!
+
+If you disobey me, you're living with Aunty Claire!
+
+WHAT?! NO!
+
+Her house is way too creepy!
+
+Besides, she'll make me sleep with baby Mark!
+
+He'll keep me up all night!
+
+Hey, Luzia.
+
+Calm down, I'm just kidding.
+
+Hey, Sombie.
+
+If you're the witch...
+
+Where's your pointy hat and broom?
+
+Luzia, I think this would be the best time to tell you.
+
+We come from a very strange family.
+
+Mom once told me that you and I share our great ancestors gift.
+
+A gift?
+
+Like super powers?
+
+Ha! No, more like...un-natural abilities.
+
+Well, that's what mom called it.
+
+Mom made me see that therapist every week.
+
+Because you were depressed?
+
+She wanted me to control my emotions.
+
+But, when I couldn't control them anymore.
+
+I created the...loop.
+
+Please, don't make another one!
+
+I can't stand the sight of noodles anymore!
+
+Ha ha! I don't think I will, Luzia.
+
+I'm free to do what I want now.
+
+Except smoking!
+
+You promised!
+
+I said maybe, Luzia.
+
+Hmm, okay.
+
+What's my gift?
+
+I-I don't know, Luzia.
+
+Mom said you did have one.
+
+She just said you have a great imagination.
+
+Thats not really a gift.
+
+Everyone has an imagination, Sombie!
+
+I guess you just have one of a kind.
+
+IN MEMORY OF MY COUSIN BLAKE
+
+Always thinking of you!
+
+Japanese
+
