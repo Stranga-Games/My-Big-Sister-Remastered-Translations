@@ -5,7 +5,7 @@ As you may know, My Big Sister:Remastered has very few translations as they are 
 
 INSTRUCTIONS
 
-1/Download the "English.trs" file to your pc.
+1/Download the "English.trs" (or which ever languiage you wish to update "Portuguese.trs, Spanish.trs" e.c.t) file to your pc.
 
 2/Open this link in any web browser: https://tzachshabtay.github.io/ags-trs-editor/
 
