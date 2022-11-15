@@ -1,7 +1,7 @@
 # My Big Sister:Remastered-Translations
 For those who wish to translate MBSR in other languages other than the ones provided at launch
 
-As you may know, My Big Sister:Remastered has very few translations as they are quite expensive for a heavy text based game and I can't afford to translate it into any other languages at this time, I deeply apologies to any of those who were missed. However, I'm opening up this file so that the community can add their own translations to MBSR, if they wish.
+As you may know, My Big Sister:Remastered has very few translations as they are quite expensive for a heavy text based game and I can't afford to translate it into any other languages at this time, I deeply apologies to any of those who were missed. However, I'm opening up this file so that the community can add their own translations or edit existing translations for MBSR, if they wish.
 
 INSTRUCTIONS
 
