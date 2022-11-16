@@ -19,61 +19,61 @@
 // ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
 // ** NOT CHANGE THE EXISTING TEXT.
 ACH_GOTCHA
-Ach_gotcha
+
 Game Paused
-Игра пришла к выводу
+Игра Приостановлена
 Game UnPaused
-Игра не разоблачена
+Игра Возобновлена
 WaitForLongest: duration1 cannot be negative!
-Waitforlongest: Duration1 не может быть отрицательным!
+WaitForLongest: duration1 не может быть отрицательным!
 WaitForLongest: duration2 cannot be negative!
-Waitforlongest: duration2 не может быть отрицательным!
+WaitForLongest: duration2 не может быть отрицательным!
 WaitForLongest: duration3 cannot be negative!
-Waitforlongest: Duration3 не может быть отрицательным!
+WaitForLongest: duration3 не может быть отрицательным!
 WaitForLongest: duration4 cannot be negative!
-Waitforlongest: duration4 не может быть отрицательным!
+WaitForLongest: duration4 не может быть отрицательным!
 WaitForLongest: duration5 cannot be negative!
-Waitforlongest: Duration5 не может быть отрицательным!
+WaitForLongest: duration5 не может быть отрицательным!
 WaitForLongest: duration6 cannot be negative!
-Waitforlongest: продолжительность 6 не может быть отрицательным!
+WaitForLongest: duration6 не может быть отрицательным!
 SetTimerForLongest: timeout1 cannot be negative!
-SetTimerForlongest: Timeout1 не может быть отрицательным!
+SetTimerForLongest: timeout1 не может быть отрицательным!
 SetTimerForLongest: timeout2 cannot be negative!
-SetTimerForlongest: Timeout2 не может быть отрицательным!
+SetTimerForLongest: timeout2 не может быть отрицательным!
 SetTimerForLongest: timeout3 cannot be negative!
-SetTimerForlongest: Timeout3 не может быть отрицательным!
+SetTimerForLongest: timeout3 не может быть отрицательным!
 SetTimerForLongest: timeout4 cannot be negative!
-SetTimerForlongest: Timeout4 не может быть отрицательным!
+SetTimerForLongest: timeout4 не может быть отрицательным!
 SetTimerForLongest: timeout5 cannot be negative!
-SetTimerForlongest: Timeout5 не может быть отрицательным!
+SetTimerForLongest: timeout5 не может быть отрицательным!
 SetTimerForLongest: timeout6 cannot be negative!
-SetTimerForlongest: Timeout6 не может быть отрицательным!
+SetTimerForLongest: timeout6 не может быть отрицательным!
 Cannot create new tween because the Tween module is currently playing %d tween(s), which is the maximum. You can increase this max number on the Tween module script header.
-Невозможно создать новую tween, потому что модуль Tween в настоящее время играет %d tween (ы), что является максимумом. Вы можете увеличить это максимальное число в заголовке скрипта модуля Tween.
+Невозможно создать новый tween, потому что модуль Tween в настоящее время играет %d tween(ов), что является максимумом. Вы можете увеличить это максимальное число в заголовке скрипта модуля Tween.
 Cannot create Tween. Invalid index!
-Не может создать подростку. Недейтельный индекс!
+Невозможно создать Tween. Недействительный индекс!
 WMIygj
-Wmiygj
+
 -=+.,:;!?
--=+., :;!?
+
 Save:
-Сохранять:
+Сохранить:
 Room Name
-Название комнаты
+Название Комнаты
 Saving Game...
-Сохранение игры ...
+Сохранение Игры...
 Game Saved.
-Игра спасена.
+Игра Сохранена.
 Select a slot to save.
-Выберите слот, чтобы сохранить.
+Выберите слот для сохранения.
 No save slots detected.
-Не обнаружено сохранения слотов.
+Слотов сохранения не обнаружено.
 Load Game
-Загрузить игру
+Загрузить Игру
 Select a slot to load.
 Выберите слот для загрузки.
 %d
-%d
+
 Hello?
 Привет?
 Is anybody there?
@@ -81,45 +81,45 @@ Is anybody there?
 Please, I need your help.
 Пожалуйста, мне нужна твоя помощь.
 Luzia, can't do this on her own...she needs you.
-Лузия, не могу сделать это самостоятельно ... она нуждается в тебе.
+Люция не сможет сделать это сама...она нуждается в тебе.
 Are you going to help her or not?
-Собираетесь ли вы ей помочь или нет?
+Ты собираешься ей помочь или нет?
 Well?
-Что ж?
+Ну?
 Hurry up, you're running out of time.
-Спешите, у вас не хватает времени.
+Быстрее, у тебя кончается время.
 You can't do it? Can you?!
-Ты не можешь этого сделать? Не могли бы вы?!
+Ты не можешь это сделать? Не так ли?!
 You don't have what it takes!
-У тебя нет того, что нужно!
+В тебе нет того, что для этого нужно!
 Well? DO SOMETHING!
-Что ж? СДЕЛАЙ ЧТО-НИБУДЬ!
+Ну? СДЕЛАЙ ХОТЬ ЧТО-НИБУДЬ!
 It's too late, there's nothing you can do now.
-Слишком поздно, сейчас ты ничего не можешь сделать.
+Слишком поздно, теперь ты ничего не можешь сделать.
 Goodbye.
-До свидания.
+Прощай.
 ERROR: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
-Ошибка: нулевая ошибка, упомянутая в Timervalue. [Пожалуйста, свяжитесь с разработчиком игры, чтобы сообщить об этом сообщении. [Нажмите любую клавишу, чтобы закрыть это поле сообщения и игру ...
+ОШИБКА: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
 ACH_SOMBIE_DEATH
-Ach_sombie_death
+
 ...
 ...
 itemDescription
-описание товара
+
 Main Menu
-Главное меню
+Главное Меню
 Windowed
-Окно
+Оконный
 Full Screen
 Полноэкранный
 V 0.3
-V 0,3
+
 English
 Английский
 Spanish
-испанский
+Испанский
 Portuguese
-португальский
+Португальский
 French
 Французский
 German
@@ -127,93 +127,93 @@ German
 Russian
 Русский
 Turkish
-турецкий
+Турецкий
 Polish
-Лак
+Польский
 Japanese
 Японский
 The Marketplace
 Рынок
 A Bad Dream
-Плохой сон
+Плохой Сон
 Is this all real
-Это все реально
+Это все реально?
 Taken
-Взятый
+Похищенные
 Escape
 Побег
 Of Blood and Water
-Крови и вода
+Из Крови и Воды
 A long ride home
 Долгая поездка домой
 The Bus Stop
-Автобусная остановка
+Автобусная Остановка
 Cold Rails
-Холодные рельсы
+Холодные Рельсы
 Wake Up
 Вставай
 Our Last Stop
-Наша последняя остановка
+Наша Последняя остановка
 Break or Strengthen
-Сломать или укреплять
+Сломись или Стань Сильнее
 Happy Ending
-Счастливый конец
+Счастливый Конец
 Real End
-Реальный конец
+Настоящий Конец
 ACH_TALK_OF_THE_TOWN
-ACH_TALK_OF_THE_TOWN
+
 Good Ending
-Хороший конец
+Хороший Конец
 Bad Ending
-Плохой конец
+Плохой Конец
 MushroomCount
-Грибконт
+
 Mom's Heart
-Сердце мамы
+Сердце Мамы
 Chapter Select Unlocked
-Глава выберите разблокирован
+Выбор Главы Разблокирован
 I can't use this here.
 Я не могу использовать это здесь.
 Who drew this?
 Кто это нарисовал?
 A
-А
+
 Chinese
-китайский язык
+Китайский
 Italian
 Итальянский
 L
-Л
+
 U
-U
+
 Z
-Z.
+
 I
-я
+
 S
-С
+
 T
-Т
+
 R
-р
+
 N
-Не
+
 G
-грамм
+
 Nice try! But you're a letter short...sorry.
-Хорошая попытка! Но ты короткий письмо ... извините.
+
 Thank you very much for playing my games! :D
-Большое спасибо за то, что играли в мои игры! : D.
+Большое спасибо за то, что играли в мои игры! :D
 H
-ЧАС
+
 It's nice to be in the real world once more!
 Приятно снова быть в реальном мире!
 It seems I was wrong. You are the smart one.
-Кажется, я был неправ. Вы умный.
+Кажется, я была неправа. Вы умны.
 You helped Luzia escort me out of that god forsaken bathhouse...
-Вы помогли Лузии вычеркнуть меня из этой оставленной баня Бога ...
+Вы помогли Люции вытащить меня из этой забытой Богом бани...
 and now that we're finally meeting, I would like to show you something special.
-И теперь, когда мы наконец встречаемся, я хотел бы показать вам что -то особенное.
+и теперь, когда мы наконец встретились, я хотела бы показать вам что-то особенное.
 I can show you the real ending to this story.
 Я могу показать вам настоящий конец этой истории.
 Are you ready?
@@ -225,17 +225,17 @@ Good luck, the one behind the screen.
 Nothing happened.
 Ничего не произошло.
 Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
-Кредитный модуль достиг максимум %D LINES, Contact Game Author и сообщите им увеличить credit_max_lines
+
 %c
-%c
+
 %4d %4d %s
-%4D %4D %s
+
 Press ESC to skip
 Нажмите ESC, чтобы пропустить
 Save Screenshot as:
-Сохраните скриншот как:
+Сохранить Скриншот как:
 Starting a New Game will erase previous saved Game. Continue?
-Запуск новой игры будет стереть предыдущую спаскую игру. Продолжать?
+Начало Новой Игры сотрёт предыдущую сохранённую игру. Вы хотите продолжить?
 YES
 ДА
 NO
@@ -247,37 +247,37 @@ Action
 Inventory
 Инвентарь
 Menu / Skip Cutscene
-Меню / Скип Центр
+Меню / Пропуск Катсцен
 W S A D
-W S A D
+
 ENTER
-ВОЙТИ
+
 E
-Е -
+
 ESC
-ESC
+
 Press ESC to return to menu
 Нажмите ESC, чтобы вернуться в меню
 New Label
-Новый лейбл
+Новый Ярлык
 _
-_
+
 New Button
-Новая кнопка
+Новая Кнопка
 Time:
 Время:
 0
-0
+
 Where to go?
 Куда идти?
 Main Carriage
-Основная карета
+Основной Вагон
 Bedding Carriage
-Постельное белье
+Спальный Вагон
 Luggage Carriage
-Багажная карета
+Багажный Вагон
 Front Carriage
-Передняя карета
+Передний Вагон
 Are you sure you want to quit?
 Вы уверены, что хотите выйти?
 Yes
@@ -285,79 +285,79 @@ Yes
 No
 Нет
 Select Save File
-Выберите файл Сохранить
+Выберите Файл Сохранения
 Auto Save
-Автоэкономить
+Автоматическое Сохранение
 Save State
-Сохранить состояние
+Статус Сохранения
 SELECT CHAPTER
-Выберите главу
+ВЫБЕРИТЕ ГЛАВУ
 SELECT LANGUAGE
 ВЫБЕРИТЕ ЯЗЫК
 Save Game
-Сохранить игру
+Сохранить Игру
 Select Save Slot
-Выберите Слот Сохранить
+Выберите Слот Сохранения
 Hello
 Привет
 Hotspot
 Горячая точка
 GAME PAUSED
-Игра пришла к выводу
+ИГРА ПРИОСТАНОВЛЕНА
 Sound Volume
-Громкость
+Громкость Звуков
 Music Volume
-Музыкальный том
+Громкость Музыки
 Resume Game
-Продолжить игру
+Продолжить Игру
 Fullscreen
 Полноэкранный
 INVENTORY
-Инвентарь
+ИНВЕНТАРЬ
 Item Name
-Название предмета
+Название Предмета
 Description
 Описание
 Mumbo no 5
-Mumbo № 5
+
 INFO
 ИНФОРМАЦИЯ
 ....
-....
+
 Luzia
-Лузия
+Люция
 ITEM FOUND
-Предмет найден
+НАЙДЕН ПРЕДМЕТ
 Blue Mug
-Голубая кружка
+Голубая Кружка
 v1.00
-v1.00
+
 Stranga Games©
-Stranga Games ©
+
 New Game
-Новая игра
+Новая Игра
 Continue
-Продолжать
+Продолжить
 Chapter Select
-ГЛАВА SELECT
+Выбор Главы
 Quit
-Покидать
+Выйти
 Remastered
-Ремастерирован
+
 Settings
 Настройки
 Run
-Бежать
+Бег
 Press any button to continue.
 Нажмите любую кнопку, чтобы продолжить.
 CONTROLS
-Управление
+УПРАВЛЕНИЕ
 Cancel
-Отмена
+Отменить
 Vendor
 Продавец
 Noodle Lady
-Лапша леди
+Лапшичная Леди
 Therapist
 Терапевт
 Ashina
@@ -365,7 +365,7 @@ Ashina
 Nikuya
 Никуя
 Lady on the Wall
-Леди на стене
+Леди на Стене
 Lady
 Леди
 Cyndil
@@ -375,21 +375,21 @@ Landy
 Jimmy
 Джимми
 Laundry Lady
-Прачечная леди
+Прачечная Леди
 Mudo
 Мудо
 Little Jacket
-Маленькая куртка
+Маленький Жакет
 Wiji
-Wiji
+Виджи
 Noodle Gashia
-Лапша Гашия
+Лапшичная Гашия
 Gus
 Гас
 Stretch
-Протяжение
+Стретч
 Verd
-Вод
+Верд
 Mom
 Мама
 New character
@@ -397,11 +397,11 @@ New character
 Mogah
 Мога
 The Red Witch
-Красная ведьма
+Красная Ведьма
 Elevator Man
-Лифт Человек
+Человек-Лифт
 Ash
-Пепел
+Эш
 Tena
 Тена
 Sombria
@@ -411,15 +411,15 @@ Camera
 Spirit Of Roh
 Дух Ро
 Spirit Of Red Witch
-Дух красной ведьмы
+Дух Красной Ведьмы
 Saving Game
-Сохранение игры
+Игра Сохраняется
 Boiler Key
-Ключ для котла
+Ключ от Котельной
 It's an old rusty key to the boiler room.
-Это старый ржавый ключ в котел.
+Это старый ржавый ключ от котельной.
 Blue Cup
-Синяя чашка
+Синяя Чашка
 It's a blue coffee mug.
 Это голубая кофейная кружка.
 Battery
@@ -427,61 +427,61 @@ Battery
 A fully charged battery.
 Полностью заряженная батарея.
 Chopsticks
-Палочки для еды
+Палочки
 An ordinary pair of chopsticks.
 Обычная пара палочек для еды.
 Coat Hanger
 Вешалка
 An old coat hanger.
-Старая вешалка для пальто.
+Старая вешалка.
 Flashlight
 Фонарик
 A small keychain flashlight. Can be used in dark areas.
-Небольшой фонарик для ключей. Можно использовать в темных областях.
+Небольшой фонарик на цепочке для ключей. Можно использовать в тёмных местах.
 Bobby Pin
-Невидимка
+Заколка
 One of Sombria's old...ugh, bobby pin.
-Один из старых ... Тьфу, Бобби Пин.
+Одна из старых... эм, заколок Сомбрии.
 Bloody Picture
-Кровавая картина
+Кровавая Картина
 It's a bloody picture of our...house?
-Это кровавая картина нашего ... дома?
+Это кровавая картина нашего...дома?
 Doll
 Кукла
 An old plush doll. It has markings on inappropriate places.
-Старая плюшевая кукла. У этого есть маркировка на неподходящих местах.
+Старая плюшевая кукла. У неё есть маркировки на неприличных местах.
 Brain
 Мозг
 A squishy model of a brain.
 Мягкая модель мозга.
 Therapy Key
-Ключ терапии
+Ключ Терапевта
 Key to exit the main reception area.
-Ключ для выхода из основной зоны приема.
+Ключ для выхода из основной ресепшены.
 Red Tile
-Красная плитка
+Красная Плитка
 A ceramic red tile. It has a strange groove on the back of it.
-Керамическая красная плитка. У него есть странная канавка на задней панели.
+Керамическая красная плитка. У неё есть странная канавка на задней панели.
 Stranga Mask
-Странга Маска
+Маска Stranga
 A strange looking mask. Such a happy face...
-Странная маска. Такое счастливое лицо ...
+Странно выглядящая маска. Такое счастливое лицо...
 Knife
 Нож
 The blade's a little blunt, but it could still cut through paper.
-Клинок немного тупой, но он все еще может прорезать бумагу.
+Клинок немного тупой, но он все ещё может прорезать бумагу.
 Dead Fish
-Мертвая рыба
+Мертвая Рыба
 It's a dead Koi fish.
-Это мертвая рыба кои.
+Это мертвая рыба Кои.
 A Red Spider Lily
-Красный паук лилия
+Лилия Красного Паука
 It's a beautiful  looking flower but, it has a terrible meaning.
-Это красивый цветок, но он имеет ужасное значение.
+Это красиво выглядящий цветок, но он имеет ужасное значение.
 Wood
 Древесина
 An old piece of timber. It doesn't look safe.
-Старый кусок древесины. Это не выглядит безопасно.
+Старый кусок древесины. Он выглядит небезопасно.
 Magnet
 Магнит
 A small but powerful magnet.
@@ -489,39 +489,39 @@ A small but powerful magnet.
 Fishing Line
 Леска
 A reel of fishing line. Was someone fishing down here?
-Катушка рыболовной линии. Кто -то здесь ловил рыбалку?
+Катушка рыболовной лески. Кто-то рыбачил здесь?
 Sewer Key
-Канализационный ключ
+Ключ от Канализации
 The key to the sewer gate.
-Ключ к канализационным воротам.
+Ключ от канализационных ворот.
 Metal Pipe
-Металлическая труба
+Металлическая Труба
 It's a metal pipe...nothing special about it.
-Это металлическая труба ... ничего особенного в этом.
+Это металлическая труба...ничего необычного.
 Power Cable
-Силовой кабель
+Силовой Кабель
 It's a power cable. Looks like it fits into a computer of somesort.
-Это кабель питания. Похоже, он вписывается в компьютер SomeSort.
+Это кабель питания. Похоже, он подходит для компьютера.
 Fishing Pole
 Удочка
 A custom made magnetic fishing pole.
-Сделанный на заказ магнитный рыбацкий полюс.
+Собранная магнитная удочка.
 Apple
 Яблоко
 A delicious granny smith.
-Вкусная бабушка Смит.
+Вкусное яблоко.
 Gate Key
-Ключ ворот
+Ключ от Ворот
 Key to the laundromat area
-Ключ к области прачечной
+Ключ от ворот прачечной
 Bath House Key
-Ключ для ванны
+Ключ от Бани
 The key to the witch's bath house.
-Ключ к ванне ведьмы.
+Ключ к бане ведьмы.
 Candy Bar
-Конфета, шоколадный батончик
+Шоколадный Батончик
 Mmm...chocolate.
-Ммм ... шоколад.
+Ммм...шоколад.
 Mushroom
 Гриб
 A forest mushroom.
@@ -531,17 +531,17 @@ Noodles
 Mmm, it's a bowl of delicious noodles!
 Ммм, это миска вкусной лапши!
 Special Leaf
-Специальный лист
+Особый Листик
 It's a leaf the siza of a hat!
-Это лист сизы шляпы!
+Это лист размером со шляпу!
 Engine Keycard
-Ключковая карта двигателя
+Ключ-карта от Двигателя
 An electronic keycard for the train's engine room.
-Электронная клавиша для машинного отделения поезда.
+Электронная ключ-карта для машинного отделения поезда.
 Luggage Keycard
-Ключевая карта багажа
+Ключ-карта от Багажного Отделения
 A keycard to unlock the Luggage carrage E-Door
-Карта клавиши, чтобы разблокировать электронную дверь багажа карража
+Ключ-карта открывающая электронную дверь багажного отделения
 Screwdriver
 Отвертка
 It's my uncle Bob's screwdriver!
@@ -551,39 +551,39 @@ Shovel
 It's Mom's gardening shovel.
 Это садовая лопата мамы.
 M-Mom's heart? Why did you do this?!
-Сердце мм? Зачем ты это сделал?!
+М-Мамино Сердце? Зачем вы сделали это?!
 Cigarettes
 Сигареты
 A pack of a popular brand of cigarettes.
-Пакет популярной марки сигарет.
+Пачка популярной марки сигарет.
 Desk Drawer Key
-Ключ ящика для стола
+Ключ от Ящика Стола
 The key to the draw in reception.
-Ключ к розыгрышу в приеме.
+Ключ от ящика на ресепшене.
 Buffet Key
-Шведский стол
+Ключ от Буфета
 The key to unlock the kitchen door in the buffet.
-Ключ, чтобы разблокировать кухонную дверь в буфете.
+Ключ открывающий кухонную дверь в буфете.
 $SAVEGAMEDIR$/MBSCS.dat
-$ Savegamedir $/mbscs.dat
+
 $SAVEGAMEDIR$/version.txt
-$ Savegamedir $/version.txt
+
 1
-1
+
 $SAVEGAMEDIR$/SaveChecker.dat
-$ Savegamedir $/savechecker.dat
+
 Save Slots Detected
-Сохранить слоты обнаружены
+Обнаружены Слоты Сохранения
 Empty Slot
-Пустой слот
+Пустой Слот
 Korean
 Корейский
 No save files detected.
-Не обнаружено сохранения файлов.
+Файлов сохранения не обнаружено.
 You must complete the game once.
 Вы должны завершить игру один раз.
 No hotspot
-Нет горячей точки
+Нет горячих точек
 Hotspot 1
 Горячая точка 1
 Hotspot 2
@@ -683,71 +683,71 @@ Hotspot 48
 Hotspot 49
 Горячая точка 49
 Stranga Splash
-Странга всплеск
+
 Splash GTG
-Splash Gtg
+
 Splash AGS
-Splash Ags
+
 THE MARKETPLACE
-Рынок
+РЫНОК
 I had that dream again
-У меня снова была эта мечта
+У меня снова был этот сон
 It's like a broken record
-Это как побитая запись
+Это как сломанная запись
 Going around and around
-Проходит вокруг и вокруг
+Повторяется вновь и вновь
 But I know a way.
 Но я знаю способ.
 One day...
-Один день...
+Однажды...
 I will break it.
-Я сломаю это.
+Я сломаю этот круг.
 Demo
 Демо
 A BAD DREAM?
 ПЛОХОЙ СОН?
 And just like that...
-И просто так ...
+И вот так...
 Our lives would change, forever.
-Наша жизнь изменится, навсегда.
+Наши жизни изменились, навсегда.
 IS THIS ALL REAL?
-Это все реально?
+ЭТО ВСЁ РЕАЛЬНО?
 But I don't need any help!
 Но мне не нужна помощь!
 I'm fine! There's nothing wrong with me!
-Я в порядке! В меня нет ничего плохого!
+Я в порядке! Со мной всё в порядке!
 It must be her fault! She did this to me!
-Это должно быть ее вина! Она сделала это со мной!
+Это её вина! Она сделала это со мной!
 TAKEN
-ВЗЯТЫЙ
+ПОХИЩЕННЫЕ
 Don't worry...
 Не волнуйся...
 Everything will be okay...
 Все будет хорошо...
 We'll get through this...
-Мы справимся с этим ...
+Мы справимся с этим...
 I promise.
 Обещаю.
 ESCAPE?
 ПОБЕГ?
 W-What is happening to me?
-W-что со мной происходит?
+Ч-Что со мной происходит?
 Why can't I just be \"normal\"?
-Почему я не могу быть просто "нормальным \"?
+Почему я не могу просто быть \"нормальной\"?
 OF BLOOD AND WATER
-Крови и вода
+ИЗ КРОВИ И ВОДЫ
 She should've had her life ruined! Not me!
-Она должна была разрушить свою жизнь! Не я!
+Её жизнь должна была быть разрушена! Не моя!
 I don't deserve this, you do!
-Я не заслуживаю этого, вы делаете!
+Я не заслуживаю этого, ты заслуживаешь!
 A LONG RIDE HOME
-Долгая поездка домой
+ДОЛГАЯ ПОЕЗДКА ДОМОЙ
 Heh, ya know...
-Хех, ты знаешь ...
+Хех, знаешь...
 this is kinda fun!
-Это довольно весело!
+это довольно весело!
 We should do this more often...but it's a little late now.
-Мы должны делать это чаще ... но сейчас немного поздно.
+Мы должны делать это чаще...но сейчас немного поздно.
 THE BUS STOP
 АВТОБУСНАЯ ОСТАНОВКА
 It's kinda creepy out here...
@@ -859,7 +859,7 @@ It's a poster for a cola company.
 The bottle's stuck between her boobs.
 Бутылка застряла между ее сиськами.
 ACH_BOOBPOSTER
-Ach_boobposter
+
 They're old animal cages.
 Они старые животные клетки.
 They smell horrible, like something died in-
@@ -881,7 +881,7 @@ A little closer.
 There! I wonder what you unlock, little key.
 Там! Интересно, что вы разблокируете, маленький ключ.
 CoatHanger
-Вешалка
+
 Hey! Now there's something I can use!
 Привет! Теперь есть что -то, что я могу использовать!
 There's nothing else useful in here.
@@ -911,7 +911,7 @@ You can keep the chopsticks darling.
 Thanks!
 Спасибо!
 MmmNoodles
-Мммнудлз
+
 Mmmm...
 Мммм ...
 That smells delicious!
@@ -937,9 +937,9 @@ here you are.
 Mmmmmm, yum!
 Мммммм, ням!
 ACH_YUMMY_NOODLES
-Ach_yummy_noodles
+
 FishGuy
-Фишгуй
+
 Excuse me?
 Извините меня?
 Do you know where I am?
@@ -987,7 +987,7 @@ Oh, thank you!
 I thought I'd never find it.
 Я думал, что никогда не найду его.
 ACH_COMMON_COURTESY
-ACH_COMMON_COURTESY
+
 It's locked...but...
 Он заперт ... но ...
 I can hear someone crying in there.
@@ -1023,7 +1023,7 @@ Smoke
 Fireplace
 Камин
 ATruck
-Грузовик
+
 Huh?
 Хм?
 Wait a second, that's not Mom's car!
@@ -1111,7 +1111,7 @@ Ok, Ok, I'm going to bed. Yeesh!
 Sommmmbieeee?
 Sommmmbieeee?
 BobbyPin
-Невидимка
+
 What's this?
 Что это?
 A Bobby Pin.
@@ -1139,7 +1139,7 @@ Garden Bed
 Save Point
 Сохранить точку
 Chapter1
-Глава 1
+
 Why do I even bother sleeping?
 Почему я вообще затрудняюсь спать?
 I just keep having the same dream every god damn night!
@@ -1239,7 +1239,7 @@ I'll watch TV a little later.
 I should really find Sombie first.
 Я действительно должен найти Сомби в первую очередь.
 GetToBed
-Gettobed
+
 And just where do you think you're going? Hmm?
 И как вы думаете, куда идете? Хм?
 Well, MOM! I'm just going to the kitchen to get a glass of milk!
@@ -1257,7 +1257,7 @@ GRR! JUST HURRY UP, LUZIA!
 Okay, okay! Yeesh!
 Хорошо хорошо! Да, да!
 MomsHome
-Мама
+
 You hear that?
 Вы это слышите?
 Sounds like Mom's car, you better get to bed now!
@@ -1267,7 +1267,7 @@ Oh shit!
 Hey! Watch your language, Luzia! Bed! Now!
 Привет! Смотрите свой язык, Лузия! Кровать! В настоящее время!
 WhereIsSombria
-Где
+
 S-Sombie?
 S-Sombie?
 If this is some sick joke...
@@ -1297,7 +1297,7 @@ Maybe it's burried treasure?
 Please, just go to bed.
 Пожалуйста, просто ложись спать.
 ACH_FINDING_SECRETS
-ACH_FINDING_SECRET
+
 Ew! Luzia, have you been going through the trash again?
 Эй! Лузия, ты снова переживал мусор?
 Upstairs
@@ -1311,7 +1311,7 @@ Kitchen
 Front Door
 Передняя дверь
 NotHere
-Не здесь
+
 Huh, well, she's not in here.
 Да, ну, ее здесь нет.
 Maybe she's hiding in the bathroom?
@@ -1593,7 +1593,7 @@ I'll have the receptionist book your next appointment and please, take your medi
 See the lady at the desk on your way out.
 Посмотрите на леди за столом на выходе.
 ACH_DOLL
-ACH_DOLL
+
 Hmm, the brain.
 Хм, мозг.
 Interesting.
@@ -1725,7 +1725,7 @@ You can't Luzia...
 no one can.
 никто не может.
 ACH_BRAIN
-ACH_BRAIN
+
 Find something in this room and bring it to me.
 Найдите что -нибудь в этой комнате и принесите это мне.
 Where are you going? We still have time, bring me somthing in this room that best represents you.
@@ -1779,9 +1779,9 @@ It's got a western cowboy sorta vibe.
 Sounds like a nice place for a vacation.
 Звучит как хорошее место для отпуска.
 ACH_JIT_REFERENCE
-Ach_jit_reference
+
 NoodleLadyWaitingRoom
-Noodleladywaitingroom
+
 Wait a minute?
 Подождите минуту?
 What are you doing here?
@@ -1869,7 +1869,7 @@ what I said back there, I didn't really mean it.
 I'm just trying to make you happ-
 Я просто пытаюсь сделать тебя счастливым
 ACH_APOLOGY
-ACH_APology
+
 Wait, why didn't you show yourself to him!?
 Подожди, почему ты не показал себя ему!?
 He think's I'm crazy!
@@ -1911,7 +1911,7 @@ I'll fix this...
 Is that the door?
 Это дверь?
 TherpyKey
-Терпейки
+
 Why is there a hand coming out of the toilet?
 Почему из туалета выходит рука?
 It's holding a key...
@@ -2023,7 +2023,7 @@ Okay, let's get ready.
 Hopefully, we'll be arriving soon.
 Надеюсь, мы скоро прибудем.
 FirstEnter
-Первый
+
 Well...
 Что ж...
 it's about time you showed up.
@@ -2195,7 +2195,7 @@ Just watch your back, you old, pathetic, woman!
 She will free us all.
 Она освободит нас всех.
 ACH_JUST_A_LITTLE_GIRL
-ACH_JUST_A_LITTLE_GIRL
+
 Heh! My daughter, she will fall...
 Хе! Моя дочь, она упадет ...
 and when she does, you will all be mine.
@@ -2211,9 +2211,9 @@ and I will finally have my cold dead claws around your neck!
 just like your friend, Tanto.
 Так же, как твой друг, Танто.
 RoomSetup:Bath
-Roomsetup: ванна
+
 TiledWall
-Плиточная стена
+
 Now what?
 Что теперь?
 Great! The passage is shut!
@@ -2231,7 +2231,7 @@ Tiled Wall (Right)
 Tiled Wall (Left)
 Плиточная стена (слева)
 DoorLocked
-Дверь закрыта
+
 SombieCutscene
 Sombiecutscene
 Where is everybody?
@@ -2305,11 +2305,11 @@ Hmm, nothing.
 Bummer.
 Облом.
 RedTile
-Redtile
+
 Hey! What's this?
 Привет! Что это?
 DeadFish
-Мертвая рыба
+
 It's a dead fish.
 Это мертвая рыба.
 Poor little guy.
@@ -2327,7 +2327,7 @@ There, finally! It's unlocked.
 Crack in the Wall
 Трещиться в стене
 WallKnife
-WallKnife
+
 Weird...
 Странный...
 it's a picture of a man hanning in a tree.
@@ -2347,7 +2347,7 @@ There's something written here.
 For far too long have I been chained to these filth covered walls, [ like some sort of animal. [ You will all pay for your selfishness!
 Слишком долго меня приковали к этим покрытым грязным стенам, [как какое -то животное. [Вы все заплатите за свой эгоизм!
 LadyFace
-Леди
+
 Death
 Смерть
 Bathhouse Hallway
@@ -2363,11 +2363,11 @@ Hollow Wall
 Bloody Message
 Кровавое сообщение
 HangInThere
-Повесить там
+
 DecisionTime
-Решающее время
+
 MeetTheButcher
-Познакомьтесь
+
 What does this look like? A Child care center? NO KIDS!
 Как это выглядит? Центр по уходу за детьми? БЕЗ ДЕТЕЙ!
 Ha! I knew it!
@@ -2421,7 +2421,7 @@ Ok?
 No problem!
 Без проблем!
 PulllTheKnife
-Pulltheknife
+
 What the...
 Что за...
 M-Mr. Butcher?
@@ -2503,7 +2503,7 @@ What was that?! Some kind of joke?
 ...yes.
 ...да.
 CandyBar:Cutscene
-Candybar: Cutspene
+
 Oh good.
 О, хорошо.
 It's still here.
@@ -2545,7 +2545,7 @@ The door's locked.
 I'd hate to get locked in there.
 Я бы не хотел быть запертым там.
 metlady
-Метлади
+
 Excuse me, Mr. Butcher.
 Извините, мистер Батчер.
 Have you met the lady on the wall?
@@ -2651,7 +2651,7 @@ Yep, that was my lunch.
 Gross.
 Валовой.
 ACH_WHAT_IS_THIS
-ACH_WHAT_IS_THIS
+
 Hey! Be careful with that!
 Привет! Будьте осторожны с этим!
 Do you have any idea what that is?
@@ -2691,7 +2691,7 @@ Well, aren't you the life of the party.
 Oh! A candy bar!
 Ой! Кенди -бар!
 ACH_I_WANT_CANDY
-ACH_I_WANT_CANDY
+
 I need to find Sombie first.
 Мне нужно сначала найти Сомби.
 Restaurant
@@ -2737,7 +2737,7 @@ Why is it smiling?
 Cut Yourself
 Порезаться
 CutYourself
-Порезаться
+
 Sombie! Where the heck have you been!?
 Сомби! Где ты, черт возьми!?
 I was looking everywhere for you!
@@ -2773,7 +2773,7 @@ Use something to cut yourself!
 Luzia, hurry! Get in the other circle!
 Лузия, поторопись! Попасть в другой круг!
 UseKnife
-Используйте Knife
+
 Just close your eyes and...
 Просто закройте глаза и ...
 Ahhhh!
@@ -2833,7 +2833,7 @@ Circle Center
 DeskKey
 Настольный
 UseFlashlight
-USEFLASHLIGHT
+
 It's still pretty dark in here.
 Здесь все еще довольно темно.
 Where's my flashlight?
@@ -2841,7 +2841,7 @@ Where's my flashlight?
 Oh, here! In my pocket!
 О, здесь! В моем кармане!
 LadyOnTheWall
-Ladyonthewall
+
 Gross...
 Валовой...
 And really creepy.
@@ -2921,13 +2921,13 @@ But I'm feeling generous today, so, bring me something of...
 Usefulness.
 Полезность.
 itemchoice
-itemChoice
+
 Death.
 Смерть.
 Tradition.
 Традиция.
 ACH_LADY_ON_THE_WALL
-ACH_LADY_ON_THE_WALL
+
 Oh, would you look at that!
 О, ты бы посмотрел на это!
 Such a lifeless, greasy body. A dead fish...
@@ -2953,7 +2953,7 @@ Such a deadly flower, such beauty.
 The table is broken.
 Стол сломан.
 ShesGone
-Она ушла
+
 Hey! S-She's...gone!
 Привет! S-SHE ... ушел!
 Not good!
@@ -2971,7 +2971,7 @@ a key? I wonder what it's for?
 Table
 Стол
 FlashlightDrawer
-Фонарик
+
 I don't think anyone would mind me looking.
 Я не думаю, что кто -то не возражает, чтобы я смотрел.
 A flashlight?
@@ -2979,7 +2979,7 @@ A flashlight?
 This should come in handy.
 Это должно пригодиться.
 SpiderLily
-Паука
+
 Hey, what's this?
 Эй, что это?
 It smells lovely.
@@ -2995,7 +2995,7 @@ Maybe there's another way out.
 Draw
 Рисовать
 RedWitch
-Редвич
+
 Luzia, I'm so glad you could join us.
 Лузия, я так рада, что ты смог присоединиться к нам.
 Wait! Stop!
@@ -3059,7 +3059,7 @@ It's locked now?
 Maybe there's a key around here, somewhere?
 Может, где -то есть ключ?
 BloodWater
-Кровяная вода
+
 Oh my gosh!
 О, черт возьми!
 What the hell happened here?
@@ -3087,11 +3087,11 @@ So cool!
 RepositionCharacters
 Перестроительный характер
 MovePlayer
-Движение
+
 EmptyWater
-Пустая вода
+
 SewerIntro
-Канализация
+
 Sombie...
 Сомби ...
 W-What has she done to you?
@@ -3147,7 +3147,7 @@ Hmm, I ain't sticking my hand in there.
 I'll need to fish it out somehow.
 Мне нужно как -то посыпать это.
 FindMetalPole
-Findmetalpole
+
 Hopefully that shiny thing is made out of metal.
 Надеюсь, эта блестящая вещь сделана из металла.
 Well, it worked!
@@ -3171,7 +3171,7 @@ but I ain't sticking my hand in to find out.
 I'll need something long to reach it.
 Мне нужно что -нибудь долго, чтобы добраться до него.
 FindString
-FindString
+
 This'll save me using my hand.
 Это спасет меня, используя мою руку.
 Some fishing line?
@@ -3191,7 +3191,7 @@ but I could make a fishing pole if I had some string...
 and a hook.
 и крюк.
 SewerKey
-Канализация
+
 There you are! Mr. Gate Key!
 Вот ты где! Мистер Гейт Ки!
 Let's get out of here.
@@ -3237,7 +3237,7 @@ Ladder
 Gap
 Зазор
 WaterPipe
-Водопроводная труба
+
 Pile of Wood
 Куча дерева
 Control Room
@@ -3249,7 +3249,7 @@ Hole
 Fishing Spot
 Место для рыбалки
 oKey
-Окей
+
 Hmm, there must be a key in here somewhere?
 Хм, здесь должен быть ключ?
 I'll fix this, Sombie.
@@ -3263,13 +3263,13 @@ Water drainage?
 There's no power.
 Там нет силы.
 UsePowerCable
-UspowerCable
+
 Let's power this baby up!
 Давайте питаем этого ребенка!
 What's that sound?
 Что это за звук?
 GetMagnet
-GetMagnet
+
 Hey, now we're talking!
 Эй, теперь мы говорим!
 Cool magnet!
@@ -3295,9 +3295,9 @@ I don't know, Luzia.
 you stay here, I'll come get you when I find someone that can help you.
 Ты остаешься здесь, я приду тебя, когда найду кого -то, кто может тебе помочь.
 SombieAppear
-Sombieapepear
+
 GateLock
-Гателок
+
 I really don't wanna go back in there...
 Я действительно не хочу возвращаться туда ...
 but I need to help Sombie.
@@ -3331,7 +3331,7 @@ It's a laundromat.
 I could use some clean clothes right about now.
 Я мог бы использовать чистую одежду прямо сейчас.
 Explaination
-Объяснение
+
 I'm looking for someone who can help my-
 Я ищу кого-то, кто может помочь мне-
 Sorry, little one. I'm really busy with this mess.
@@ -3353,7 +3353,7 @@ Well, my friend usually sees her in the laundromat, washing her blankets.
 But for some reason, some wise-ass locked the gate to the laundromat and has the key.
 Но по какой-то причине некоторые мудрые заперли ворота к прачечной и имеют ключ.
 Explaination2
-Объяснение2
+
 What's wrong with your sister?
 Что не так с твоей сестрой?
 I think she's sick?
@@ -3403,7 +3403,7 @@ Find the noodle lady.
 She can help your sister.
 Она может помочь твоей сестре.
 UseGateKey
-USEGATEKEY
+
 I don't need this key anymore.
 Мне больше не нужен этот ключ.
 Gate Open
@@ -3415,7 +3415,7 @@ Maybe someone here has a key?
 I need to head to the bathouse.
 Мне нужно отправиться в ванну.
 FindMeAnApple
-Findmeanapple
+
 Excuse me!
 Извините меня!
 Could you help me and my sister out?
@@ -3449,7 +3449,7 @@ It's a deal, then!
 Thanks for the apple.
 Спасибо за яблоко.
 GetApple
-GetApple
+
 FREE APPLES!
 Бесплатные яблоки!
 Huh? A sign?
@@ -3461,7 +3461,7 @@ One it is then!
 Gosh, I'm so hungry!
 Черт возьми, я так голоден!
 LaundryDoor
-Прачечная
+
 GiveApple
 Раздача
 Well? My apple?
@@ -3737,7 +3737,7 @@ did you remember to lock the bathhouse doors when you were done?
 U-Uh, whoops!
 U-uh, упс!
 NoodleCutscene
-Noodlecutscene
+
 You were kidnapped?
 Вы были похищены?
 Yeah, and they beat up Sombie too!
@@ -4011,7 +4011,7 @@ Call out when the bus arrives.
 Huh, so this is what it feels like.
 Да, так это похоже на то, что это похоже.
 FindSombieFood
-FindombieFood
+
 Hey! A mushroom!
 Привет! Гриб!
 I could eat it.
@@ -4019,11 +4019,11 @@ I could eat it.
 If I were desperate, looks poisonous.
 Если бы я отчаялся, выглядел ядовитым.
 Mushroom2
-Гриб2
+
 I hope this helps her.
 Я надеюсь, что это поможет ей.
 IntroCutscene:Forest
-IntrocutScene: лес
+
 Here you go, Sombie.
 Вот иди, Сомби.
 This'll keep you dry.
@@ -4107,11 +4107,11 @@ We'll see, Luzia. Depends on how much of a brat you'll be towards me. Heh.
 H-Hey! Is that the bus?
 Хей! Это автобус?
 ACH_NEIGHBOR_SOMBIE
-Ach_neighbor_sombie
+
 Where's the bus?
 Где автобус?
 BusReady
-Автобус
+
 It hasn't arrived yet?
 Это еще не прибыло?
 Nope.
@@ -4147,7 +4147,7 @@ Heh, we'll see, Luzia.
 Saving won't help you now.
 Экономия не поможет вам сейчас.
 Mushroom6
-Гриб6
+
 Forest Bus Stop
 Лесная автобусная остановка
 Forest
@@ -4157,7 +4157,7 @@ Hey, a sign!
 An ancient spirit lives in this forest. An offering of tasty noodles is required to summon it.
 Древний дух живет в этом лесу. Для ее вызвать вкусный подношение лапши.
 Mushroom1
-Гриб1
+
 Here's a big one!
 Вот большой!
 To Bus Stop
@@ -4199,7 +4199,7 @@ when the time is right...
 choose wisely.
 Выбирай с умом.
 ACH_SPIRIT_NOODLE
-ACH_SPIRIT_NOODLE
+
 Whoa!
 Уго!
 W-Who is that?
@@ -4275,15 +4275,15 @@ Wait, what does that mean? I'm gonna die?!
 We will see, young Luzia. Good luck.
 Посмотрим, молодой Лузия. Удачи.
 Mushroom3
-Гриб3
+
 This should help Sombie.
 Это должно помочь Сомби.
 Mushroom7
-Гриб7
+
 To Forrest
 Форресту
 SombriaDeer
-SombriaDeer
+
 Oh!
 Ой!
 Thank god, it's you!
@@ -4311,11 +4311,11 @@ I'll find you something to eat.
 Please help Luzia.
 Пожалуйста, помогите Лузии.
 Mushroom4
-Гриб4
+
 Maybe she could eat this.
 Может, она могла бы съесть это.
 Mushroom5
-Гриб5
+
 Well, it's better than nothing.
 Ну, это лучше, чем ничего.
 Please...
@@ -4401,7 +4401,7 @@ Sad Mudo.
 *Munch, munch, munch*
 *Мунк, Мунк, Мунк*
 UseMushroom
-Usemushroom
+
 I have something for you.
 У меня есть кое-что для тебя.
 Ta-da!
@@ -4409,7 +4409,7 @@ Ta-da!
 Mmm, mushroom!
 Ммм, гриб!
 ACH_MUSHROOM
-Ach_mushroom
+
 Thank *Munch* you.
 Спасибо * Мунк * ты.
 Take this *Munch*.
@@ -4421,7 +4421,7 @@ It's a, really big leaf?
 Special big leaf. *Munch*
 Специальный большой лист. *Жевать*
 MeetingJacketto
-Встречаклейка
+
 Hey there little guy.
 Привет, маленький парень.
 Little? Little Jacket is not little!
@@ -4453,7 +4453,7 @@ Hmm, maybe I could-
 I-I'm fine, thank you strange girl!
 Я-я в порядке, спасибо, странная девушка!
 MmmNoodlesAgain
-Mmmnoodlesagain
+
 One bowl please!
 Одна чаша, пожалуйста!
 Hello, young one.
@@ -4487,9 +4487,9 @@ To Forest
 Pepe
 Пепе
 NoodleGashia
-Noodlegashia
+
 TrainCutscene
-TraincutScene
+
 Now this is the way to travel!
 Теперь это способ путешествовать!
 A truck, a bus, now a train?!
@@ -4609,7 +4609,7 @@ For crying out loud, Luzia.
 Who's crying, now?
 Кто сейчас плачет?
 SombieTrainBathroom
-Sombietrainbathroom
+
 JESUS! SOMBIE!
 ИИСУС! Сомби!
 You scared the hell outta me!
@@ -4673,7 +4673,7 @@ Bed Cabin
 Exit Bathroom
 Выйти из ванной комнаты
 TrainNoodles
-TrainNoodles
+
 Wait a hoot picking toot!
 Подождите, что выберет Toot!
 Wait a minute, what are you doing here?!
@@ -4707,7 +4707,7 @@ but I know all about your little plan daughter.
 I'll be waiting.
 Буду ждать.
 ACH_NOODLES_AGAIN
-ACH_NOODLE_AGAIN
+
 I can't turn back now.
 Я не могу вернуться сейчас.
 Engine
@@ -4715,7 +4715,7 @@ Engine
 TrainRoom
 Тренась
 YellowJacket
-Желтая куртка
+
 Hey! It's you!
 Привет! Это ты!
 Yes it is I! Little Jacke-
@@ -4743,7 +4743,7 @@ Whopsie Daisy!
 Wait...I NEED TO WARN SOMBIE!
 Подожди ... мне нужно предупредить Сомби!
 StretchDies
-Растяжки
+
 Stretch!
 Протяжение!
 T-That, woman, s-she did this...
@@ -4789,9 +4789,9 @@ Stretch!!!
 I'm so sorry.
 Я так виноват.
 SombieMoves
-Sombiemoves
+
 SecretLadder
-Секретный
+
 This must be the control switch for the door.
 Это должен быть переключатель управления для двери.
 Keycard required.
@@ -4915,7 +4915,7 @@ Strange...
 I feel sleepy.
 Я сонный.
 ACH_SECRET_SWITCH
-ACH_SECRET_SWITCH
+
 I don't need to press it again.
 Мне не нужно снова нажимать.
 Train Luggage Car
@@ -4935,7 +4935,7 @@ Secret Switch
 E-Door
 Электронный дверь
 Room1
-Комната 1
+
 This room...
 Эта комната...
 I've been here before.
@@ -4959,7 +4959,7 @@ everything.
 Who wrote this?
 Кто это написал?
 Room3
-Комната3
+
 This room feels warmer.
 Эта комната чувствует себя теплее.
 It smells like, burnt leather.
@@ -4983,7 +4983,7 @@ The loop is the only thing that binds you both together...
 if you break it, you may not see each other again.
 Если вы сломаете его, вы можете больше не увидеть друг друга.
 BurntNote
-Burntnote
+
 A burnt note?
 Сгоревшая нота?
 It's time...
@@ -5007,7 +5007,7 @@ Don't hesitate...
 kill her.
 убей ее.
 ACH_FORTHTIME
-ACH_FORTHITE
+
 Front Cabin
 Передняя каюта
 Room 1
@@ -5029,7 +5029,7 @@ I can hear humming coming from the otherside.
 Door requires a keycard...great.
 Дверь требует клавишной карты ... Отлично.
 GustophLuzia
-Густофлузия
+
 Excuse me, Mr. Gustoph?
 Извините, мистер Густоф?
 Well, if it isn't little Luzia!
@@ -5103,7 +5103,7 @@ The poor guy.
 Okay, I'll go find him.
 Хорошо, я пойду его найду.
 MeetGustoph
-Meetgustoph
+
 Sorry to interrupt.
 Извините за прерывание.
 Can I-
@@ -5395,7 +5395,7 @@ Killed her.
 HEY! GIRL!
 ПРИВЕТ! ДЕВОЧКА!
 !!!
-!!!
+
 What are you doing out here little guy?
 Что ты здесь делаешь, маленький парень?
 Little Jacket couldn't help but overhear little girl.
@@ -5729,7 +5729,7 @@ Just keep Sombria safe!
 Now go!
 Теперь иди!
 Chapter9Start
-Глава 9START
+
 Thank god you're ok.
 Слава Богу, с тобой все в порядке.
 W-Who did this?
@@ -5739,9 +5739,9 @@ P-Pleassse.
 H-Help...meee.
 H-help ... meee.
 ACH_IT_WAS_HER
-ACH_IT_WAS_HER
+
 !
-!
+
 LUZIA?!
 Лузия?!
 Can you please keep it down!
@@ -5859,7 +5859,7 @@ I've got a bad craving for some waffles!
 Sure, just let me go see the nurse real quick, ok?
 Конечно, просто позвольте мне увидеть медсестру очень быстро, хорошо?
 ACH_GOOD_ENDING
-Ach_good_ending
+
 And that was the most sketchiest looking motel in Ash Pines.
 И это был самый эффектный мотель в соснах пепла.
 I wish you'd just wake up, Luzia.
@@ -5895,7 +5895,7 @@ I-I guess I'll just have to wait until you're ready.
 I'll be right back Luzia.
 Я вернусь, Лузия.
 TrueEndingScene
-TrueEndingsCene
+
 Mr. Gus always goes on about his drinking problem.
 Мистер Гас всегда рассказывает о своей проблеме употребления алкоголя.
 Mom said she'd be here soon.
@@ -5925,7 +5925,7 @@ I'll come back right after I have a smoke.
 I-It's a giant doll?
 Я-это гигантская кукла?
 RealVerd
-Realverd
+
 That's a cute doll you have there.
 Это милая кукла, у тебя там.
 Hey! Thanks!
@@ -5961,7 +5961,7 @@ Oh well, maybe next time.
 Nick
 Ник
 RealButcher
-Realbutcher
+
 Hey Sombs, hows it goin'?
 Привет, Сомб, как все идет?
 Not so good.
@@ -6009,7 +6009,7 @@ Well, good luck in there.
 I'll catch ya later, Sombs!
 Я поймаю тебя позже, сонась!
 RealAshina
-Realashina
+
 Hey! Can I ask you something?
 Привет! Можно вопрос?
 Uh, sure?
@@ -6075,7 +6075,7 @@ Talk to my sister, she never shuts up.
 G-Gustoph?
 G-Gustoph?
 RealGustoph
-Realgustoph
+
 Ah! Sombria!
 Ах! Сомбрия!
 How's the little one?!
@@ -6111,7 +6111,7 @@ I'm sure your sister will be fine.
 Now, time for a little *yawn* nap. *Zzz*
 Теперь время для немного * зевок * дремот. *Zzz*
 RealStretch
-Реалтч
+
 Hey.
 Привет.
 Remember me?
@@ -6173,7 +6173,7 @@ O-OK.
 *Blushing* Thanks, S-Sombria.
 * Румяна* Спасибо, с-смбрия.
 DeathSurprise
-Deathsurprise
+
 W-What the...
 W-что ...
 WHAT THE HELL HAPPENED HERE?!
@@ -6189,9 +6189,9 @@ Little Boy
 Sister
 Сестра
 SmokesAhoy
-SmokeSahoy
+
 BadSmoke
-Badsmoke
+
 It's so peaceful outside.
 Это так мирно снаружи.
 and such a quiet night, too.
@@ -6211,7 +6211,7 @@ I better head inside...
 what a quiet night though.
 Какая тихая ночь, хотя.
 GoodSmoke
-Товары
+
 Christ! I needed that!
 Христос! Мне это было нужно!
 It's getting too cramped in there.
@@ -6225,11 +6225,11 @@ Just please be alright, Luzia.
 Front door
 Передняя дверь
 AshBin
-Эшбин
+
 Wall
 Стена
 SceneSetup
-Сценарий
+
 A subway station?
 Станция метро?
 Where is home?!
@@ -6481,7 +6481,7 @@ Elevator
 Tickets
 Билеты
 CandyBar
-Конфета, шоколадный батончик
+
 *Sigh* I'm so hungry.
 * Вздох* Я так голоден.
 There's something in the tray!
@@ -6505,7 +6505,7 @@ I'll use this to pry open the window.
 I can just unlock the door now.
 Я могу просто разблокировать дверь сейчас.
 GatePC
-Gatepc
+
 It's an old computer.
 Это старый компьютер.
 Now, how do I-
@@ -6525,7 +6525,7 @@ How am I going to use an elevator without power?
 Okay, now we have power.
 Хорошо, теперь у нас есть сила.
 GateOpened
-Ворота
+
 I can hear laughing?
 Я слышу смех?
 There's a strange sound coming from this tunnel.
@@ -6537,11 +6537,11 @@ It's locked and won't budge.
 Subway Main
 Метка метро
 Ticketway
-Билет
+
 Abandoned Tunnel
 Заброшенный туннель
 MeetVerd
-Встреча
+
 Boop!
 Взбийся!
 He he!
@@ -6723,7 +6723,7 @@ Well, I ain't goin' no where.
 Thanks to you.
 Спасибо тебе.
 LastChance
-Последний шанс
+
 So...
 Так...
 what's it gonna be? Witch!
@@ -6825,9 +6825,9 @@ There's that laugh again.
 Well, good luck Luzia!
 Ну, удачи, Лузия!
 ???
-???
+
 ACH_RETURN_DOLL
-Ach_return_doll
+
 Offices
 Офисы
 Don't you remember me?
@@ -6933,7 +6933,7 @@ Don't mess this up, Luzia...
 a lot of lives are at steak.
 Много жизней в стейке.
 ACH_FAKE_LUZIA
-ACH_FAKE_LUZIA
+
 We made it!
 Мы сделали это!
 Sombie! We're finally home!
@@ -6977,7 +6977,7 @@ That's right! R-Run!
 Ugh! My head!
 Фу! Моя голова!
 BobbyPin2
-Bobbypin2
+
 Another bobby pin?
 Еще одна булавка?
 How many does Sombie need to keep those balls of hair up?
@@ -6997,7 +6997,7 @@ Heh, he trusts me with knives now?
 House Front (Final)
 Дом Фронт (Финал)
 Setup:NoodleLady
-Установка: Noodlelady
+
 Y-Yeah, a little.
 Да, немного.
 My poor darling.
@@ -7033,7 +7033,7 @@ The windows are frosting over.
 That's enough imagination for me.
 Для меня достаточно воображения.
 KillYoko
-Киллиоко
+
 Hey, can I ask you something?
 Эй, могу я тебя кое -что спросить?
 You can ask me anything, my dear.
@@ -7141,9 +7141,9 @@ I can't keep my eyes open...
 I can't take it anymore...
 Я больше не могу этого принимать ...
 Zzz.
-Zzz.
+
 ACH_DONT_CARE_ANYMORE
-ACH_DONT_CARE_ANYMORE
+
 BobsScrewdriver
 Bobsscrewdriver
 It's mom's lucky screwdriver.
@@ -7177,19 +7177,19 @@ I can't use it.
 My laptop needs to be charged.
 Моему ноутбуку нужно взимать плату.
 ACH_THE_LOOP
-Ach_the_loop
+
 My Big Sister
-Моя старшая сестра
+
 By Stranga Games
 От игр Stranga
 [[[
-[[[
+
 STORY~CONCEPT~CHARACTERS
 История ~ Концепция ~ персонажи
 Stranga Games,Duckman
-Игры Странга, Дакман
+
 [[
-[
+
 SPRITES~ARTWORK~SCRIPTING~MUSIC~SOUNDS
 Спрайты ~ Искусство ~ Сценарии ~ Музыка ~ Звуки
 Stranga Games
@@ -7205,43 +7205,43 @@ TRANSLATORS
 PROOF READERS
 Доказательства читателей
 Lotus Prince
-Лотос Принц
+
 GAME TESTERS
 Игровые тестеры
 PATREONS
 Патроны
 Sebastian Salas
-Себастьян Салас
+
 LordFnord
-Лордфнорд
+
 Emma-Lea Jeffery
-Эмма-Ли Джеффри
+
 Anastacia Herrera
-Анастасия Эррера
+
 dErp d00d
-DERP D00D
+
 Darlan
-Дарлан
+
 Matthew Gambrell
-Мэтью Гамбрелл
+
 GiggleScar
-Gigglescar
+
 sarah diaz
-Сара Диас
+
 Peat Z.
-Торф Z.
+
 Karl Savant
-Карл Савант
+
 André Policarpo
-Андре Поликарпо
+
 SPECIAL THANKS
 СПЕЦИАЛЬНАЯ БЛАГОДАРНОСТЬ
 Credits Module 1.17 by SSH
-Модуль кредитов 1.17 от SSH
+
 Grab The Games
-Возьмите игры
+
 Ratalaika Games
-Раталайка игры
+
 My Wife and Kids! I wouldn't be here without you! Love you all!
 Моя жена и дети! Я бы не был здесь без тебя! Люблю вас всех!
 IN MEMORY OF:
@@ -7251,29 +7251,29 @@ MY COUSIN BLAKE AND MY FRIEND MIKAILA
 Always thinking of you...always.
 Всегда думаю о тебе ... всегда.
 [[[[[
-[[[[[[[[[[[[[[[
+
 GAME ENGINE
 Игровой двигатель
 Adventure Game Studio
-Adventure Game Studio
+
 ART TOOLS
 Художественные инструменты
 Aseprite
-Асеприт
+
 Photoshop CC 2015
-Photoshop CC 2015
+
 PureRef
-Перореф
+
 AUDIO TOOLS
 Аудио инструменты
 Ableton Live 9
-Ableton Live 9
+
 Audacity
-Мужество
+
 Thanks for playing!
 Спасибо за игру!
 strangagames.com
-strangagames.com
+
 Sombie.
 Сомби.
 She's gone.
@@ -7379,7 +7379,7 @@ It's just cereal, okay! *Munch*
 Jeez! *munch munch*
 Боже! *Мунк Мунк*
 ACH_A_MOTHERS_HEART
-ACH_A_MOTHERS_HEART
+
 Can you not talk with your mouth full.
 Не могли бы вы говорить с полным ртом.
 It's disgusting!
@@ -7413,7 +7413,7 @@ Come on, go get ready.
 I'm already ready!
 Я уже готов!
 ACH_A_HAPPY_ENDING
-ACH_A_HAPPY_ENDING
+
 Hey! What are you doing in our house?!
 Привет! Что ты делаешь в нашем доме?!
 Oh, me?
@@ -7461,7 +7461,7 @@ Water goes on, water goes off.
 Yep, that's a sink alright.
 Да, все в порядке.
 ACH_SINK
-ACH_SINK
+
 It's Sombie's mug.
 Это кружка Сомби.
 It smells like ciggaretts.
@@ -7979,63 +7979,63 @@ Just the way I like it!
 Ha! Never change, Luzia.
 Ха! Никогда не меняй, Лузия.
 Stranga Games, Duckman
-Игры Странга, Дакман
+
 VOICE ACTORS
 Голосовые актеры
 Sombria..................Gigglescar
-Сомбрия .................. Гигглесчар
+
 Luzia....................Shion
-Лузия .................... Шион
+
 \"THE LOOP\" SONG VOCALIST
 \ "The Loop \" Vocalist Song Vocalist
 Emee
-ЭМЕ
+
 BETA TESTERS
 Бета -тестеры
 Akriloth
-Акрилот
+
 Aspid Cat
-Aspid Cat
+
 BEKOBCN
-Bekobcn
+
 Cristian Nuñez \"BlindRage\"
-Кристиан Нуньес \ "Слепой
+
 chocko-cookie
-Chocko-cookie
+
 doc_twOwO
-doc_twowo
+
 Gin_Luc
-Gin_luc
+
 gsd
-GSD
+
 KitKima
-Киткима
+
 Kim \"Omen\"
-Kim \ "Omen \"
+
 ladymira
-Ladymira
+
 Lucid
-Ясно
+
 Daniil Smolyar \"MegaMix_Craft\"
-Daniil smolyar \ "megamix_craft \"
+
 Miku-San
-Мику-сан
+
 Rafaela Duckling
-Рафаэла утенка
+
 SCARY-_-
-СТРАШНЫЙ-_-
+
 Stephi
-Стефи
+
 XlalasogoneX
-Xlalasogonex
+
 Benedikt \"Leogrim\" Geierhofer
-Benedikt \ "leogrim \" Geierhofer
+
 FULL GAME TESTERS
 Полные игровые тестеры
 Adventure Game Studio 3.6.0
-Adventure Game Studio 3.6.0
+
 RoomRefresh
-RoomRefresh
+
 ...L-Luzia.
 ... L-Luzia.
 A-Are you still there?
@@ -8075,9 +8075,9 @@ LUZIA!!!
 Save:
 Сохранять:
 ERROR: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
-Ошибка: нулевая ошибка, упомянутая в Timervalue. [Пожалуйста, свяжитесь с разработчиком игры, чтобы сообщить об этом сообщении. [Нажмите любую клавишу, чтобы закрыть это поле сообщения и игру ...
+ОШИБКА: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
 0
-0
+
 An ordinary pair of chopsticks.
 Обычная пара палочек для еды.
 An old coat hanger.
