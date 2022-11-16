@@ -1,0 +1,8076 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+// Text encoding hint - ASCII or UTF-8
+//#Encoding=UTF-8
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+ACH_GOTCHA
+ach_gotcha
+Game Paused
+游戏暂停
+Game UnPaused
+游戏未播放
+WaitForLongest: duration1 cannot be negative!
+waitforlongest：持续时间1不能负面！
+WaitForLongest: duration2 cannot be negative!
+waitforlongest：持续时间2不能为负！
+WaitForLongest: duration3 cannot be negative!
+waitforlongest：持续时间3不能为负！
+WaitForLongest: duration4 cannot be negative!
+waitforlongest：持续时间4不能为负！
+WaitForLongest: duration5 cannot be negative!
+waitforlongest：持续时间5不能为负！
+WaitForLongest: duration6 cannot be negative!
+waitforlongest：持续时间6不能负面！
+SetTimerForLongest: timeout1 cannot be negative!
+settimerforlongest：timeout1不能负面！
+SetTimerForLongest: timeout2 cannot be negative!
+settimerforlongest：timeout2不能负面！
+SetTimerForLongest: timeout3 cannot be negative!
+settimerforlongest：timeout3不能负面！
+SetTimerForLongest: timeout4 cannot be negative!
+settimerforlongest：timeout4不能负面！
+SetTimerForLongest: timeout5 cannot be negative!
+settimerforlongest：timeout5不能负面！
+SetTimerForLongest: timeout6 cannot be negative!
+settimerforlongest：timeout6不能负面！
+Cannot create new tween because the Tween module is currently playing %d tween(s), which is the maximum. You can increase this max number on the Tween module script header.
+无法创建新的补间，因为Tween模块当前正在播放最大值的deween（s）。您可以在Tween模块脚本标头上增加此最大数字。
+Cannot create Tween. Invalid index!
+无法创建补间。无效索引！
+WMIygj
+wmiygj
+-=+.,:;!?
+ -  =+。，：;！？
+Save:
+节省：
+Room Name
+房间名称
+Saving Game...
+保存游戏...
+Game Saved.
+游戏保存。
+Select a slot to save.
+选择一个要保存的插槽。
+No save slots detected.
+未检测到保存插槽。
+Load Game
+加载游戏
+Select a slot to load.
+选择一个要加载的插槽。
+%d
+％d
+Hello?
+你好？
+Is anybody there?
+那里有人吗？
+Please, I need your help.
+拜托我需要你的帮忙。
+Luzia, can't do this on her own...she needs you.
+吕齐亚，不能独自做到这一点……她需要你。
+Are you going to help her or not?
+你要帮助她吗？
+Well?
+出色地？
+Hurry up, you're running out of time.
+快点，你没时间了。
+You can't do it? Can you?!
+你做不到吗？你能？！
+You don't have what it takes!
+您没有所需的东西！
+Well? DO SOMETHING!
+出色地？做一点事！
+It's too late, there's nothing you can do now.
+为时已晚，您现在无能为力。
+Goodbye.
+再见。
+ERROR: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
+错误：Timervalue中引用的无效错误。 [请联系游戏的开发人员报告此消息。 [按任何键关闭此消息框和游戏...
+ACH_SOMBIE_DEATH
+ach_sombie_death
+...
+...
+itemDescription
+商品描述
+Main Menu
+主菜单
+Windowed
+窗户
+Full Screen
+全屏
+V 0.3
+v 0.3
+English
+英语
+Spanish
+西班牙语
+Portuguese
+葡萄牙语
+French
+法语
+German
+德语
+Russian
+俄语
+Turkish
+土耳其
+Polish
+抛光
+Japanese
+日本人
+Italian
+意大利人
+Korean
+韩国人
+The Marketplace
+市场
+A Bad Dream
+一个恶梦
+Is this all real
+这是真实的
+Taken
+拍摄
+Escape
+逃脱
+Of Blood and Water
+血液和水
+A long ride home
+漫长的回家
+The Bus Stop
+公共汽车站
+Cold Rails
+冷轨
+Wake Up
+醒来
+Our Last Stop
+我们的最后一站
+Break or Strengthen
+破裂或加强
+Happy Ending
+美好的结局
+Real End
+真正的结局
+ACH_TALK_OF_THE_TOWN
+ach_talk_of_the_town
+Good Ending
+良好的结局
+Bad Ending
+糟糕的结局
+MushroomCount
+MushroomCount
+Mom's Heart
+妈妈的心
+Chapter Select Unlocked
+章节选择解锁
+I can't use this here.
+我不能在这里使用它。
+Who drew this?
+谁画了这个？
+A
+一个
+Chinese
+中国人
+L
+l
+U
+你
+Z
+z
+I
+我
+S
+s
+T
+t
+R
+r
+N
+n
+G
+G
+Nice try! But you're a letter short...sorry.
+不错的尝试！但是你是一封短信...对不起。
+Thank you very much for playing my games! :D
+非常感谢您玩我的游戏！ ：d
+H
+H
+It's nice to be in the real world once more!
+再次进入现实世界真是太好了！
+It seems I was wrong. You are the smart one.
+看来我错了。你是聪明的人。
+You helped Luzia escort me out of that god forsaken bathhouse...
+您帮助卢齐亚（Luzia）陪同我离开那个上帝抛弃的浴室...
+and now that we're finally meeting, I would like to show you something special.
+现在我们终于开会了，我想向您展示一些特别的东西。
+I can show you the real ending to this story.
+我可以向您展示这个故事的真正结局。
+Are you ready?
+你准备好了吗？
+You must kill Yoko and save Sombria.
+您必须杀死洋子并拯救Sombria。
+Good luck, the one behind the screen.
+祝你好运，屏幕后面的那个。
+Nothing happened.
+没啥事儿。
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+信用模块已达到最大％D行，联系游戏作者并告诉他们增加Credit_Max_lines
+%c
+％C
+%4d %4d %s
+％4D％4D％S
+Press ESC to skip
+按ESC跳过
+Save Screenshot as:
+将屏幕截图保存为：
+Starting a New Game will erase previous saved Game. Continue?
+启动新游戏将删除以前的保存游戏。继续？
+YES
+是的
+NO
+不
+Movement
+移动
+Action
+行动
+Inventory
+存货
+Menu / Skip Cutscene
+菜单 /跳过过场动画
+W S A D
+w s a d
+ENTER
+进入
+E
+e
+ESC
+ESC键
+Press ESC to return to menu
+按ESC返回菜单
+New Label
+新标签
+_
+_
+New Button
+新按钮
+Time:
+时间：
+0
+0
+Where to go?
+去哪儿？
+Main Carriage
+主马车
+Bedding Carriage
+床上用品马车
+Luggage Carriage
+行李马车
+Front Carriage
+前马车
+Are you sure you want to quit?
+你确定你要退出吗？
+Yes
+是的
+No
+不
+Select Save File
+选择保存文件
+Auto Save
+自动保存
+Save State
+保存状态
+SELECT CHAPTER
+选择章节
+SELECT LANGUAGE
+选择语言
+Save Game
+保存游戏
+Select Save Slot
+选择保存插槽
+Hello
+你好
+Hotspot
+热点
+GAME PAUSED
+游戏暂停
+Sound Volume
+音量
+Music Volume
+音乐卷
+Resume Game
+游戏继续
+Fullscreen
+全屏
+INVENTORY
+存货
+Item Name
+项目名
+Description
+描述
+Mumbo no 5
+Mumbo No 5
+INFO
+信息
+....
+...
+Luzia
+吕齐亚
+ITEM FOUND
+找到的项目
+Blue Mug
+蓝色杯子
+v1.00
+v1.00
+Stranga Games©
+Stranga游戏©
+New Game
+新游戏
+Continue
+继续
+Chapter Select
+章节选择
+Quit
+退出
+Remastered
+重新制作
+Settings
+设置
+Run
+跑
+Press any button to continue.
+按任何按钮继续。
+CONTROLS
+控件
+Cancel
+取消
+Vendor
+小贩
+Noodle Lady
+面条女士
+Therapist
+治疗师
+Ashina
+阿什娜
+Nikuya
+Nikuya
+Lady on the Wall
+wall
+Lady
+女士
+Cyndil
+辛迪尔
+Landy
+兰迪
+Jimmy
+吉米
+Laundry Lady
+洗衣女士
+Mudo
+mudo
+Little Jacket
+小夹克
+Wiji
+wiji
+Noodle Gashia
+面条Gashia
+Gus
+古斯
+Stretch
+拉紧
+Verd
+绿
+Mom
+妈妈
+New character
+新角色
+Mogah
+莫加
+The Red Witch
+红色女巫
+Elevator Man
+电梯人
+Ash
+灰
+Tena
+Tena
+Sombria
+Sombria
+Camera
+相机
+Spirit Of Roh
+Roh的精神
+Spirit Of Red Witch
+红巫婆的精神
+Saving Game
+保存游戏
+Boiler Key
+锅炉钥匙
+It's an old rusty key to the boiler room.
+这是锅炉房的旧钥匙。
+Blue Cup
+蓝色杯子
+It's a blue coffee mug.
+这是一个蓝色的咖啡杯。
+Battery
+电池
+A fully charged battery.
+充满电的电池。
+Chopsticks
+筷子
+An ordinary pair of chopsticks.
+一双普通的筷子。
+Coat Hanger
+衣架
+An old coat hanger.
+一个旧衣架。
+Flashlight
+手电筒
+A small keychain flashlight. Can be used in dark areas.
+小钥匙扣手电筒。可用于黑暗区域。
+Bobby Pin
+发夹
+One of Sombria's old...ugh, bobby pin.
+Sombria的旧...嗯，Bobby Pin。
+Bloody Picture
+血腥的图片
+It's a bloody picture of our...house?
+这是我们...房子的血腥照片吗？
+Doll
+玩具娃娃
+An old plush doll. It has markings on inappropriate places.
+一个老毛绒玩偶。它在不适当的地方有标记。
+Brain
+脑
+A squishy model of a brain.
+大脑的柔软模型。
+Therapy Key
+治疗密钥
+Key to exit the main reception area.
+退出主要接收区域的关键。
+Red Tile
+红色瓷砖
+A ceramic red tile. It has a strange groove on the back of it.
+陶瓷红色瓷砖。它的背面有一个奇怪的凹槽。
+Stranga Mask
+陌生面具
+A strange looking mask. Such a happy face...
+一个奇怪的面具。如此快乐的脸...
+Knife
+刀
+The blade's a little blunt, but it could still cut through paper.
+刀片有点钝，但仍然可以切成纸。
+Dead Fish
+死鱼
+It's a dead Koi fish.
+这是一条死的锦鲤。
+A Red Spider Lily
+红蜘蛛百合
+It's a beautiful  looking flower but, it has a terrible meaning.
+这是一朵美丽的花朵，但它具有可怕的含义。
+Wood
+木头
+An old piece of timber. It doesn't look safe.
+一块古老的木材。它看起来不安全。
+Magnet
+磁铁
+A small but powerful magnet.
+一个小但功能强大的磁铁。
+Fishing Line
+钓鱼线
+A reel of fishing line. Was someone fishing down here?
+钓线线。有人在这里钓鱼吗？
+Sewer Key
+下水道钥匙
+The key to the sewer gate.
+下水道大门的钥匙。
+Metal Pipe
+金属管
+It's a metal pipe...nothing special about it.
+这是金属管...对此没什么特别的。
+Power Cable
+电源电缆
+It's a power cable. Looks like it fits into a computer of somesort.
+这是电源电缆。看起来它适合萨蒙山的计算机。
+Fishing Pole
+钓鱼杆
+A custom made magnetic fishing pole.
+定制的磁性钓鱼竿。
+Apple
+苹果
+A delicious granny smith.
+一个美味的奶奶史密斯。
+Gate Key
+门键
+Key to the laundromat area
+自助洗衣区的钥匙
+Bath House Key
+浴室钥匙
+The key to the witch's bath house.
+女巫浴室的钥匙。
+Candy Bar
+糖果条
+Mmm...chocolate.
+嗯...巧克力。
+Mushroom
+蘑菇
+A forest mushroom.
+森林蘑菇。
+Noodles
+面条
+Mmm, it's a bowl of delicious noodles!
+嗯，这是一碗美味的面条！
+Special Leaf
+特殊叶子
+It's a leaf the siza of a hat!
+这是帽子的叶子！
+Engine Keycard
+引擎钥匙卡
+An electronic keycard for the train's engine room.
+火车发动机室的电子钥匙卡。
+Luggage Keycard
+行李钥匙卡
+A keycard to unlock the Luggage carrage E-Door
+解锁行李架电子门的钥匙卡
+Screwdriver
+螺丝刀
+It's my uncle Bob's screwdriver!
+这是我鲍勃叔叔的螺丝刀！
+Shovel
+铲
+It's Mom's gardening shovel.
+这是妈妈的园艺铲。
+M-Mom's heart? Why did you do this?!
+M-Mom的心？你为什么要这么做？！
+Cigarettes
+香烟
+A pack of a popular brand of cigarettes.
+一包流行的香烟品牌。
+Desk Drawer Key
+书桌抽屉键
+The key to the draw in reception.
+吸引接待的关键。
+Buffet Key
+自助键
+The key to unlock the kitchen door in the buffet.
+解锁自助餐中厨房门的钥匙。
+$SAVEGAMEDIR$/MBSCS.dat
+$ savegamedir $/mbscs.dat
+$SAVEGAMEDIR$/version.txt
+$ savegamedir $/version.txt
+1
+1
+$SAVEGAMEDIR$/SaveChecker.dat
+$ savegamedir $/savechecker.dat
+Save Slots Detected
+保存检测到的插槽
+Empty Slot
+空位
+No save files detected.
+未检测到的保存文件。
+You must complete the game once.
+您必须完成一次游戏。
+No hotspot
+没有热点
+Hotspot 1
+热点1
+Hotspot 2
+热点2
+Hotspot 3
+热点3
+Hotspot 4
+热点4
+Hotspot 5
+热点5
+Hotspot 6
+热点6
+Hotspot 7
+热点7
+Hotspot 8
+热点8
+Hotspot 9
+热点9
+Hotspot 10
+热点10
+Hotspot 11
+热点11
+Hotspot 12
+热点12
+Hotspot 13
+热点13
+Hotspot 14
+热点14
+Hotspot 15
+热点15
+Hotspot 16
+热点16
+Hotspot 17
+热点17
+Hotspot 18
+热点18
+Hotspot 19
+热点19
+Hotspot 20
+热点20
+Hotspot 21
+热点21
+Hotspot 22
+热点22
+Hotspot 23
+热点23
+Hotspot 24
+热点24
+Hotspot 25
+热点25
+Hotspot 26
+热点26
+Hotspot 27
+热点27
+Hotspot 28
+热点28
+Hotspot 29
+热点29
+Hotspot 30
+热点30
+Hotspot 31
+热点31
+Hotspot 32
+热点32
+Hotspot 33
+热点33
+Hotspot 34
+热点34
+Hotspot 35
+热点35
+Hotspot 36
+热点36
+Hotspot 37
+热点37
+Hotspot 38
+热点38
+Hotspot 39
+热点39
+Hotspot 40
+热点40
+Hotspot 41
+热点41
+Hotspot 42
+热点42
+Hotspot 43
+热点43
+Hotspot 44
+热点44
+Hotspot 45
+热点45
+Hotspot 46
+热点46
+Hotspot 47
+热点47
+Hotspot 48
+热点48
+Hotspot 49
+热点49
+Stranga Splash
+Stranga飞溅
+Splash GTG
+飞溅GTG
+Splash AGS
+飞溅AGS
+THE MARKETPLACE
+市场
+I had that dream again
+我又有了那个梦
+It's like a broken record
+就像是破纪录的
+Going around and around
+四处走动
+But I know a way.
+但是我知道一种方法。
+One day...
+一天...
+I will break it.
+我会打破它。
+Demo
+演示
+A BAD DREAM?
+一个恶梦？
+And just like that...
+就是这样...
+Our lives would change, forever.
+我们的生活将永远改变。
+IS THIS ALL REAL?
+这是真的吗？
+But I don't need any help!
+但是我不需要任何帮助！
+I'm fine! There's nothing wrong with me!
+我很好！我没什么错！
+It must be her fault! She did this to me!
+这一定是她的错！她对我做了！
+TAKEN
+拍摄
+Don't worry...
+不用担心...
+Everything will be okay...
+所有事情都会好起来的...
+We'll get through this...
+我们将通过这个...
+I promise.
+我保证。
+ESCAPE?
+逃脱？
+W-What is happening to me?
+W-我发生了什么？
+Why can't I just be \"normal\"?
+为什么我不能只是\“正常\”？
+OF BLOOD AND WATER
+血液和水
+She should've had her life ruined! Not me!
+她应该毁了生命！不是我！
+I don't deserve this, you do!
+我不应该得到这个，你愿意！
+A LONG RIDE HOME
+漫长的回家
+Heh, ya know...
+嘿，你知道...
+this is kinda fun!
+这有点有趣！
+We should do this more often...but it's a little late now.
+我们应该更频繁地这样做...但是现在有点晚了。
+THE BUS STOP
+公共汽车站
+It's kinda creepy out here...
+这里有点令人毛骨悚然...
+but strangely farmilliar. I feel too comfortable.
+但奇怪的是农业。我感到太舒服了。
+COLD RAILS
+冷轨
+We're almost home.
+我们快要回家了。
+I can feel it getting closer.
+我能感觉到它越来越近。
+But...
+但...
+What will happen once we reach home?
+一旦我们回到家，会发生什么？
+Will everything go back to the way it was?
+一切都会回到原来吗？
+Will Luzia and I go back to the way we were?
+吕齐亚和我会回到我们的样子吗？
+Will I lose my sister...
+我会失去姐姐吗？
+Forever?
+永远？
+WAKE UP...PLEASE?
+请起来？
+The valley of sorrows...
+悲伤谷...
+it shows us our worst realities.
+它向我们展示了我们最糟糕的现实。
+I couldn't tell her the truth about what I saw.
+我无法告诉她关于我看到的真相。
+It'll haunt me forever.
+它会永远困扰我。
+OUR LAST STOP
+我们的最后一站
+Well...this is it...
+好吧...就是这样...
+the end of the line.
+线的末端。
+I'm glad we grew closer, together.
+我很高兴我们在一起越来越近。
+We're all counting on you, Luzia.
+我们都指望你，吕齐亚。
+BREAK OR STRENGTHEN
+破裂或加强
+Home...just the way it was.
+家...就是这样。
+It's finally over.
+终于结束了。
+Or is it?
+还是？
+The truth lies in the reflection of my name.
+真相在于我的名字的反映。
+HAPPILY EVER AFTER
+从此以后快乐地生活着
+S-She did it.
+她做到了。
+Thank you, Luzia! I love you so much!
+谢谢，吕齐亚！我真的很爱你！
+Thank you, Luzia.
+谢谢，吕齐亚。
+We did it!
+我们做到了！
+SECRET END
+秘密结局
+Early Access Checkpoint
+早期访问检查点
+Stranga Games says: Thanks for playing!
+Stranga Games说：感谢您的演奏！
+W-Wha? Where am I?
+W-WHA？我在哪里？
+P-Please?
+p-请？
+Anybody?
+有人吗？
+W-What are you doing here?
+W-你在这里做什么？
+I need your help, Luzia.
+我需要你的帮助，卢齐亚。
+Like I told you before, I don't need your help!
+就像我以前告诉过你的那样，我不需要您的帮助！
+B-But I-
+B但我 - 
+Just go away, Sombria!
+走开，Sombria！
+Luzia...
+卢齐亚...
+Just go!
+去吧！
+I-I'm sorry, Sombria...
+我 - 对不起，Sombria ...
+we'll figure this out soon, I promise.
+我保证，我们很快就会解决这个问题。
+I can't open it.
+我不能打开它。
+The lock's broken!
+锁破了！
+Hello!?
+你好！？
+Is anyone in there!?
+有人在那里吗？
+I guess not.
+我猜不是。
+It's a poster for a cola company.
+这是一家可乐公司的海报。
+\"Feel fresh with our new cola Buzz Blast\"
+\“与我们的新可乐嗡嗡声blast \”感到新鲜
+The bottle's stuck between her boobs.
+瓶子被困在她的胸部之间。
+ACH_BOOBPOSTER
+ACH_BOOBPOSTER
+They're old animal cages.
+他们是古老的动物笼子。
+They smell horrible, like something died in-
+他们闻起来可怕，就像某事死了 - 
+Oh, the poor things.
+哦，可怜的东西。
+Boiler Door Unlocked
+锅炉门解锁
+Wait, there's something in there.
+等等，里面有东西。
+A key!
+关键！
+I can't reach it, my hands won't fit through the cage.
+我无法到达，我的手无法穿过笼子。
+I could use somthing smaller and longer to reach them.
+我可以使用较小和更长的时间来到达它们。
+A little closer.
+靠近一点。
+There! I wonder what you unlock, little key.
+那里！我想知道你解锁什么，小钥匙。
+CoatHanger
+Coathanger
+Hey! Now there's something I can use!
+嘿！现在我可以使用一些东西！
+There's nothing else useful in here.
+这里没有什么有用的。
+It's pretty dark down there.
+那里很黑。
+Wait!
+等待！
+I can see something shiny!
+我可以看到一些闪亮的东西！
+I need something to reach it, though.
+不过，我需要一些东西来达到它。
+Whoops! Almost dropped it!
+哎呀！差点掉了！
+I can use this to reach that shiny thing.
+我可以用它来达到那种闪亮的东西。
+It's a flashlight...
+这是一个手电筒...
+this could be useful.
+这可能很有用。
+Well, I guess I don't need this coat hanger anymore.
+好吧，我想我不再需要这个衣架了。
+It's unlocked!
+它已解锁！
+You can keep the chopsticks darling.
+您可以保留筷子亲爱的。
+Thanks!
+谢谢！
+MmmNoodles
+mmmnoodles
+Mmmm...
+嗯...
+That smells delicious!
+闻起来很美味！
+Hello there my child, are you lost?
+你好，我的孩子，你迷路了吗？
+I don't know...
+我不知道...
+I fell asleep...
+我睡着了...
+the next thing I knew, I woke up here.
+我知道的下一件事，我在这里醒了。
+Are you hungry? Can I get you anything?
+你饿了吗？我可以帮你什么？
+How about some of those tasty noodles?
+其中一些美味的面条怎么样？
+I'm starving!
+我饿死了！
+I insist...
+我坚持...
+here you are.
+给你。
+Mmmmmm, yum!
+mmmmmm，百胜！
+ACH_YUMMY_NOODLES
+ach_yummy_noodles
+FishGuy
+钓鱼
+Excuse me?
+打扰一下？
+Do you know where I am?
+你知道我在哪里吗？
+This is the Downtown Marketplace, why? Are you lost?
+这是市区市场，为什么？你迷路了吗？
+I'm not sure.
+我不确定。
+Where are your parents?
+你父母在哪里？
+I'm not sure about that either.
+我也不确定。
+Well, maybe you should just wait here...
+好吧，也许你应该在这里等...
+it'll make it easier for them to find you.
+这将使他们更容易找到您。
+I guess you're right.
+我想你是对的。
+Say, you haven't found a key, have you?
+说，您还没有找到钥匙，对吗？
+I dropped it around here somewhere.
+我把它放在这里的某个地方。
+Nope, sorry, Mister.
+不，对不起，先生。
+I-It's an air duct...
+我 - 这是一个气管...
+maybe I can find a way out through here?
+也许我可以在这里找到出路？
+It's pretty dark in there, though.
+不过，那里很黑。
+I'll need to find a light before I go in.
+我需要在进去之前找到一个灯。
+That's better! I can see where I'm going now.
+那更好！我可以看到我现在要去哪里。
+I hope this'll help us find a way home.
+我希望这能帮助我们找到回家的道路。
+Um, excuse me?
+嗯，对不起？
+Yes?
+是的？
+I found your key, Mister!
+我找到了你的钥匙，先生！
+Oh, thank you!
+哦谢谢！
+I thought I'd never find it.
+我以为我永远找不到。
+ACH_COMMON_COURTESY
+ACH_COMMON_COURTESY
+It's locked...but...
+它被锁了...但是...
+I can hear someone crying in there.
+我能听到有人在那里哭泣。
+Empty
+空的
+Door
+门
+Serving Window
+服务窗口
+Poster
+海报
+Creates
+创建
+Cutscene
+过场动画
+Man
+男人
+Air Duct
+风道
+Locker
+储物柜
+Boiler Room
+锅炉房
+Man Hole
+人洞
+Neon Light
+霓虹灯
+Vent
+发泄
+Smoke
+抽烟
+Fireplace
+壁炉
+ATruck
+卡车
+Huh?
+嗯？
+Wait a second, that's not Mom's car!
+等一下，那不是妈妈的车！
+Maybe it's Sombie's boyfriend? Doesn't he own a moving truck?
+也许是Sombie的男朋友？他不是拥有移动的卡车吗？
+She better not be hiding in there!
+她最好不要躲在那里！
+A ha! Caught'ya! I could smell you a mile away!
+哈！抓了！我可以在一英里之外闻到你！
+Oh great, the smoke police.
+哦，太好了，烟警察。
+You gonna tell mom?
+你要告诉妈妈吗？
+No, as usual.
+不，像往常一样。
+I can't sleep Sombie.
+我不能睡点。
+I told you before, stop calling me that!
+我以前告诉过你，别再给我打电话了！
+Well, what do your friends call you?
+好吧，你的朋友叫你什么？
+Somba.
+Somba。
+Pfft! That's stupid.
+pfft！那很愚蠢。
+I like Sombie better.
+我更喜欢Sombie。
+It sounds like you're calling me a \"zombie\".
+听起来您正在称呼我为“僵尸\”。
+Do I look like a zombie to you?
+我对你看起来像僵尸吗？
+Yeah, when your getting outta the shower.
+是的，当您赶上淋浴时。
+Grr! Shut up, Luzia!
+grr！闭嘴，吕齐亚！
+You look like a creepy doll!
+你看起来像个令人毛骨悚然的洋娃娃！
+Yeah, but you can still cuddle a doll.
+是的，但是您仍然可以拥抱一个洋娃娃。
+I wouldn't want to cuddle a zombie.
+我不想拥抱僵尸。
+*Sigh* Look, why can't you sleep?
+*叹*看，你为什么不能睡觉？
+I had that dream again....
+我又有了那个梦。
+Again? Which one?
+再次？哪一个？
+The one where you were stuck in that marketplace...
+您被困在那个市场的地方...
+What about that German singing alligator one?
+那德国唱歌的鳄鱼呢？
+*Sigh* Please...
+*叹*请...
+I was trying to forget about that one, that damned song.
+我试图忘记那首该死的歌。
+Nope, definately the marketplace one.
+不，绝对是市场。
+You mean the one where I'm like this \"ghost-like\" thing?
+您的意思是我喜欢这个\“像鬼”的东西吗？
+Yep!
+是的！
+Doesn't that bother you at all?
+这根本不打扰您吗？
+Why? It's your dream, after all.
+为什么？毕竟这是你的梦想。
+But you're dead.
+但是你死了。
+It's just a dream Luzia.
+这只是一个梦想的吕齐亚。
+Whatever you say, Sombie...
+不管你说什么，sombie ...
+just don't say I didn't warn you.
+只是不要说我没有警告你。
+You worry too much, besides...
+您太担心了，除了...
+you better get back to bed, mom's gonna be home soon.
+你最好回到床上，妈妈很快就会回家。
+She'll get mad if you're up again.
+如果您再次起床，她会生气。
+Besides, it's cold out here.
+此外，这里很冷。
+Ok, Ok, I'm going to bed. Yeesh!
+好，好，我要睡觉了。是的！
+Sommmmbieeee?
+sommmmbieeee？
+BobbyPin
+发夹
+What's this?
+这是什么？
+A Bobby Pin.
+鲍比别针。
+I used to pick Sombie's room with these.
+我曾经用这些选择Sombie的房间。
+Ewww, there's a hair on it.
+ewww，上面有头发。
+Why do I feel a sharp pain in my neck?
+为什么我的脖子感到剧烈的疼痛？
+Weird.
+诡异的。
+There's nothing in here.
+这里什么都没有。
+Home
+家
+Mailbox
+邮箱
+Truck
+卡车
+Trash Can
+垃圾箱
+Garden Bed
+花园床
+Save Point
+保存点
+Chapter1
+第1章
+Why do I even bother sleeping?
+我为什么还要睡觉？
+I just keep having the same dream every god damn night!
+我只是在每个神该死的夜晚都有同样的梦想！
+The same freakin' dream!
+同样的梦想！
+*Sigh* Great!
+*叹*太好了！
+Now I can't get back to sleep!
+现在我无法重新入睡！
+Better see what Sombie's up to.
+最好看看Sombie在做什么。
+Ok, lets get some sleep!
+好的，让我们入睡！
+Ok...
+好的...
+this is not working!
+这是不起作用的！
+WHY CAN'T I SLEEP?!
+我为什么不能睡觉？
+Oh, yeah! The lights!
+哦耶！灯光！
+Better turn them off.
+最好将它们关闭。
+Like duh.
+像duh。
+That was quick, I didn't even leave the bed.
+那很快，我什至没有离开床。
+Maybe a fuse or something?
+也许是保险丝之类的东西？
+*Sigh* I'm gonna get in trouble for this, but...
+*叹*我会为此造成麻烦，但是...
+MOM! MOMMY! THE LIGHT'S BLEW UP!
+妈妈！妈妈！灯炸了！
+M-Mom?
+M-Mom？
+I bet Sombie's just tryin' to scare me again.
+我敢打赌Sombie只是尝试再次吓我。
+SOMBIE! YOU'RE GONNA GET IT!
+sombie！你会明白的！
+Sombria!?
+sombria！？
+Fine, I guess I'll just go and fix the lights myself!
+好的，我想我会自己修理灯！
+Hmm, I think I'll go for a glass of milk!
+嗯，我想我会去喝一杯牛奶！
+That should help me sleep!
+那应该帮助我睡觉！
+I can't sleep.
+我无法入睡。
+I hate that dream, so much...
+我讨厌那个梦，很多...
+Although, those noodles do sound delicious!
+虽然，这些面条听起来很美味！
+Only my mom's lucky screwdriver, which I don't need.
+只有我妈妈的幸运螺丝刀，我不需要。
+Weird place for a screwdriver? Shouldn't it be in a toolbox?
+螺丝刀的怪异地方？不应该在工具箱中吗？
+I always hated this picture, my bow is crooked and everything.
+我总是讨厌这张照片，我的弓弯曲了，一切。
+Where did I even get this bow from?
+我什至从哪里得到这个弓？
+I better stay out of her room, she'd kill me.
+我最好呆在她的房间里，她会杀了我。
+Besides, it's locked.
+此外，它已锁定。
+Well, just a peek. She's not gonna mind.
+好吧，只是窥视。她不会介意的。
+Who am I kidding? She's gonna kill me!
+我在开玩笑？她会杀了我！
+Great! The boby pin broke anyway!
+伟大的！无论如何，Boby Pin破裂了！
+Huh? What's this? A photo?
+嗯？这是什么？一张照片？
+I don't need to use it.
+我不需要使用它。
+No internet on it anyway, it's for school work.
+无论如何都没有互联网，这是用于学校工作的。
+Y'know, I think I'll go for a glass of milk.
+是的，我想我会去喝一杯牛奶。
+Bed
+床
+Computer
+计算机
+Drawer
+抽屉
+Picture
+图片
+Sombria's Room
+Sombria的房间
+Downstairs
+楼下
+It's pretty dark outside.
+外面很黑。
+I'll watch TV a little later.
+我稍后再看电视。
+I should really find Sombie first.
+我真的应该先找到Sombie。
+GetToBed
+被撞了
+And just where do you think you're going? Hmm?
+您认为您要去哪里？唔？
+Well, MOM! I'm just going to the kitchen to get a glass of milk!
+好吧，妈妈！我只是去厨房买一杯牛奶！
+Typical eight year old.
+典型的八岁。
+Uh, I'm twelve, dumb dumb!
+嗯，我十二岁，愚蠢！
+Whatever, just hurry up and get to bed! Mom's gonna be home soon, and you'll be in trouble then.
+无论如何，请快点上床睡觉！妈妈很快就会回家，那你会遇到麻烦。
+Don't worry, I'll just tell her I was having a quick smoke before bed.
+不用担心，我只是告诉她，我睡前正在快速抽烟。
+GRR! JUST HURRY UP, LUZIA!
+grr！只是快点，吕齐亚！
+Okay, okay! Yeesh!
+好吧好吧！是的！
+MomsHome
+妈妈
+You hear that?
+你听到了吗？
+Sounds like Mom's car, you better get to bed now!
+听起来像妈妈的汽车，您最好现在上床睡觉！
+Oh shit!
+妈的！
+Hey! Watch your language, Luzia! Bed! Now!
+嘿！观看您的语言，吕齐亚！床！现在！
+WhereIsSombria
+那里的脑脑
+S-Sombie?
+s-bombie？
+If this is some sick joke...
+如果这是个病的笑话...
+I bet she wants me to follow that trail of \"blood\", but guess what, I'm not dumb enough to fall for that!
+我敢打赌，她要我跟随\“血\”的那条踪迹，但是猜猜是什么，我还不够愚蠢地为此而陷入困境！
+She's hiding in the kitchen, I know it!
+她躲在厨房里，我知道！
+Go to bed, Luzia! Now!
+上床睡觉，吕齐亚！现在！
+Hey, Sombie. Did you draw this?
+嘿，Sombie。你画这个吗？
+What?! Have you been in my room again?!
+什么？！你又去了我的房间吗？
+No, you dummy! I found it under your door.
+不，你假人！我在你家门下找到了它。
+It's kinda creepy.
+有点令人毛骨悚然。
+Someone's been mailing them to us lately.
+最近有人邮寄给我们。
+I don't know who it is but if it happens again I'm calling the cops.
+我不知道是谁，但是如果再次发生，我正在打电话给警察。
+It's really freaking me out.
+真的让我吓坏了。
+Maybe it's burried treasure?
+也许是埋葬的宝藏？
+Please, just go to bed.
+拜托，就上床睡觉。
+ACH_FINDING_SECRETS
+ach_finding_secrets
+Ew! Luzia, have you been going through the trash again?
+ew！吕齐亚，你又去了垃圾吗？
+Upstairs
+楼上
+Window
+窗户
+TV
+电视
+Kitchen
+厨房
+Front Door
+前门
+NotHere
+不在这里
+Huh, well, she's not in here.
+嗯，好吧，她不在这里。
+Maybe she's hiding in the bathroom?
+也许她躲在浴室里？
+Huh, it's a sink. That's pretty neat!
+嗯，这是一个水槽。那真是太整洁了！
+If anyone is listening to me right now, I'm using sarcasm!
+如果现在有人在听我说，我正在使用讽刺！
+I would use this mug but Sombie's been slobbering all over it.
+我会用这个杯子，但是萨米比一直在散开。
+Yuck! Smells like cigarettes! How come mom hasn't noticed yet?
+好！闻起来像香烟！妈妈怎么还没有注意到呢？
+Sombie!
+sombie！
+Sombria! Open up, I know you're in there!
+sombria！打开，我知道你在那里！
+Great, I'm gonna have to follow that trail.
+太好了，我将不得不遵循这条路。
+I don't need to go to the bathroom.
+我不需要去洗手间。
+Gee, I wonder why \"assface\" gets to stay up so late? She doesn't even do anything besides being annoying!
+哎呀，我想知道为什么\“ Assface \”这么晚才熬夜？除了烦人之外，她甚至没有做任何事情！
+Maybe I should tell Mom she's smoking? Nah, that's probably a bad idea, she'll tell Mom about my Mr. Roachy.
+也许我应该告诉妈妈她在吸烟？不，这可能是个坏主意，她会告诉妈妈关于我的Roachy先生。
+I need to find a better home for it besides Sombie's underware draw.
+除了Sombie的无限制抽签外，我还需要找到一个更好的家。
+Anyways, I better get back to bed.
+无论如何，我最好回到床上。
+I can't believe Mom kept that stupid cat drawing! I did that when I was three!
+我不敢相信妈妈保留了那只愚蠢的猫绘画！我三岁的时候就做到了！
+I should have drawn a tiger, much cooler!
+我应该画一只老虎，凉得多！
+Living Room
+客厅
+Bathroom
+浴室
+Refridgerator
+冰箱
+Sink
+下沉
+Mug
+马克杯
+Toaster
+烤面包机
+Light Switch
+轻开关
+Somb...
+somb ...
+SOMBIE!
+sombie！
+L-Luzia?
+l-luzia？
+Y-you need t-to-
+是的，你需要t-to-
+Sombria, what happened?
+Sombria，发生了什么事？
+RUN LUZIA! RUN!
+跑卢齐亚！跑！
+Oh no!
+不好了！
+So, Luzia...
+所以，吕齐亚...
+what are we going to talk about today?
+我们今天要谈论什么？
+*Shrugs* I dunno.
+*耸耸肩*我不知道。
+How about we start with these reoccurring dreams?
+我们从这些重复发生的梦想开始怎么样？
+Would you like to talk to me about the last one you had?
+您想和我谈谈您的最后一个吗？
+No...
+不...
+Luzia, how can I help you if you're not going to open up to me?
+吕齐亚，如果您不愿意向我开放，我该如何帮助您？
+Can I ask you something?
+我能问你一件事吗？
+You can ask me anything, Luzia.
+你可以问我什么，卢齐亚。
+Why am I here?
+为什么我在这里？
+You were diagnosed with a rare but bizarre mental illness, Luzia. That's why you're-
+您被诊断出患有罕见但奇怪的精神疾病卢齐亚。这就是为什么你
+why am I really here?
+我为什么真的在这里？
+All you want to talk about are my dreams...
+您要谈论的只是我的梦想...
+maybe, it's not the dreams or the illness...
+也许，这不是梦想或疾病...
+maybe, it's me.
+也许是我。
+Your dreams drive your illness, Luzia.
+卢齐亚，你的梦想驱使你的病。
+I think your sister's death is the key to your problem.
+我认为你姐姐的死是你问题的关键。
+Sombie's not dead, though.
+Sombie没有死。
+*Sigh*
+*叹*
+Luzia, we've been through this. She's dead, you must accept it.
+吕齐亚，我们已经经历过。她已经死了，你必须接受。
+We need to make some sort of progress if we're going to make you feel better.
+如果我们要让您感觉更好，我们需要取得一些进步。
+F-Fine, I'll accept it then.
+f-fine，我会接受的。
+Good! Finally! We made some progress.
+好的！最后！我们取得了一些进步。
+You've finally come to accept your sister's-
+你终于来接受你姐姐的
+No, I accept that she is still alive.
+不，我接受她还活着。
+We may have to reduce your dosage, you could be having hallucinations.
+我们可能必须减少您的剂量，您可能会有幻觉。
+I'll prescribe you with something a little less-
+我会用一些少的东西开处方
+I haven't been taking them...
+我还没有带他们...
+for weeks now.
+现在几个星期。
+W-Why not?
+为什么不是？
+She is alive, it's true.
+她还活着，这是真的。
+Luzia, this may be hard for you to understand, but it was you who found her body...
+吕齐亚，这可能很难理解，但是是你找到了她的身体...
+hanging, in her room.
+吊在她的房间里。
+You're lying!
+你在撒谎！
+The thing is...
+事情是...
+It's ok, Luzia. It's-
+没关系，吕齐亚。它的-
+Do you believe in the afterlife, Mr. Black?
+布莱克先生，你相信来世吗？
+Hmm, what do you mean by that, Luzia?
+嗯，卢齐亚是什么意思？
+Like, ghosts, spirits?
+像，鬼魂，精神？
+Kinda.
+有点。
+Ghosts can't touch you...hurt you.
+鬼无法触摸你...伤害了你。
+A poltergeist, maybe?
+也许？
+do poltergeist eat?
+Poltergeist吃吗？
+I don't see the need if they're already spirits of the dead.
+如果他们已经是死者的精神，我看不到他们的需求。
+Then why does Sombie eat?
+那为什么索比吃呢？
+And just what does she eat, Luzia?
+她吃什么，吕齐亚？
+Noodles!
+面条！
+Oh?
+哦？
+Oh, and people!
+哦，还有人！
+People?
+人们？
+Oh yes...
+哦是的...
+only when she's mad.
+只有当她生气时。
+Well, that settles it. I think you're going to have to start taking your medication again.
+好吧，这解决了。我认为您将不得不再次开始服药。
+Trust me, it'll help you, I promise.
+相信我，我保证，它会帮助您。
+It doesn't help, it makes things worse. I can't even remember the last time I saw you.
+它无济于事，这会使情况变得更糟。我什至不记得我上次见到你。
+L-Let's try something, Luzia.
+L-LET尝试一些东西，吕齐亚。
+An exercise, I want you to find something in this room, any object.
+练习，我希望您在这个房间（任何物体）中找到一些东西。
+It has to relate to how you feel right now.
+它必须与您现在的感觉有关。
+Pick anything you want in this room and bring it to me.
+在这个房间里选择您想要的任何东西，然后把它带给我。
+I'll assess you afterwards.
+之后我会评估你。
+Please, just be careful with the items...
+拜托，请小心物品...
+I want to keep everything in one piece.
+我想将所有内容保留在一块中。
+OK.
+好的。
+There's nothing here.
+这里什么都没有。
+Ick, a brain...
+伊克，大脑...
+I better take this, he'll think I'm smart or something.
+我最好接受，他会认为我很聪明。
+DollChoice
+洋娃娃
+Hey! A doll!
+嘿！一个娃娃！
+Maybe it's just me...
+也许只是我...
+but dolls creep me the heck out!
+但是洋娃娃让我感到痛苦！
+So you brought me the doll.
+所以你给我带来了洋娃娃。
+Let's talk about that.
+让我们谈谈。
+Please, take a seat.
+请坐下。
+So, why did you pick the doll?
+那么，你为什么选择洋娃娃？
+It's cute I guess?
+我猜很可爱吗？
+In a creepy sorta way.
+以令人毛骨悚然的方式。
+Hmm, I can assure you it means more than just \"cute\".
+嗯，我可以向您保证，这不仅仅是\“可爱\”。
+This to me, means vulnerability.
+对我来说，这意味着脆弱性。
+Are you feeling fragile, Luzia?
+卢齐亚，你感到脆弱吗？
+Fragile? What's that supposed to mean?
+脆弱的？那是什么意思？
+Did your parents ever \"hurt\" you, or \"touch\" you in any wa-
+你的父母曾经\'hurt \'你，还是\ \“触摸\”
+What?! No!
+什么？！不！
+She would never do such a thing! And I've never even met my dad!
+她永远不会做这样的事情！而且我什至从未见过我的爸爸！
+Besides, mom's never home, she's always working.
+此外，妈妈从来没有家，她一直在工作。
+What about your sister?
+那你姐姐呢？
+What the heck are you on about?!
+你到底在做什么？
+First my mom, and now it's my sister?
+首先是我妈妈，现在是我的妹妹？
+Well, Luzia, you picked the doll.
+好吧，吕齐亚，你选择了洋娃娃。
+I picked it because it was cute. I like dolls!
+我选择它是因为它很可爱。我喜欢娃娃！
+I'm not vulnerable, at least...I don't think I am?
+至少我不脆弱...我不认为我是吗？
+You're holding back, Luzia.
+卢齐亚，你退缩了。
+It's ok to tell me, I want to help you.
+可以告诉我，我想帮助您。
+*Sigh* There is one thing...
+*叹气*有一件事...
+but I really don't like to talk about it.
+但是我真的不喜欢谈论它。
+My sister did-
+我姐姐做了 - 
+Touch you? I knew it!
+触摸你？我就知道！
+Finally! A breakthrou-
+最后！突破 - 
+No, she didn't \"touch\" me, she...
+不，她没有\“触摸\”我，她...
+did hurt me.
+确实伤害了我。
+This is still a breakthrough! How did she hurt you?
+这仍然是一个突破！她是怎么伤害你的？
+S-She said I was adopted. That we're not really sisters...
+S-She说我被收养了。我们不是真正的姐妹...
+and mom is not really my mom.
+妈妈不是我妈妈。
+Is that all?!
+这就是全部？！
+Huh? What do you mean, is that all?
+嗯？你是什​​么意思，这是全部？
+Luzia-
+卢齐亚
+If Sombie was here right now she'd be eating you so fast-
+如果Sombie现在在这里，她会这么快吃你 - 
+Luzia, I think we're done here today.
+吕齐亚，我认为我们今天在这里完成了。
+...please...
+...请...
+I'll have the receptionist book your next appointment and please, take your medication.
+我将让接待员预约您的下一个约会，请服药。
+See the lady at the desk on your way out.
+出门在办公桌上的女士。
+ACH_DOLL
+ach_doll
+Hmm, the brain.
+嗯，大脑。
+Interesting.
+有趣的。
+Why did you pick this?
+你为什么选择这个？
+Because I'm smart!
+因为我很聪明！
+It's also all pink and squishy!
+这也是粉红色和柔软的！
+To me it means intellectuality.
+对我来说，这意味着智力。
+You seem like a smart girl, Luzia.
+你看起来像个聪明的女孩，吕齐亚。
+Sombie thought so too...
+Sombie也是如此...
+a \"smart ass\".
+\“智能屁股”。
+*I can see why.*
+*我明白为什么。*
+Tell me something, if you're a smart girl...
+告诉我一些事情，如果你是一个聪明的女孩...
+why do you still insist your sister is still alive?
+您为什么仍然坚持您的姐姐还活着？
+I-I...
+我 - 我...
+look, I don't want to talk about her anymore.
+看，我不想再谈论她了。
+We still have another twenty minutes left, Luzia.
+我们还有二十分钟，吕齐亚。
+I said, no more.
+我说，不再了。
+Don't do this again, don't waste my time, Luzia.
+不要再做一次，不要浪费我的时间，卢齐亚。
+Remember what happened the last time you did?
+还记得您上次做的事情吗？
+*yes, I remember*
+*是的，我记得*
+Now, can we please get back to your sister-
+现在，我们可以回到你的姐姐吗？
+You can't do that to me anymore.
+你不能再对我这样。
+D-Do what, Luzia?
+d-do什么，吕齐亚？
+Hurt me.
+伤害我。
+W-What are you talking about? I don't hurt-
+W-您在说什么？我不伤害 - 
+Touch me.
+触碰我。
+How dare you! I would never-
+你怎么敢！我永远不会-
+The medication helps me forget, remember?
+药物可以帮助我忘记，还记得吗？
+L-Luzia? What's happened to your voice?
+l-luzia？你的声音怎么了？
+I don't think he get's it, Luzia.
+我认为他不知道，吕齐亚。
+I think it's time we show him...
+我认为是时候给他看...
+what it means to feel \"dead inside\".
+感觉\“死亡\”的含义。
+G-Get the hell away from me!
+g-远离我的地狱！
+I'm sorry, Mr. Black...
+对不起，布莱克先生...
+I really am.
+我真的是。
+W-What's that sound?
+W-那声音是什么？
+W-WHAT IS THAT THING?!
+W-那是什么？
+That?
+那？
+That's Sombria.
+那是Sombria。
+IMPOSSIBLE!
+不可能的！
+Told ya so!
+告诉你！
+STAY AWAY, PLEASE!
+请远离！
+See, she's alive.
+看，她还活着。
+Now do you believe me?
+现在你相信我吗？
+Well? W-Wait, Sombie, what are you doing?
+出色地？ wed，sombie，你在做什么？
+STAY AWAY!
+远离！
+Sombie! What the heck?! I only meant scare him!
+sombie！有没有搞错？！我只意味着吓他！
+Why'd you have to bite off his head for?!
+你为什么要咬他的头？
+God dammit!
+可恶！
+ee wass hurrrrtinnnng youuu, Luzzzzia.
+Ee Wass Hurrrrrtinnnng Youuu，Luzzzzia。
+Please don't put the voice on, it's stupid.
+请不要戴上声音，这很愚蠢。
+You're not scary, Sombie.
+你不是可怕的，sombie。
+Luzia, I'm always weak, tired, and extremely hungry.
+吕齐亚，我总是虚弱，疲倦，非常饿。
+I'm sorry, but I can't stand it! This body aches! The pain...is excruciating!
+对不起，但我受不了！这个身体疼痛！痛苦...令人发指！
+You're fine, Sombie.
+你很好，sombie。
+Don't put yourself down.
+不要让自己失望。
+Do I look fine to you? I'm a hideous creature!
+我对你看起来还不错吗？我是一个丑陋的生物！
+I don't know if I'm dead or alive?
+我不知道我死了还是活着？
+Well, at least you're out of your room finally.
+好吧，至少您终于走出了房间。
+THIS ISN'T FUNNY!
+这不好笑！
+Well, it's better than being depressed?
+好吧，比沮丧要好吗？
+You wouldn't know a thing about being depressed, Luzia!
+卢齐亚，你不会知道沮丧的事情！
+I-I'm sorry, Sombie.
+我 - 对不起，Sombie。
+I just want to help-
+我只想提供帮助 - 
+You can't Luzia...
+你不能...
+no one can.
+没有人可以。
+ACH_BRAIN
+ach_brain
+Find something in this room and bring it to me.
+在这个房间里找到一些东西，然后把它带给我。
+Where are you going? We still have time, bring me somthing in this room that best represents you.
+你要去哪里？我们仍然有时间，将我带到这个最能代表您的房间里。
+There's nothing in here other than some old papers.
+除了一些旧文件外，这里没有其他地方。
+Toys
+玩具
+Brain Statue
+大脑雕像
+Desk Drawer
+办公桌抽屉
+Couch
+长椅
+Thearapist
+Thearapist
+Reception
+接待
+There's nothing interesting in here.
+这里没有什么有趣的。
+That's strange...
+那很奇怪...
+there's no one in there.
+那里没有人。
+Just a bunch of sporting magazines.
+只是一堆体育杂志。
+The door's locked?
+门被锁定了吗？
+What the hell's going on?
+到底是怎么回事？
+Great, now I can get outta here.
+太好了，现在我可以在这里脱颖而出。
+Feeling sick my darling?
+我的宝贝感到恶心吗？
+You took your time in there.
+您花了一些时间在那里。
+I-It must have been something I ate for lunch.
+我 - 一定是我吃午饭的东西。
+Okay dear, see you next time.
+好吧，亲爱的，下次见。
+I hope I don't see \"you\" anymore.
+我希望我再也看不到“你\”了。
+It's just a bunch of brochures for holiday parks.
+这只是一堆假日公园的手册。
+Hey! This place doesn't look too bad.
+嘿！这个地方看起来还不错。
+Dayfield Motel.
+Dayfield汽车旅馆。
+It's got a western cowboy sorta vibe.
+它有西方牛仔的氛围。
+Sounds like a nice place for a vacation.
+听起来像是度假的好地方。
+ACH_JIT_REFERENCE
+ach_jit_reference
+NoodleLadyWaitingRoom
+Noodleladywaitroom
+Wait a minute?
+等一下？
+What are you doing here?
+你在这里做什么？
+I'm here just like everyone else.
+我就像其他所有人一样在这里。
+I've got some problems I need sorting.
+我有一些问题需要分类。
+But what about you, my darling?
+但是你呢，亲爱的？
+Taking your sister out to lunch?
+带你姐姐出去吃午餐？
+Don't you have noodles to sell or something?
+您没有面条要出售吗？
+Don't you have a sister that needs you?
+你没有姐姐需要你吗？
+There's nothing I can do for her...
+我无能为力...
+she doesn't want my help.
+她不想要我的帮助。
+Pfft! That's what they all say.
+pfft！那就是他们所说的。
+What do you mean?
+你是什​​么意思？
+Do you think she want's you to ask you for your help?
+您是否认为她要您向您寻求帮助？
+Heh, but what do I know?
+嘿，但是我知道什么？
+I'm just an old Lady, after all.
+毕竟，我只是一个老太太。
+She doesn't want my help.
+她不想要我的帮助。
+That doesn't mean she can't be helped...
+这并不意味着她不能得到帮助...
+put yourself in her position, then tell me how you feel.
+把自己放在她的位置上，然后告诉我你的感觉。
+It's not easy, is it? But it's not impossible either.
+这并不容易，是吗？但这也不是不可能的。
+That word Sombie said before...
+那个词sombie之前说过...
+depressed.
+郁闷。
+Gosh!
+天哪！
+I don't know why you're seeing this fool!
+我不知道你为什么看到这个傻瓜！
+I should start my own clinic, and get outa the noodle business.
+我应该开设自己的诊所，并获得面条业务。
+Is there a way to get out of here?
+有没有办法离开这里？
+I need to help Sombria.
+我需要帮助SOMBRIA。
+You're twelve, you're better figuring this out than me!
+你十二岁，你比我更好地解决这个问题！
+Besides...
+除了...
+the key to your problems are better off flushed away.
+您问题的关键最好消失。
+What's taking that man so long?!
+那个男人这么长时间才有什么？
+I've been waiting for over an hour.
+我一直在等待一个多小时。
+Thearapists Room
+Thearapists室
+Magazines
+杂志
+Receptionist
+接待员
+Garbage
+垃圾
+Exit
+出口
+Brochures
+小册子
+No, No, NO!
+不不不！
+The door's locked!
+门被锁了！
+Oh, it's just you.
+哦，只是你。
+Hey, Sombie...
+嘿，sombie ...
+what I said back there, I didn't really mean it.
+我在那里说的话，我并不是真正的意思。
+I'm just trying to make you happ-
+我只是想让你快乐 - 
+ACH_APOLOGY
+ACH_APOLOGY
+Wait, why didn't you show yourself to him!?
+等等，你为什么不向他展示自己！
+He think's I'm crazy!
+他认为我疯了！
+It's not all just about you, ya'know-
+不仅仅是你，你知道 - 
+Why do you look-
+你为什么看 - 
+Why is this happening, Luzia?!
+为什么会发生这种情况，吕齐亚？
+YOU RUINED MY LIFE!
+你毁了我的生活！
+I wish you were never born!
+我希望你永远不会出生！
+S-Sombie, I'm really sorr-
+S-SOMBIE，我真的很sorr-
+ENOUGH, LUZIA!
+足够了，吕齐亚！
+I WISH YOU WERE CURSED, JUST LIKE ME!
+我希望你像我一样被诅咒！
+M-Maybe you're right...
+M-Moybe你是对的...
+you should have let me die.
+你应该让我死。
+Well, it's too late, little sister.
+好吧，为时已晚，小妹妹。
+You can't change your mistakes.
+你不能改变错误。
+She's right...
+她是对的...
+this is all my fault.
+这就是我的错。
+I keep making it worse.
+我一直使情况变得更糟。
+Don't worry, Sombria.
+不用担心，Sombria。
+I'll fix this...
+我将修复这个...
+Is that the door?
+那是门吗？
+TherpyKey
+Therpykey
+Why is there a hand coming out of the toilet?
+为什么厕所里有一只手？
+It's holding a key...
+它拿着钥匙...
+you've got to be kidding me.
+你在开玩笑吧。
+I remember when my cousin Mark said he was eaten by a toilet once...
+我记得我的堂兄马克说他曾经被厕所吃掉...
+he's weird. Still...
+他很奇怪。仍然...
+that does sound quite terrifying.
+这听起来确实很恐怖。
+I'll wash my hands later.
+我稍后洗手。
+Nothing but trash.
+只是垃圾。
+Toilet
+洗手间
+Garbage Can
+垃圾桶
+So, where are we going?
+那么，我们要去哪里？
+I don't know, Luzia!
+我不知道，吕齐亚！
+Stop asking me!
+别问我！
+How can you be so calm about this?!
+您怎么能对此感到如此镇定？
+Easy! This has to be a prank!
+简单的！这必须是恶作剧！
+A prank? You think this is a prank, Luzia?!
+恶作剧？您认为这是恶作剧，卢齐亚吗？
+WE'RE BEING KIDNAPPED!
+我们被绑架了！
+When is that going to sink into that stupid little head of yours?!
+什么时候会沉浸在你那个愚蠢的小头上？
+Well, what are we going to do about it?
+好吧，我们要做什么？
+There's nothing we can do!
+我们无能为力！
+The door's locked, there's no way out.
+门被锁着，没有出路。
+Pfft, sure there isn't.
+PFFT，确定没有。
+Why are you still so chirpy about this?
+你为什么对此仍然如此奇怪？
+*Sigh* Only thing left to do is see where they take us.
+*叹**唯一要做的就是看看他们带我们去哪里。
+Who?
+谁？
+I don't know! I didn't get to see them beat me and stuff me in a moving truck, Luzia!
+我不知道！我没有看到他们殴打我，塞进了一辆移动的卡车，吕齐亚！
+One was wearing a mask and the other...
+一个人戴着口罩，另一个戴着...
+What?
+什么？
+I thought I saw...
+我以为我看到了...
+an old-
+一个古老的
+Hey! Do you hear that?
+嘿！你听到了吗？
+It sounds like music?
+听起来像音乐吗？
+Where are we?
+我们在哪？
+It sounds like...
+这听起来像...
+Little Asia Town!
+小亚洲小镇！
+Little Asia Town?
+小亚洲小镇？
+We don't have any Asian towns near us, don't we?
+我们附近没有亚洲城镇，不是吗？
+I thought we did?
+我以为我们做到了吗？
+Mom's taken me there, that one time.
+妈妈把我带到那里，那是一次。
+We must be in Little Tokyo.
+我们必须在小东京。
+I'm sure your mistaking this place for somewhere else.
+我确定您将这个地方误认为是其他地方。
+Pfft! I'm sure is Little Tokyo.
+pfft！我敢肯定是东京的。
+Look, whatever. We need a plan to escape when that door opens.
+看，无论如何。我们需要一个计划，当那扇门打开时。
+I'll kick the guy that opens it and then we make a run for it, ok?
+我会踢那个打开它的家伙，然后我们为此奔跑，好吗？
+That's a stupid plan! It'll never work.
+那是一个愚蠢的计划！它永远不会起作用。
+And why not?
+那么为何不？
+That never happens in the movies...
+这在电影中永远不会发生...
+the kidnapped people usually fall asleep before they arrive.
+被绑架的人通常在到达之前就睡着了。
+This isn't a movie, Luzia!
+这不是电影，吕齐亚！
+Feels just like one.
+感觉就像一个。
+Why do I even bother?
+我为什么要打扰？
+*Sigh* Look, it'll work, trust me.
+*叹*看，它会起作用，相信我。
+Whatever you say, sis.
+无论你说什么，姐姐。
+Okay, let's get ready.
+好吧，让我们准备好。
+Hopefully, we'll be arriving soon.
+希望我们很快到达。
+FirstEnter
+Firstenter
+Well...
+出色地...
+it's about time you showed up.
+现在是你出现的时候了。
+I apologize for the rough transportation.
+我为大型运输道歉。
+You're both probably wanting an explanation?
+你们俩都可能想解释吗？
+Actually, why are you naked? Isn't it cold in there?
+实际上，你为什么赤裸裸？那里不是冷吗？
+Heh. Aren't you a mischievous one.
+嘿。你不是一个调皮的人。
+Welcome, to my bathhouse.
+欢迎来到我的浴室。
+What do you want with us?
+你想和我们在一起吗？
+Sombie, I wanna go swimming!
+sombie，我想去游泳！
+Shut up, Luzia! Now is definitely not the time-
+闭嘴，吕齐亚！现在绝对不是时间 - 
+Oh, but where are my manners?
+哦，但是我的举止在哪里？
+I am Ashina...
+我是阿什娜...
+but everybody just calls me \"The Red Witch\".
+但是每个人都称我为“红色女巫\”。
+A witch?
+女巫？
+You mean like, pointy hat, warts and, black cats?
+您的意思是，尖尖的帽子，疣和黑猫吗？
+*Small chuckle*
+*小笑声*
+Your Luzia, right?
+你的卢齐亚，对吗？
+I've heard so much about you.
+我听说了很多关于你的。
+What do you want with us?!
+你想和我们在一起吗？
+Why did you bring us here?!
+你为什么把我们带到这里？
+You wish to skip introductions? Fine.
+您想跳过介绍吗？美好的。
+I have a \"problem\", that I need help with.
+我有一个我需要帮助的“问题\”。
+It's been haunting me for a very, very long time.
+很长一段时间以来一直困扰着我。
+And you, Sombria...are the key.
+而且您，Sombria ...是关键。
+What! M-Me!?
+什么！ M-me！？
+The thing is, you have something that I need.
+问题是，您有我需要的东西。
+A chance.
+机会。
+A chance to end this nightmare.
+有机会结束这场噩梦。
+You see, I was a lot like you.
+你看，我很像你。
+We bare a striking resemblence, you and I.
+我们裸露了惊人的相似之处，你和我。
+So why is that? Fate? No?
+那为什么呢？命运？不？
+I too were in the exact same position as yourself, without a choice.
+我也没有自己的位置完全相同，没有选择。
+To get what I wanted I had to make a sacrifice.
+要获得我想要的东西，我必须做出牺牲。
+But did I get what I want? No.
+但是我得到了我想要的吗？不。
+I was stuck here, in these cold dark waters for all of eternity...
+我被困在这里，在所有永恒的冷水中。
+Until you came along.
+直到你来。
+So, Sombria. This...
+所以，SOMBRIA。这个...
+is my sacrifice.
+是我的牺牲。
+My curse.
+我的诅咒。
+No, freaking, way!
+不，怪异，方式！
+W-What do you want with me?
+W-你想和我在一起什么？
+Heh, it's not what I want from you.
+嘿，这不是我想要的。
+It's remarkable how much we resemble one another...
+我们彼此相似的值得注意。
+we are almost, identical, you and I. Like twins.
+我们几乎是相同的，你和我。
+So, I would like to offer you a trade...
+所以，我想为您提供交易...
+my body...for yours.
+我的身体...为你的。
+W-What?! No!
+W-什么？！不！
+This all could be yours.The bathhouse, the power, the riches! All of it! Anything you wish!
+这一切都可能是您的浴室，力量，财富！所有的！您想要的一切！
+She ain't gettin' your stilts, momma long legs!
+她不会戴着你的高跷，妈妈长腿！
+You better let us go-
+你最好让我们走 - 
+Wait! Did you say \"anything\"?
+等待！你说\“什么\”？
+LUZIA!
+吕齐亚！
+Sombie, ask for a pony, please!
+Sombie，请问小马！
+Just a really tall one!
+只是一个很高的人！
+Ha Ha! Sombria, I love your little sister!
+哈哈！ Sombria，我爱你的妹妹！
+Such a charming little child!
+如此迷人的小孩！
+LUZIA, STOP IT!
+吕齐亚，停止它！
+Ok, ok. Forget it, lady!
+好的好的。忘了，女士！
+Now, now. There's no need to be upset, it was just an offer.
+现在，现在。无需沮丧，这只是一个报价。
+You're more than welcome to decline, Sombria.
+您非常欢迎您拒绝，Sombria。
+Then why did you kidnap us?
+那你为什么绑架我们？
+Strange. I don't remember asking for you to be kidnapped.
+奇怪的。我不记得要你被绑架。
+If it's who I think it is, she's in for a world of pain and suffering.
+如果我认为这是谁，她就是痛苦和痛苦的世界。
+Sombria...
+Sombria ...
+think about my offer, please.
+请考虑我的报价。
+I don't want to think about it!
+我不想考虑！
+I just want us to go home!
+我只想我们回家！
+If that is all you want, I'll arrange a ride home for you both.
+如果这就是您想要的，我将为你们俩安排回家。
+In the mean time feel free to enjoy the buffet, you must be hungry.
+同时，您可以随意享受自助餐，您必须饿。
+You got a buffet?!
+你有自助餐吗？
+All you can eat.
+都可以吃。
+Ok, I'm sold.
+好，我卖了。
+C'mon, Sombie! Let's go chow down!
+来吧，sombie！让我们去吧！
+If only you girls knew. Especially you, Luzia.
+如果你女孩知道。特别是你，吕齐亚。
+Did I say you could be in my presence?
+我说你可以在我面前吗？
+Surely a mother can visit her daughter?
+肯定可以拜访她的女儿吗？
+You are no mother of mine, you old hag!
+你不是我的母亲，你老了！
+You gave me this wretched curse, and destroyed Tena's-
+你给了我这个可怜的诅咒，摧毁了tena的 - 
+And you took my daughters for greed over some stupid man.
+然后，您带我的女儿为一个愚蠢的男人而贪婪。
+What do you want, filth?
+你想要什么，肮脏？
+Just a friendly word of caution.
+只是一个友好的谨慎。
+I know what you're up to, Ashina. Especially with the child.
+我知道你在做什么，阿什娜。特别是和孩子在一起。
+Like I said, you're here forever.
+就像我说的，你永远在这里。
+Just watch your back, you old, pathetic, woman!
+只要看着你的背，你老，可悲，女人！
+She will free us all.
+她将释放我们所有人。
+ACH_JUST_A_LITTLE_GIRL
+ach_just_a_little_girl
+Heh! My daughter, she will fall...
+呵！我的女儿，她会摔倒...
+and when she does, you will all be mine.
+当她这样做时，你们都将是我的。
+You're wrong, you old crone.
+你错了，你的老克隆。
+I will have Sombria's body, I will leave this bath...
+我将拥有Sombria的身体，我将洗个澡...
+and I will finally have my cold dead claws around your neck!
+我终于会在你的脖子上放着冷死的爪子！
+*Tisk, tisk* My poor daughter, I'm sorry but you will never be free...
+* Tisk，Tisk*我可怜的女儿，对不起，但是您永远不会自由...
+just like your friend, Tanto.
+就像您的朋友Tanto一样。
+RoomSetup:Bath
+Roometup：洗澡
+TiledWall
+瓷砖墙
+Now what?
+怎么办？
+Great! The passage is shut!
+伟大的！通道已关闭！
+I guess, I can't look in here.
+我想，我不能看这里。
+It looks like there's something missing where the eyes should be.
+看起来有些眼睛应该缺少一些东西。
+I guess it's not in there.
+我想它不在那里。
+Hallway
+门厅
+Tiled Wall (Right)
+瓷砖墙（右）
+Tiled Wall (Left)
+瓷砖墙（左）
+DoorLocked
+门锁
+SombieCutscene
+Sombiecutscene
+Where is everybody?
+大家都去哪了？
+Where's the all the food?!
+所有食物在哪里？
+Luzia, please, shut up!
+吕齐亚，请闭嘴！
+I'm not in the mood for your crap right now.
+我现在不想让您的废话。
+But I'm hungry, Sombie.
+但是我饿了，sombie。
+You always are!
+你永远是！
+I can't just stand here with an empty stomach!
+我不能只是空腹站在这里！
+I'm gonna go snoop around.
+我要去偷偷摸摸。
+No! You stay right here!
+不！你呆在这里！
+Sorry \"mom\"! I can't do that.
+对不起妈妈\”！我不能那样做。
+I'm just going to explore in here, ok?
+我只是要在这里探索，好吗？
+*Sigh* W-Whatever, Luzia. Whatever...
+*叹* W-Whise，Luzia。任何...
+I'll bring you back a donut or something.
+我给你带回来甜甜圈之类的东西。
+Lockpick
+锁定
+Hey, Sombie!
+嘿，sombie！
+Can I have one of your hair pins?
+我可以给你一个发销吗？
+Why?
+为什么？
+My fringe is loose.
+我的边缘松散。
+It looks fine, Luzia.
+看起来不错，吕齐亚。
+My back fringe, dummy.
+我的后边缘，假人。
+Whatever, I don't care anymore. Just take it and leave me alone for a while.
+无论如何，我不在乎。拿走它，让我一个人呆一会儿。
+That lady was freaky!
+那个女士很怪异！
+Not now, Luzia.
+现在不是，吕齐亚。
+You think she can get my frisbee of the roof, Sombie?
+您认为她可以买到我的飞盘，sombie吗？
+I am not in the mood for this right now!
+我现在不愿意！
+Pfft, fine. Hey, Sombie-
+pfft，很好。嘿，sombie-
+STOP CALLING ME THAT!
+别再叫我了！
+Ok, yeash! Sorry!
+好，是的！对不起！
+I didn't mean to make you upset.
+我不是要让你难过。
+N-No it's okay. *Sigh*
+n-no没关系。 *叹*
+I'm scared, Luzia. I just want to go home.
+我很害怕，吕齐亚。我只是想回家。
+There's a small hole in the wall.
+墙上有一个小孔。
+I wonder what's in there?
+我想知道那里有什么？
+Hmm, nothing.
+嗯，什么都没有。
+Bummer.
+bummer。
+RedTile
+红tile
+Hey! What's this?
+嘿！这是什么？
+DeadFish
+死鱼
+It's a dead fish.
+这是一条死鱼。
+Poor little guy.
+可怜的小家伙。
+You should be in a frying pan with your buddies.
+您应该和好友一起在煎锅中。
+Maybe I can find you one.
+也许我可以找到你一个。
+Huh?! It's locked?
+嗯？！它是锁着？
+There must be a key around here somewhere.
+这里必须有一个钥匙。
+There, finally! It's unlocked.
+终于在那里！它已解锁。
+Crack in the Wall
+墙上的裂缝
+WallKnife
+壁刀
+Weird...
+诡异的...
+it's a picture of a man hanning in a tree.
+这是一个男人在树上的人的照片。
+Woah! This wall is made out of paper?
+哇！这堵墙是用纸制成的吗？
+I can't, I have to see that butcher guy.
+我不能，我必须看到那个屠夫家伙。
+I'm sorry wall, but this is for your own good.
+对不起，沃尔，但这是为了你自己的利益。
+Dun, Dun, Dun!
+Dun，Dun，Dun！
+Now that looks pretty creepy!
+现在看起来很令人毛骨悚然！
+There's something written here.
+这里写了一些东西。
+For far too long have I been chained to these filth covered walls, [ like some sort of animal. [ You will all pay for your selfishness!
+很长时间以来，我被束缚在这些污垢覆盖的墙壁上，就像某种动物一样。 [你们所有人都会为自己的自私付费！
+LadyFace
+Ladyface
+Death
+死亡
+Bathhouse Hallway
+浴室走廊
+Buffet
+自助餐
+Bathing Room
+沐浴室
+Sauna
+桑拿
+Hollow Wall
+空心墙
+Bloody Message
+血腥的消息
+HangInThere
+Hanginthere
+DecisionTime
+决策时间
+MeetTheButcher
+认识藏人
+What does this look like? A Child care center? NO KIDS!
+这是什么样的？托儿中心？没有小孩！
+Ha! I knew it!
+哈！我就知道！
+So there are people working here...
+所以有人在这里工作...
+and about time too, I'm starving!
+大约时间，我饿了！
+You got rocks in that little head of yours? Didn't you hear me say \"No kids allowed in my kitchen\"!?
+你在那个小头的岩石上有岩石吗？你不是听到我说\“我的厨房里没有孩子\”！
+I did, but I'm a delinquent.
+我做到了，但我是犯罪。
+So, who are you?
+所以，你是谁？
+*Sigh* This is why I hate kids.
+*叹*这就是为什么我讨厌孩子。
+The name's Nikuya, but the witch calls me \"The Butcher\".
+这个名字叫Nikuya，但女巫叫我\“屠夫\”。
+I thought you were the chef?
+我以为你是厨师？
+I don't cook, well, not anymore.
+我不做饭，好吧，不再了。
+Everything here is raw.
+这里的一切都是原始的。
+Oh, like sushi?
+哦，像寿司一样？
+*Sigh* NO, not like sushi!
+*叹*不，不喜欢寿司！
+Do you know what witches eat?
+你知道女巫吃什么吗？
+I think my mom read me a book on that.
+我想我妈妈给我读了一本关于这本书的书。
+they eat gingerbread houses.
+他们吃姜饼房。
+Kid, look, this isn't exactly a safe place for you to be in.
+孩子，看，这并不是您进入的安全场所。
+People, especially humans, go missing round here...
+人们，尤其是人类，在这里失踪...
+just be careful.
+只要小心。
+Gotcha...
+Gotcha ...
+but is there anything to eat around here?
+但是这里有什么可吃的东西吗？
+*Goddammit* Look! I'll try and find you a candy bar or something, happy?!
+* Goddammit*看！我会尝试找到您的糖果吧或其他东西，快乐吗？
+Just don't touch anything!
+只是不要触摸任何东西！
+Ok?
+好？
+No problem!
+没问题！
+PulllTheKnife
+ulltheknife
+What the...
+什么...
+M-Mr. Butcher?
+M-Mr。屠夫？
+Wait, that's the-
+等等，那是 - 
+THE WITCH'S HEAD!
+女巫的头！
+Why is it on your body?
+为什么在你的身体上？
+There's a knife in your neck!
+脖子上有刀！
+Hold still! I'll pull it out for ya!
+静止不动！我会把它拿出来！
+Mhmphmphpmhp!!!
+mhmphmphpmhp！
+Huh? What was that?
+嗯？那是什么？
+Just hold still, silly billy! Let me pull the knife out-
+只是保持静止，愚蠢的比利！让我把刀拉出 - 
+Ughh, gross!
+嗯，毛！
+MHMPHMPHPHPM!!!
+mhmphmphphpm ！！！
+There we go!
+我们去！
+Has Knife
+有刀
+WHAT HAVE I DONE?!
+我做了什么？！
+I'VE KILLED HIM!
+我杀了他！
+WAIT! HE'S ALIVE?!
+等待！他活着？！
+H-Han.Mphp...Ah! *Cough* FINALLY!
+h-han.mphp ...啊！ *咳嗽*终于！
+I've been trying to pry open her lips so I can talk...
+我一直在撬开她的嘴唇，以便我可以说话...
+and now that I can-
+现在我可以 - 
+WHY THE HELL DID YOU DO THAT FOR!!?
+你为什么要这么做！
+I can't believe you're still alive!
+我不敢相信你还活着！
+As I said be for, I'm already dead!
+正如我所说的那样，我已经死了！
+NOW I'M JUST A HEAD! YOU LITTLE DIP-
+现在我只是一个头！你小蘸 - 
+Sorry about that, but what the hell happened here?
+抱歉，但是这里发生了什么？
+*Sigh* She did this...
+*叹*她做了...
+the lady who's not so on the wall anymore.
+那位不再那么在墙上的女士。
+She broke free.
+她摔断了。
+How?
+如何？
+Listen kid, there's no time to waste...
+听孩子，没有时间浪费...
+she's after someone named Sombria.
+她是一个叫Sombria的人。
+That's my sister!
+那是我姐姐！
+Find her and get out while you still can!
+找到她并尽力而为！
+She will kill you both if you stay here.
+如果你留在这里，她会杀了你们两个。
+But I need that head you're wearing!
+但是我需要你戴的头！
+Listen kid, just get out! She is coming for you!
+听孩子，刚出去！她来找你！
+Look, I'm going to find Sombria...
+看，我要找到Sombria ...
+just hang in there, and try not to lose your head- I mean her head!
+只是挂在那里，尽量不要失去头 - 我的意思是她的头！
+What was that?! Some kind of joke?
+那是什么？！有些笑话？
+...yes.
+...是的。
+CandyBar:Cutscene
+Candybar：过场动画
+Oh good.
+哦，好。
+It's still here.
+它仍然在这里。
+About time you showed up!
+大约您出现的时间！
+Can you let me down? I need to pick myself up!
+你能让我失望吗？我需要接自己！
+Sorry I took so long.
+抱歉，我花了很长时间。
+*Sigh* Hey, look kid...
+*叹*嘿，看孩子...
+sorry about before, got a little tied up in my emotions.
+对不起，我的情绪有点束缚。
+You're so sweet for a man with no face.
+对于一个没有脸的男人，你真可爱。
+Don't make me blush! Really, I'll kill ya! Oh! before I forget, I got you something.
+不要让我脸红！真的，我会杀了你！哦！在我忘记之前，我得到了一些东西。
+It's over there, on the bench.
+它在板凳上。
+It's not much.
+不多。
+Choppy
+断断续续
+Yes! Some delicious noodles!
+是的！一些美味的面条！
+I knew there was something to eat around here-
+我知道这里有东西可以吃 - 
+I don't think roaches were in the recipe. *Yuck!*
+我不认为蟑螂在食谱中。 *yuck！*
+I'll just take the chopsticks.
+我只要筷子。
+It's locked.
+它是锁着。
+Hey a freezer!
+嘿，冰箱！
+The door's locked.
+门被锁定了。
+I'd hate to get locked in there.
+我不想被锁在那里。
+metlady
+metlady
+Excuse me, Mr. Butcher.
+对不起，屠夫先生。
+Have you met the lady on the wall?
+你在墙上遇到了那位女士吗？
+Wait! How do you know about her?!
+等待！你怎么知道她？
+I used the knife you gave me to cut a hole in the wallpaper.
+我用你给我的刀子在墙纸上砍了一个洞。
+*Sigh* Why didn't I just kill her why I had the chance?
+*叹**为什么我不杀了她为什么有机会？
+I should've just gutted'er like a fish...
+我应该像一条鱼一样笨拙...
+but no, I gave her the damn knife! I could been somewhere far away from this shi-
+但是不，我给了她该死的刀！我可能距离这个地方很远
+*Sigh* Listen kid, stay away from her...
+*叹*听孩子，远离她...
+she's nothing but trouble.
+她不过是麻烦。
+Too late, Mr. Butcher.
+为时已晚，Butcher先生。
+*Sigh* Well, last time I played her little game she wanted an object or something?
+*叹*好吧，上次我玩她的小游戏时，她想要一个物体或其他东西？
+Can't you just tell me how to get outta here?
+你不能告诉我如何在这里撤离吗？
+What if the witch finds out? You're not the only one who'll be gutted, again.
+如果女巫发现了怎么办？您不是唯一一个会再次被淘汰的人。
+Just do what the lady wants, she can take the blame.
+只要做女士想要的事情，她就可以责备。
+If you wanna know more about the item to give her just bring it to me first.
+如果您想进一步了解该物品，请首先将其带给我。
+I can shed some info on it for you.
+我可以为您提供一些信息。
+Thanks! Oh, and by the way...
+谢谢！哦，顺便说一句...
+where's your face?
+你的脸在哪里？
+It's in my car, why?
+在我的车里，为什么？
+I think you're lying.
+我想你在说谎。
+Do I need one?
+我需要一个吗？
+What are you?
+你是做什么的？
+Kid, you ask way too many questions!
+孩子，你问太多问题！
+Well, how about one more?
+好吧，再呢？
+Can I have that big knife?
+我可以有那把大刀吗？
+A little girl with a big knife?
+一个有大刀的小女孩？
+I just got a chill down my spine, and I don't even have a spine.
+我只是在脊椎上放松，甚至没有脊柱。
+No, it's mine.
+不，这是我的。
+Can't have everything we want, sorry, lil' creepy girl.
+对不起，无法拥有我们想要的一切，Lil's Creepy Girl。
+What if I find you a face?
+如果我发现你的脸怎么办？
+Well, I wouldn't say no to one. I could use a face lift.
+好吧，我不会对一个人拒绝。我可以用脸部抬起。
+Hey! Mr. Butcher!
+嘿！布彻先生！
+I have a surprise for you!
+我有个惊喜给你！
+I found you a face!
+我找到了你的脸！
+Really? Who'd you steal it off?
+真的吗？你是谁偷走它的？
+You didn't cut someone's face-
+你没有剪某人的脸 - 
+Ta da!
+ta da！
+Oh, a mask.
+哦，面具。
+So, what do you think?
+所以你怎么看？
+Honestly, it doesn't look half bad!
+老实说，它看起来还不错！
+Thanks, kid!
+谢谢，孩子！
+So, can I have that knife now?
+那么，我现在可以拿那把刀吗？
+Sure, go nuts!
+当然，疯了！
+Just be responsible with it.
+只要对此负责。
+You don't wanna go round killin' anyone with it or anything. But why do I care. Enjoy!
+您不想与任何人一起杀死任何人。但是我为什么要关心。享受！
+Can you tell me a little more about this item?
+您能告诉我更多有关此项目的信息吗？
+Uh, I already know that.
+嗯，我已经知道了。
+Looks like my lunch, a dead traditional koi fish.
+看起来像我的午餐，一条死去的传统锦鱼鱼。
+A very dead traditional koi fish.
+一条非常死的传统锦鱼鱼。
+I found it on the counter in the buffet.
+我在自助餐的柜台上找到了它。
+Yep, that was my lunch.
+是的，那是我的午餐。
+Gross.
+总的。
+ACH_WHAT_IS_THIS
+ach_what_is_this
+Hey! Be careful with that!
+嘿！小心！
+Do you have any idea what that is?
+你知道那是什么吗？
+A flower?
+一朵花？
+Pfft! \"Flower\".
+pfft！ \“花\”。
+That's a spider lily, it resembles death,
+那是蜘蛛百合，就像死亡，
+Cool name, but why is so dangerous?
+很酷的名字，但是为什么如此危险？
+It's used to kill spirits and demons in the afterlife...
+它用来杀死来世的烈酒和恶魔...
+and I've died far too many times to be touched by that thing for my liking.
+而且我死了很多次，无法被那件事触动。
+Whoa! Is death painful?
+哇！死亡痛苦吗？
+Is death painful?
+死亡痛苦吗？
+*Sigh* I just found something even more painful.
+*叹**我只是发现一些更痛苦的东西。
+Well wadda ya know!
+好吧，wadda ya知道！
+A pair of chopsticks?
+一双筷子？
+Apart from them being very useful with cooking and eating, they are basically just to sticks.
+除了它们在烹饪和饮食方面非常有用外，它们基本上只是棍子。
+Satisfied?
+使满意？
+No.
+不。
+Great! Now leave me alone!
+伟大的！现在让我一个人！
+Well, aren't you the life of the party.
+好吧，您不是聚会的生活。
+Oh! A candy bar!
+哦！糖果吧！
+ACH_I_WANT_CANDY
+ACH_I_WANT_CANDY
+I need to find Sombie first.
+我需要先找到Sombie。
+Restaurant
+餐厅
+Loading Door
+装载门
+Freezer
+冰箱
+Butcher
+屠夫
+Hanging Butcher
+悬挂屠夫
+I don't need a shower right now.
+我现在不需要淋浴。
+Wait!*Sniff*...maybe I do.
+等等！*嗅*...也许我愿意。
+It's a sauna.
+这是桑拿。
+I can't see through the glass.
+我看不到玻璃杯。
+It's locked but...
+它已锁定，但是...
+there's something shiny in there.
+那里有些闪亮的东西。
+Maybe Sombie has something that can open this.
+也许Sombie有一些可以打开的东西。
+A hair pin, perhaps?
+也许是头发别针？
+There's nothing else in here.
+这里没有别的。
+Just like Sombie's door.
+就像Sombie的门一样。
+There! I got it!
+那里！我知道了！
+Whoops! The hairpin broke!
+哎呀！发夹破裂了！
+Sorry, Sombie.
+抱歉，Sombie。
+A mask?
+一张面具？
+Why is it smiling?
+为什么微笑？
+Cut Yourself
+伤害自己
+CutYourself
+伤害自己
+Sombie! Where the heck have you been!?
+sombie！你去过哪里！
+I was looking everywhere for you!
+我到处都在寻找你！
+Luzia, there's no time.
+吕齐亚，没有时间。
+I need you to stand in the other circle now!
+我现在需要你站在另一个圈子里！
+Why? What's going on?
+为什么？这是怎么回事？
+You need to do exactly what I tell you.
+您需要做我告诉你的事情。
+Go now!
+现在走！
+Ok, ok!
+好的好的！
+You need to cut your hand...
+你需要割手...
+spill your blood in the circle!
+在圆圈中洒血！
+ARE YOU INSANE!?
+你疯了！？
+She's attracted to blood!
+她被鲜血吸引了！
+WHY DO WE WANT TO ATTRACT HER FOR!?
+我们为什么要吸引她！
+SHE IS GOING TO EAT US!
+她要吃我们！
+Luzia, you need to trust me!
+吕齐亚，你需要信任我！
+Use something to cut yourself!
+用一些东西来削减自己！
+Luzia, hurry! Get in the other circle!
+吕齐亚，快！进入另一个圈子！
+UseKnife
+使用小刀
+Just close your eyes and...
+闭上你的眼睛，...
+Ahhhh!
+啊！
+N-Now what?!
+n现在什么？！
+Just wait.
+等一下。
+I know you're in here! I can smell you!
+我知道你在这里！我可以闻到你！
+Oh, hiding in the sauna are we?
+哦，藏在桑拿浴室吗？
+I'm surprised you can fit in there with those long legs!
+我很惊讶您可以与那些长腿一起安装在那里！
+Wait! WHAT IS THIS?!
+等待！这是什么？！
+A trap!? You fool!
+陷阱！？你个笨蛋！
+That won't stop me ripping the legs off you!
+那不会阻止我撕开你的腿！
+So now wha-
+所以现在
+Shh!
+嘘！
+Just go get the head and lets get the heck outta here.
+只要走到头，让我们在这里呆在这里。
+I don't know how long this trap will hold.
+我不知道这个陷阱会持续多长时间。
+Just lock the door.
+只需锁定门。
+You can't from the outside.
+你不能从外面。
+Who's there?
+谁在那儿？
+I can hear talking out there.
+我可以听到那里的讲话。
+Pipe down in there, freak!
+在那里管道，怪胎！
+Wait, Luzia?
+等等，吕齐亚？
+You two met?
+你们两个见面？
+Uh oh.
+哦，哦。
+Luzia, go get the head now!
+吕齐亚，现在就去吧！
+We'll meet back at the noodle lady's house!
+我们将在面条女士的房子里见面！
+Shower
+淋浴
+Lockers
+储物柜
+Strange locker
+奇怪的储物柜
+Circle Center
+圆心中心
+DeskKey
+DECKKEY
+UseFlashlight
+useflashlight
+It's still pretty dark in here.
+这里仍然很黑。
+Where's my flashlight?
+我的手电筒在哪里？
+Oh, here! In my pocket!
+哦，在这里！在我的口袋里！
+LadyOnTheWall
+Ladyonthewall
+Gross...
+总的...
+And really creepy.
+真的很令人毛骨悚然。
+D-Did you say something, my dear?
+d-did你说些什么，亲爱的？
+W-Wah? No way!
+W-WAH？没门！
+It's alive?
+它还活着？
+It?
+它？
+I-U, uh-
+i-u，嗯 - 
+\"It\" is not my name...
+\“ it \”不是我的名字...
+I am known as \"The Lady On The Wall\".
+我被称为“墙上的女士”。
+And whom do I have the pleasure of meeting?
+我很高兴见面？
+What is your name, my dear?
+亲爱的，你叫什么名字？
+I-It's Luzia.
+我 - 是吕齐亚。
+Hmm, strange name for a young girl.
+嗯，一个年轻女孩的奇怪名字。
+My mom said it's a bright name.
+我妈妈说这是一个名字。
+Such a dark place to be in for one with such a...\"bright\" name.
+如此黑暗的地方，有这样一个... \“ bright \”的名字。
+Tell me Luzia, why are you here?
+告诉我吕齐亚，你为什么在这里？
+We were kidnapped by the witch in the bath and-
+我们在浴室里被女巫绑架了 - 
+We?
+我们？
+There's someone with you?
+有人和你在一起吗？
+Yeah, my sister, Sombria.
+是的，我的姐姐，Sombria。
+Heh...
+嘿...
+How ironic, the opposites. Light and Dark.
+具有讽刺意味的，对立面。光与暗。
+Tell me, did the witch make either of you an offer?
+告诉我，女巫是否提出了一个要约？
+Well, not to me...
+好吧，不是我...
+she did to Sombie though.
+她对sombie做了。
+I knew it! Trying to escape your wretched curse now, are you?
+我就知道！试图逃脱您的可怜的诅咒，是吗？
+I don't think so, we're just waiting for our ride home.
+我不这么认为，我们只是在等我们回家。
+She's not letting you leave, Luzia...
+她不让你离开，卢齐亚...
+but I may be able to help you, both.
+但是我也许可以帮助你们。
+Okay, how?
+好吧，怎么样？
+I'll make you a deal...
+我会让你交易...
+You bring me something that I want and I'll tell you how to escape, deal?
+您带给我我想要的东西，我会告诉您如何逃脱，交易？
+Okay, that sounds fair.
+好的，这听起来很公平。
+However, if you bring me something that I don't want...
+但是，如果您带给我一些我不想要的东西...
+then you will nourish my withing body with yours, deal?
+那你会用你的身体滋养我的身体，交易吗？
+Wait, what?! No way, lady!
+等等，什么？！没办法，女士！
+I could just eat you now? Save me the trouble of waiting.
+我现在可以吃你吗？节省我等待的麻烦。
+But I'm feeling generous today, so, bring me something of...
+但是我今天感到很慷慨，所以给我带来一些...
+Usefulness.
+用处。
+itemchoice
+itemchoice
+Death.
+死亡。
+Tradition.
+传统。
+ACH_LADY_ON_THE_WALL
+ACH_LADY_ON_THE_WALL
+Oh, would you look at that!
+哦，你会看的！
+Such a lifeless, greasy body. A dead fish...
+如此无生命的油腻的身体。一条死鱼...
+Looks like you made the right choice.
+看起来您做出了正确的选择。
+I shall help you, but just this once.
+我会帮助您，但只有一次。
+You need to find the secret passage somewhere in the bathing room.
+您需要在浴室的某个地方找到秘密通道。
+You'll need this tile plus one other to activate the passage.
+您将需要此瓷砖和另一个瓷砖来激活通道。
+You should hurry if you want to save your sister...
+如果您想拯救姐姐，应该快点...
+and...I'm also getting quite hungry.
+而且...我也很饿。
+*Tisk,tisk* You dissapoint me, Luzia.
+* Tisk，Tisk*您让我失望，卢齐亚。
+But you won't dissapoint me stomach.
+但是你不会失去我的肚子。
+Such a deadly flower, such beauty.
+如此致命的花，如此美丽。
+The table is broken.
+桌子坏了。
+ShesGone
+她走了
+Hey! S-She's...gone!
+嘿！ S-she的...走了！
+Not good!
+不好！
+Wait, what's this?
+等等，这是什么？
+You...took my legs, my looks, my...life. [ I will never forgive you for what you have done to me! [ You shall all choke on your thick greedy blood.
+你...戴着我的腿，我的表情，我的生活。 [我永远不会原谅你对我所做的一切！ [你们所有人都应该cho绕的贪婪的血液。
+I need to warn Sombie.
+我需要警告Sombie。
+There's something else here...
+这里还有其他东西...
+a key? I wonder what it's for?
+关键？我想知道这是什么用？
+Table
+桌子
+FlashlightDrawer
+FlashlightDrawer
+I don't think anyone would mind me looking.
+我认为没有人会介意我看。
+A flashlight?
+手电筒？
+This should come in handy.
+这应该派上用场。
+SpiderLily
+蜘蛛侠
+Hey, what's this?
+嘿，这是什么？
+It smells lovely.
+闻起来很可爱。
+Even though a wicked witch runs this place...
+即使一个邪恶的女巫经营这个地方...
+she still finds the time to recycle.
+她仍然有时间回收。
+Great! We're locked in.
+伟大的！我们被锁定了。
+Maybe there's another way out.
+也许还有另一种出路。
+Draw
+画
+RedWitch
+Redwitch
+Luzia, I'm so glad you could join us.
+吕齐亚，我很高兴您能加入我们。
+Wait! Stop!
+等待！停止！
+You let her go!
+你放开她！
+LUZIA! JUST RUN! GET OUT OF HERE!
+吕齐亚！赶紧跑！离开这里！
+You're not going anywhere.
+你不会去任何地方。
+You might just make it out alive.
+您可能只是活着。
+I'm not leaving without my her!
+我不是没有她的！
+Luzia, I admire your bravery...
+吕齐亚，我很佩服你的英勇...
+but seriously, what are you going to do?
+但是说真的，你打算做什么？
+Something you'll regret if you lay one finger on her!
+如果您将一根手指放在她身上，您会后悔的！
+You mean...like this?
+你的意思是...这样吗？
+*Gasp* SOMBRIA!!!
+*喘着粗气* Sombria ！！！
+Heh, whoops! Sorry, Luzia...
+嘿，哎呀！对不起，吕齐亚...
+but she's mine now.
+但是她现在是我的。
+WHAT DID YOU DO TO SOMBRIA!
+您对Sombria做了什么！
+Something that was done to me, a long time ago.
+很久以前对我做了一些事情。
+Once complete, I'll be taking her body as my own, she'll remain here...
+完成后，我将把她的身体作为我自己的身体，她会留在这里...
+You will stay here with the others.
+您将与其他人在一起。
+CHANGE HER BACK!
+改变她的背！
+The changes are...permanent, Luzia.
+变化是...永久性，卢齐亚。
+She is no longer your sister but a portal to my salvation!
+她不再是你的姐姐，而是我得救的门户！
+Y-You're wrong...
+是的，你错了...
+Luzia! Lets go!
+吕齐亚！我们走吧！
+We can escape through this pipe in the water.
+我们可以通过水中的管道逃脱。
+I can't leave now.
+我现在不能离开。
+Not without the head.
+并非没有头。
+It's!!
+它的！！
+Another key...
+另一个钥匙...
+This one must belong to the buffet door!
+这个必须属于自助餐！
+It's locked now?
+现在被锁定了吗？
+Maybe there's a key around here, somewhere?
+也许这里有一个钥匙？
+BloodWater
+血水
+Oh my gosh!
+天啊！
+What the hell happened here?
+到底在这里发生了什么？
+We were literally gone for a few hours...
+我们从字面上走了几个小时...
+w-who did this?
+W-谁做到了？
+but I have a feeling we're about to find out.
+但是我有一种我们将要发现的。
+So, where is the head?
+那么，头在哪里？
+I think it's in the secret bathroom.
+我认为这是在秘密浴室里。
+I'll go check there, you look around here.
+我会去那里检查，你在这里环顾四周。
+We'll meet up in the sauna room if anything happens.
+如果发生任何事情，我们将在桑拿房见面。
+Be careful.
+当心。
+How does she vanish like that?
+她如何消失？
+So cool!
+非常酷！
+RepositionCharacters
+重新定义
+MovePlayer
+MovePlayer
+EmptyWater
+空水
+SewerIntro
+下水道
+Sombie...
+sombie ...
+W-What has she done to you?
+她对你做了什么？
+You look, different-
+你看起来不一样-
+I KNOW, LUZIA!
+我知道，吕齐亚！
+I-I, know.
+我，我知道。
+I'm sorry, I didn't mean to-
+对不起，我不是说 - 
+Please, just don't say anything right now...
+请，现在不要说什么...
+leave me alone.
+请别打扰我。
+But you always want to be alone!
+但是你总是想一个人！
+Well, I can't be alone when you're around!
+好吧，当你在附近时，我不能孤单！
+Why is this happening to me?
+为什么这发生在我身上？
+What did I do to deserve this?
+我做什么应得的？
+This must be the way out of here.
+这一定是离开这里的道路。
+But it's locked.
+但这是锁定的。
+I'll have to find a key.
+我必须找到一个钥匙。
+Just because I'm dry, doesn't mean I want to jump back in.
+仅仅因为我干燥，并不意味着我想跳回。
+More dead animal cages floating in there.
+更多的死动物笼子漂浮在那里。
+There's a door on the other side.
+另一侧有一扇门。
+I don't think I can jump that gap.
+我认为我不能跳这个差距。
+Maybe, I could make a bridge.
+也许，我可以做一座桥。
+I hope this holds.
+我希望这能结束。
+I don't want to get wet again.
+我不想再次弄湿。
+Eww gross!
+EWW GROSS！
+Sewer water, yuck!
+下水道水，Yuck！
+Hey! There's something shiny in there.
+嘿！那里有些闪亮的东西。
+Hmm, I ain't sticking my hand in there.
+嗯，我没有把手伸进去。
+I'll need to fish it out somehow.
+我需要以某种方式钓鱼。
+FindMetalPole
+Findmetalpole
+Hopefully that shiny thing is made out of metal.
+希望那闪亮的东西是用金属制成的。
+Well, it worked!
+好吧，它奏效了！
+It's a metal pipe.
+这是金属管。
+Maybe I can find a use for it.
+也许我可以找到它的用途。
+I could use this plank of wood to make a bridge.
+我可以用这种木板来桥。
+It looks pretty old though.
+看起来很老。
+I just hope it doesn't break.
+我只是希望它不会破裂。
+There's nothing else in there.
+那里没有别的。
+There's something glimmering in there...
+那里有一些闪烁的东西...
+but I ain't sticking my hand in to find out.
+但是我没有伸出手来找出答案。
+I'll need something long to reach it.
+我需要很长时间才能达到它。
+FindString
+Findstring
+This'll save me using my hand.
+这将用我的手救我。
+Some fishing line?
+一些钓鱼线？
+What kind of fish would you catch down here?
+您会在这里赶上哪种鱼？
+Okay, let's make a fishing pole.
+好吧，让我们做一个钓鱼杆。
+There's some sort of metal cable floating in the water.
+水上有某种金属电缆。
+I could fish it out if I had a fishing pole.
+如果我有钓鱼竿，我可以钓鱼。
+I still can't reach it with the pole...
+我仍然无法用杆到达...
+but I could make a fishing pole if I had some string...
+但是如果我有一些绳子，我可以做一个钓鱼竿...
+and a hook.
+和钩子。
+SewerKey
+下水道
+There you are! Mr. Gate Key!
+你在这！ Gate Key先生！
+Let's get out of here.
+让我们离开这里。
+Sombie! I found the key to the gate.
+sombie！我找到了大门的钥匙。
+We can get outta here!
+我们可以在这里离开！
+Just go without me, Luzia...
+只是没有我，吕齐亚...
+leave me here.
+把我留在这里。
+Pfft, I knew you were going to say that!
+PFFT，我知道你会这么说！
+Look Sombie, I don't know what the witch lady did to you...
+看，我不知道女巫女士对你做了什么...
+but we can fix it, we can't just give up.
+但是我们可以解决它，我们不能只是放弃。
+There must be a way to change you back!
+必须有一种方法来改变您！
+I-I don't know, Luzia.
+我 - 我不知道，吕齐亚。
+You won't unless you try, Sombie.
+除非您尝试，否则您不会，Sombie。
+But the witch, she's dead...
+但是女巫，她已经死了...
+how are we going to change me back?
+我们将如何改变我？
+Maybe someone else knows? Lets go ask around!
+也许有人知道？让我们四处逛逛！
+Ok, and thanks, Luzia.
+好的，谢谢吕齐亚。
+I should say it a lot more but it's hard, y'know?
+我应该再说很多，但是很难，知道吗？
+It's fine, Sombie.
+很好，Sombie。
+Let's get going!
+我们走吧！
+Gate
+门
+Ladder
+梯子
+Gap
+差距
+WaterPipe
+水管
+Pile of Wood
+一堆木头
+Control Room
+控制室
+Key
+钥匙
+Hole
+洞
+Fishing Spot
+钓鱼点
+oKey
+Okey
+Hmm, there must be a key in here somewhere?
+嗯，这里必须有一个钥匙吗？
+I'll fix this, Sombie.
+我将修复这个，Sombie。
+I don't need to use this anymore.
+我不再需要使用它了。
+What does this thing do?
+这件事做什么？
+Water drainage?
+排水？
+There's no power.
+没有力量。
+UsePowerCable
+usepowerccable
+Let's power this baby up!
+让我们加油这个婴儿吧！
+What's that sound?
+那声音是什么？
+GetMagnet
+getmagnet
+Hey, now we're talking!
+嘿，现在我们在说话！
+Cool magnet!
+酷磁铁！
+Game Saved!
+游戏保存！
+Sewer Control Room
+下水道控制室
+Main Sewer
+主要下水道
+Shelves
+架子
+Ok, lets go find someone who can help you.
+好的，让我们去找一个可以帮助您的人。
+I-I don't think it would be a good idea that people would see me like this.
+我 - 我认为人们会看到我这样的好主意。
+Pfft! You look fine, Sombie.
+pfft！你看起来很好，sombie。
+I don't know, Luzia.
+我不知道，吕齐亚。
+*Sigh!* Fine...
+*叹息！*很好...
+you stay here, I'll come get you when I find someone that can help you.
+您呆在这里，当我找到可以帮助您的人时，我会来找您。
+SombieAppear
+sombieappear
+GateLock
+加特洛克
+I really don't wanna go back in there...
+我真的不想回到那里...
+but I need to help Sombie.
+但是我需要帮助Sombie。
+I should look around for some answers first.
+我应该先寻找一些答案。
+Mmm smells delicious!
+嗯，闻起来很美味！
+How much for a bowl of noodles?
+一碗面条多少钱？
+3 coins a bowl!
+3个硬币！
+Would you like some?
+你想要一些吗？
+Sorry, but I wish I had some money...
+抱歉，我希望我有钱...
+I'm so hungry.
+我太饿了。
+Sorry, little lady!
+对不起，小女士！
+No dough, no noodles!
+没有面团，没有面条！
+Who you callin' little?!
+你叫谁？
+You're shorter than me!
+你比我短！
+So cliché.
+所以陈词滥调。
+It's a laundromat.
+这是一个自助洗衣店。
+I could use some clean clothes right about now.
+我现在可以使用一些干净的衣服。
+Explaination
+解释
+I'm looking for someone who can help my-
+我正在寻找可以帮助我的人
+Sorry, little one. I'm really busy with this mess.
+抱歉，小家伙。我真的很忙这个混乱。
+Do you know anyone who can help me?
+你知道有人可以帮助我吗？
+I think my sister is cursed.
+我认为我姐姐被诅咒了。
+Hmm, you should find Yoko.
+嗯，您应该找到洋子。
+She's an expert on such things.
+她是这样的专家。
+Yoko?
+洋子？
+Where can I find her?
+我在哪里可以找到她？
+Well, my friend usually sees her in the laundromat, washing her blankets.
+好吧，我的朋友通常在自助洗衣店里看到她，洗毯子。
+But for some reason, some wise-ass locked the gate to the laundromat and has the key.
+但是由于某种原因，一些明智的屁股将大门锁定到自助洗衣店，并具有钥匙。
+Explaination2
+解释2
+What's wrong with your sister?
+你姐姐怎么了？
+I think she's sick?
+我认为她生病了吗？
+Oh my, that's not good.
+哦，我的，那不好。
+What kind of sickness does she have?
+她有什么样的疾病？
+Something that makes you pale, with really long arms-
+使您苍白的东西，双臂非常长 - 
+That sounds more like a curse to me.
+对我来说，这听起来更像是诅咒。
+I thought so.
+我是这么想的。
+You didn't meet a witch by chance? Did you?
+你没有偶然遇到女巫吗？你是否？
+Maybe.
+也许。
+Well, the only person I know that could help you is Yoko.
+好吧，我认识的唯一可以帮助您的人就是洋子。
+She's also known as the \"Noodle Lady\".
+她也被称为\“ Noodle Lady \”。
+Noodle lady?
+面条女士？
+Yeah, she's like an expert on curses n' stuff.
+是的，她就像诅咒的专家。
+So where can I find her?
+那我在哪里可以找到她？
+She's usually in the laundromat, washing her underwear.
+她通常在自助洗衣店里洗衣服。
+Really? I need to was my undies too!
+真的吗？我也需要我的内裤！
+Probably the rest of my clothes too.
+也许还有我其余的衣服。
+No offence, but you smell like you need a wash in general.
+没有冒犯，但是您闻起来就像一般需要洗。
+It's not like I went swimming in a sewer or anything.
+这并不是说我去下水道或任何东西都在游泳。
+Did you?
+你是否？
+That's gross!
+真恶心！
+Ok, seeya!
+好，Seeya！
+Find the noodle lady.
+找到面条女士。
+She can help your sister.
+她可以帮助你的姐姐。
+UseGateKey
+usegatekey
+I don't need this key anymore.
+我不再需要这个钥匙了。
+Gate Open
+门打开
+Great, it's locked!
+太好了，它被锁了！
+Maybe someone here has a key?
+也许这里有人有钥匙？
+I need to head to the bathouse.
+我需要前往浴房。
+FindMeAnApple
+Findmeanapple
+Excuse me!
+打扰一下！
+Could you help me and my sister out?
+你能帮我和我姐姐出去吗？
+Can you help me out?
+你能帮我吗？
+This bozo won't give me any more fried fish, and I'm starving!
+这个bozo不会再给我炸鱼，我饿了！
+If you eat anymore, you'll put me out of business!
+如果您再吃了，您会让我失业！
+You're worse than that Tanto guy!
+你比那个坦托家伙还糟！
+Look, mister...
+看，先生...
+Give me one, and I'll show you.
+给我一个，我会告诉你。
+Nice try!
+不错的尝试！
+Maybe you should eat some fruit for once! Much healthier!
+也许您应该吃一些水果！更健康！
+Ya know, I could eat an apple right about now.
+你知道，我现在可以吃一个苹果。
+I'll tell you what, you find me an apple and I'll give you the gate key to the laundromat, deal?
+我会告诉你什么，你发现我一个苹果，我会给你自助洗衣店的大门钥匙，交易吗？
+*Sigh* Fine...
+*叹*很好...
+but if you don't, I'll make you choke on that apple.
+但是，如果您不这样做，我会让您在那个苹果上窒息。
+It's a deal, then!
+那是一笔交易！
+Thanks for the apple.
+谢谢苹果。
+GetApple
+getapple
+FREE APPLES!
+免费苹果！
+Huh? A sign?
+嗯？一个牌子？
+Take one a day to keep the witch away.
+每天花一天来避开女巫。
+One it is then!
+那是一个！
+Gosh, I'm so hungry!
+天哪，我很饿！
+LaundryDoor
+洗衣房
+GiveApple
+giveapple
+Well? My apple?
+出色地？我的苹果？
+Here, I spit shined it for you.
+在这里，我吐出来为您照亮。
+Oh, awesome! Thanks!
+哦，太棒了！谢谢！
+Now, your end of the deal!
+现在，您的交易结束了！
+Oh, right. Here, take this.
+啊对。在这里，拿这个。
+You can unlock the gate to the laundromat with it.
+您可以用它解锁去洗衣店的大门。
+I better head to the bathhouse.
+我最好前往浴室。
+why are you here?
+你为什么在这？
+I said I'll do this on my own.
+我说我会自己做。
+Well, I figured you might need the key to get in.
+好吧，我认为您可能需要钥匙才能进入。
+We ain't gonna find the witch's head standing here.
+我们不会发现女巫的头站在这里。
+Hey...
+嘿...
+Thanks...lil' sis.
+谢谢... Lil'Sis。
+Sorry, heppa. Store's closed.
+对不起，赫帕。商店关闭。
+Today's special is \"Salty Cod Soup\"...yuck!
+今天的特别节目是\“咸鳕鱼汤\” ... YUCK！
+Yuck! No thanks!
+好！不，谢谢！
+Downtown
+市中心
+Bath House
+浴室
+Noodle Shop
+面条商店
+Menu
+菜单
+Laundry
+洗衣店
+Laundry Door
+洗衣门
+Locked Door
+锁门
+Trash
+垃圾
+Apples
+苹果
+Mary
+玛丽
+Stairs
+楼梯
+Noodle Lady's House
+面条女士的房子
+I've been expecting you...
+我一直都期待着你...
+Luzia.
+吕齐亚。
+And I've been expecting you...
+我一直期待你...
+...old woman.
+...老妇。
+You don't even know who I am, do you?
+你甚至不知道我是谁，对吗？
+No, no I don't.
+不，不，我不。
+Heh, but you may remember me.
+嘿，但是你可能还记得我。
+Wait a minute!
+等一下！
+You're the noodle lady from my dreams!
+你是我梦中的面条女士！
+Oh my!
+天啊！
+You're all wet and smelly!
+你们都湿透了！
+Why don't you call your sister and tell her to come here.
+你为什么不打电话给你的妹妹，告诉她来这里。
+I'll pay for your clothes to be cleaned.
+我要付钱给你的衣服。
+Thank you, that's really nic-
+谢谢你，那真的很尼克 - 
+Wait! How do you know that I have sister?
+等待！你怎么知道我有姐姐？
+I know a lot about you and your sister, Luzia.
+我对你和你的姐姐卢齐亚了解很多。
+I'm here to help you.
+我在这里为您提供帮助。
+I never asked for your help, old lady.
+老太太，我从没问过你的帮助。
+I think you were just about to, deary.
+我想你正要，亲爱的。
+You're not another witch, are you?
+你不是另一个女巫，是吗？
+Come on young one...
+快来年轻一个...
+lets get you out of those wet clothes.
+让您摆脱那些湿衣服。
+Wait, what will I wear? I can't just stand here naked!
+等等，我会穿什么？我不能只是赤裸裸地站在这里！
+I wouldn't worry about that, my dear.
+亲爱的，我不会担心。
+There's only one other person who uses this laundromat...
+只有另一个人使用这种自助洗衣店...
+and she only comes in on Tuesdays.
+她只在星期二进来。
+So tell me girls...
+所以告诉我女孩...
+fine weather we're having, no?
+天气晴朗，不是吗？
+Not a cloud in the night sky.
+夜空不是云。
+Actually, it's a little cold.
+实际上，有点冷。
+Huh...
+嗯...
+it must be Tuesday.
+一定是星期二。
+Oh? You girls are back?
+哦？你女孩回来了吗？
+You look surprised to see us?
+你看起来很惊讶看到我们吗？
+Well with the Lady running around, I was sure you'd be done for.
+好吧，那位女士跑来跑去，我确定你会做的。
+Are you spying on us?
+你在监视我们吗？
+Word travels fast around the slums, hun.
+单词在贫民窟中快速传播，匈奴。
+C'mon, don't bullshit me, old lady!
+来吧，不要胡扯我，老太太！
+Luzia! Watch your language!
+吕齐亚！注意你说的话！
+Hey! You're not in charge of me anymore!
+嘿！你不再负责我！
+Monsters can't be babysitters!
+怪物不能成为保姆！
+Ouch.
+哎哟。
+Shut up, Luzia! You're the real monster!
+闭嘴，吕齐亚！你是真正的怪物！
+Oh how I've missed this.
+哦，我怎么想念这个。
+How could you miss this?
+你怎么会想念这个？
+I have to live with this little brat every day!
+我每天都必须和这个小子一起生活！
+I look like a freak because of her!
+由于她，我看起来像个怪胎！
+I still remember when my daughters used to get along so well.
+我仍然记得我的女儿何时相处得很好。
+All they ever do now is fight for centuries...
+他们现在所做的就是战斗几个世纪...
+just like you two.
+就像你们两个。
+Wait! Centuries?
+等待！几个世纪？
+How old are you?
+你今年多大？
+How old do you think I am, Luzia?
+卢齐亚，你以为我几岁？
+A hundred, maybe?
+一百，也许？
+Huh, must be the hair.
+嗯，一定是头发。
+Eighty?
+八十？
+You can keep guessing, you'll never get it.
+您可以继续猜测，您永远不会得到它。
+How can the witch- I mean, your daughter, look as old as me?
+女巫怎么能 - 我的女儿，看起来像我一样年龄？
+We're in the spirit world, young lady.
+我们在精神世界，小姐。
+Age means nothing here.
+年龄在这里没有任何意义。
+So we don't age?
+所以我们不老龄吗？
+Really?
+真的吗？
+You could be a thousand years old and have the complexity of a child.
+您可能已经一千年了，并且有一个孩子的复杂性。
+We are stuck in an endless limbo, until me move on to the planes above.
+我们陷入了无尽的困境，直到我继续前进。
+However, there are those who wish to return to where they once came...
+但是，有些人希望回到他们曾经来的地方...
+just like Ashina.
+就像Ashina一样。
+Wait, you can go back?!
+等等，你可以回去吗？
+We can go home?!
+我们可以回家吗？
+There is ways to do it, but it takes a lot of complex-
+有方法可以做到，但是需要很多复杂的
+C-Can we fix my condition, first?
+c-can我们首先解决我的病情？
+Yes, of course.
+是的当然。
+Now that we have my daughter's head...
+现在我们有了我女儿的头...
+I can use her blood to make a cure for the curse.
+我可以用她的血来治愈诅咒。
+All you need to do is drink it.
+您需要做的就是喝。
+It'll take some time to work but once it does, it should change you back to your old self.
+它需要花费一些时间才能工作，但是一旦这样做，它应该使您重新回到旧的自我。
+So how does it work?
+那么它是怎样工作的？
+It'll break the loop of the curse, what it does is-
+它会打破诅咒的环，它的作用是 - 
+Just get to the point, old lady!
+只要说，老太太！
+This is a complicated curse Luzia.
+这是一个复杂的诅咒卢齐亚。
+Once Sombria drinks the antidote, she will have only 3 days to return home.
+Sombria喝了解毒剂后，她将只有3天的时间回家。
+Otherwise...you will be stuck in the curse's loop forever.
+否则...您将永远被困在诅咒的循环中。
+For ever?
+永远？
+You mean Sombie, right?
+你是说sombie，对吗？
+S-Sure.
+s-sure。
+Just remember...
+只记得...
+that when the time comes, you will have to make a choice.
+那时，您将不得不做出选择。
+Just tell me what I have to do.
+告诉我我该怎么办。
+Heh, just drink this and go home.
+呵呵，只要喝这个然后回家。
+That is all.
+就这些。
+Wait, really?
+等等，真的吗？
+That's it?
+而已？
+No magic spells, voodoo or rituals?
+没有魔法咒语，伏都教或仪式？
+That sounds too easy.
+听起来太容易了。
+It does, doesn't it.
+确实，不是。
+I can assure you that it is much more complicated behind the veil.
+我可以向您保证，面纱后面它更加复杂。
+Once you both return home...
+一旦你们都回到家...
+it shall be broken.
+它将被打破。
+So how do we get home?
+那么我们如何回家呢？
+We were kidnapped in the back of a truck!
+我们被绑架在卡车的后部！
+I have no idea where we are or what this \"spirit place\" is?
+我不知道我们在哪里，或者这个“ spirit place \”是什么？
+I know someone who can take you as far as the countryside...
+我知道有人可以带您到乡村...
+but from there you will need to return on your own.
+但是从那里您需要自己返回。
+There's a bus route that can get you as far as the Chikara express train line.
+有一条公共汽车路线可以让您到Chikara Express火车线路。
+Here are some tickets for the bus and the train.
+这是公共汽车和火车的一些门票。
+Now get some rest, you leave in the morning.
+现在休息一下，您早上离开。
+Oh, before I forget...
+哦，在我忘记之前...
+did you remember to lock the bathhouse doors when you were done?
+您记得完成后要锁定浴室门吗？
+U-Uh, whoops!
+U-uh，哎呀！
+NoodleCutscene
+noodlecutscene
+You were kidnapped?
+你被绑架了吗？
+Yeah, and they beat up Sombie too!
+是的，他们也殴打了Sombie！
+That settles it, she has gone too far this time!
+解决这个问题，这次她走得太远了！
+Uh, who has?
+嗯，谁有？
+Well, it's about time I introduced myself.
+好吧，是时候我自我介绍了。
+I am Yokona Kagami...
+我是yokona kagami ...
+But everyone just calls me Noodle Lady.
+但是每个人都叫我面条女士。
+Let me guess, it's because you sell noodles?
+让我猜测，这是因为您卖面条？
+I own the Ramen shop next door.
+我拥有隔壁的拉面商店。
+I see you both have met my daughter, Ashina.
+我看到你们俩都遇到了我的女儿Ashina。
+The witch is your daughter?
+女巫是你的女儿吗？
+This is perfect! You can help Sombie!
+太棒了！您可以帮助Sombie！
+Right?
+正确的？
+Hmm, by the looks of things it may be too late for her, Luzia.
+嗯，从事物看来，卢齐亚可能为时已晚。
+You mean I'll be stuck like this forever?
+你的意思是我会永远被困吗？
+My dear, I hate to be the one to tell you this but, you're dead.
+亲爱的，我讨厌成为告诉你的人，但是你已经死了。
+I'M DEAD?!
+我死了？！
+But she's standing right there!
+但是她站在那儿！
+Sombria, place your hand over your heart.
+Sombria，将手放在心中。
+Do you feel a beat?
+你觉得节拍吗？
+THERE'S NO BEAT! I'M DEAD!!
+没有节拍！我死了！！
+WHAT THE HECK HAPPENED TO ME?!
+我到底发生了什么？
+By the looks of things you're now a Yokai Sombria.
+从外观上看，您现在是Yokai Sombria。
+What's a Yokai?
+什么是Yokai？
+A yokai, a ghost, spirit, whatever you want to call it...
+Yokai，幽灵，精神，无论您想称呼它...
+well actually, maybe poltergeist is probably a better term.
+好吧，实际上，也许Poltergeist可能是一个更好的术语。
+It seems Ashina wanted something from you but what exactly?
+似乎阿什娜想要你的东西，但是到底是什么？
+S-She wanted to swap bodies.
+S-She想交换身体。
+Hmm, looks like it didn't go all to plan.
+嗯，看起来这并没有全力以赴。
+Something went wrong as you've turned into one of us.
+当您变成我们中的一个时，出了问题。
+One of you? You still look human!
+你们中的一员？你仍然看起来像人！
+I look like a hideous creature!
+我看起来像个丑陋的生物！
+You just look like a human, only with long arms and pale skin.
+您看起来像一个人，只有长臂和苍白的皮肤。
+And no legs, what happened to those?
+没有腿，那些事情发生了什么？
+Anyway, you look fine, Sombie.
+无论如何，你看起来很好，sombie。
+Where is Ashina now?
+阿什娜现在在哪里？
+She's dead, I think.
+我想她已经死了。
+Her head was floating in the bath.
+她的头漂浮在浴缸里。
+Dead?! Ha! Serves her right!
+死的？！哈！服务她的权利！
+Wow really? I'd really hate to have you as a mom.
+哇塞！真的么？我真的很讨厌你作为妈妈。
+I think Sombie killed her.
+我认为Sombie杀了她。
+Well this is certainly some good news!
+好吧，这无疑是个好消息！
+Good news?
+好消息？
+We may be able to reverse the curse.
+我们可能能够扭转诅咒。
+Reverse the curse? How?
+扭转诅咒？如何？
+All we need is some of Ashina's blood.
+我们只需要一些阿什娜的血。
+So if you both are able to retrieve her head then-
+因此，如果你们俩都能找回她的头 - 
+Um, how about NO!
+嗯，否！
+I never want to set foot back in that place again!
+我再也不想再回到那个地方了！
+Don't you want to help your sister?
+你不想帮助你的妹妹吗？
+I do, but isn't there another way?
+我这样做，但是没有其他方法吗？
+I'll go.
+我会去。
+Wait, Sombie...
+等等，sombie ...
+You've done enough, Luzia.
+你做得足够了，吕齐亚。
+I need to fix this myself.
+我需要自己解决这个问题。
+I love it when sisters squabble.
+当姐妹争吵时，我喜欢它。
+Don't you, Luzia?
+你不是吗，吕齐亚？
+Yeah, whoopie.
+是的，哇。
+What are you waiting for?
+你在等什么？
+Go after her.
+追随她。
+She obviously doesn't want my help.
+她显然不想要我的帮助。
+They never do...
+他们从不做...
+so why wait for an invitation?
+那为什么要等邀请函呢？
+Huh, you're right, old noodle lady.
+嗯，你是对的，老面条女士。
+Besides, I've probably pissed her off enough for one day.
+此外，我可能很生气了一天。
+Here's the spare key to the bathhouse, I keep it incase of emergencies.
+这是浴室的备用钥匙，我将其保留在紧急情况下。
+Thanks.
+谢谢。
+Good luck, little one. You're gonna need it.
+祝你好运，小家伙。你会需要的。
+So explain to me again...
+所以再次向我解释...
+why are we riding with the door open? Isn't it a little dangerous?
+我们为什么要打开门？这不是有点危险吗？
+Just look at that view!
+只要看看这个观点！
+Look at the never-ending line of fences!
+看看永无止境的围栏线！
+It's breathtaking...
+令人叹为观止...
+It's nauseating, I think I'm gonna *ugh*...
+令人作呕，我想我会 *ugh *...
+the smell of cows isn't helping.
+奶牛的气味无济于事。
+Ha! They smell better than you right now!
+哈！他们现在比你闻起来更好！
+*Sniff* I don't notice anything?
+*嗅*我什么都没注意到吗？
+It's a proven fact you can't smell yourself.
+这是一个事实，您无法闻到自己。
+No it isn't.
+不，不是。
+Then how come you can't smell your own farts?
+那你怎么看不到自己的屁？
+You're an idiot.
+你是一个白痴。
+It's true!
+这是真的！
+Everybody else can smell mine, except me.
+除了我，其他人都可以闻到我的气味。
+That's because you leave the room right after you do one!
+那是因为您在做一个后立即离开房间！
+Nah, I think it's fart magic.
+不，我认为这是放屁的魔术。
+Speaking of magic...
+说到魔术...
+did you take that magic potion?
+你服用了那种魔药吗？
+It's not a magic potion, it's an antidote...
+这不是魔药，而是一种解毒剂...
+and yes I did.
+是的，我做到了。
+I would have taken it when I got home.
+我回家时会带走它。
+Didn't the old noodle lady said it would go off in a few days?
+那位老面条女士不是说它会在几天内开放吗？
+Yes but it shouldn't take us that long to get home, I think?
+是的，但是我想我们不应该花那么长时间回家吗？
+Two days. I remember her saying something about that this morning...
+两天。我记得她今天早上说了些什么...
+and some mumbo jumbo about breaking the \"loop\".
+还有一些关于打破\“ Loop \”的Mumbo Jumbo。
+Loop? What loop?
+环形？什么循环？
+Loop of the curse, I don't know. I wasn't paying attention.
+诅咒的循环，我不知道。我没有注意。
+Actually, there was one thing she did say before we left.
+实际上，她在我们离开之前确实说过一件事。
+Hmm?
+唔？
+T-That I should...
+T-我应该...
+*ugh* enjoy my time with you.
+* gh*享受我和你在一起的时光。
+Ha! That's easy! What's not to enjoy?
+哈！这很容易！什么不享受？
+I'm always fun, baby!
+我总是很有趣，宝贝！
+Whatever.
+任何。
+And I'm smoke free!
+而且我没有吸烟！
+Rubbing it in, huh?
+摩擦它，是吗？
+You know what? We're not fighting, right now.
+你知道吗？我们现在没有战斗。
+she was right.
+她是对的。
+This is kinda enjoyable.
+这有点令人愉快。
+*Deep breath* I can't get enough of that stank, cow fart infested air!
+*深呼吸*我对那个臭味，牛屁的空气无法得到足够的东西！
+Annnd there it goes. Enjoyment gone.
+nnnd there吧。享受消失了。
+Heh, you're a weird girl Luzia.
+嘿，你是一个怪异的女孩卢齐亚。
+So much for the truck ride.
+卡车乘车太多了。
+Just be thankful it got us this far.
+只要感谢它使我们这么远。
+Where are we anyway?
+无论如何我们在哪里？
+It looks like a bus stop.
+看起来像是公交车站。
+Congratulations, Luzia...
+恭喜，吕齐亚...
+you won a cookie.
+你赢了饼干。
+Gimme! I'm starving!
+吉姆！我饿死了！
+All I ate was a dead fish I found in the buffet!
+我吃的只是我在自助餐中发现的一条死鱼！
+Please tell me that didn't happen?
+请告诉我那没有发生？
+I stole it from that faceless guy.
+我从那个不露面的家伙那里偷了它。
+I can't believe we're even related.
+我不敢相信我们甚至是关系。
+I was being sarcastic about the cookie, Luzia.
+我对卢齐亚的饼干很讽刺。
+Damn.
+该死。
+This bus sure is slow.
+这辆巴士肯定很慢。
+Well, I'm bored.
+好吧，我很无聊。
+Oh no, you're not wandering off again!
+哦，不，你不再徘徊！
+Please?
+请？
+The last time you wondered off I turned into this hideous creature!
+您上次想知道我变成了这个丑陋的生物！
+Do you really think I'm going to let that happen again?
+您真的认为我要让这种情况再次发生吗？
+This time, you stay here...
+这次，你呆在这里...
+I'm gonna go see if I can find someone  around here, maybe they'll have some food...I'm hungry too.
+我要去看看我是否可以在这里找到一个人，也许他们会吃点食物……我也饿了。
+You too?!
+你也是？！
+J-Just wait here, I can smell something...
+J-正好在这里等待，我可以闻到什么...
+Call out when the bus arrives.
+公共汽车到达时呼唤。
+Huh, so this is what it feels like.
+嗯，这就是感觉。
+FindSombieFood
+Findsombiefood
+Hey! A mushroom!
+嘿！蘑菇！
+I could eat it.
+我可以吃。
+If I were desperate, looks poisonous.
+如果我绝望，看起来有毒。
+Mushroom2
+蘑菇2
+I hope this helps her.
+我希望这对她有帮助。
+IntroCutscene:Forest
+Intocutscene：森林
+Here you go, Sombie.
+你去的，sombie。
+This'll keep you dry.
+这会让你干燥。
+Please tell me you didn't just do that.
+请告诉我，你不只是那样做。
+A leaf? This is going to keep me dry?
+一片树叶？这会让我干燥吗？
+Yep.
+是的。
+I feel silly.
+我觉得很傻。
+You look silly.
+你看起来很傻。
+So, find anything interesting in there?
+那么，在那里找到有趣的东西吗？
+Nothing out of the ordinary.
+没有什么与众不同的。
+After everything we've seen, what is ordinary?
+在我们看到的一切之后，什么是普通的？
+We should probably stand under the bus shelter.
+我们可能应该站在公共汽车庇护所下。
+I like the rain.
+我喜欢雨。
+It is peaceful, but we're probably gonna catch a cold.
+这是和平的，但我们可能会感冒。
+What's gonna happen with us? When this is all over?
+我们会发生什么？什么时候结束了？
+I, I don't know...
+我，我不知道...
+it'll all go back to normal, I hope.
+我希望一切都会恢复正常。
+Even us?
+甚至我们？
+The fighting, the arguing...stuff like that?
+战斗，争论……这样的东西？
+Oh! Well, we don't have to...
+哦！好吧，我们不必...
+it all depends.
+这一切都取决于。
+On what?
+什么？
+On how much you owe me after this.
+关于我之后你欠多少钱。
+I have a feeling that I'm never gonna hear the end of this, once we get home.
+我有一种感觉，一旦我们回到家，我就永远不会听到这一结局。
+Oh, you better believe it sister!
+哦，你最好相信它的姐姐！
+Fantastic!
+极好的！
+Yep! I'm gonna remind you every day...
+是的！我每天都会提醒你...
+about how you saved my life.
+关于你如何挽救我的生命。
+So, you're not mad at me?
+所以，你不生我的气吗？
+I was never mad at you, Luzia.
+吕齐亚，我从来没有生你的气。
+When you get older things become more complicated...
+当您变得较旧时，事情变得更加复杂...
+sometimes, I wish I could be as young as you again.
+有时，我希望我能再次和你一样年轻。
+But we can't go back...
+但是我们不能回去...
+we need to keep moving forward...
+我们需要继续前进...
+and if I stay mad at you...
+如果我生你的气...
+I won't be going anywhere.
+我不会去任何地方。
+I get what you mean.
+我明白你的意思。
+I thought you never would-
+我以为你永远不会
+Just promise me one thing.
+只是向我保证一件事。
+Please, quit smoking. You're stinking up the whole house!
+请戒烟。你在整个房子里臭！
+We'll see, Luzia. Depends on how much of a brat you'll be towards me. Heh.
+我们会看到的，吕齐亚。取决于您对我有多少小子。嘿。
+H-Hey! Is that the bus?
+嘿！那是公共汽车吗？
+ACH_NEIGHBOR_SOMBIE
+ach_neighbor_sombie
+Where's the bus?
+巴士在哪里？
+BusReady
+布斯准备好了
+It hasn't arrived yet?
+还没到吗？
+Nope.
+没有。
+So, find anything in there?
+那么，在那里找到什么？
+After everything we've seen, what's ordinary anymore?
+在我们看到的一切之后，再有什么普通了？
+It's nice.
+这真好。
+what will happen with us, when this is all over?
+当一切结束时，我们会发生什么？
+it'll all go back to normal, I guess.
+我想这一切都会恢复正常。
+The fighting, the arguing, stuff like that?
+战斗，争论，类似的东西？
+I have a feeling that I'm never gonna hear the end of this once we get home.
+我有一种感觉，一旦我们回到家，我就永远不会听到这一结局。
+Oh, you better believe it sister.
+哦，你最好相信这是姐姐。
+Yep! I'm gonna remind you all the time, about how you saved my life.
+是的！我会一直提醒您，您如何挽救我的生命。
+So, you're not mad at me anymore?
+所以，你不再生我了吗？
+Once you get older things become more complicated...
+一旦您变得旧的事情就变得更加复杂...
+We can't go back...
+我们不能回去...
+W-Well, good!
+W-Well，好！
+Heh, we'll see, Luzia.
+嘿，我们会看到的，吕齐亚。
+Saving won't help you now.
+储蓄现在对您没有帮助。
+Mushroom6
+蘑菇6
+Forest Bus Stop
+森林巴士站
+Forest
+森林
+Hey, a sign!
+嘿，标志！
+An ancient spirit lives in this forest. An offering of tasty noodles is required to summon it.
+古老的精神生活在这个森林中。召唤它需要提供美味的面条。
+Mushroom1
+蘑菇1
+Here's a big one!
+这是一个大！
+To Bus Stop
+到巴士站
+To Lake
+到湖
+Sign
+符号
+Dark Forest
+黑暗的森林
+I wish you the best of luck, Luzia.
+祝您好运，吕齐亚。
+UseNoodles
+Usenoodles
+Oh, by the way...
+哦，顺便说一句...
+I brought you this.
+我给你带来了这个。
+Ah! Noodles!
+啊!面条！
+Delicious.
+可口的。
+Wait, before I go...
+等等，然后我去...
+why does everyone loves noodles so much?
+为什么每个人都这么爱面条？
+B-Because they're delecious!
+b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b- b-b-b- b-b-beartious！
+Do you know what makes them more delecious?
+您知道是什么使他们更加欺骗？
+Wild mushrooms.
+野生蘑菇。
+Here, take this. It'll give your noodles a bit of a kick in flavor!
+在这里，拿这个。它会让您的面条有点踢！
+Not everything is as it seems...
+并非一切都像...
+when the time is right...
+时间正确的时候...
+choose wisely.
+做出明智的选择。
+ACH_SPIRIT_NOODLE
+ach_spirit_noodle
+Whoa!
+哇！
+W-Who is that?
+那是谁？
+Uh, hi!
+嗯，嗨！
+My name is Luzia-
+我叫吕齐亚 - 
+I know who you are.
+我知道你是谁。
+You do?
+你做？
+I swear we haven't met.
+我发誓我们没有见面。
+We didn't have to, I just know.
+我不必知道。
+Why have you come here, young Luzia?
+年轻的卢齐亚，你为什么来这里？
+Because I'm hungry.
+因为我饿了。
+Besides that, I mean why are you really here.
+除此之外，我的意思是你为什么真的在这里。
+We're stuck while wating for the bus to take us home...
+我们在为公共汽车带我们回家的时候被困住了...
+and I'm still hungry!
+而且我仍然饿了！
+Hmm, seems like you and Sombria are in a bit of a mess.
+嗯，似乎您和Sombria有点混乱。
+Yes, we are-
+是的，我们是的-
+Wait! How did you-
+等待！你怎么了
+I am Wiji!
+我是Wiji！
+I am the spirit of the forest!
+我是森林的精神！
+I have seen many things in my time amongst the trees...
+我在树上看到了很多事情...
+but I must admit, I'd never thought I'd see you again.
+但是我必须承认，我从来没有想过会再见到你。
+Again?
+再次？
+What do you mean again?
+你又是什么意思？
+Hmm, it seems like you have forgotten...
+嗯，似乎您已经忘记了...
+such a strange anomaly.
+如此奇怪的异常。
+Tell me, are you planning on breaking your \"loop\"?
+告诉我，您是否打算打破“循环\”？
+Enough with this loop business!
+这项循环业务足够了！
+First, the noodle lady, now Sombri-
+首先，面条女士，现在是sombri-
+Noodle Lady?
+面条女士？
+Yes, the old woman. I can't seem to remember her name though.
+是的，老妇。我似乎不记得她的名字。
+Yoko, something.
+洋子，什么。
+Yokona Kagami.
+Yokona Kagami。
+Yeah that's it!
+是的，就是这样！
+Seems like their plan didn't work after all.
+似乎他们的计划毕竟没有起作用。
+Young Luzia, you must listen to me very carefully...
+年轻的吕齐亚，你必须非常仔细地听我的话...
+...To end it all.
+...结束一切。
+Wait, what does that mean? I'm gonna die?!
+等等，这是什么意思？我要死了？！
+We will see, young Luzia. Good luck.
+我们会看到，年轻的吕齐亚。祝你好运。
+Mushroom3
+蘑菇3
+This should help Sombie.
+这应该有助于Sombie。
+Mushroom7
+蘑菇7
+To Forrest
+要福雷斯特
+SombriaDeer
+sombriadeer
+Oh!
+哦！
+Thank god, it's you!
+感谢上帝，是你！
+I thought you were some kind of monster for a second.
+我以为你是某种怪物。
+Sooo hungry!
+饿了！
+I'm so hungry, it hurts!
+我很饿，很痛！
+Sombie?
+sombie？
+The pain, the hunger...
+痛苦，饥饿...
+p-please, help me.
+p-请帮助我。
+O-Ok...
+O-OK ...
+just wait right here.
+只是在这里等待。
+I'll find you something to eat.
+我会找到你可以吃的东西。
+*Ugh* Hurry!
+* gh*快点！
+Please help Luzia.
+请帮助卢齐亚。
+Mushroom4
+蘑菇4
+Maybe she could eat this.
+也许她可以吃这个。
+Mushroom5
+蘑菇5
+Well, it's better than nothing.
+好吧，总比没有好。
+Please...
+请...
+Bring me more.
+带我更多。
+I feel much better, much...stronger.
+我感觉好多了，更强壮。
+But, you shouldn't have left the bathhouse.
+但是，您不应该离开浴室。
+Luzia, you are in great *Ugh* dange- *Ugh*
+吕齐亚，你很棒 *ugh *dange- *ugh *
+AHH!
+啊！
+What the heck is going on?
+到底他妈发生了什么？
+Oh, my, GOSH!
+天啊！
+I can see my own butt!
+我可以看到自己的屁股！
+Luzia! What is happening?!
+吕齐亚！怎么了？！
+I have absolutely no idea, Sombie.
+我绝对不知道，sombie。
+Hang on a second.
+稍等一下。
+I think I can fix-
+我想我可以解决 - 
+OH NO!
+不好了！
+THAT POOR DEER!
+那可怜的鹿！
+What happened?!
+发生了什么？！
+Uh...I think you had Bambs for lunch Sombie.
+嗯...我想你有班班午餐。
+I-I did this?
+我 - 我做到了吗？
+What is wrong with me?
+我是怎么了？
+Look Sombie, we should really be heading back to the bus stop.
+看，我真的应该回到公交车站。
+I'll wait for you there.
+我在那里等你。
+I can't just leave her like this.
+我不能只是这样离开她。
+I need to help Sombie first.
+我需要先帮助Sombie。
+To Noodle Hut
+到面条小屋
+To Forest Entrance
+到森林入口
+ForestNoodles
+森林农
+No way...
+没门...
+There's a noodle house in the middle of the forest?!
+森林中间有一个面条房子吗？
+I must be dreaming...
+我一定是在做梦...
+or just really hungry.
+还是真的很饿。
+Sorry, I don't mean to be rude...
+对不起，我不是要粗鲁...
+But what are you?
+但是你是什么？
+Mudo no talk!
+mudo不说话！
+Mudo eating!
+mudo饮食！
+So, your name is Mudo?
+所以，你的名字叫mudo？
+*Munch* Yes. *Munch*
+* Munch*是的。 *munch*
+Mudo will give girl something if you bring Mudo...
+如果您带上Mudo，Mudo会给女孩一些东西...
+mushroom, for Mudo's noodles.
+蘑菇，用于Mudo的面条。
+I'm sorry, but my sister ate all the mushrooms I could find.
+对不起，但是我姐姐吃了我能找到的所有蘑菇。
+Sad Mudo.
+悲伤的mudo。
+*Munch, munch, munch*
+*munch，munch，munch*
+UseMushroom
+Usemushroom
+I have something for you.
+我有东西给你。
+Ta-da!
+ta-da！
+Mmm, mushroom!
+嗯，蘑菇！
+ACH_MUSHROOM
+ach_mushroom
+Thank *Munch* you.
+谢谢 *蒙克 *你。
+Take this *Munch*.
+以这个 *munch *。
+Oh cool!
+哦，酷！
+It's a, really big leaf?
+这真的很大吗？
+Special big leaf. *Munch*
+特殊的大叶。 *munch*
+MeetingJacketto
+会议jacketto
+Hey there little guy.
+嘿，小家伙。
+Little? Little Jacket is not little!
+小的？小夹克不小！
+Everyone else is just too big!
+其他所有人都太大了！
+Well, when you put it that way I guess you're right.
+好吧，当您这样说时，我想您是对的。
+What's in the bowl? You adorable little thing, you!
+碗里有什么？你可爱的小东西，你！
+So, why is little girl here in the woods?
+那么，为什么小女孩在树林里？
+For the noodles, duh.
+对于面条，du。
+What is duh noodles?
+什么是duh Noodles？
+What's your name, little guy?
+你叫什么名字，小家伙？
+Everyone just calls me Little Jacket.
+每个人都叫我小夹克。
+No problem, LJ.
+没问题，LJ。
+You're just so cute!
+你真可爱！
+I could just take you home!
+我可以带你回家！
+Hmm, maybe I could-
+嗯，也许我可以 - 
+I-I'm fine, thank you strange girl!
+我 - 我很好，谢谢你奇怪的女孩！
+MmmNoodlesAgain
+mmmnoodlesagain
+One bowl please!
+请一碗！
+Hello, young one.
+你好，年轻一个。
+You're a little far in the woods to be-
+你在树林里有点远 - 
+I said, one bowl please!
+我说，请一碗！
+Well, you must be hungry.
+好吧，你必须饿。
+I am.
+我是。
+Then please, take a bowl of noodles.
+然后，请拿一碗面条。
+That was good!
+那很好！
+In exchange, could I ask a favor?
+作为交换，我可以帮个忙吗？
+Sure!
+当然！
+Could you please take a bowl and place it by the shrine...
+你能拿一碗碗放在神社里...
+it's for someone, special.
+这是给一个特殊的人。
+Thank you, young one.
+谢谢你，年轻。
+Forest Noodle Hut
+森林面条小屋
+To Forest
+到森林
+Pepe
+佩佩
+NoodleGashia
+Noodlegashia
+TrainCutscene
+火车切口
+Now this is the way to travel!
+现在这是旅行的方式！
+A truck, a bus, now a train?!
+卡车，一辆公共汽车，现在是火车？
+What's next?
+下一步是什么？
+An airplane?!
+一架飞机？！
+No way!
+没门！
+Nope! Forget that!
+没有！忘了！
+Why? What's the matter?
+为什么？怎么了？
+Afraid of heights?
+害怕身高？
+I'm not worried about being up in the sky.
+我不担心在天空中起床。
+I used to have dreams about being on a plane.
+我曾经有梦想在飞机上。
+What happened?
+发生了什么？
+Well, I went to the bathroom...
+好吧，我去洗手间...
+and when I came back everyone was gone!
+当我回来时，每个人都走了！
+Everyone, it was just me.
+大家，只是我。
+That's a pretty crazy dream.
+那是一个非常疯狂的梦。
+Perfect!
+完美的！
+That's all I can think about right now!
+这就是我现在能考虑的！
+Remember when uncle Robert tried fixing mom's microwave?
+还记得罗伯特叔叔试图修复妈妈的微波炉吗？
+He forgot to unplug it.
+他忘了拔下插头。
+Heh, some engineer he is! Too bad he disappeared.
+嘿，他是一些工程师！太糟糕了，他消失了。
+Whatever happened to aunt Claire and cousin Mark?
+克莱尔姨妈和堂兄马克发生了什么事？
+She died, Luzia. As for Mark, I have no clue what happened to him. I think he went to a foster home.
+她去世了，吕齐亚。至于马克，我不知道他发生了什么。我认为他去了寄养家庭。
+Really? Why didn't he come live with us?
+真的吗？他为什么不和我们一起生活？
+You're already a handful.
+你已经很少了。
+Besides, I think it's for the best...
+此外，我认为这是最好的...
+I couldn't imaging the amount of mental problems that boy would have with all that's happened to him.
+我无法想象男孩对他所发生的一切的精神问题。
+Yeah, it's pretty sad...
+是的，很可悲...
+*Sigh* I miss home.
+*叹*我想念家。
+So do I.
+我也是。
+I miss mom too.
+我也想念妈妈。
+Pfft! I don't.
+pfft！我不。
+She was never home.
+她从不回家。
+I get that being a nurse is hard work...
+我知道当护士是艰苦的工作...
+but we need attention too!
+但是我们也需要关注！
+What's with you, Luzia?
+你怎么了，卢齐亚？
+These things shouldn't matter to a twelve year old.
+这些事情对十二岁不重要。
+You don't seem like yourself anymore.
+您似乎不再像您自己了。
+I don't even feel like myself...
+我什至不喜欢自己...
+I feel as if this has all happened before...
+我觉得这一切都在发生之前发生了...
+like I'm living someone else's life, y'know?
+就像我过别人的生活一样，知道吗？
+I'm not me.
+我不是我。
+You get what I mean?
+你明白我的意思吗？
+I do...
+我愿意...
+I haven't felt myself since the kidnaping.
+自从绑架以来，我再也没有感到自己。
+I guess we share the same feelings.
+我想我们有同样的感觉。
+You know what else is weird, though?
+你知道还有什么奇怪的吗？
+Where the heck is everyone?
+大家在哪里？
+The train's empty!
+火车是空的！
+There was no one on the bus either.
+公共汽车上也没有人。
+I'm gonna take a look around.
+我要看看。
+Okay, I'll take a look too.
+好吧，我也要看看。
+If something happens, we'll meet up in the bathroom.
+如果发生了什么事，我们将在浴室见面。
+Ok, we'll-
+好吧好吧-
+The bathroom?
+洗手间？
+For privacy.
+为了隐私。
+Don't want anything else going astray now, don't we?
+现在不想误入歧途，不是吗？
+Ok, just make sure you're not actually using it when I come in.
+好的，只要确保您进来时您实际上不会使用它。
+For crying out loud, Luzia.
+大声喊叫，吕齐亚。
+Who's crying, now?
+现在谁在哭？
+SombieTrainBathroom
+Sombietrainbathroom
+JESUS! SOMBIE!
+耶稣！ sombie！
+You scared the hell outta me!
+你吓到了我！
+I thought you weren't scared of anything?
+我以为你不害怕什么吗？
+Only by spontaneous surprises!
+只有自发的惊喜！
+I'll remember to leave a sign on the door next time.
+我记得下次在门上留下标志。
+So, did you find anything?
+那么，你发现什么吗？
+I met the train driver.
+我遇到了火车司机。
+What did he say?
+他说什么？
+Just some really weird stuff.
+只是一些非常奇怪的东西。
+Well what?
+好吗？
+Do you think this is all a dream?
+您认为这都是梦想吗？
+A dream?
+一个梦？
+Am I really Luzia?
+我真的是卢齐亚吗？
+Only for as long as I've know you.
+只要我认识你。
+You're sounding really weird right now, Luzia.
+卢齐亚，你现在听起来真的很奇怪。
+Maybe, I don't know?
+也许，我不知道？
+There's something not right in the back of my mind...
+我的脑海里有些不对...
+I'm just not sure what it is...
+我只是不确定这是什么...
+like we're being set or something.
+就像我们被设定了一样。
+C'mon, cheer up, Luzia.
+来吧，振作起来，卢齐亚。
+We need to make it home!
+我们需要回家！
+Let's stay focused.
+让我们保持专注。
+I'll go talk to the driver.
+我去和司机谈谈。
+You check the back of the train.
+您检查火车的背面。
+Oh, I also found this keycard...
+哦，我还找到了这个钥匙卡...
+not sure what it's for, it didn't work on any of the doors...
+不知道它是用的，它在任何门上都没有用...
+maybe you can find a way to use it.
+也许您可以找到一种使用它的方法。
+Train Main Car
+火车主汽车
+Luggage Cabin
+行李舱
+Bed Cabin
+床小屋
+Exit Bathroom
+出口浴室
+TrainNoodles
+火车圈
+Wait a hoot picking toot!
+等待hoot捡起的toot！
+Wait a minute, what are you doing here?!
+等一下，你在这里做什么？
+Why are you following us?
+你为什么要关注我们？
+Am I following you? I can travel too, y'know.
+我在跟着你吗？我也可以旅行，你知道。
+I'm just visiting an old friend in the city.
+我只是拜访城市中的一个老朋友。
+Yeah right, like I'd believe that!
+是的，就像我相信的那样！
+You don't look very pleased to see me, hmm?
+你看起来不太高兴见到我，嗯？
+I'm just worried about Sombie. The creepy killer lady is after her!
+我只是担心Sombie。令人毛骨悚然的杀手女士在追随她！
+She may even kill her.
+她甚至可能杀死她。
+Not unless I can help it!
+除非我能提供帮助，否则不是！
+Hmm, just be careful, Luzia. You're life is worth far more than your sister's
+嗯，请小心，卢齐亚。你的生活远不止姐姐的
+What?! Mine is worthless without hers!
+什么？！没有她的，我的是毫无价值的！
+I need to find her.
+我需要找到她。
+You need to stop, Luzia.
+你需要停下来，吕齐亚。
+but I know all about your little plan daughter.
+但是我对你的小计划女儿一无所知。
+I'll be waiting.
+我会等待。
+ACH_NOODLES_AGAIN
+ach_noodles_again
+I can't turn back now.
+我现在不能回头。
+Engine
+引擎
+TrainRoom
+火车室
+YellowJacket
+黄夹克
+Hey! It's you!
+嘿！是你！
+Yes it is I! Little Jacke-
+是的，是我！小雅克 - 
+Could you help me?
+你可以帮帮我吗？
+*Sigh* What does little girl want?
+*叹*小女孩想要什么？
+Do you know a way to unlock this door?
+您知道一种解锁这扇门的方法吗？
+I think you're lying, little man.
+我想你在撒谎，小男人。
+Little Jacket needs a keycard to unlock this door.
+小夹克需要钥匙贵卡来解锁这扇门。
+Little Jacket can crawl through the vent and unlock it from the other side.
+小夹克可以爬过通风孔，并从另一侧解锁。
+Damn! How did she escape?!
+该死！她是怎么逃脱的？
+Oh...
+哦...
+I left the bathhouse door open.
+我把浴室门打开了。
+Whoopsie daisy!
+whopsie雏菊！
+Wait...I NEED TO WARN SOMBIE!
+等等...我需要警告Sombie！
+StretchDies
+伸展
+Stretch!
+拉紧！
+T-That, woman, s-she did this...
+t，那个女人，她做到了...
+came out of n-nowhere...
+从Nhowhere出来...
+ripped the trolley r-right of my head.
+撕开了我头的手推车R-Right。
+Stretch, is there anything I can do to help you?
+伸展，我可以做些什么来帮助您？
+Anything?!
+任何事物？！
+S-She's after s-someone named...
+S-She After S-Someone叫...
+Sombria.
+Sombria。
+Which way did she go?
+她走了哪种方式？
+S-She went into the secret carriage.
+S-She进入了秘密马车。
+p-press the button, on t-the wall. Then, t-the gate. *...*
+p固定按钮，在墙上。然后，T-大门。 *...*
+Stretch...
+拉紧...
+I-I'm so sorry.
+我 - 很抱歉。
+I have to find Sombria.
+我必须找到Sombria。
+T-That woman s-said she was after...
+t-said她追求的...
+y-you.
+是的。
+I'm very sorry Stretch.
+我很抱歉拉伸。
+I must go.
+我必须去。
+I-It's okay L-Luzia.
+我 - 没关系，l-luzia。
+Y-You g-gggggg....uhhh...
+是的，g-gggggg。
+Stretch!!!
+拉紧！！！
+I'm so sorry.
+我很抱歉。
+SombieMoves
+sombiemoves
+SecretLadder
+秘密滑行
+This must be the control switch for the door.
+这必须是门的控制开关。
+Keycard required.
+需要钥匙卡。
+Great! Where am I going to find a keycard?
+伟大的！我要在哪里找到钥匙卡？
+Great! Another locked door!
+伟大的！另一个锁门！
+Little girl's not gonna open that one, not with out Litle Jacket's help!
+小女孩不会打开那个，而不是在莱尔外套的帮助下！
+Oh? And how do you know how to unlock it?
+哦？您怎么知道如何解锁？
+I have a keycard!
+我有一个钥匙卡！
+Try swiping it!
+尝试刷它！
+It didn't work!
+它不起作用！
+Little Jacket knows how! Give the keycard to Little Jacket!
+小夹克知道如何！给小夹克的钥匙卡！
+A keycard is what you need, but you need to find it!
+钥匙卡是您需要的，但是您需要找到它！
+Litle Jacket saw big scary girl looking back here not long ago.
+不久前，Litle夹克看到了大恐怖女孩回去这里。
+Please...go away.
+请走开。
+*Whistling*
+*吹口哨*
+Little Jacket wonders what Mudo is doing?
+小夹克想知道Mudo在做什么？
+Is this what you need?
+这是您需要的吗？
+Hmm, it looks like it could work.
+嗯，看起来它可以工作。
+Little Jacket will try.
+小夹克会尝试。
+Wait here.
+在这儿等着。
+Open sesame!
+芝麻开门！
+Gosh! Thank you! You adorable little thing!
+天哪！谢谢！你可爱的小东西！
+Little Jacket will lock the door if you say that again.
+如果您再说一遍，小夹克将锁上门。
+Whoops! I mean thank you!
+哎呀！我的意思是谢谢你！
+What the hell is that!
+这他妈到底是什么！
+I'm sorry little girl, no passengers allowed back here.
+对不起，小女孩，没有乘客允许回到这里。
+Who are you?
+你是谁？
+Me? N-No one ever takes notice of me.
+我？ n-no曾经注意到我。
+Everyone just calls me Stretch.
+每个人都称我伸展。
+I just deal with the passenger's luggage.
+我只是处理乘客的行李。
+But where are all the passengers?
+但是所有的乘客都在哪里？
+I-I don't know. I'm not permitted to leave this room.
+我 - 我不知道。我不允许离开这个房间。
+How long have you been here?
+你来这里多久了？
+W-Well, as long as I can remember.
+W-Well，只要我记得。
+Why do you want to know Miss....
+你为什么想知道小姐。
+Luzia, my name is Luzia.
+吕齐亚，我叫吕齐亚。
+P-Pleased to meet you, Luzia.
+luzia pple pling toles。
+Please, there's no need to be shy.
+请，没有必要害羞。
+I-I'm sorry.
+我 - 对不起。
+I don't mean to be shy.
+我不是要害羞。
+It's just, I-I've heard a lot about you.
+只是，我 - 我听说过很多关于您的信息。
+Tell me, are you still trying to break the curse?
+告诉我，您还在试图打破诅咒吗？
+You mean the loo- Wait!
+你的意思是loo-等等！
+How do you know about that?!
+你怎么知道的？
+I'm sorry, I didn't mean to make you upset.
+对不起，我不是要让你不高兴。
+Please, tell me what you know about me. PLEASE!
+请告诉我您对我的了解。请！
+I-I can't.
+我 - 不能。
+All I can say is that old lady said a lot about you.
+我只能说，老太太对你说了很多。
+She also said bad things may happen if I talk to you.
+她还说，如果我与您交谈，可能会发生坏事。
+Please, forgive me.
+请原谅我。
+Bad things!?
+坏事！？
+You're literally a walking head!
+您实际上是一个步行头！
+Bad hit you a long time ago, pal!
+很久以前打你，好朋友！
+I'll j-just be out of your way...
+我会尽力而为...
+...no. I'm sorry.
+...不。对不起。
+I feel like a great, big, jerk!
+我感觉就像一个很棒的大，混蛋！
+This is a travel point!
+这是一个旅行点！
+Travel to any section on the train.
+前往火车上的任何区域。
+It's Locked. There must be a way to open it.
+它是锁着。必须有一种打开它的方法。
+This must be the switch.
+这必须是开关。
+Strange...
+奇怪的...
+I feel sleepy.
+我困了。
+ACH_SECRET_SWITCH
+ach_secret_switch
+I don't need to press it again.
+我不需要再次按。
+Train Luggage Car
+火车行李车
+Main Cabin
+主舱
+E Switch (Damaged)
+E开关（损坏）
+E Door
+E门
+End Carrage
+结束角叉架
+Travel Point
+旅行点
+Secret Switch
+秘密开关
+E-Door
+电子门
+Room1
+房间1
+This room...
+这个房间...
+I've been here before.
+我以前去过这里。
+This room feels colder.
+这个房间感觉更冷。
+Probably forgot to close the window.
+可能忘了关闭窗户。
+A note?
+一张纸条？
+Why did she do it?
+她为什么这样做？
+She risked her own life to save mine!
+她冒着生命危险拯救我的！
+Was mine worth all the trouble?
+我值得所有麻烦吗？
+She lost everything because of me...
+她因我而失去了一切...
+everything.
+一切。
+Who wrote this?
+谁写了这个？
+Room3
+房间3
+This room feels warmer.
+这个房间感觉更温暖。
+It smells like, burnt leather.
+闻起来像是燃烧的皮革。
+Keycard
+钥匙卡
+A keycard?
+钥匙卡？
+There's a note here too.
+这里也有音符。
+If you're reading this then be prepared for what's about to happen.
+如果您正在阅读本文，请为即将发生的事情做好准备。
+You're not who you think you are...
+你不是你以为你是谁...
+and neither is she.
+她也不是。
+You were born from a witch and she was born from a saviour.
+你是从一个女巫出生的，她是从救主出生的。
+The loop is the only thing that binds you both together...
+循环是唯一将你们俩束缚在一起的东西...
+if you break it, you may not see each other again.
+如果您打破它，则可能不会再见到彼此。
+BurntNote
+burntnote
+A burnt note?
+灼热的音符？
+It's time...
+是时候了...
+time to end this mess.
+是时候结束这个混乱了。
+The loop must be broken!
+循环必须被打破！
+I can't go through all of this again!
+我不能再经历所有这一切！
+She has to go!
+她必须走！
+I can't keep protecting her...
+我不能继续保护她...
+I'm losing my strength.
+我失去了力量。
+She is manipulating you.
+她正在操纵你。
+Don't hesitate...
+不要犹豫...
+kill her.
+杀了她。
+ACH_FORTHTIME
+ach_forthtime
+Front Cabin
+前舱
+Room 1
+房间1
+Room 2
+房间2
+Room 3
+房间3
+Note
+笔记
+Room 4
+房间4
+Burnt Note
+烧记
+Burnt Note
+烧记
+This must be the engine.
+这一定是引擎。
+I can hear humming coming from the otherside.
+我能听到来自其他人的嗡嗡声。
+Door requires a keycard...great.
+门需要一个钥匙卡...太好了。
+GustophLuzia
+Gustophluzia
+Excuse me, Mr. Gustoph?
+对不起，古斯托夫先生？
+Well, if it isn't little Luzia!
+好吧，如果不是卢齐亚！
+What can I do for you?
+我能为你做什么？
+I'm wondering if you had seen my sister?
+我想知道你是否见过我姐姐？
+Hmm, I dunno. What does she look like?
+嗯，我不知道。她看起来像什么？
+A tall, ghost-ish looking girl with long arms!
+一个高大的幽灵般的女孩，长臂！
+That is the most freakish description I've ever heard!
+那是我听过的最奇怪的描述！
+But yes, she did come through here.
+但是，是的，她确实经历了这里。
+Lookin' for you as a matter of fact!
+事实上，向您寻找！
+Did she say where she was going?!
+她说她要去哪里吗？
+She said she was going back to her seat to wait for you.
+她说她要回到座位等你。
+B-But that's impossible!
+B-但这是不可能的！
+I would have seen her!
+我会见到她！
+Maybe you walked straight past her, without noticing?
+也许您直接走过她，没有注意到？
+N-No, I don't think so.
+n-no，我不这么认为。
+Nothing ever gets past me!
+没有什么能超越我！
+And nothing gets past Gustoph too...
+没有什么也没有过仓了...
+because he takes up the entire doorway!
+因为他占领整个门口！
+HA!
+哈！
+Are you sure you saw her?
+你确定你看到她吗？
+I'm sure I did, little one.
+我确定我做到了，小家伙。
+A ghoulish girl with long arms is pretty hard to miss.
+一个长胳膊的可怕女孩很难错过。
+Goulish?
+gulish？
+Yes, goulish, or ghost-ish.
+是的，糟糕的或鬼。
+Something like that.
+这样的东西。
+She did seem quite happy to see me though.
+她确实很高兴见到我。
+I think we both are.
+我认为我们俩都是。
+Before you go, could you please check on my buddy, Stretch?
+在您出发之前，请您检查我的伙伴，伸展吗？
+Haven't heard from him in a while now.
+有一段时间没收到他的消息。
+If you haven't hurt his feelings already!
+如果您还没有伤害他的感情！
+I-I think I did...
+我 - 我想我做到了...
+where does he like to hide?
+他喜欢隐藏在哪里？
+He should be in the luggage compartment somewhere.
+他应该在行李箱中的某个地方。
+Always waiting to take someones luggage.
+总是等待带某人行李。
+The poor guy.
+可怜的家伙。
+Okay, I'll go find him.
+好吧，我去找他。
+MeetGustoph
+Meetgustoph
+Sorry to interrupt.
+对不起打扰。
+Can I-
+我可以吗-
+*Whistling* ...Oh!
+*吹口哨* ...哦！
+Hello there, little one!
+你好，小家伙！
+Who? Me?
+谁？我？
+Well, I'm the guy who drives this train, of course!
+好吧，我当然是驾驶这列火车的人！
+And what I wanna know is...
+我想知道的是...
+how the heck did you get in here?
+您如何进入这里？
+I found a keycard in the bed carriage.
+我在床马车上发现了一个钥匙卡。
+So that's where I left the darned keycard!
+这就是我离开胆小的钥匙卡的地方！
+Excuse me but, who are you?
+对不起，但是你是谁？
+They call me Gustoph! But you can call me Gus.
+他们称我为阵阵！但是你可以叫我古斯。
+And you must be Luzia?
+你一定是卢齐亚吗？
+How do you know my name?!
+你怎么知道我的名字？！
+I know everything!
+我知道所有的东西！
+Plus, it's in the passengers log book.
+另外，它在乘客登录中。
+Gotta keep a head count on all who ride the rails!
+要尊重所有骑铁轨的人！
+Even if they don't have a head!
+即使他们没有头！
+How many people are on the train?
+火车上有多少人？
+Hmm, let me see...
+嗯，让我看看...
+Just one!
+只有一个！
+Just one!?
+只有一个！？
+But what about my sister?!
+但是我姐姐呢？
+Your sister?
+你姐姐？
+You only said how many people, little one.
+你只说有多少人，小家伙。
+She's a person too, y'know!
+她也是一个人，你知道！
+Ho Ho! I'm sure she was!
+ho！我确定她是！
+So, you on holiday?
+所以，你在度假吗？
+No, but I sure'll need one after all this.
+不，但是我肯定需要一个。
+Been in a bit of a pickle have we, missy?
+我们有点泡菜了吗，Missy？
+You can say that again.
+你可以再说一遍。
+I can't believe we're finally on our way home to end all of this mess.
+我不敢相信我们终于回家了，以结束所有这些混乱。
+Well, I'm glad it all worked out for ya.
+好吧，我很高兴一切都为YA解决了。
+Sure thing, little one.
+当然，小家伙。
+Where's the rest of the passengers?
+其余的乘客在哪里？
+Ha Ha! The rest of the passengers!?
+哈哈！其余的乘客！？
+Why, they're all around you!
+为什么，他们周围！
+Can't you see them?
+你看不到他们吗？
+Well, no I can't.
+好吧，不，我不能。
+They're probably just shy...
+他们可能只是害羞...
+or maybe they're scared of something.
+也许他们害怕某事。
+Scared? Of who?
+害怕的？谁？
+You'd best be gettin' back to your cabin, little missy.
+小姐，您最好回到您的机舱。
+Once we're in the valley of sorrows, you don't wanna be wonderin' around.
+一旦我们在悲伤的山谷中，您就不想在周围奇怪。
+But come see me later! If you're still alive, that is!
+但是稍后再见！如果您还活着，那就是！
+Alive?!
+活？！
+H-Hey, Sombie. Are you okay?
+嘿，sombie。你还好吗？
+What home?
+什么家？
+What do you mean? Our home.
+你是什​​么意思？我们的家。
+So what, it's not like it's gonna change anything.
+那么，它不会改变任何东西。
+Of course it will!
+当然会的！
+Please, don't give up on me now!
+请，不要立即放弃我！
+Luzia, do you remember what happened before this all happened?
+吕齐亚，您还记得这一切发生之前发生了什么吗？
+...n-no.
+... n-no。
+What do you remember about mom?
+你还记得妈妈什么？
+Well, not much...
+好吧，不多...
+she was never around.
+她从不在身边。
+I guess it's because she was too busy working at the hospital-
+我想这是因为她太忙于医院工作 - 
+Luzia, we don't have a mother.
+吕齐亚，我们没有母亲。
+Y-Yes we do! What do you mean by-
+是的，我们做了！你是什​​么意思-
+She's not our real mother. We were both left on her door step when we were born...
+她不是我们真正的母亲。当我们出生时，我们俩都留在了她的门上...
+we're not even real sisters.
+我们甚至都不是真正的姐妹。
+I've been lying to you this whole time...
+我一直在骗你...
+I-I'm sorry...Luzia.
+我 - 对不起...吕齐亚。
+*Sniff* P-Please, tell me this is a joke, right?
+*嗅探* p-please，告诉我这是个玩笑，对吧？
+It has to be!
+它一定要是！
+I'm sorry.
+对不起。
+*Sniff*I don't know who to trust anymore?!
+*嗅探*我不知道该信任谁？
+For the first time in my life...
+这是我一生的第一次...
+...I feel empty inside.
+...我内心感到空虚。
+Luzia, please-
+卢齐亚，请 - 
+Hey!
+嘿！
+Little one!
+小家伙！
+Come here, quick!
+来这里，快！
+Huh? Gus?
+嗯？ gus？
+Sorry little one, but I couldn't help over hearing your conversation.
+对不起，小家伙，但我不禁听到您的谈话。
+What's it matter anyway?
+到底有什么关系？
+You don't believe that garbage, do you?!
+你不相信垃圾，对吗？
+What did I tell'ya earlier? Hmm?
+我之前告诉了什么？唔？
+U-Uh, I forgot.
+U-uh，我忘了。
+Well, at least we're out the other end.
+好吧，至少我们在另一端。
+End of what?
+什么结局？
+Ho Ho! The valley!
+ho！山谷！
+I see the valley of sorrows has affected your mind!
+我看到悲伤的山谷影响了您的思想！
+The valley of sorrows?
+悲伤谷？
+When the train passes through the valley, your worst fears become a reality.
+当火车穿过山谷时，您最糟糕的恐惧变成了现实。
+So it was all a dream?
+所以这一切都是梦想吗？
+Sort of, my tiny friend.
+有点，我的小朋友。
+More like a vision.
+更像是一个愿景。
+So, none of it was real?
+那么，这不是真实的吗？
+See, that's the thing, it could be real.
+看，就是这样，它可能是真实的。
+But the valley will always show the worst outcome.
+但是山谷将永远显示出最糟糕的结果。
+Fire away little Missy!
+开火小小姐！
+What do you see when you go through the valley?
+穿过山谷时，您会看到什么？
+Heh, Y'know, nobody's ever asked me that before...apart from one other.
+嘿，你知道，没有人问过我……除了彼此之间。
+What I saw was how I ended up here. I crashed my train...
+我看到的是我在这里的最终结果。我撞了火车...
+killing all but one passenger...
+杀死除一名乘客以外的所有...
+...me.
+...我。
+It's not your fault, little missy...
+这不是你的错，小小姐...
+it's mine.
+这是我的。
+Strange, you remind me of someone I used to know.
+奇怪的是，你让我想起了我以前认识的人。
+This is going to sound even stranger...
+这听起来甚至是陌生人...
+but I remember you.
+但我记得你。
+I remember a cabin in the misty woods...
+我记得在雾蒙蒙的树林中的一个小屋...
+I just can't remember anything else.
+我简直不记得了。
+...Ash?
+...灰？
+No, it's can't be.
+不，不可能。
+How did you die?
+你怎么死的？
+I-In my home...
+我在家...
+I thought I could drink away the pain.
+我以为我可以喝痛苦。
+Instead, I made it worse...
+相反，我使情况变得更糟...
+once I had joined my passengers...
+一旦我加入了乘客...
+I could finally understand, what it felt like to be let down...
+我终于可以理解，让人失望的感觉...
+they depended on me.
+他们依靠我。
+It wasn't your fault, Gus.
+这不是你的错，古斯。
+These things happen.
+这些事情发生了。
+We don't control life...
+我们不控制生活...
+life controls us.
+生活控制着我们。
+Are you sure you're the little girl I spoke to earlier?
+您确定您是我之前与之交谈的小女孩吗？
+You sound a lot like someone else I used to know.
+您听起来很像我以前认识的其他人。
+I don't know what is happening to me.
+我不知道发生了什么事。
+Whatever it is, I feel it's almost consumed me.
+不管是什么，我觉得它几乎消耗了我。
+Like, I'm finally about to wake up.
+就像，我终于要醒了。
+Well, you are truly remarkable, little one.
+好吧，你真是杰出的，小家伙。
+How is Stretch doin'?
+伸展运动怎么样？
+H-He, didn't make it.
+H，他没有做到。
+Poor kid.
+穷孩子。
+It's okay little one.
+没关系。
+He's arrived at his final station.
+他到达了最后的车站。
+Speaking of which!
+说哪个！
+So have we!
+所以我们！
+Train Engine
+火车引擎
+E-Lock
+电子锁
+Gustoph
+阵阵
+Jeez! It's freezing out here!
+天哪！它在这里冻结！
+But still, such an amazing view.
+但是仍然如此惊人的景色。
+White fading into black.
+白色褪色成黑色。
+I-Is this really me?
+我 - 真的是我吗？
+I don't normally talk like this.
+我通常不会这样说话。
+Don't I?
+不是吗？
+Ahh! WHAT'S WRONG WITH ME!
+啊！我怎么了！
+I wish none of this ever happened!
+我希望这一切都不会发生！
+I wish...I never...
+我希望...我永远不会...
+Killed her.
+杀了她。
+HEY! GIRL!
+嘿！女孩！
+!!!
+!!!
+What are you doing out here little guy?
+你在这里做什么小家伙？
+Little Jacket couldn't help but overhear little girl.
+小夹克忍不住听到了小女孩。
+Little Jacket wants to know why little girl is screaming?
+小夹克想知道为什么小女孩在尖叫？
+\"Little girl\" does have a name, ya know?
+\“小女孩\”有一个名字，你知道吗？
+Little Jacket already knows Luzia's name!
+小夹克已经知道吕齐亚的名字！
+What Little Jacket doesn't know is; why is Luzia upset?
+小夹克不知道的是；吕齐亚为什么不高兴？
+Because, I don't know if I'm myself anymore?
+因为，我不知道我是否已经自己了吗？
+I act differently, I've been fighting with Sombie more...
+我的行为有所不同，我一直在与Sombie战斗...
+I feel like I've done something really bad...
+我觉得我做了一些非常糟糕的事情...
+I just have no idea what I've done.
+我只是不知道我做了什么。
+This reminds Little Jacket of a story.
+这使小夹克想起了一个故事。
+A story called \"Two Birds One Stone\".
+一个叫做\“两只鸟一石\”的故事。
+\"Two Birds One Stone\"?
+\“两只鸟一石\”？
+You haven't heard of \"Two Birds One Stone\"?
+您还没有听说过\“两只鸟一石\”吗？
+Ok, Little Jacket will tell you, so listen up!
+好的，小夹克会告诉你，所以听！
+Once upon a ti-
+曾经
+Is this going to be a long story?
+这将是一个长篇小说吗？
+SHHH!
+嘘！
+Okay, okay! Go ahead.
+好吧好吧！前进。
+Once upon a time, there were two sisters that lived in the country-side.
+曾几何时，有两个姐妹住在该国。
+They were the best of friends and did everything together.
+他们是最好的朋友，一起做了一切。
+They were so close that they liked and enjoyed the same things...
+他们是如此近，以至于他们喜欢并享受了同样的东西...
+especially this one man.
+特别是这个男人。
+However, the man only had eyes for one of the sisters...
+但是，这个人只有一个姐妹的眼睛...
+the taller one.
+高个子。
+Younger sister was so upset by this that she tried everything she could to be taller.
+妹妹对此感到非常沮丧，以至于她尽一切可能变得更高。
+So, younger sister got a witch to use magic to make legs longer, just like older sister.
+因此，妹妹像姐姐一样，有一个女巫用魔法使腿更长。
+Witch said, needs older sister's legs to make potion.
+女巫说，需要姐姐的腿来制作药水。
+In order for the witch's magic to work, she had to cut off older sister's legs...
+为了使女巫的魔力工作，她不得不切断姐姐的腿...
+and she did in her sleep.
+她睡着了。
+Younger sister got what she wanted but was also given a curse.
+妹妹得到了她想要的东西，但也受到了诅咒。
+Wait! I've heard this before...
+等待！我以前听说过...
+I remember something...about a theater.
+我记得一些关于剧院的东西。
+You should remember, Luzia.
+你应该记得，吕齐亚。
+Because you're the-
+因为你是 - 
+Wait, what's that sound?
+等等，那声音是什么？
+Ah! Hello, Luzia.
+啊!你好，吕齐亚。
+Nice to finally see you again.
+很高兴终于再次见到你。
+YOU ATE HIM! YOU ATE THE LITTLE GUY!
+你吃了他！你吃了小家伙！
+Oh, I'm sorry. He looked like the perfect snack.
+哦，对不起。他看起来像是完美的小吃。
+You see, I'm very hungry Luzia.
+你看，我很饿卢齐亚。
+I have been for centuries...and I still am.
+我已经过去了几个世纪...我仍然是。
+WHAT DO YOU WANT WITH ME!?
+你想和我做什么！？
+Oh? You think this is about you?
+哦？你认为这是关于你的吗？
+HA HA!
+哈哈！
+No my little friend.
+没有我的小朋友。
+I'm here to see my sister!
+我在这里见我姐姐！
+I know she's on this train.
+我知道她在这列火车上。
+Sister?
+姐姐？
+Yes, the one you call \"Sombria\".
+是的，您称为\“ Sombria \”的那个。
+WAIT!
+等待！
+She's my sister!
+她是我的妹妹！
+She was your sister.
+她是你的妹妹。
+When I find her, I'm going to break those god damn legs of hers!
+当我找到她时，我将打破她该死的她该死的腿！
+You're not laying a finger on her, you ugly lady!
+你不是在她身上伸出手指，你丑陋的女士！
+Not just one finger but all of them. Right around her throat!
+不仅是一根手指，而且所有手指。就在她的喉咙里！
+Once I kill her, you're next...
+一旦我杀了她，你下一个...
+mother.
+母亲。
+This looks like some sort of entertainment stage.
+这看起来像是某种娱乐阶段。
+S-Sombie!?
+S-Sombie！？
+I-I-
+i--
+What's wrong?!
+怎么了？！
+Hello, Luzia.
+你好，吕齐亚。
+It's you! The witch!
+是你！女巫！
+Give me back my sister!
+还给我我的妹妹！
+Luzia, I don't have much time.
+吕齐亚，我没有太多时间。
+You need to listen to me.
+你需要听我说。
+Why should I listen to you?!
+我为什么要听你的？
+Look what you did to Sombria!
+看看您对Sombria做了什么！
+Your sister is fine, Luzia.
+你姐姐很好，卢齐亚。
+Trust me.
+相信我。
+Then why did you do this?
+那你为什么要这样做？
+It's the only way to end this, to end the loop.
+这是结束这一结束的唯一方法，结束循环。
+The curse loop?
+诅咒循环？
+You may be still too young to understand but you and I are closer than you think.
+您可能还太年轻，无法理解，但是您和我比您想象的要近。
+This isn't the first time we've met.
+这不是我们第一次见面。
+I need Sombria's body to-
+我需要Sombria的身体 - 
+So you stole my sister's body!
+所以你偷了我姐姐的身体！
+Do you think it's okay to steal other people's bodies?!
+您认为可以偷别人的身体是可以的吗？
+Luzia, you don't understand. Please, listen-
+吕齐亚，你不明白。请听好-
+I don't have to!
+我不必！
+This is your problem not ours!
+这不是我们的问题！
+Turn my sister back now!
+现在把我姐姐转回来！
+I can't...
+我不能...
+not until the curse has been lifted.
+直到诅咒被解除。
+Then how do I lift the curse?!
+那我该如何举起诅咒？
+You have to break the loop, Luzia.
+你必须打破循环，卢齐亚。
+We are already on our way to break the loop!
+我们已经在打破循环的路上！
+You've been tricked...
+你被欺骗了...
+once you reach home, you will restart the loop. You'll ruin everything!
+到家后，您将重新启动循环。你会毁了一切！
+That's not true!
+这不是真的！
+The Noodle Lady told me that it would end the curse!
+面条女士告诉我，这将结束诅咒！
+...Yoko? That crone! What are you playing at?
+...洋子？那个克隆人！你在玩什么？
+Wait...she want's the sister?
+等等...她想要姐姐吗？
+What, Sombria?
+什么，Sombria？
+That old hag! She want's to kill us all before we end the curse.
+那个老巫婆！她想在我们结束诅咒之前杀死我们所有人。
+W-What do you mean?
+你是什​​么意思？
+If she ends Sombria, Tena and I will be stuck like this forever!
+如果她结束了《 Sombria》，Tena和我将永远被困！
+I'll never get my life back!
+我永远不会让我的生活回来！
+That's not my problem, it's yours! I just want Sombria back! And I have to return home to do it, then so be it!
+那不是我的问题，是你的！我只想回来！我必须回到家去做，那就这样！
+YOU CAN'T DO THIS TO US! I SAVED YOUR LIFE!
+你不能对我们这样做！我拯救了你的生命！
+Pfft! As if! You should of thought about that before you kidnapped us.
+pfft！仿佛！在绑架我们之前，您应该考虑一下。
+Wait! Luzia, I-I know about your dreams...
+等待！吕齐亚，我 - 我知道你的梦想...
+The marketplace, the therapist...all of it.
+市场，治疗师...所有。
+It's a bond that we both share. I wasn't lying when I said we have met before.
+这是我们俩分享的纽带。当我说我们以前见面时，我没有撒谎。
+You're lying! I've never seen you in my entire life, lady!
+你在撒谎！女士，我一生都从未见过你！
+I-I wish you could just...remember.
+我 - 我希望你能...记住。
+Just give me back my sister...
+只是还给我我的妹妹...
+please.
+请。
+Sombria was easily drawn to me.
+Sombria很容易吸引我。
+It's like we're one soul living in two bodies. I don't understand it myself but...
+就像我们一个生活在两个身体中的灵魂一样。我自己不明白，但是...
+I wish I could explain it.
+我希望我能解释一下。
+Luzia, whatever happens...
+吕齐亚，无论发生什么...
+don't ever let your Sombria go...
+永远不要让您的Sombria走...
+or she'll share the same fate as my sister.
+否则她会和我姐姐分享同样的命运。
+What are you talking about?!
+你在说什么？！
+Heh. Like I said, you're too young to understand...
+嘿。就像我说的那样，你太年轻了，无法理解...
+but someday, you will.
+但是有一天，你会的。
+Luzia, if you choose this path...
+吕齐亚，如果您选择此路径...
+you're going to have to make a choice.
+您将不得不做出选择。
+What choice?
+什么选择？
+To save your life, or Sombria's
+挽救您的生命，或者Sombria的生命
+Wait, why?! I can't save us both?!
+等等，为什么？！我不能拯救我们吗？
+If you choose to listen to her be warned...
+如果您选择听她的话，请警告...
+this will not go the way you think.
+这不会像您的思维方式一样。
+Look! All I want is my sister back!
+看！我想要的就是我姐姐回来！
+I want us to go home! So everything can go back to the way it was.
+我要我们回家！因此，一切都可以回到原来的样子。
+me too.
+我也是。
+T-There's something still bugging me...
+T-仍然让我困扰我...
+if you're not The Red Witch...
+如果你不是红色女巫...
+then who is?
+那是谁？
+It's yo-
+是 - 
+Huh? What was that noise?
+嗯？那是什么噪音？
+Finally! I found you.
+最后！我找到你。
+Little sister.
+小妹妹。
+Hiding in the bodies of the living, are we?
+隐藏在生活的体内，是吗？
+I have waited a very long time for this moment.
+我已经等了很长时间了。
+I've been hanging from your bathhouse wall...
+我一直在你的浴室墙上挂...
+thinking about all those years on how I could have spent my LIFE!
+考虑到我如何度过一生的所有这些年！
+Tena, I'm sorr-
+Tena，我是SORR-
+SHUT IT, ASHINA!
+关闭它，阿什娜！
+The time for forgiveness is over!
+宽恕的时间已经结束！
+YOU TOOK EVERYTHING FROM ME!
+你从我那里拿走了一切！
+Please, Tena! Listen to me.
+拜托，Tena！听我说。
+Luzia, is our chance to setting us free-
+吕齐亚，是我们自由的机会 - 
+DON'T YOU TALK TO ME ABOUT FREEDOM!
+你不是和我谈论自由！
+You have no idea what it's like to have your damn legs cut off!
+您不知道将您该死的双腿切断是什么感觉！
+Then chained to a wall for an eternity!
+然后将其拴在墙上以永恒！
+This is all Yoko's fault!
+这就是洋子的错！
+Was it?! She told me everything, big sis!
+是吗？她告诉我一切，大姐姐！
+About how pathetic I was, about how jealous you were of everything I had!
+关于我多么可悲，您对我所拥有的一切有多嫉妒！
+What's going on?
+这是怎么回事？
+Go on, sis! Tell her another one of your famous lies!
+继续，姐姐！告诉她另一个著名的谎言！
+Luzia, I-I-
+吕齐亚，i--
+Ha! Pathetic! You kidnapped a little girl and her sister to escape the curse without me!
+哈！可怜的！您绑架了一个小女孩和她的妹妹，没有我逃脱诅咒！
+You were going to leave me in that dark disgusting bathouse, forever!
+你要永远把我留在那个黑暗的令人讨厌的浴房里！
+So you are a liar!
+所以你是骗子！
+Heh! You too, aye?
+呵！你也是吗？
+Typicall!
+典型！
+Leave these two out of this, Tena.
+从这两个中，这两个，Tena。
+They are more than welcome to leave...
+他们非常欢迎离开...
+but you aren't going anywhere.
+但是你不会去任何地方。
+Luzia, please listen to what I've told you.
+吕齐亚，请听我告诉你的。
+You can end this, you have to believe me!
+您可以结束这个，您必须相信我！
+Just keep Sombria safe!
+只需保持Sombria的安全！
+Now go!
+现在，走吧！
+Chapter9Start
+第9章
+Thank god you're ok.
+谢谢上帝，你还好。
+W-Who did this?
+W-谁做到了？
+P-Pleasssse.
+p-pereasssse。
+H-Help...meee.
+H-Help ... Meee。
+ACH_IT_WAS_HER
+ACH_IT_WAS_HER
+!
+呢
+LUZIA?!
+吕齐亚？！
+Can you please keep it down!
+你能把它放下来吗？
+I'm trying to listen out for my-
+我想聆听我的 - 
+OH, SHUT UP! YA OLD CAVE BAT!
+哦闭嘴！ Ya Old Cave Bat！
+YOUR DAUGHTERS ARE NOT HERE!
+你的女儿不在这里！
+Hmmph! How rude!
+嗯！真没礼貌！
+Yes, Luzia! I'm here!
+是的，吕齐亚！我在这！
+W-we need t-to go home-.
+W我们需要T到回家。
+Yes, we do! And now we can! I can't believe you're-
+是的，我们愿意！现在我们可以！我不敢相信你 - 
+I-I'm sorry, S-Sombie...
+我 - 对不起，S-Sombie ...
+...home.
+...家。
+No, NO!
+不，不！
+NO,NO,NO!
+不不不！
+LUZIA! DON'T GO PLEASE!!!
+吕齐亚！不要去！！！
+*Giggle*
+*傻笑*
+Syke!
+sy！
+A HA HA HA!
+哈哈哈！
+B-B-but, h-how?
+b-b但是，h-how？
+I've been awake for the last couple of days now.
+最近几天我一直醒了。
+I just unplugged my heart machine cord, thingy.
+我只是拔下了我的心脏机绳，这是什么。
+ARHHHHHHHH!!!!!!!
+arhhhhhhhh！
+Geez, Sombie! Take it easy, It's just a prank.
+geez，sombie！轻松，这只是恶作剧。
+A PRANK?!
+恶作剧？！
+I'LL SHOW YOU A PRANK!
+我给你看恶作剧！
+Can you both please keep it down!
+你们俩都可以放下它吗？
+If you open your mouth again, I will choke you with your fluid cord!
+如果您再次张开嘴，我会用液体绳cho住您！
+Sombie, calm down.
+sombie，冷静下来。
+I'm sorry, Luzia.
+对不起，吕齐亚。
+I-I was really scared, y'know.
+我真的很害怕，你知道。
+Scared of what?
+害怕什么？
+That you wouldn't wake up.
+你不会醒来。
+Duh, that's what happens after you sleep.
+du，这就是您睡觉后发生的事情。
+You wake up.
+你醒来。
+Luzia, I want to say I'm sorry for everything.
+吕齐亚，我想说的是，我为一切感到抱歉。
+I just wanted to show mom I can be responsible...
+我只是想告诉妈妈我可以负责...
+and it seems like I failed both of you.
+看来我俩都失败了。
+It's not your fault, Sombie.
+这不是你的错，sombie。
+It is, Luzia.
+是的，吕齐亚。
+Just look what happened to you.
+看看你发生了什么。
+What did happen to me?
+我发生了什么？
+I guess they haven't told you yet.
+我想他们还没有告诉你。
+You were in a coma for about three months.
+您昏迷了大约三个月。
+You went to get a glass of milk but never came out of the kitchen.
+您去喝了一杯牛奶，但从未从厨房里出来。
+Wait, milk? What about the kidnapping? The bathhouse?
+等等，牛奶？那绑架呢？浴室？
+Did I just dream it all?
+我只是梦想着吗？
+What are you talking about, Luzia?
+你在说什么，吕齐亚？
+Bathhouse?
+澡堂？
+Yeah, and you were some freakiy lookin' ghost thing with long arms!
+是的，您是一些怪异的幽灵，长臂！
+Dang, it must've been a dream.
+and，这一定是一个梦。
+Sounds like one heck of a dream though.
+听起来像是一个梦想。
+I'm just glad your ok!
+我很高兴你还好！
+It just didn't feel like a dream.
+只是感觉不像一个梦。
+I swear!
+我发誓！
+Well, now that you're awak maybe I can see the nurse...
+好吧，既然你觉醒了，也许我可以看到护士...
+and we can get the heck outta here.
+我们可以在这里得到赫克。
+Hey, can we get some waffles?!
+嘿，我们可以得到一些华夫饼吗？
+I've got a bad craving for some waffles!
+我渴望一些华夫饼！
+Sure, just let me go see the nurse real quick, ok?
+当然，让我快速看护士，好吗？
+ACH_GOOD_ENDING
+ach_good_end
+And that was the most sketchiest looking motel in Ash Pines.
+那是灰松木中最粗略的汽车旅馆。
+I wish you'd just wake up, Luzia.
+我希望你能醒来，吕齐亚。
+So we can go home...
+所以我们可以回家...
+please...
+请...
+I can't stand to see you like this anymore.
+我不能忍受这样的人。
+I want my sister back...
+我要我姐姐回来...
+m-my real sister back.
+我的真实姐姐回来。
+Please, if you can hear me...
+拜托，如果你能听到我的声音...
+Give me a sign.
+给我一个信号。
+It's been 3 months now!
+现在已经三个月了！
+You will wake up! I know it!
+你会醒来！我知道！
+Please.
+请。
+I'm so sorry Luzia!
+我很抱歉吕齐亚！
+Just please wake up!
+请醒来！
+I-I guess I'll just have to wait until you're ready.
+我 - 我想我只需要等到你准备就绪。
+*Sniff* I sure could use a smoke.
+*嗅探*我肯定可以使用烟。
+I'll be right back Luzia.
+我马上回来卢齐亚。
+TrueEndingScene
+trueendingscene
+Mr. Gus always goes on about his drinking problem.
+古斯先生总是继续谈论他的饮酒问题。
+Mom said she'd be here soon.
+妈妈说她很快就在这里。
+I don't see what's taking her so long?
+我看不到她这么长时间才花了什么？
+She works here for crying out loud.
+她在这里工作以大声喊叫。
+*Sigh* Who am I kidding...
+*叹*我在开玩笑...
+you can't hear me anyway.
+你还是听不到我。
+Excuse me deary?
+对不起，亲爱的？
+Can you please keep it down?
+你能把它放下吗？
+I'm waiting for my daughters to arrive and I can't hear them.
+我正在等待我的女儿到来，我听不到他们的声音。
+I'll keep it down.
+我会把它放下。
+Thank you.
+谢谢你。
+Main Foyer
+主门厅
+I'll come back right after I have a smoke.
+吸烟后我会回来。
+I-It's a giant doll?
+我 - 是一个巨大的洋娃娃？
+RealVerd
+realverd
+That's a cute doll you have there.
+那是一个可爱的洋娃娃。
+Hey! Thanks!
+嘿！谢谢！
+Her name's Molly!
+她的名字叫莫莉！
+Heh, I know Verdinya.
+嘿，我知道Verdinya。
+Now, don't you loose her again, ok?
+现在，你不再放松她，好吗？
+I won't, Sombria!
+我不会，Sombria！
+Please, call me Sombie.
+请给我打电话。
+Luzia always does.
+吕齐亚总是这样。
+How is Luzia, she's been here a for a long time now.
+吕齐亚怎么样，她已经在这里很长时间了。
+She's doing really well!
+她做得很好！
+I hope.
+我希望。
+I'm sure she'll wake up soon!
+我敢肯定她会很快醒来！
+Then she can play with me and Molly!
+然后她可以和我一起玩！
+You wanna play tea parties?
+你想玩茶派对吗？
+Sorry, Verd. I've got stuff to do.
+抱歉，翠绿。我有事要做。
+Oh well, maybe next time.
+嗯好吧，那就下次再说吧。
+Nick
+缺口
+RealButcher
+Realbutcher
+Hey Sombs, hows it goin'?
+嘿，sombs，怎么样了？
+Not so good.
+不太好。
+Still worried about Luzia, eh?
+仍然担心吕齐亚，是吗？
+She's a tough kid.
+她是一个坚强的孩子。
+She'll be alright.
+她会没事的。
+I hope so.
+但愿如此。
+Still seeing the therapist?
+还在看治疗师吗？
+Got no choice.
+别无选择。
+It's either this or jail.
+要么是这个或监狱。
+What did you do this time?
+这次你做了什么？
+Tried robbing a gas station, again.
+再次尝试抢劫加油站。
+I just couldn't do it in the end.
+我最终无法做到。
+I scared the heck outta this kid standing next to me.
+我吓到这个孩子站在我旁边的孩子。
+I just couldn't see the poor girl cry.
+我只是看不到那个可怜的女孩哭。
+So, I gave her a candy bar and we chatted til the cops arrived.
+因此，我给了她一个糖果吧，直到警察到达。
+That was nice of you, in a horrific kinda way.
+那真是太好了，以一种可怕的方式。
+Yeah, I guess!
+是的，我猜！
+Are you seeing him today?
+你今天见他吗？
+I don't really want to see him anymore.
+我真的不想再见到他了。
+I don't blame ya, the guy's a creep!
+我不怪你，那家伙是个小事！
+Anyway, I'll probably be ready to go in soon.
+无论如何，我可能会准备好尽快进入。
+Well, good luck in there.
+好吧，祝你好运。
+I'll catch ya later, Sombs!
+稍后我会抓住你，sombs！
+RealAshina
+Realashina
+Hey! Can I ask you something?
+嘿！我能问你一件事吗？
+Uh, sure?
+嗯，当然？
+Who does your hair?
+你的头发是谁？
+It's so cute!
+它真可爱！
+Uh, thanks.
+嗯，谢谢。
+My mom does it for me.
+我妈妈为我做。
+It's a traditional look, apparently.
+显然，这是传统的外观。
+Pfft! She looks more like a big mouse!
+pfft！她看起来更像是一只大老鼠！
+I don't know why you want to look like her, Ashina.
+我不知道你为什么要看起来像她，阿什娜。
+Don't mind her, she's just jealous!
+不要介意她，她只是嫉妒！
+More like you're jealous!
+更像你嫉妒！
+Yeah, right.
+是的，对。
+The only thing I would be jealous about is that you're taller than me!
+我唯一嫉妒的是你比我高！
+She has really nice legs ya know?
+她的腿真的很好吗？
+See? Jealous!
+看？嫉妒的！
+Yes I know, you both fight about this every day.
+是的，我知道，你们俩每天都为此而战。
+You girls visiting your mother again?
+你们的女孩再次拜访你妈妈吗？
+How come your mother is a lot older than you two?
+你妈妈怎么比你们两个大得多？
+Well, she's not really our mother.
+好吧，她不是我们的母亲。
+She's our grandmother.
+她是我们的祖母。
+Our mother died and she just took over.
+我们母亲去世了，她只是接管了。
+You can thank her for that.
+您可以为此感谢她。
+She died giving birth to her.
+她死了。
+I'm sorry to hear that.
+很抱歉听到这个消息。
+It's fine, we have a new mother now.
+很好，我们现在有一个新母亲。
+Yeah, whats left of her that is.
+是的，她剩下什么。
+I'll catch up with you two later.
+稍后我会赶上你们两个。
+Okay, talk to you later.
+好吧，稍后再和你说话。
+I still love your hair!
+我仍然爱你的头发！
+I'm not in the mood for talking.
+我不想说话。
+Talk to my sister, she never shuts up.
+与我姐姐交谈，她从未闭嘴。
+G-Gustoph?
+G-Gustoph？
+RealGustoph
+现实情况
+Ah! Sombria!
+啊! sombria！
+How's the little one?!
+小孩子怎么样？
+Not good, it's been 3 months now.
+不好，已经三个月了。
+I'm not sure what's wrong with her.
+我不确定她怎么了。
+I'm sorry to hear that, young one!
+很抱歉听到这个消息，年轻！
+I wish all the best for your younger sibling!
+祝您年轻的兄弟姐妹一切顺利！
+Thanks, Gus.
+谢谢，古斯。
+How's everything with you?
+你最近怎么样？
+Well, so far, everything is good!
+好吧，到目前为止，一切都很好！
+I been hitting those tripple A meetings every week and the liver's getting back to her ol' self!
+我每周都在打那些Tripple A会议，肝脏回到了她的自我！
+They say I can return back to work in a few days!
+他们说我可以在几天内返回工作！
+That's good news!
+那是好消息！
+I'm proud of you, Gus!
+我为你感到骄傲，古斯！
+I hope you can drive those trains again!
+希望您可以再次开车！
+You're a very nice girl.
+你是一个非常好的女孩。
+I'm sure your sister will be fine.
+我确定你姐姐会没事的。
+Now, time for a little *yawn* nap. *Zzz*
+现在，有一点点 *打哈欠的时间。 *zzz*
+RealStretch
+realstretch
+Hey.
+嘿。
+Remember me?
+记得我？
+O-Oh yes!
+噢是的！
+You're Sombria, right?
+你是sombria，对吗？
+I sure am!
+我当然是！
+So, whatcha' doin', Stretch?
+那么，whatcha“ doin'，伸展？
+I'I'm just grabbing a soda from the machine.
+我只是从机器上拿起苏打水。
+the one at the hotel is-
+酒店的那家
+Broken? I presume?
+破碎的？我相信？
+Y-Yes, how did you-
+是的，你怎么了
+You tell me, like every day that it's broken.
+你告诉我，就像每天都破了。
+I've also noticed that you never buy anything from it either.
+我还注意到您也永远不会从中购买任何东西。
+O-Oh...
+哦...
+I b-buy snacks from the machine all the t-time!
+我从机器上b-buy的零食全部！
+Uh huh, sure.
+嗯，当然。
+Just remember I have a nice face too, Stretch.
+只要记住我也有一张漂亮的脸，伸展。
+*Blush* Was it really that obvious!?
+*脸红*真的很明显吗？
+I'm s-so sorry!
+我很抱歉！
+Ha! It's fine!
+哈！没关系！
+I've known for a while now.
+我已经知道了一段时间。
+G-Gosh! I f-feel like a complete idiot!
+G-Gosh！我喜欢一个完整的白痴！
+I should hide in a closet a-and never come out!
+我应该躲在壁橱里，永远不要出来！
+Well, you ain't gonna see no butt from in there.
+好吧，您不会看到那里看不到屁股。
+But hey, just sayin'.
+但是，嘿，只是说。
+I promise I won't look at it anymore.
+我保证我不会再看了。
+Pfft! C'mon, Stretch! I don't care if you do.
+pfft！来吧，伸展！我不在乎你是否这样做。
+Just try talking to me, next time.
+下次尝试和我说话。
+I don't bite, promise.
+我不咬，保证。
+O-Ok.
+O-OK。
+*Blushing* Thanks, S-Sombria.
+*脸红*谢谢，S-Sombria。
+DeathSurprise
+死亡冲动
+W-What the...
+W-什么...
+WHAT THE HELL HAPPENED HERE?!
+到底在这里发生了什么？
+0
+0
+Entrance
+入口
+Verdinya
+Verdinya
+Nurse
+护士
+Little Boy
+小男孩
+Sister
+姐姐
+SmokesAhoy
+Smokesahoy
+BadSmoke
+Badsmoke
+It's so peaceful outside.
+外面是如此和平。
+and such a quiet night, too.
+这也是一个安静的夜晚。
+It feels like she has been that coma forever...
+感觉就像她永远昏迷了...
+I just need a sign...
+我只需要一个标志...
+anything...
+任何事物...
+please?
+请？
+It's getting way too cold out here now.
+现在在这里变得太冷了。
+I better head inside...
+我最好进去...
+what a quiet night though.
+真是一个安静的夜晚。
+GoodSmoke
+Goodsmoke
+Christ! I needed that!
+基督！我需要那个！
+It's getting too cramped in there.
+那里太狭窄了。
+I know you can pull through.
+我知道你可以通过。
+It'll haunt me til' the day I die if you don't.
+如果您不这样做的话，我会困扰我直到我死的那一天。
+Just please be alright, Luzia.
+请好起来的，吕齐亚。
+Front door
+前门
+AshBin
+垃圾桶
+Wall
+墙
+SceneSetup
+场景图
+A subway station?
+地铁站？
+Where is home?!
+家在哪里？
+Sombie!?
+sombie！？
+I-I remember this place...
+我 - 我还记得这个地方...
+I used to come here all the time.
+我曾经一直来这里。
+W-When I was upset.
+当我不高兴时。
+You did?
+你做到了吗？
+Why were you upset for?
+你为什么不高兴？
+I-I just...get like that sometimes.
+我 - 我只是...有时会这样。
+I can't explain it.
+我无法解释。
+So, you're depressed?
+所以，你很沮丧吗？
+Luzia, I've been like this for a very long time.
+吕齐亚，我一直这样很长一段时间。
+Does mom know?
+妈妈知道吗？
+I don't like to share it with anyone.
+我不喜欢与任何人分享。
+But you told me.
+但是你告诉我。
+Who else have you told?
+你还告诉谁？
+Just my therapist...
+只是我的治疗师...
+I basically tell him everything...
+我基本上告诉他一切...
+but he doesn't help.
+但是他没有帮助。
+Isn't he supposed to?
+他不应该吗？
+I guess, but he...
+我猜，但是他...
+look, never mind.
+看，没关系。
+You can tell me?
+你可以告诉我？
+I-I can't. I'm sorry, Luzia.
+我 - 不能。对不起，吕齐亚。
+I just need some time to myself, please.
+我只需要一些时间给自己。
+Ok, well, I'm going to do some exploring.
+好吧，好吧，我要进行一些探索。
+Do you remember where the exit is?
+您还记得出口在哪里吗？
+I can't remember right now.
+我现在不记得了。
+Okay, but don't go anywhere.
+好的，但是不要去任何地方。
+You can be depressed here, ok?
+您可以在这里沮丧，好吗？
+Lighten up Sombie! It's just a joke.
+减轻Sombie！这只是一个玩笑。
+I'll be back soon.
+我很快回来。
+Boy, am I hungry!
+男孩，我饿了！
+Too bad I don't have any money!
+太糟糕了，我没有钱！
+It's...
+它的...
+another sink.
+另一个下沉。
+MetalPipe
+金属管
+There's a loose pipe here.
+这里有一个松散的管道。
+It could be useful.
+它可能有用。
+It's not working.
+它不起作用。
+I wonder where it goes?
+我想知道它去了哪里？
+It's a long way down.
+这是很长的路要走。
+A very long way down!
+很长一段路！
+Wait...
+等待...
+it smells like...
+闻起来像...
+chocolate?
+巧克力？
+This seems so stupid.
+这似乎很愚蠢。
+What is that sound?
+那声音是什么？
+W-What are you?
+你是什​​么？
+*Shakes head*
+*摇头*
+Can you talk?
+你现在方便说话吗？
+Can you understand me?
+你能听懂我说话吗？
+*Nods*
+*点头*
+Okay, I need to reach the basement.
+好的，我需要到达地下室。
+Is there a way down?
+有办法倒下吗？
+*Points to candy bar*
+*指向糖果吧*
+You want this?
+你要这个？
+Well, could you do me a favor?
+好吧，你能帮我一个忙吗？
+I need to turn on the backup generator.
+我需要打开备份生成器。
+Where did you go?!
+你去哪儿？！
+Hey! You did it!
+嘿！你做到了！
+Here you go! You've earnt it!
+干得好！您已经赚了！
+It's a long way down. I'd need a good enouh reason to throw this down there...
+这是很长的路要走。我需要一个很好的理由才能把它扔到那里...
+huh, it smells like...chocolate?
+嗯，闻起来像...巧克力？
+I-I can hear you in there.
+我 - 我可以在那里听到你的声音。
+I need to talk to you.
+我要跟你说话。
+You know I can't do that, right?
+你知道我不能那样做，对吗？
+You're my big sister!
+你是我的大妹妹！
+I'm supposed to be around you to annoy you!
+我应该在你身边惹恼你！
+Y-You don't understand.
+是的，你不明白。
+Luzia, you will never understand!
+吕齐亚，你永远不会理解！
+But Sombie...
+但是sombie ...
+I do understand.
+我知道。
+I understand what it's like to be alone.
+我了解一个人的感觉。
+To have no one you can talk to.
+没有人可以与之交谈。
+To have no life left to live.
+没有生命的生活。
+How could you possibly understand, you're only twelve.
+您怎么可能理解，您只有十二岁。
+It's because I have a connection with you, we're sisters after all.
+这是因为我与您有联系，我们毕竟是姐妹。
+You're not going to believe me, I know.
+我知道，你不会相信我。
+It's hard to, Luzia. This isn't the stuff someone your age would say, especially you!
+吕齐亚很难。这不是您年龄的人会说的话，尤其是您！
+That Ashina lady was right.
+那个阿什娜女士是对的。
+I have to protect you, Sombie.
+我必须保护你，sombie。
+To protect me from what?!
+保护我免受什么影响？
+F-From...
+f-from ...
+killing yourself.
+杀死自己。
+Killing myself?!
+自杀？
+It's starting to make sense now.
+现在开始有意义。
+Sombria, whatever is making you depressed, tell me!
+Sombria，无论让您感到沮丧，告诉我！
+I want to make you happier!
+我想让你更快乐！
+You're freaking me out, Luzia!
+你吓到我了，吕齐亚！
+I-I'm just scared, Sombie!
+我 - 我只是害怕，sombie！
+I'm scared that I might lose you!
+我害怕我可能会失去你！
+I was never going to!
+我从来没有去过！
+I always never go through with it!
+我永远不会经历它！
+Sometimes, we do go through it...
+有时，我们确实经历了...
+but I know I can't stop you...
+但是我知道我不能阻止你...
+even though I tried to.
+即使我试图。
+I know this is not my choice...
+我知道这不是我的选择...
+it's yours.
+是你的。
+I can't save you...
+我不能救你...
+but I will always be there for you, even if I'm not around.
+但是，即使我不在身边，我也会永远在那里。
+We still have a shot to break this loop!
+我们仍然有一个打破这个循环的镜头！
+But you need to trust me...
+但是你需要相信我...
+please, Sombie.
+拜托，sombie。
+Ok, I trust you.
+好，我相信你。
+We need to do this together.
+我们需要一起做。
+I think you're right.
+我觉得你是对的。
+There's one thing though.
+虽然有一件事。
+Whatever happens just promise me something.
+无论发生什么事，都向我保证。
+Just remember that no matter what, you will always be my sister.
+请记住，无论如何，您将永远是我的妹妹。
+Luzia, thank you.
+吕齐亚，谢谢。
+For everything.
+一切。
+So are you coming?
+那你要来吗？
+In a minute.
+在一分钟内。
+I sorta need to go while I'm in here anyway.
+无论如何，我有点需要去这里。
+Okay, I'll meet you at the exit.
+好吧，我会在出口时见到你。
+I found this doll.
+我找到了这个洋娃娃。
+Do you want it?
+你要吗？
+I can't leave without Sombie.
+我不能没有Sombie。
+Subway Platform
+地铁平台
+Subway Office
+地铁办公室
+Vending Machine
+售货机
+Cubicle
+隔间
+Elevator
+电梯
+Tickets
+门票
+CandyBar
+糖果条
+*Sigh* I'm so hungry.
+*叹*我很饿。
+There's something in the tray!
+托盘中有东西！
+It's a candy bar!
+这是糖果酒吧！
+A very old candybar!
+一个非常古老的糖果！
+Yuck!
+好！
+Maybe Sombie will eat it.
+也许Sombie会吃掉它。
+I could enter through here!
+我可以进入这里！
+If I were a lot smaller.
+如果我小得多。
+I need to find something to widen the gap.
+我需要找到一些东西来扩大差距。
+I'll use this to pry open the window.
+我将用它来撬开窗口。
+I can just unlock the door now.
+我现在可以解锁门。
+GatePC
+GATEPC
+It's an old computer.
+这是一台旧电脑。
+Now, how do I-
+现在，我如何 - 
+Gate Control.
+门控制。
+It must open the gate outside.
+它必须在外面打开大门。
+Hmm, it needs power.
+嗯，它需要力量。
+\"Back up generator located in the basement.\"
+\“位于地下室中的备用发电机。\ \”
+\"Access the basement via elevator.\"
+\“通过电梯访问地下室。\”
+How am I going to use an elevator without power?
+我将如何使用无电的电梯？
+Okay, now we have power.
+好吧，现在我们有力量。
+GateOpened
+闸门
+I can hear laughing?
+我能听到笑吗？
+There's a strange sound coming from this tunnel.
+这个隧道发出了奇怪的声音。
+I think I'll leave it for now.
+我想我现在就离开。
+It's locked and won't budge.
+它被锁定了，不会让人感到不安。
+Subway Main
+地铁主
+Ticketway
+门票
+Abandoned Tunnel
+废弃的隧道
+MeetVerd
+见面
+Boop!
+嘘！
+He he!
+呵呵！
+Another one to play with!
+另一个要玩的！
+Who am I?
+我是谁？
+I asked first!
+我首先问！
+Hmph! Fine!
+嗯！美好的！
+I am Verdinya, but everyone calls me Verd.
+我是Verdinya，但每个人都称我为翠绿。
+Everyone?
+每个人？
+Yes!
+是的！
+I have friends y'know!
+我有朋友，你知道！
+So what are you doing here?
+那你在这里做什么？
+My sister and I are trying to get home.
+我姐姐和我正试图回家。
+We just got off the train.
+我们刚上火车。
+Train?
+火车？
+Trains haven't come through this subway for years!
+火车多年来一直没有穿过这款地铁！
+Wait?!
+等待？！
+How can you see me right now?!
+你现在怎么能看到我？
+You're alive?!
+你还活着？！
+Maybe, I don't know.
+也许，我不知道。
+So, you're a ghost huh?
+所以，你是一个幽灵吧？
+I'm not a ghost!
+我不是鬼！
+I'm a girl!
+我是女孩！
+I'm just a dead, little, girl!
+我只是死了，小女孩！
+What is your name?!
+你叫什么名字？！
+My name is Luzia, I think.
+我想我叫吕齐亚。
+Luzia?
+卢齐亚？
+You know me already?
+你已经认识我了吗？
+You're the witch!
+你是女巫！
+You're the one that did this to us!
+您是对我们这样做的人！
+What?! Me?!
+什么？！我？！
+Yes! You witch!
+是的！你女巫！
+I'm not a witch!
+我不是女巫！
+Am I?
+我是吗？
+Thanks to you, we're all stuck in this subway!
+多亏了您，我们都被困在这个地铁上！
+Don't act dumb with me!
+不要和我一起愚蠢！
+You're The Red Witch!
+你是红色女巫！
+WHAT?!
+什么？！
+I'm not the witch!
+我不是女巫！
+You are!
+你是！
+You're just...
+你只是...
+a little girl?
+一个小女孩？
+That's because I am not the witch!
+那是因为我不是女巫！
+All of us ghosts know who you are!
+我们所有人都知道你是谁！
+You can't lie to me!
+你不能骗我！
+Am I really the witch?
+我真的是女巫吗？
+Does everyone hate me?
+每个人都讨厌我吗？
+Because you left us all to die in this god forsaken subway!
+因为你让我们所有人在这个被抛弃的地铁上死亡！
+All because of your stupid loop!
+都是因为您的愚蠢循环！
+The loop?
+循环？
+You don't know your own story?
+你不知道自己的故事吗？
+Damn! You really did lose your mind!
+该死！您确实确实失去了理智！
+I-I don't remember anything.
+我 - 我什么都不记得。
+The last thing I remember is waking up.
+我记得的最后一件事是醒来。
+I couldn't sleep so I went to find Sombria.
+我无法入睡，所以我去找Sombria。
+I know Sombria!
+我知道Sombria！
+She's the girl that comes here to cry!
+她是来这里哭泣的女孩！
+To cry?
+哭？
+She comes here when she's-
+她是在这里来的
+Depressed?
+郁闷？
+Yeah, she does depress a lot, he he!
+是的，她确实很沮丧，他！
+Are you going to trap her down here too?!
+你也要把她陷入这里吗？
+What are you talking about?
+你在说什么？
+Do you know why your sister comes here all the time?!
+你知道你姐姐为什么一直来这里吗？
+Because she's depressed?
+因为她很沮丧？
+Ha!
+哈！
+No!
+不！
+All of us have a tragic story of how we died.
+我们所有人都有一个悲惨的故事，说我们如何死亡。
+Your sister is looking for hers too.
+你姐姐也在寻找她的。
+No, not Sombie.
+不，不是Sombie。
+You created this place to trap her and all of us here!
+您创建了这个地方，将她和我们所有人都捕获在这里！
+Just so you could keep her alive!
+只是为了让她保持生命！
+JUST LET HER DIE!!!
+只是让她死！！！
+So we all can leave!
+所以我们都可以离开！
+I-I can't, though.
+我 - 我不能。
+You don't understand, she is my sister!
+你不明白，她是我的妹妹！
+I don't understand?
+我不明白？
+I'M ALREADY DEAD!
+我已经死了！
+I CAN'T MOVE ON! AND IT'S ALL BECAUSE OF YOU!
+我不能继续！而且这一切都是因为你！
+*Sigh* Look, we all have to make choices that we don't like.
+*叹*看，我们都必须做出我们不喜欢的选择。
+What would happen if she died?
+如果她死了怎么办？
+We could all move on.
+我们都可以继续前进。
+This loop thingy of yours would be broken.
+您的这个循环会被打破。
+Wait, that's how I break the loop? All she said was to go home-
+等等，这就是我打破循环的方式吗？她说的就是回家 - 
+You owe us!
+你欠我们！
+We've suffered a lot longer than you have.
+我们的痛苦比您更长。
+This is Sombria's home! So send her there!
+这是Sombria的家！所以把她送到那里！
+I need to speak to Sombria.
+我需要与Sombria说话。
+I'll be back.
+我会回来的。
+Well, I ain't goin' no where.
+好吧，我不会去哪里。
+Thanks to you.
+谢谢你。
+LastChance
+最后的机会
+So...
+所以...
+what's it gonna be? Witch!
+它将是什么？巫婆！
+I have made my decision.
+我做出了决定。
+And?
+和？
+I'm going to break the loop.
+我要打破循环。
+Good! We finally made some progress!
+好的！我们终于取得了一些进步！
+I'm going to be free from this nightmare?!
+我将摆脱这场噩梦吗？
+Yes, we all will...
+是的，我们都会...
+including my sister.
+包括我姐姐。
+W-Wait?! What do you-
+w等？！你是什​​么-
+Please!
+请！
+We have suffered enough!
+我们遭受了痛苦！
+I don't know if I am one who has caused all this...
+我不知道我是否是造成这一切的人...
+but I do know, that I am the one to end it.
+但是我确实知道，我是结束它的人。
+Let her die!
+让她死！
+It's the only way!
+这是唯一的方法！
+there is another.
+还有另一种。
+I just know there is.
+我只知道有。
+FINE!
+美好的！
+JUST LEAVE US HERE!
+只是把我们留在这里！
+YOU WITCH!
+你女巫！
+Verd-
+ver
+GO AWAY!
+离开！
+Before I go...
+在我走之前...
+I thought you may want your doll back.
+我以为你可能想要你的洋娃娃。
+M-Molly?!
+m-molly？！
+W-Where did you find her?!
+W-您在哪里找到她？
+Sombria found her.
+Sombria找到了她。
+I-I thought I lost her...
+我 - 我以为我失去了她...
+she fell onto the tracks...
+她跌倒在轨道上...
+I-I fell, onto the tracks.
+我摔倒了，走上了轨道。
+How did you know she was mine?
+你怎么知道她是我的？
+I know what it's like to lose someone special.
+我知道失去一个特别的人会是什么样。
+We're just like you, y'know?
+我们就像你一样，你知道吗？
+Trying to find a way home.
+试图找到回家的道路。
+It looks like I was told a lie.
+看来我被告知撒谎。
+The old lady was wrong about you.
+老太太对你错了。
+Old lady?
+老太太？
+She talks about the story of the red witch all the time.
+她一直在谈论红色女巫的故事。
+But she never mentioned you would be so...nice.
+但是她从来没有提到你会这么...很好。
+She told you I was The Red Witch?
+她告诉你我是红色女巫？
+She said \"only The Red Witch can break the loop.\"
+她说\“只有红色女巫才能打破循环。\ \”
+But to break it, she must spill the blood of her sister.
+但是要打破它，她必须洒姐姐的血。
+I-I'm sorry for how I acted back there.
+我 - 对不起，我如何回到那里。
+I've forgotten that I was once was alive.
+我忘记了我曾经还活着。
+I will break the loop, I promise.
+我保证，我会打破循环。
+Good luck, Luz-
+祝你好运，luz-
+What is it?
+它是什么？
+There's that laugh again.
+再次笑了。
+Well, good luck Luzia!
+好吧，祝你好运吕齐亚！
+???
+???
+ACH_RETURN_DOLL
+ach_return_doll
+Offices
+办公室
+Don't you remember me?
+你不记得我吗？
+You're me?
+你是我吗？
+I am the red witch, Luzia!
+我是红色女巫，吕齐亚！
+I am you!
+我是你！
+So, you want to play games?
+所以，你想玩游戏吗？
+Fine.
+美好的。
+I love to play games!
+我喜欢玩游戏！
+How about truth or dare?
+真理还是敢？
+W-What?
+W-什么？
+*Sigh* Truth or dare, you've heard of it before, right?
+*叹气*真相或敢于，您以前听说过，对吗？
+Ok, ok. Truth.
+好的好的。真相。
+Playing it safe, huh?
+安全地玩，是吗？
+Have you ever kissed a boy?
+你曾经吻过男孩吗？
+Ew! No.
+ew！不。
+Ha ha!
+哈哈！
+Ok, your turn.
+好的，轮到你了。
+Truth or-
+真理或
+Dare! Ha!
+敢！哈！
+Watcha gonna do now?!
+Watcha现在要做吗？
+I-I don't know-
+我 - 我不知道 - 
+Well I dare you to kill me!
+好吧，我敢你杀了我！
+COME ON! KILL ME!
+来吧！杀我！
+NO!
+不！
+GO KILL YOURSELF!
+去自杀！
+Truth.
+真相。
+Why are you naked?
+你为什么裸体？
+Because I've got nothing to hide.
+因为我没有什么可隐藏的。
+Wait, isn't it my turn?
+等等，不是我了吗？
+We've all had enough turns at this game.
+我们在这场比赛中都有足够的转弯。
+I want you to end it.
+我要你结束它。
+Truth!
+真相！
+Am I really the red witch?
+我真的是红女巫吗？
+How do I end the loop?
+如何结束循环？
+Kill the one you created it.
+杀死您创建的那个。
+TRUTH!
+真相！
+And who is that?
+那是谁？
+Dare.
+敢。
+Wait! I need to know-
+等待！我需要知道-
+I said, dare.
+我说，敢。
+J-Just...
+J-正常...
+end me, please...
+结束我，请...
+for Sombria.
+对于Sombria。
+Sombie has suffered enough and it's all because of me.
+Sombie遭受了痛苦，这一切都是因为我。
+Ever since I was little all I ever did was get in her way, interrupt her life.
+自从我几乎没有做的事情以来，我所做的就是挡住她的路，打断了她的生活。
+I don't deserve someone like her.
+我不应该得到像她这样的人。
+Go home.
+回家。
+Just go, now!
+现在就走了！
+Self sacrifice...
+自我牺牲...
+a debt repaid.
+偿还债务。
+Don't mess this up, Luzia...
+不要弄乱这个，吕齐亚...
+a lot of lives are at steak.
+牛排有很多生活。
+ACH_FAKE_LUZIA
+ACH_FAKE_LUZIA
+We made it!
+我们做到了！
+Sombie! We're finally home!
+sombie！我们终于回家了！
+Yes, we did...
+是的我们做了...
+It's good to finally see home again.
+终于再次看到家真是太好了。
+And now we can stop this cursed loop and bring you back to normal!
+现在，我们可以阻止这个被诅咒的循环，使您恢复正常！
+I-I hope so.
+我 - 我希望如此。
+Are you feeling alright, Luzia?
+卢齐亚，你感觉还好吗？
+I feel great! Just like pickles and beans!
+我感觉好极了！就像泡菜和豆一样！
+Why? Aren't you feeling good, too?
+为什么？你也不感觉很好吗？
+O-Oh I am...
+哦，我是...
+are you ok? You seem, different.
+你还好吗？你看起来与众不同。
+I've always been like this?
+我一直这样吗？
+You seem, more child like.
+您似乎，更多的孩子喜欢。
+Hey! What's that supposed to mean?!
+嘿！那是什么意思？！
+Are you calling me dumb?!
+你叫我愚蠢吗？
+N-No no, I didn't mean it like tha-
+n-no不，我不是说它像tha-
+Well, you're ugly! And stupid!
+好吧，你丑陋！和愚蠢！
+You look like a giant freak!
+你看起来像个巨大的怪胎！
+Maybe, I am just a freak after all.
+也许，我毕竟只是个怪胎。
+That's right! R-Run!
+这是正确的！ r-run！
+Ugh! My head!
+啊!我的头！
+BobbyPin2
+bobbypin2
+Another bobby pin?
+另一个鲍比别针？
+How many does Sombie need to keep those balls of hair up?
+Sombie需要多少个将那些头发的球抬起来？
+The ground is soft here.
+地面很柔软。
+If only I had a shovel.
+如果我有铲子。
+It's the butcher's knife?
+这是屠夫的刀吗？
+There's some writing on the handle.
+手柄上有一些写作。
+Good luck kid! We're all countin' on ya!
+祝你好运！我们都算在YA上！
+Heh, he trusts me with knives now?
+嘿，他现在用刀信任我吗？
+House Front (Final)
+房屋正面（决赛）
+Setup:NoodleLady
+设置：Noodlelady
+Y-Yeah, a little.
+是的，有点。
+My poor darling.
+我可怜的宝贝。
+Once you're done up there I'll make you a bowl of noodles.
+一旦您在那里完成，我就会给您一碗面条。
+Something wrong, Luzia?
+有问题，吕齐亚？
+You seem, shaken.
+你看起来，动摇了。
+I-I'm fine, I think.
+我 - 我想。
+If you say so, my dear.
+如果你这么说，亲爱的。
+I'll wait here until you return.
+我会在这里等到你回来。
+I just want to say thanks...
+我只想说谢谢...
+for helping me understand Sombria.
+为了帮助我了解Sombria。
+Oh! You're very welcome, my dear.
+哦！亲爱的，非常欢迎您。
+I know what I have to do.
+我知道我该怎么办。
+Where'd she go?!
+她去哪里？
+The big cry baby!
+大哭泣的宝贝！
+It's cold outside.
+外面很冷。
+The windows are frosting over.
+窗户正在糖霜。
+That's enough imagination for me.
+这对我来说足够了。
+KillYoko
+基约科
+Hey, can I ask you something?
+嘿，我可以问你什么吗？
+You can ask me anything, my dear.
+亲爱的，你可以问我什么。
+Truth or dare?
+真心话大冒险？
+This isn't the time to be playing gam...
+这不是玩游戏的时候...
+Fine!
+美好的！
+Why did you do it?
+你为什么要那么做？
+D-Do what?
+d-do什么？
+Let your daughters go.
+让你的女儿走。
+Luzia, you shouldn't be putting your nose into-
+吕齐亚，你不应该把鼻子放进去 - 
+You lied to them, told them that everything was gonna be ok...
+你对他们撒谎，告诉他们一切都会好起来的...
+but it wasn't, was it?
+但不是吗？
+You turned the other cheek!
+你转过另一个脸颊！
+How dare you! You little pest!
+你怎么敢！你小害虫！
+YOU TOOK THEM AWAY FROM ME!
+你把它们从我身上带走！
+BECAUSE YOU'RE A GOOD FOR NOTHING WITC-
+因为你没有什么好处 - 
+ENOUGH OF YOUR GAMES!
+您的游戏足够了！
+This isn't a game.
+这不是游戏。
+BAH! TRUTH!
+呸！真相！
+Do you still blame lil ol' me for your daughters?
+你还为女儿怪我吗？
+YES! I BLAME YOU-
+是的！我怪你-
+Then why didn't you stop them?
+那你为什么不阻止他们呢？
+They asked you for help...
+他们向您寻求帮助...
+and what did you tell them?
+你告诉他们什么？
+I told them to ignore that man! He was nothing but trouble!
+我告诉他们忽略那个男人！他无非是麻烦！
+I don't care if they both liked him, you didn't have to take their lives away!
+我不在乎他们是否都喜欢他，你不必夺走他们的生命！
+I didn't, you did.
+我没有，你做到了。
+You told them they were foolish, that men only use them to get what they want.
+您告诉他们他们是愚蠢的，男人只用他们来获得他们想要的东西。
+You lied to them.
+你对他们撒谎。
+You forced them to stay home, to cook and clean...
+您强迫他们待在家里，做饭和清洁...
+while you courted with the very same man they liked.
+当您与他们喜欢的同一个男人求爱时。
+T-THAT'S NOT TRUE!
+T-不正确！
+H-HOW DARE YOU ACUSE ME OF SUCH-
+h-houd你敢你让我这样 - 
+Enough of this pathetic game!
+这场可悲的游戏足够了！
+Your time is up, Luzia!
+你的时间到了，吕齐亚！
+TRUTH OR DARE!
+真心话大冒险！
+DARE!!!
+敢！！！
+What are you gonna do about that!
+你该怎么办！
+*Sniff* *Softly crying*
+*嗅**轻声哭泣*
+I d-dare..
+我D吧..
+I dare you..
+我赌你..
+WHAT?! WHAT DO YOU DARE ME TO DO?!
+什么？！你敢我该怎么办？
+I dare you...
+我赌你...
+to die.
+去死。
+For all the lives you have ruined...
+为了一生，你毁了...
+may you find piece, old hag.
+愿你找到旧的巫婆。
+I really could just go back to bed.
+我真的可以回到床上。
+I've missed you so much!
+我非常想念你！
+Wow! I never thought I'd ever say that!
+哇！我从没想过我曾经说过！
+I feel...
+我觉得...
+so...sleepy...
+很困...
+NO! I can't go to sleep just yet!
+不！我还不能睡觉！
+I can't keep my eyes open...
+我不能睁开眼睛...
+I can't take it anymore...
+我不能再接受了...
+Zzz.
+zzz。
+ACH_DONT_CARE_ANYMORE
+ACH_DONT_CARE_ANYMORE
+BobsScrewdriver
+Bobscrewdriver
+It's mom's lucky screwdriver.
+这是妈妈的幸运螺丝刀。
+Say your prayers screws!
+说出你的祈祷螺丝！
+I always loved this picture.
+我一直喜欢这张照片。
+My bow looks great!
+我的弓看起来很棒！
+Thanks, mom!
+谢谢妈妈！
+I'll let her stay in there until she wants to be nice to me.
+我会让她呆在那里，直到她想对我好。
+Besides, it's locked anyway...
+此外，它还是被锁定的...
+and awfully quiet?
+太安静了吗？
+H-Hey Sombie?
+嘿，sombie？
+I just wanted to check on you.
+我只是想检查你。
+No, not yet.
+还没有。
+I'm still mad at her.
+我仍然对她生气。
+I'll come back in a little while.
+我会待一会儿回来。
+I can't use it.
+我不能使用它。
+My laptop needs to be charged.
+我的笔记本电脑需要收取费用。
+ACH_THE_LOOP
+ACH_THE_LOOP
+My Big Sister
+我的大姐姐
+By Stranga Games
+由Stranga游戏
+[[[
+[[[[
+STORY~CONCEPT~CHARACTERS
+故事〜概念〜字符
+Stranga Games,Duckman
+Stranga游戏，Duckman
+[[
+[[[
+SPRITES~ARTWORK~SCRIPTING~MUSIC~SOUNDS
+精灵〜艺术品〜脚本〜音乐〜声音
+Stranga Games
+Stranga游戏
+ADITIONAL SOUNDS
+广泛的声音
+Provided by various royalty free websites.
+由各种免版税网站提供。
+GAME/BETA TESTERS
+游戏/beta测试人员
+TRANSLATORS
+翻译人员
+PROOF READERS
+证明读者
+Lotus Prince
+莲花王子
+GAME TESTERS
+游戏测试人员
+PATREONS
+帕特林
+Sebastian Salas
+塞巴斯蒂安·萨拉斯（Sebastian Salas）
+LordFnord
+耶和华
+Emma-Lea Jeffery
+Emma-Lea Jeffery
+Anastacia Herrera
+Anastacia Herrera
+dErp d00d
+DERP D00D
+Darlan
+达兰
+Matthew Gambrell
+马修·加布雷尔（Matthew Gambrell）
+GiggleScar
+gigglescar
+sarah diaz
+莎拉·迪亚兹（Sarah Diaz）
+Peat Z.
+泥炭Z.
+Karl Savant
+Karl Savant
+André Policarpo
+AndréPolicarpo
+SPECIAL THANKS
+特别感谢
+Credits Module 1.17 by SSH
+信用模块1.17由SSH
+Grab The Games
+抓住游戏
+Ratalaika Games
+Ratalaika游戏
+My Wife and Kids! I wouldn't be here without you! Love you all!
+我的妻子和孩子！没有你，我不会在这里！爱你们！
+IN MEMORY OF:
+在记忆：
+MY COUSIN BLAKE AND MY FRIEND MIKAILA
+我的堂兄布雷克和我的朋友Mikaila
+Always thinking of you...always.
+总是想着你...总是。
+[[[[[
+[[[[[[
+GAME ENGINE
+游戏引擎
+Adventure Game Studio
+冒险游戏工作室
+ART TOOLS
+艺术工具
+Aseprite
+气形
+Photoshop CC 2015
+Photoshop CC 2015
+PureRef
+Pureref
+AUDIO TOOLS
+音频工具
+Ableton Live 9
+Ableton Live 9
+Audacity
+大胆
+Thanks for playing!
+感谢参与！
+strangagames.com
+strankagames.com
+Sombie.
+Sombie。
+She's gone.
+她走了。
+She told you didn't she?
+她告诉你不是吗？
+She told you everything.
+她告诉你一切。
+She did.
+她做过。
+So what are you going to do now?
+那你现在要做什么？
+I have to do what is right.
+我必须做正确的事情。
+Then do it.
+然后做。
+Ok.
+好的。
+Where are you going?
+你要去哪里？
+I'm going to bed.
+我要睡了。
+What do you mean you're going to bed?
+你是什​​么意思你要睡觉？
+Why won't you-
+你为什么不
+Because I don't have to.
+因为我不必。
+I may be twelve but I can tell when a story is done.
+我可能是十二岁，但我可以分辨出一个故事何时完成。
+I'll see you in the morning.
+我早上见。
+B-But h-how?
+B但H-​​how？
+It's time for her to wake up, she did it.
+是时候让她醒来了，她做到了。
+The loop has been broken, you shall be free of this curse too.
+循环已经打破，您也将摆脱此诅咒。
+So everything will go back to the way it was?
+所以一切都会回到原来的样子？
+Not everything.
+不是一切。
+Luzia still needs to wake up.
+吕齐亚仍然需要醒来。
+The valley of sorrows shown you otherwise, didn't it?
+悲伤的山谷向您展示，不是吗？
+Can you save her, Sombria?
+你能救她吗，春堡？
+I-I have to...
+我 - 我必须...
+she saved me.
+她救了我。
+Besides, she's my little sister.
+此外，她是我的妹妹。
+Thank you for playing My Big Sister.\n\n(press button to continue)
+谢谢你扮演我的大姐姐。\ n \ n（按下按钮继续）
+is this how your story ends?
+这是您的故事结束的方式吗？
+I know you can get a better one! There's still time, a chance.
+我知道您可以得到更好的！还有时间，机会。
+Jee, you're up early.
+jee，你早就起床了。
+I wanted to *munch* eat some cereal!
+我想 * Munch *吃一些谷物！
+I can see that.
+我理解了。
+Sooo...
+太...
+about last night?
+关于昨晚？
+You mean this morning?
+你是说今天早上吗？
+Yes, I mean this morning.
+是的，我的意思是今天早上。
+Yeah?
+是的？
+How did you know?
+你怎么知道？
+How did I know what?
+我怎么知道什么？
+How did you know how to break the-
+你怎么知道如何打破
+Oh! *Munch* That!
+哦！ * munch*那！
+See, what I did was *munch,munch,munch*
+看，我所做的是 *munch，munch，munch *
+And then *munch,munch,munch*
+然后 *蒙克，munch，munch *
+Oh! I also,*munch,munch,munch*
+哦！我也*蒙克，munch，munch*
+And voila! *munch,munch,munch*
+瞧！ *munch，munch，munch*
+What kind of cereal are you eating anyway?
+您无论如何正在吃什么样的谷物？
+Crunchy hearts! What else!
+松脆的心！还有什么！
+Uh, why is the milk red?
+嗯，为什么牛奶是红色的？
+What's that lump in the middle of the bowl?!
+碗中中间的那个肿块是什么？
+It's just cereal, okay! *Munch*
+只是谷物，好吧！ *munch*
+Jeez! *munch munch*
+天哪！ *Munch Munch*
+ACH_A_MOTHERS_HEART
+ach_a_mothers_heart
+Can you not talk with your mouth full.
+你不能说嘴巴说话吗？
+It's disgusting!
+那真令人恶心！
+There! Your majesty!
+那里！陛下！
+Now...
+现在...
+Before you say anything...
+在说什么之前...
+I want to say...
+我想说...
+I love you, big sis.
+我爱你，大姐姐。
+And I love you too, y'little knuckle head!
+我也爱你，你是指关节头！
+If you tell anyone I said that, I'll kill you.
+如果您告诉任何人我这么说，我会杀了你。
+Yeah, sure.
+好，当然。
+Hey, listen...
+嘿听好了...
+do you wanna go grab some waffles or something at Daisy's?
+您想去黛西的华夫饼或其他东西吗？
+AHHH! I haven't had waffles in ages!
+啊！我已经很久没有华夫饼了！
+You better not be lyin' to me!
+你最好不要屈服我！
+Come on, go get ready.
+来吧，准备好。
+I'm already ready!
+我已经准备好了！
+ACH_A_HAPPY_ENDING
+ach_a_happy_ending
+Hey! What are you doing in our house?!
+嘿！你在我们家里做什么？
+Oh, me?
+哦，我？
+I thought I'd drop by...
+我以为我会去...
+see if you two made it back in one piece.
+看看你们两个是否将其放回一块。
+It took a forever! But we made it!
+它花了永远！但是我们做到了！
+So, where's your sister?
+那么，你姐姐在哪里？
+Pffft, probably crying in her room.
+pffft，可能在她的房间里哭泣。
+Serves her right for calling me dumb!
+有权打电话给我愚蠢！
+Now that is not very sisterly, is it?
+现在那不是很姐妹，是吗？
+I don't care!
+我不在乎！
+She should be nice to me!
+她应该对我很好！
+Yes, she should.
+是的，她应该。
+That's right!
+这是正确的！
+She should!
+她应该！
+It's not like she appreciated me for helping her get home or anything!
+并不是她不感谢我帮助她回家或任何东西！
+And it was me who did everything!
+是我做了一切！
+Maybe we should remind her of your efforts, Luzia.
+也许我们应该让她想起您的努力，卢齐亚。
+Yeah, maybe I should!
+是的，也许我应该！
+You go tell her how ungrateful she was for you help.
+你去告诉她，她对您的帮助有多不感激。
+That she just got in your way.
+她只是妨碍了你。
+She is going to get it!
+她会得到它！
+Water goes on, water goes off.
+水在继续，水掉了。
+Yep, that's a sink alright.
+是的，那很好。
+ACH_SINK
+ach_sink
+It's Sombie's mug.
+这是Sombie的杯子。
+It smells like ciggaretts.
+它闻起来像雪茄。
+Haha! The toaster.
+哈哈！烤面包机。
+I remember when Sombie caught her hands...
+我记得萨尔比抓住她的手...
+Wow...
+哇...
+That's not even funny anymore.
+这甚至不再有趣了。
+I don't need  to do that.
+我不需要那样做。
+There's a picture on here.
+这里有一张照片。
+It's the basement door.
+这是地下室的门。
+The door looks like it's gonna fall off anyway.
+门看起来还是会掉下来。
+The screws on the hinges are loose.
+铰链上的螺钉松动。
+I can hear something.
+我能听到什么。
+It sounds like someone calling my name...
+听起来像是有人叫我的名字...
+should I call back?
+我应该回电吗？
+It's a mirror.
+这是一面镜子。
+Basement Door
+地下室门
+Mirror
+镜子
+I-Is s-someone there?
+我在那里吗？
+H-Hello?
+H-Hello？
+Lu-Luzia?!
+lu-luzia？
+Is that really you!?
+那真的是你吗！？
+Wait a minute...
+等一下...
+I-It's me...
+我 - 是我...
+it's-
+它的-
+MOM!
+妈妈！
+It's so g-good to see your face again, honey.
+亲爱的，再次见到你的脸真是太好了。
+MOM!!!
+妈妈！！！
+What happened to you?!
+你怎么了？！
+I-I don't know. I woke up in here, it feels like it's been weeks...
+我 - 我不知道。我在这里醒来，感觉好像已经好几周了...
+maybe months.
+也许几个月。
+W-Where is Sombria?
+W-在哪里，Sombria？
+She's in her room, probably crying. Serves her right though!
+她在房间里，可能在哭。虽然服务于她！
+She called me stupid! She said we were adopted! I just can't trust her anymore.
+她叫我愚蠢！她说我们被收养了！我只是不再相信她了。
+Luzia, I remember the first day I lay eyes on you...
+吕齐亚，我记得第一天我注视着你...
+I just knew that you were mine, your sister too.
+我只是知道你也是我的，你姐姐也是我的。
+Both you and Sombria arrived on my doorstep a very long time ago.
+您和Sombria很久以前就到达了我的家门口。
+I don't know how or why, I guess it was just fate that brought us together.
+我不知道如何或为什么，我想只是命运使我们团结在一起。
+you're not my mom?
+你不是我妈妈吗？
+I never said that, Luzia.
+我从来没有说过，吕齐亚。
+I will always be your mom.
+我将永远是你的妈妈。
+Sombie too? W-Why, didn't you tell me?
+也是sombie？为什么，你不是告诉我吗？
+I-I'm sorry, Luzia.
+我 - 对不起，吕齐亚。
+For all of it.
+所有这些。
+T-That bow of yours...
+你的弓...
+it's crooked.
+它弯曲了。
+It's how I like it.
+这就是我喜欢它的方式。
+It suits you.
+适合你。
+T-Thanks...
+t-thanks ...
+no matter what happens to me.
+不管我发生了什么。
+always look out for your sister.
+总是注意你姐姐。
+*sniff*
+*嗅探*
+B-Because, she's all you have.
+b-b-b-b-b-b-b-b-b-b-b-b-beath，因为她就是你所拥有的。
+Luzia, I'll always love you.
+吕齐亚，我永远爱你。
+I'm sorry, mom.
+对不起，妈妈。
+There's no need to be.
+没有必要。
+Just stick together...
+只是粘在一起...
+and you'll be alright.
+而且您会没事的。
+I haven't been my self lately.
+我最近没有自我。
+I know.
+我知道。
+I want to help, I really do...
+我想帮助，我真的做...
+but this stuff seems so complicated, she never wants my help.
+但是这些东西似乎是如此复杂，她从不想要我的帮助。
+She does, Luzia.
+她愿意，吕齐亚。
+She can't tell you how she feels, but that's what's best about being sisters...
+她不能告诉你她的感受，但这就是成为姐妹的最佳选择...
+you already know.
+你已经知道了。
+Thanks...
+谢谢...
+mom.
+妈妈。
+It's time to go now. Luzia.
+现在该去了。吕齐亚。
+Your sister needs you.
+你姐姐需要你。
+I don't wanna let go.
+我不想放手。
+I know...
+我知道...
+Mom?
+妈妈？
+Mom?!
+妈妈？！
+It's mom's gardening shovel.
+这是妈妈的园艺铲。
+...mom...
+...妈妈...
+MomsHeart
+妈妈
+It's been a while since we've been here.
+自从我们来这里已经有一段时间了。
+Where are my damn waffles!
+我该死的华夫饼在哪里！
+Hey, take it easy tiger.
+嘿，请轻松老虎。
+I need waffles!
+我需要华夫饼！
+Sorry sis.
+对不起，姐姐。
+But I've been in a coma for like forever!
+但是我永远陷入了昏迷状态！
+Okay, okay.
+好吧好吧。
+I see you're back to your normal self again.
+我看到您又回到了正常的自我。
+No, I'm back to my hungry self.
+不，我回到了饥饿的自我。
+WHERE ARE THESE DAMN WAFFLES?!
+这些该死的华夫饼在哪里？
+H-Hey, Luzia.
+嗯，吕齐亚。
+Can I show you something after breakfast?
+早餐后我可以告诉你一些东西吗？
+It's sorta' my secret place to chill out.
+这是我放松的秘密地方。
+It's not a boring place is it?
+这不是一个无聊的地方吗？
+No way! It's got everything!
+没门！它有一切！
+A swing, a great view and big ol' tree!
+秋千，美景和大树！
+Does it have dinosaurs?
+它有恐龙吗？
+W-Well, no.
+W-Well，不。
+Then it doesn't have everything.
+那么它没有一切。
+*Sigh* Lil' sis, I've missed you.
+*叹* lil'sis，我很想念你。
+I've missed you too, Sombie...
+我也想念你，sombie ...
+and you're long arms.
+而且你是长臂。
+TENA!!!
+tena ！！！
+Huh? Who's that?
+嗯？那是谁？
+Tena!? You in here?
+tena！？你在这里？
+Where the heck is she?
+她在哪里？
+No, way!
+没门！
+I-I,u-uh...hi.
+我，我，u-uh ...嗨。
+We've already ordered, thanks.
+我们已经订购了，谢谢。
+Huh, what? Oh, no! I uh...
+啊，什么？不好了！我...
+You ok?
+你还好吗？
+Y-Yes! I'm just looking for my sister, Tena. You haven't seen her, have you?
+是的！我只是在寻找姐姐Tena。你没看见她，是吗？
+Sorry, I thought you were the waiter. What does she look like?
+抱歉，我以为你是服务员。她看起来像什么？
+Big hair, green sweater, sorta whatever attitude-
+大头发，绿色毛衣，任何态度 - 
+God dammit! I was holding that in the entire trip!
+可恶！我在整个旅行中都抱着！
+Next time, I'll just have one blueberry smoothie.
+下次，我只有一个蓝莓冰沙。
+There you are, Tena!
+在那里，Tena！
+Sorry, sis. I was bustin' for a pi-
+对不起，姐姐。我为一个pi-
+You said you were coming to get a coffee to go?!
+你说你要去喝咖啡吗？
+Oh, yeah! Thanks for reminding me!
+哦耶！谢谢你提醒我！
+Thanks for holding it for me. Cya!
+感谢您为我持有它。塞亚！
+Well, there she goes...again.
+好吧，她又去了……。
+Glad she's ok, I hate it when my sister runs off like that.
+很高兴她没事，当我姐姐那样跑去时，我讨厌它。
+Hey! I do not!
+嘿！我不！
+Little sisters, am I right?
+小姐妹，对吗？
+Damn straight, sister! Ha!
+该死的，姐姐！哈！
+I'm Ash, by the way.
+顺便说一句，我是灰。
+I'm Sombria, and this is -
+我是sombria，这是 - 
+Actually, her name is Somba, but I like to call her Sombie.
+实际上，她的名字叫Somba，但我喜欢称她为Sombie。
+It was nice to meet you both. Sorry, I have to go before Tena starts chatting up guys in the parking lot again.
+很高兴认识你们俩。抱歉，我必须去Tena开始再次在停车场聊天之前。
+Love your hair and your bow! Cya!
+爱你的头发和弓！塞亚！
+Oh! Luzia! Thanks for everything!
+哦！吕齐亚！谢谢你的一切！
+You're welcome!
+别客气！
+What the heck, was all that about?
+到底是什么？
+What was what?
+什么是什么？
+That!
+那！
+Actually, I'm not even going there, it's too early.
+实际上，我什至不去那里，还为时过早。
+Where are my damned waffles!
+我该死的华夫饼在哪里！
+Sorry sis, but I need something other than noodles!
+对不起，SIS，但是我还需要其他东西！
+Wow! I didn't think you'd ever get sick of food.
+哇！我认为你从来没有厌倦食物。
+Hey now! I said noodles, not food!
+嘿！我说面条，不是食物！
+You leave food alone!
+你独自留下食物！
+Okay, okay, geez.
+好吧，好吧，哎呀。
+Yeah...
+是的...
+I know, Luzia.
+我知道，吕齐亚。
+I'm sorry about mom.
+对不起妈妈。
+It's okay.
+没关系。
+You couldn't help it.
+你忍不住了。
+I know she's still here.
+我知道她还在这里。
+Nagging us to brush our teeth and stuff.
+na咬我们刷牙和东西。
+Heh, maybe you to brush your teeth.
+嘿，也许你刷牙。
+You mean, this whole time you were off the hook?!
+你的意思是，整个过程中你都不好吗？
+I would have made you brush your teeth with the toilet brush!
+我会让你用马桶刷刷牙！
+Heh, it's good to have you back, Luzia.
+嘿，很高兴有你回来，卢齐亚。
+And you too, big sis!
+你也是，大姐姐！
+You know...
+你知道...
+You still haven't told me how you figured all this out.
+您仍然没有告诉我您如何弄清楚这一切。
+It's our little secret.
+这是我们的小秘密。
+Our secret?
+我们的秘密？
+But you haven't told me?
+但是你还没有告诉我吗？
+No, not you.
+不，不是你。
+The person behind the screen.
+屏幕后面的人。
+Okay, Luzia. Whatever you say.
+好吧，吕齐亚。不管你说什么。
+Hey! After breakfast, I wanna show you something.
+嘿！早餐后，我想给你看一些东西。
+My little secret.
+我的小秘密。
+Okay, but it better not be a crab with a knife!
+好的，但是最好不要用刀螃蟹！
+Those things are dangerous!
+那些事情很危险！
+Luzia, you need to stop watching too much tv.
+吕齐亚，您需要停止观看太多电视。
+Think of what?
+想什么？
+This place?
+这个地方？
+It's pretty neat...
+很整洁...
+it has a swing, so that's something.
+它有挥杆，所以这是什么。
+Well, at least you're enjoying yourself.
+好吧，至少您很开心。
+I love coming here it helps me...
+我喜欢来这里它可以帮助我...
+relax.
+放松。
+Too bad I can't keep coming here anymore.
+太糟糕了，我不能再来这里了。
+How come?
+怎么来的？
+Because I have to baby sit you now since Mom's been working more.
+因为自妈妈工作更多以来，我现在必须坐着您。
+Hopefully now, we can enjoy it together.
+希望现在我们可以一起享受它。
+Mhmm?
+MHMM？
+When I was in hospital, did you visit me every day?
+当我在医院时，您每天都拜访我吗？
+Yep, I practically lived there.
+是的，我几乎住在那里。
+Why did you keep coming back?
+你为什么继续回来？
+Pfft! Because you're my sister, silly!
+pfft！因为你是我的姐姐，傻！
+Of course I'd be there for you...
+当然我会在那里为你...
+whenever you need me.
+每当你需要我时。
+There's something that I wanted to ask you.
+我想问你的东西。
+In my dream you said something about us and mom.
+在我的梦中，您对我们和妈妈说了些什么。
+That-
+那-
+I know, Luzia. It's true.
+我知道，吕齐亚。这是真的。
+It doesn't matter where we came from, it's about where we're going that matters.
+我们来自哪里都没关系，这与我们要去的地方重要。
+Huh, I guess you're right.
+嗯，我想你是对的。
+I love this little family of ours.
+我爱我们这个小家族。
+So do I. I wouldn't change it for the world.
+我也是。我不会为世界改变它。
+You still seeing that loser?
+你还看到那个失败者吗？
+Who? Oh...
+谁？哦...
+no.
+不。
+I dumped him way back when you were admitted to hospital.
+当你被送往医院时，我把他扔回去了。
+He was complaining I wasn't spendning any time with him because I was with you.
+他抱怨我没有和他在一起，因为我和你在一起。
+He could have come with you?
+他可以和你一起去吗？
+I offered but eh, his loss.
+我愿意，但嗯，他的损失。
+That guy from the motel seems to fancy you!
+那个来自汽车旅馆的家伙似乎很喜欢你！
+Y'know, the one that kept checking out your butt-
+是的，一直在检查你的屁股的那个
+Don't ever change.
+永远不要改变。
+Pfft! Why would I?
+pfft！我为什么要？
+But you have to promise me that we can stay up late and watch scary movies!
+但是您必须向我保证，我们可以熬夜看恐怖电影！
+Every night!
+每天晚上！
+I won't tell mom.
+我不会告诉妈妈。
+It's okay, I guess.
+没关系，我想。
+Heh.
+嘿。
+This is my secret I was telling you about!
+这是我告诉你的秘密！
+I used to come here everyday, after school.
+我曾经每天放学后都来这里。
+It's so relaxing.
+太放松了。
+Lucky this place has a swing!
+幸运的是这个地方有挥杆！
+Otherwise it'd be boring!
+否则会很无聊！
+Does anything please you, you're majesty?
+有什么请你，你是威严吗？
+Yeah, some things.
+是的，有些事情。
+Like what?
+像什么？
+Like stuff.
+喜欢东西。
+I dunno, dinosaurs and junk.
+我不知道恐龙和垃圾。
+Do you think it's weird talking to your older sister?
+您认为与您的姐姐交谈很奇怪吗？
+Well yeah, a little.
+好吧，有点。
+You've never been this \"happy\" before.
+您以前从未去过这个\“ Happy \”。
+Yeah, it's a little weird...
+是的，有点奇怪...
+but I kinda like it, y'know?
+但是我有点喜欢它，你知道吗？
+So what's gonna happen now?
+那现在会发生什么？
+Well, I guess I'm gonna have to look after you...
+好吧，我想我必须照顾你...
+seeing how moms-
+看看妈妈怎么
+I know, Sombie.
+我知道，Sombie。
+Don't worry, her heart will always be inside of me.
+不用担心，她的心总是在我里面。
+*Weird*
+*诡异的*
+It'll be okay, though.
+不过会没事的。
+I have my big sis looking after me!.
+我的大姐姐照顾我！
+I can stay up as late as I want!
+我可以尽我所能熬夜！
+Oh no you ain't!
+哦，不，你不是！
+If you disobey me, you're living with aunt Claire!
+如果您不服从我，那您就和克莱尔姨妈住在一起！
+WHAT?! NO!
+什么？！不！
+She lives in that creepy lookin' house!
+她住在那座令人毛骨悚然的房子里！
+Besides, she'll make me sleep with cousin Mark and he's a weirdo.
+此外，她会让我和表弟马克睡觉，他是个怪人。
+That boy's never been the same since uncle Robert left.
+自罗伯特叔叔离开以来，那个男孩从未如此。
+Hey, Luzia.
+嘿，吕齐亚。
+Calm down. I'm just kidding.
+冷静下来。我只是在开玩笑。
+You better be!
+你最好！
+Wait, how are we gonna pay for stuff?
+等等，我们将如何支付东西？
+You don't have a job!
+你没有工作！
+It's fine, Luzia. I've been talking to the owner at Tanto's about some work.
+很好，吕齐亚。我一直在与Tanto的主人谈论一些工作。
+You mean the Chinese restaurant?
+你的意思是中餐厅吗？
+Can you get me free fortune cookies?
+你能给我免费的财富饼干吗？
+Ha! We'll see.
+哈！走着瞧。
+I haven't got the job yet, I just spoke with the owner yesterday.
+我还没有找到工作，昨天我只是和所有者交谈。
+He did seem quite interested though, hopefully I'll have a job by next week.
+不过，他似乎很感兴趣，希望我下周能找到一份工作。
+How much does it pay?
+它付了多少钱？
+It's not much, but enough to-
+这不是什么，但是足够了 - 
+Wait, why are you asking questions like that?
+等等，你为什么要问这样的问题？
+You're twelve for crying out loud!
+你大声喊叫十二！
+Need to know for christmas!
+需要知道圣诞节！
+It's gonna be a tough year ahead, Luzia.
+吕齐亚，这将是艰难的一年。
+But we'll manage.
+但是我们会管理。
+Well with a big sis like you...
+和像你这样的大姐姐...
+I know we definitely will!
+我知道我们一定会的！
+Huh, Luzia. That bow of yours is crooked.
+嗯，吕齐亚。你的弓很弯曲。
+Just the way I like it!
+就是我喜欢的方式！
+Ha! Never change, Luzia.
+哈！永不改变，吕齐亚。
+Stranga Games, Duckman
+Stranga游戏，Duckman
+VOICE ACTORS
+配音演员
+Sombria..................Gigglescar
+Sombria ...................................... gigglescar
+Luzia....................Shion
+吕齐亚....................................................................
+\"THE LOOP\" SONG VOCALIST
+\“循环\”歌唱家
+Emee
+Emee
+BETA TESTERS
+Beta测试人员
+Akriloth
+阿克里洛特
+Aspid Cat
+aspid猫
+BEKOBCN
+bekobcn
+Cristian Nuñez \"BlindRage\"
+克里斯蒂安·努涅斯（Cristiannuñez）\“ blindrage \”
+chocko-cookie
+Chocko-Cookie
+doc_twOwO
+doc_twowo
+Gin_Luc
+gin_luc
+gsd
+GSD
+KitKima
+吉特基马
+Kim \"Omen\"
+Kim \“ omen \”
+ladymira
+Ladymira
+Lucid
+清醒
+Daniil Smolyar \"MegaMix_Craft\"
+daniil smolyar \“ megamix_craft \”
+Miku-San
+miku-san
+Rafaela Duckling
+拉斐拉小鸭
+SCARY-_-
+害怕-_-
+Stephi
+斯蒂芬
+XlalasogoneX
+Xlalasogonex
+Benedikt \"Leogrim\" Geierhofer
+Benedikt \“ Leogrim \” Geierhofer
+FULL GAME TESTERS
+完整的游戏测试人员
+Adventure Game Studio 3.6.0
+冒险游戏工作室3.6.0
+RoomRefresh
+Roomrefresh
+...L-Luzia.
+... l-luzia。
+A-Are you still there?
+你还在吗？
+W-What have you done?
+W-你做了什么？
+M-My heart...
+我的心...
+Why didn't you just let me die?
+你为什么不让我死？
+What's all this noise down here?
+这里的所有声音是什么？
+Sombria?!
+Sombria？！
+Is that you?!
+那是你吗？！
+MOM?!
+妈妈？！
+What are you doing down here?!
+你在这里做什么？！
+Sombria, please tell me you took the key with you?
+Sombria，请告诉我您随身携带钥匙吗？
+W-What? N-No it's upstairs...
+W-什么？ n-no是楼上...
+What was that?!
+那是什么？！
+Luzia?!
+吕齐亚？！
+Luzia! Unlock this door right now!
+吕齐亚！现在解锁这扇门！
+I know who she is!
+我知道她是谁！
+LUZIA!!!
+吕齐亚！！！
