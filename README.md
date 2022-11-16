@@ -6,10 +6,10 @@ However, I'm opening up these files so that the community can add their own tran
 
 # INSTRUCTIONS
 
-1. Download the "English.trs" (or whichever language you wish to update) file to your pc.
+1. Download the `English.trs` (or whichever language you wish to update) file to your pc.
 
 2. Open [this](https://tzachshabtay.github.io/ags-trs-editor/) page in any web browser.
-    * Click the little upload cloud symbol in the top left and select the "<Language>.trs" file.
+    * Click the little upload cloud symbol in the top left and select the `<Language>.trs` file.
 
 3. Go nuts, lol! Click on any line and retype the line out to add your translation.
 
