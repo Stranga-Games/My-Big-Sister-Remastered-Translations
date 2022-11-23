@@ -19,7 +19,7 @@
 // ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
 // ** NOT CHANGE THE EXISTING TEXT.
 ACH_GOTCHA
-Ach_gotcha
+
 Game Paused
 Гра зробила паузу
 Game UnPaused
@@ -101,7 +101,7 @@ Goodbye.
 ERROR: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
 Помилка: нульова помилка, на яку посилається в Timervalue. [Будь ласка, зв'яжіться з розробником гри, щоб повідомити про це повідомлення. [Натисніть будь -яку клавішу, щоб закрити цю скриньку та гру ...
 ACH_SOMBIE_DEATH
-Ach_sombie_death
+
 ...
 ...
 itemDescription
@@ -161,7 +161,7 @@ Happy Ending
 Real End
 Реальний кінець
 ACH_TALK_OF_THE_TOWN
-Ach_talk_of_the_town
+
 Good Ending
 Хороший кінець
 Bad Ending
@@ -859,7 +859,7 @@ It's a poster for a cola company.
 The bottle's stuck between her boobs.
 Пляшка застрягла між її сиськами.
 ACH_BOOBPOSTER
-ACH_BOOBPOSTER
+
 They're old animal cages.
 Вони старі клітки для тварин.
 They smell horrible, like something died in-
@@ -937,7 +937,7 @@ here you are.
 Mmmmmm, yum!
 Ммммм, так!
 ACH_YUMMY_NOODLES
-Ach_yummy_noodles
+
 FishGuy
 Рибальський
 Excuse me?
@@ -987,7 +987,7 @@ Oh, thank you!
 I thought I'd never find it.
 Я думав, що ніколи цього не знайду.
 ACH_COMMON_COURTESY
-Ach_common_courtesy
+
 It's locked...but...
 Це заблоковано ... але ...
 I can hear someone crying in there.
@@ -1297,7 +1297,7 @@ Maybe it's burried treasure?
 Please, just go to bed.
 Будь ласка, просто лягайте спати.
 ACH_FINDING_SECRETS
-Ach_finding_secrets
+
 Ew! Luzia, have you been going through the trash again?
 Еу! Лузія, ти знову переживаєш сміття?
 Upstairs
@@ -1593,7 +1593,7 @@ I'll have the receptionist book your next appointment and please, take your medi
 See the lady at the desk on your way out.
 Побачте даму за столом на виході.
 ACH_DOLL
-Ach_doll
+
 Hmm, the brain.
 Хм, мозок.
 Interesting.
@@ -1725,7 +1725,7 @@ You can't Luzia...
 no one can.
 Ніхто не може.
 ACH_BRAIN
-Ach_brain
+
 Find something in this room and bring it to me.
 Знайдіть у цій кімнаті щось і принесіть мені.
 Where are you going? We still have time, bring me somthing in this room that best represents you.
@@ -1779,7 +1779,7 @@ It's got a western cowboy sorta vibe.
 Sounds like a nice place for a vacation.
 Звучить як приємне місце для відпустки.
 ACH_JIT_REFERENCE
-Ach_jit_reference
+
 NoodleLadyWaitingRoom
 Noodleladywaitingroom
 Wait a minute?
@@ -1869,7 +1869,7 @@ what I said back there, I didn't really mean it.
 I'm just trying to make you happ-
 Я просто намагаюся змусити вас
 ACH_APOLOGY
-ACH_APOLOGY
+
 Wait, why didn't you show yourself to him!?
 Зачекайте, чому ви не показали себе йому!?
 He think's I'm crazy!
@@ -2195,7 +2195,7 @@ Just watch your back, you old, pathetic, woman!
 She will free us all.
 Вона звільнить нас усіх.
 ACH_JUST_A_LITTLE_GIRL
-Ach_just_a_little_girl
+
 Heh! My daughter, she will fall...
 Ге! Моя дочка, вона впаде ...
 and when she does, you will all be mine.
@@ -2651,7 +2651,7 @@ Yep, that was my lunch.
 Gross.
 Грубо.
 ACH_WHAT_IS_THIS
-Ach_what_is_this
+
 Hey! Be careful with that!
 Гей! Будьте обережні з цим!
 Do you have any idea what that is?
@@ -2691,7 +2691,7 @@ Well, aren't you the life of the party.
 Oh! A candy bar!
 О! Цукерка!
 ACH_I_WANT_CANDY
-Ach_i_want_candy
+
 I need to find Sombie first.
 Мені потрібно спочатку знайти Сомбі.
 Restaurant
@@ -2927,7 +2927,7 @@ Death.
 Tradition.
 Традиція.
 ACH_LADY_ON_THE_WALL
-Ach_lady_on_the_wall
+
 Oh, would you look at that!
 О, ти дивишся на це!
 Such a lifeless, greasy body. A dead fish...
@@ -4107,7 +4107,7 @@ We'll see, Luzia. Depends on how much of a brat you'll be towards me. Heh.
 H-Hey! Is that the bus?
 Н-хей! Це автобус?
 ACH_NEIGHBOR_SOMBIE
-Ach_neighbor_sombie
+
 Where's the bus?
 Де автобус?
 BusReady
@@ -4199,7 +4199,7 @@ when the time is right...
 choose wisely.
 Вибирайте розумно.
 ACH_SPIRIT_NOODLE
-Ach_spirit_noodle
+
 Whoa!
 Ого!
 W-Who is that?
@@ -4409,7 +4409,7 @@ Ta-da!
 Mmm, mushroom!
 Ммм, гриб!
 ACH_MUSHROOM
-Ach_mushroom
+
 Thank *Munch* you.
 Дякую * мунку * ти.
 Take this *Munch*.
@@ -4707,7 +4707,7 @@ but I know all about your little plan daughter.
 I'll be waiting.
 Я чекатиму.
 ACH_NOODLES_AGAIN
-Ach_noodles_again
+
 I can't turn back now.
 Зараз я не можу повернути назад.
 Engine
@@ -4915,7 +4915,7 @@ Strange...
 I feel sleepy.
 Я сонний.
 ACH_SECRET_SWITCH
-Ach_secret_switch
+
 I don't need to press it again.
 Мені не потрібно його знову натискати.
 Train Luggage Car
@@ -5007,7 +5007,7 @@ Don't hesitate...
 kill her.
 вбий її.
 ACH_FORTHTIME
-Ach_forthtime
+
 Front Cabin
 Передня кабіна
 Room 1
@@ -5741,7 +5741,7 @@ P-SMASSSE.
 H-Help...meee.
 H-Help ... Meee.
 ACH_IT_WAS_HER
-Ach_it_was_her
+
 !
 !
 LUZIA?!
@@ -5861,7 +5861,7 @@ I've got a bad craving for some waffles!
 Sure, just let me go see the nurse real quick, ok?
 Звичайно, просто відпустіть мене швидко швидко побачити медсестру, добре?
 ACH_GOOD_ENDING
-Ach_good_ending
+
 And that was the most sketchiest looking motel in Ash Pines.
 І це був найзарвніший мотель у попелястих соснах.
 I wish you'd just wake up, Luzia.
@@ -6831,7 +6831,7 @@ Well, good luck Luzia!
 ???
 ???
 ACH_RETURN_DOLL
-Ach_return_doll
+
 Offices
 Офіси
 Don't you remember me?
@@ -6937,7 +6937,7 @@ Don't mess this up, Luzia...
 a lot of lives are at steak.
 Дуже багато життів на стейк.
 ACH_FAKE_LUZIA
-Ach_fake_luzia
+
 We made it!
 Ми це зробили!
 Sombie! We're finally home!
@@ -7147,7 +7147,7 @@ I can't take it anymore...
 Zzz.
 Zzz.
 ACH_DONT_CARE_ANYMORE
-Ach_dont_care_anymore
+
 BobsScrewdriver
 Bobsscrewdriver
 It's mom's lucky screwdriver.
@@ -7181,7 +7181,7 @@ I can't use it.
 My laptop needs to be charged.
 Мій ноутбук потрібно стягувати.
 ACH_THE_LOOP
-Ach_the_loop
+
 My Big Sister
 Моя старша сестра
 By Stranga Games
@@ -7383,7 +7383,7 @@ It's just cereal, okay! *Munch*
 Jeez! *munch munch*
 Боже! *Мунк Мунк*
 ACH_A_MOTHERS_HEART
-Ach_a_mothers_heart
+
 Can you not talk with your mouth full.
 Ви не можете говорити з повними ротом.
 It's disgusting!
@@ -7417,7 +7417,7 @@ Come on, go get ready.
 I'm already ready!
 Я вже готовий!
 ACH_A_HAPPY_ENDING
-Ach_a_happy_ending
+
 Hey! What are you doing in our house?!
 Гей! Що ти робиш у нашому домі?!
 Oh, me?
@@ -7465,7 +7465,7 @@ Water goes on, water goes off.
 Yep, that's a sink alright.
 Так, це мийка добре.
 ACH_SINK
-Ach_sink
+
 It's Sombie's mug.
 Це кухоль Сомбі.
 It smells like ciggaretts.
