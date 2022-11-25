@@ -28,4 +28,6 @@ However, I'm opening up these files so that the community can add their own tran
 
 5. Once you are done there - please submit a new **Pull Request** naming it like that: `[Your_Language_Code] Update/Add Translation` (e.g. `[UA] Add Translation`)! 
 
-   After doing that - hit me on our [Discord server](https://discord.gg/g4xJbGh4r4) or in DMs (Stranga#4616) and I'll merge your PR, as well as add your translations to the game :)
+   After doing that - please do try to find fluent language speaker who is not you, to check your translation! (But if you can't do that - let us know by adding that to your PR description!) 
+
+   When you submitted new PR (and got fluent speaker who approved your translation, if you managed to find one) - hit us on our [Discord server](https://discord.gg/g4xJbGh4r4) or in DMs (Stranga#4616 / MegaMix_Craft#1151) and we'll merge your PR, as well as add your translations to the game :)
