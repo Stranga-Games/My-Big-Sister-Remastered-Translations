@@ -93,25 +93,25 @@ minx
 duck
 Pato
 chapter1
-Capítulo 1
+
 chapter2
-Capítulo 2
+
 chapter3
-Capítulo 3
+
 chapter4
-Capítulo 4
+
 chapter5
-Capítulo 5
+
 chapter6
-Capítulo 6
+
 chapter7
-Capítulo 7
+
 chapter8
-Capítulo 8
+
 chapter9
-Capítulo 9
+
 chapter10
-Capítulo 10
+
 credits
 creditos
 hoarder
@@ -235,7 +235,7 @@ Estado de Guardado
 SELECT LANGUAGE
 SELECCIONAR IDIOMA
 English
-Español
+
 Select Chapter
 Seleccionar Capítulo
 Flashlight
@@ -401,7 +401,7 @@ Función de grabado no disponible en versión de demo.
 No Hotspot
 Sin Punto de Acceso
 Spanish
-Español
+
 A Bad Dream?
 Un Mal Sueño
 Is this all real?
@@ -545,11 +545,11 @@ Un día...
 I will break it.
 Espero que lo haga.
 W S A D to move.
-WSAD para moverse.
+W S A D para moverse.
 \[E] to open inventory.
 \[E] para abrir inventario.
 ENTER action button/use item.
-ENTER botón de acción / elemento de uso.
+ENTER botón de acción/elemento de uso.
 ESC opens up the game's settings.
 ESC abre la configuración del juego.
 Demo
@@ -563,7 +563,7 @@ Nuestras vidas cambiaron, para siempre.
 \[E] to Open inventory.
 \[E] Abrir inventario.
 ENTER Action button/use item.
-ENTER botón de acción / elemento de uso.
+ENTER botón de acción/elemento de uso.
 ESC Open game settings.
 ESC Abre la configuración del juego.
 IS THIS ALL REAL?
@@ -639,7 +639,7 @@ Nos muestra nuestras peores realidades.
 I couldn't tell her the truth about what I saw.
 No pude decirle la verdad sobre lo que vi.
 It'll haunt me forever.
-Pero me perseguirá para siempre ...
+Pero me perseguirá para siempre...
 OUR LAST STOP
 NUESTRA ULTIMA PARADA
 Well...this is it...
@@ -693,7 +693,7 @@ Anybody?
 I-I need to find my way home!
 Necesito encontrar un camino a casa.
 W-What are you doing here?
-¿Q- Qué estás haciendo aquí?
+¿Q-Qué estás haciendo aquí?
 I need your help, Luzia.
 ¡Quiero ayudarte Luzia!
 Not here! People will see you!
@@ -749,7 +749,7 @@ Un poco más cerca...
 A ha! Gotcha!
 Te tengo. Me pregunto que puerta abrirá.
 CoatHanger
-Perchero
+
 Now that's something I can use.
 Aquí hay algo que puedo usar.
 A coathanger.
@@ -825,7 +825,7 @@ No estoy seguro...
 Where are your parents?
 ¿Dónde están tus padres?
 I-I'm not sure, I woke up here.
-Tampoco estoy seguro de eso ...
+Tampoco estoy seguro de eso...
 Maybe you should just wait here.
 Bueno, tal vez deberías esperarles.
 I'm sure they'll return for you.
@@ -911,7 +911,7 @@ Why does he own a moving truck?
 I wonder if they're making out in the back?
 Quizás se está besando con el.
 SaveState
-Guardar Estado
+
 Game Saved!
 ¡Juego guardado!
 A ha! Caught'ya! I could smell you a mile away!
@@ -997,7 +997,7 @@ Está bien, hasta ahora.
 Sommmmbieeee?
 ¿Sommmmbieeee?
 BobbyPin
-Gancho
+
 What's this?
 ¿Qué es esto?
 A Bobby Pin.
@@ -1095,7 +1095,7 @@ Ella me mataría si yo fuera husmeando por ahí.
 Besides, it's locked
 Además, está cerrado.
 Well, just a peek. She's not gonna mind.
-Espero que a Sombie no le importe ...
+Espero que a Sombie no le importe...
 Who am I kidding? She's gonna kill me!
 A quién estoy engañando, me va a matar.
 Great! The boby pin broke anyway!
@@ -1253,7 +1253,7 @@ She doesn't even do anything besides stink up the place and be annoying!
 Maybe I should tell mom she's smoking.
 Tal vez debería decirle a mamá que ella está fumando.
 But then...she'd probably tell mom about the roach.
-Pero entonces... ella probablemente le dirá a mama lo de la cucaracha.
+Pero entonces...ella probablemente le dirá a mama lo de la cucaracha.
 I need to find a better home for it besides Sombie's underware draw.
 No hay nada de malo en tener uno como mascota.
 It's probably cleaner than her uderware.
@@ -1403,7 +1403,7 @@ And just what does she eat, Luzia?
 Noodles!
 ¡Fideos!
 Oh?
-Oh.
+Oh?
 Oh, and people!
 ¡Ah, y gente!
 People?
@@ -1817,7 +1817,7 @@ Realmente no quise decir lo que dije allí.
 I'm just trying to make you happ-
 Es solo que estoy tratando de hacerte fe...
 ACH_APOLOGY
-ACH_APOLOGIA
+
 Wait, why didn't you show yourself to him!?
 Espera, ¿Por qué no te mostraste ante él?
 He think's I'm crazy!
@@ -1863,7 +1863,7 @@ Arreglaré esto... te lo prometo.
 Is that the door?
 ¿Eso fue la puerta?
 TherpyKey
-Llave C. Terapia
+
 Why is there a hand coming out of the toilet?
 ¿Es eso una mano?
 It holding a key...
@@ -2579,7 +2579,7 @@ I'VE KILLED HIM!
 Wait, he's alive?!
 ¿E-Esta vivo?
 H-Han.Mphp...Ah! Finally!
-H-Han.Mphp ... ¡Ah! ¡Ya está!
+H-Han.Mphp... ¡Ah! ¡Ya está!
 I've been trying to pry open her lips so I can talk...
 He estado tratando de abrir sus labios para poder hablar.
 and now that I can...
@@ -4389,7 +4389,7 @@ No me puedo imaginar la cantidad de problemas que ese chico podría tener con to
 Yeah, it's pretty sad...
 Si, es muy triste...
 *Sigh* I miss home.
-* Suspiro * Extraño casa.
+*Suspiro* Extraño casa.
 So do I.
 Yo también.
 I miss mom too.
@@ -4611,7 +4611,7 @@ Tengo que irme.
 I-It's okay L-Luzia.
 E-Está bien L-Luzia.
 Y-You g-gggggg....uhhh...
-T-Tu g-gggggg .... uhhh ...
+T-Tu g-gggggg....uhhh...
 Stretch!!!
 ¡¡¡Stretch!!!
 I'm so sorry.
@@ -4919,7 +4919,7 @@ Perdón por interrumpir.
 But can...
 Pero pueden...
 Do do do do...Oh!
-Do do do ... ¡Oh!
+Do do do... ¡Oh!
 Hello there, little one!
 ¡Hola, pequeña!
 What are you?
@@ -4995,7 +4995,7 @@ Can't you see them?
 Well, no I can't.
 Pues, no, no puedo.
 They're probably just shy...or...
-Probablemente sean solo tímidos... o...
+Probablemente sean solo tímidos...o...
 Maybe...they're scared of something.
 Tal vez... tienen miedo de algo.
 Scared? Of who?
@@ -7005,7 +7005,7 @@ Zzz.
 ACH_DONT_CARE_ANYMORE
 
 BobsScrewdriver
-DestornilladorDeBob
+
 Say your prayers screws!
 ¡Tiemblen tornillos!
 I always loved this picture.
@@ -7035,7 +7035,7 @@ No puedo usarlo.
 ACH_THE_LOOP
 
 My Big Sister
-My Big Sister
+
 By Stranga Games
 Por Stranga Games
 \[\[\[
@@ -7043,7 +7043,7 @@ Por Stranga Games
 STORY/CONCEPT/CHARACTERS
 HISTORIA / CONCEPTO / PERSONAJES
 Stranga Games and Duckman
-Stranga Games y Duckman
+
 \[\[
 
 SPRITES/ARTWORK/SCRIPTING/MUSIC/SOUNDS
@@ -7053,7 +7053,7 @@ Stranga Games
 CREDITS THEME SONG
 CANCIÓN DE LOS CRÉDITOS
 By Stranga Games and Monsta Matt Henderson
-By Stranga Games & Monsta Matt Henderson
+
 ADITIONAL SOUNDS
 SONIDOS ADICIONALES
 Provided by various royalty free websites.
@@ -7079,11 +7079,11 @@ Peat Z.
 Karl Savant
 
 Andr� Policarpo
-André Policarpo
+
 SPECIAL THANKS
 AGRADECIMIENTOS ESPECIALES
 Credits Module 1.17 by SSH
-Credits Module 1.17 por SSH
+
 Grab The Games
 
 My Wife and Sons! Love you both so much!
@@ -7377,7 +7377,7 @@ Me refiero a que Sombria es una bruja.
 SOMBIE'S THE RED WITCH?!
 ¿SOMBIE ES LA BRUJA ROJA?
 Y-Yes...
-S-si ...
+S-si...
 H-How do you know that?
 ¿C-Cómo lo sabes?
 All this time I thought I was!
@@ -8635,7 +8635,7 @@ Lo-lo siento, Sombie.
 I just want to help-
 Sólo quiero ayudar-
 You can't Luzia...
-No puedes Luzia ...
+No puedes Luzia...
 Where are you going? We still have time, bring me somthing in this room that best represents you.
 ¿A dónde vas? Todavía tenemos tiempo, tráeme algo en esta habitación que mejor te represente.
 There's nothing in here other than some old papers.
@@ -8643,7 +8643,7 @@ No hay nada aquí aparte de algunos periódicos viejos.
 there's no one in there.
 No hay nadie allí.
 I hope I don't see \"you\" anymore.
-Espero no ver \ "tú \" más.
+Espero no ver \"tú\" más.
 I'm here just like everyone else.
 Estoy aquí como todos los demás.
 I've got some problems I need sorting.
@@ -8653,7 +8653,7 @@ But what about you, my darling?
 Taking your sister out to lunch?
 ¿Llevando a tu hermana a almorzar?
 There's nothing I can do for her...
-No hay nada que pueda hacer por ella ...
+No hay nada que pueda hacer por ella...
 she doesn't want my help.
 Ella no quiere mi ayuda.
 Pfft! That's what they all say.
@@ -8683,7 +8683,7 @@ Lo que dije allí, realmente no lo decía en serio.
 Why do you look-
 ¿Por qué miras
 M-Maybe you're right...
-M-Maybe tienes razón ...
+M-Maybe tienes razón...
 you should have let me die.
 Deberías haberme dejado morir.
 Well, it's too late, little sister.
@@ -8697,13 +8697,13 @@ Sigo empeorando.
 Don't worry, Sombria.
 No te preocupes, Sombia.
 I'll fix this...
-Arreglaré esto ...
+Arreglaré esto...
 It's holding a key...
-Está sosteniendo una llave ...
+Está sosteniendo una llave...
 you've got to be kidding me.
 tienes que estar bromeando.
 I remember when my cousin Mark said he was eaten by a toilet once...
-Recuerdo cuando mi primo Mark dijo que un baño lo comió una vez ...
+Recuerdo cuando mi primo Mark dijo que un baño lo comió una vez...
 that does sound quite terrifying.
 Eso suena bastante aterrador.
 Nothing but trash.
@@ -8725,13 +8725,13 @@ Pfft, seguro que no lo hay.
 Why are you still so chirpy about this?
 ¿Por qué sigues siendo tan alegre sobre esto?
 *Sigh* Only thing left to do is see where they take us.
-* Suspiro* Lo único que queda por hacer es ver a dónde nos llevan.
+*Suspiro* Lo único que queda por hacer es ver a dónde nos llevan.
 Who?
 ¿Quién?
 I don't know! I didn't get to see them beat me and stuff me in a moving truck, Luzia!
 ¡No sé! ¡No pude verlos golpearme y meterme en un camión en movimiento, Luzia!
 One was wearing a mask and the other...
-Uno llevaba una máscara y la otra ...
+Uno llevaba una máscara y la otra...
 It sounds like music?
 ¿Suena como música?
 Little Asia Town!
@@ -8755,7 +8755,7 @@ That's a stupid plan! It'll never work.
 And why not?
 ¿Y por qué no?
 That never happens in the movies...
-Eso nunca sucede en las películas ...
+Eso nunca sucede en las películas...
 This isn't a movie, Luzia!
 ¡Esta no es una película, Luzia!
 Feels just like one.
@@ -8763,7 +8763,7 @@ Se siente como uno.
 Why do I even bother?
 ¿Por qué me molesto?
 *Sigh* Look, it'll work, trust me.
-* Suspiro* Mira, funcionará, confía en mí.
+*Suspiro* Mira, funcionará, confía en mí.
 Whatever you say, sis.
 Lo que sea que digas, hermana.
 Hopefully, we'll be arriving soon.
@@ -8787,7 +8787,7 @@ Shut up, Luzia! Now is definitely not the time-
 Oh, but where are my manners?
 Oh, pero ¿dónde están mis modales?
 I am Ashina...
-Soy Ashina ...
+Soy Ashina...
 but everybody just calls me \"The Red Witch\".
 Pero todos simplemente me llaman \ "la bruja roja \".
 You mean like, pointy hat, warts and, black cats?
@@ -8807,7 +8807,7 @@ Tengo un \ "problema \", con el que necesito ayuda.
 It's been haunting me for a very, very long time.
 Me ha estado inquietando durante mucho, mucho tiempo.
 And you, Sombria...are the key.
-Y tú, Sombia ... eres la clave.
+Y tú, Sombia...eres la clave.
 What! M-Me!?
 ¡Qué! M-me!?
 The thing is, you have something that I need.
@@ -8829,7 +8829,7 @@ Para obtener lo que quería, tenía que hacer un sacrificio.
 But did I get what I want? No.
 ¿Pero obtuve lo que quiero? No.
 I was stuck here, in these cold dark waters for all of eternity...
-Estaba atrapado aquí, en estas frías aguas oscuras para toda la eternidad ...
+Estaba atrapado aquí, en estas frías aguas oscuras para toda la eternidad...
 Until you came along.
 Hasta que vinieras.
 So, Sombria. This...
@@ -8843,13 +8843,13 @@ No, freaking, way!
 Heh, it's not what I want from you.
 Je, no es lo que quiero de ti.
 It's remarkable how much we resemble one another...
-Es notable cuánto nos parecemos unos a otros ...
+Es notable cuánto nos parecemos unos a otros...
 we are almost, identical, you and I. Like twins.
 Somos casi, idénticos, tú y yo como gemelos.
 So, I would like to offer you a trade...
-Entonces, me gustaría ofrecerte un intercambio ...
+Entonces, me gustaría ofrecerte un intercambio...
 my body...for yours.
-mi cuerpo ... para el tuyo.
+mi cuerpo...para el tuyo.
 This all could be yours.The bathhouse, the power, the riches! All of it! Anything you wish!
 Todo esto podría ser tuyo. ¡La casa de baños, el poder, las riquezas! ¡Todo ello! ¡Cualquier cosa que desee!
 She ain't gettin' your stilts, momma long legs!
@@ -8873,7 +8873,7 @@ Extraño. No recuerdo haber pedido que seas secuestrado.
 If it's who I think it is, she's in for a world of pain and suffering.
 Si es quién creo que es, ella está en un mundo de dolor y sufrimiento.
 Sombria...
-Sombria ...
+Sombria...
 think about my offer, please.
 Piensa en mi oferta, por favor.
 If that is all you want, I'll arrange a ride home for you both.
@@ -8901,17 +8901,17 @@ Just watch your back, you old, pathetic, woman!
 She will free us all.
 Ella nos liberará a todos.
 Heh! My daughter, she will fall...
-¡Je! Mi hija, ella se caerá ...
+¡Je! Mi hija, ella se caerá...
 and when she does, you will all be mine.
 Y cuando ella lo haga, todos serán míos.
 You're wrong, you old crone.
 Te equivocas, vieja crona.
 I will have Sombria's body, I will leave this bath...
-Tendré el cuerpo de Sombria, dejaré este baño ...
+Tendré el cuerpo de Sombria, dejaré este baño...
 and I will finally have my cold dead claws around your neck!
 ¡Y finalmente tendré mis garras muertas frías alrededor de tu cuello!
 *Tisk, tisk* My poor daughter, I'm sorry but you will never be free...
-* Tisk, tisk* mi pobre hija, lo siento, pero nunca serás libre ...
+*Tisk, tisk* mi pobre hija, lo siento, pero nunca serás libre...
 just like your friend, Tanto.
 Al igual que tu amigo, Tanto.
 RoomSetup:Bath
@@ -8943,7 +8943,7 @@ Lo siento mama\"! No puedo hacer eso.
 I'm just going to explore in here, ok?
 Solo voy a explorar aquí, ¿de acuerdo?
 *Sigh* W-Whatever, Luzia. Whatever...
-* Suspiro* W-lo que sea, Luzia. Lo que sea...
+*Suspiro* W-lo que sea, Luzia. Lo que sea...
 Lockpick
 Trineo
 It looks fine, Luzia.
@@ -8997,7 +8997,7 @@ A qué se parece esto? ¿Un centro de cuidado infantil? ¡SIN NIÑOS!
 Ha! I knew it!
 ¡Decir ah! ¡Lo sabía!
 So there are people working here...
-Entonces hay gente trabajando aquí ...
+Entonces hay gente trabajando aquí...
 You got rocks in that little head of yours? Didn't you hear me say \"No kids allowed in my kitchen\"!?
 ¿Tienes rocas en esa pequeña cabeza tuya? ¿No me escuchaste decir \ "No se permiten niños en mi cocina \"?
 The name's Nikuya, but the witch calls me \"The Butcher\".
@@ -9037,7 +9037,7 @@ Y ahora que puedo
 As I said be for, I'm already dead!
 Como dije, ¡ya estoy muerto!
 *Sigh* She did this...
-* Suspiro* Ella hizo esto ...
+*Suspiro* Ella hizo esto...
 the lady who's not so on the wall anymore.
 La señora que ya no está en la pared.
 She broke free.
@@ -9079,11 +9079,11 @@ Disculpe, señor Butcher.
 Have you met the lady on the wall?
 ¿Has conocido a la dama en la pared?
 *Sigh* Why didn't I just kill her why I had the chance?
-* Suspiro* ¿Por qué no la maté por qué tuve la oportunidad?
+*Suspiro* ¿Por qué no la maté por qué tuve la oportunidad?
 I should've just gutted'er like a fish...
-Debería haber sido destripado como un pez ...
+Debería haber sido destripado como un pez...
 *Sigh* Well, last time I played her little game she wanted an object or something?
-* Suspiro* Bueno, la última vez que jugué su pequeño juego, ¿quería un objeto o algo así?
+*Suspiro* Bueno, la última vez que jugué su pequeño juego, ¿quería un objeto o algo así?
 What if the witch finds out? You're not the only one who'll be gutted, again.
 ¿Qué pasa si la bruja se entera? No eres el único que será destripado, nuevamente.
 Just do what the lady wants, she can take the blame.
@@ -9155,7 +9155,7 @@ Sombie! Where the heck have you been!?
 Ok, ok!
 ¡Bien bien!
 You need to cut your hand...
-Necesitas cortar tu mano ...
+Necesitas cortar tu mano...
 spill your blood in the circle!
 ¡Derraman tu sangre en el círculo!
 Luzia, hurry! Get in the other circle!
@@ -9173,11 +9173,11 @@ UH oh.
 DeskKey
 Escritorio
 \"It\" is not my name...
-\ "It \" no es mi nombre ...
+\"It\" no es mi nombre...
 I am known as \"The Lady On The Wall\".
 Soy conocida como \ "La dama en la pared".
 Such a dark place to be in for one with such a...\"bright\" name.
-Un lugar tan oscuro para estar en uno con un nombre tan ... \ "brillante \".
+Un lugar tan oscuro para estar en uno con un nombre tan...\"brillante\".
 You bring me something that I want and I'll tell you how to escape, deal?
 Me traes algo que quiero y te diré cómo escapar, ¿trato?
 I could just eat you now? Save me the trouble of waiting.
@@ -9187,7 +9187,7 @@ itemChoice
 You...took my legs, my looks, my...life. [ I will never forgive you for what you have done to me! [ You shall all choke on your thick greedy blood.
 Tú ... tomé mis piernas, mi aspecto, mi ... vida. [¡Nunca te perdonaré por lo que me has hecho! [Todos se ahogarán con su gruesa sangre codiciosa.
 There's something else here...
-Hay algo más aquí ...
+Hay algo más aquí...
 a key? I wonder what it's for?
 ¿una llave? Me pregunto para qué es.
 Luzia, I'm so glad you could join us.
@@ -9197,7 +9197,7 @@ Podrías salir con vida.
 I'm not leaving without my her!
 ¡No me voy sin mi ella!
 Luzia, I admire your bravery...
-Luzia, admiro tu valentía ...
+Luzia, admiro tu valentía...
 but seriously, what are you going to do?
 Pero en serio, ¿qué vas a hacer?
 Something you'll regret if you lay one finger on her!
@@ -9205,23 +9205,23 @@ Something you'll regret if you lay one finger on her!
 You mean...like this?
 ¿Quieres decir así?
 Heh, whoops! Sorry, Luzia...
-Je, ¡Whoops! Lo siento, Luzia ...
+Je, ¡Whoops! Lo siento, Luzia...
 but she's mine now.
 Pero ella es mía ahora.
 Once complete, I'll be taking her body as my own, she'll remain here...
-Una vez completo, tomaré su cuerpo como el mío, ella permanecerá aquí ...
+Una vez completo, tomaré su cuerpo como el mío, ella permanecerá aquí...
 The changes are...permanent, Luzia.
 Los cambios son ... permanentes, Luzia.
 She is no longer your sister but a portal to my salvation!
 ¡Ella ya no es tu hermana sino un portal de mi salvación!
 Y-You're wrong...
-Y estás equivocado ...
+Y estás equivocado...
 Luzia! Lets go!
 ¡Luzia! ¡Vamos!
 It's!!
 ¡¡Su!!
 Another key...
-Otra llave ...
+Otra llave...
 This one must belong to the buffet door!
 ¡Este debe pertenecer a la puerta del buffet!
 It's locked now?
@@ -9253,7 +9253,7 @@ why are you here?
 Sorry, heppa. Store's closed.
 Lo siento, Heppa. Tienda cerrada.
 Today's special is \"Salty Cod Soup\"...yuck!
-El especial de hoy es \ "Sopa de bacalao salado \" ... ¡qué asco!
+El especial de hoy es \"Sopa de bacalao salado\"... ¡qué asco!
 Yuck! No thanks!
 ¡ ¡No, gracias!
 Downtown
@@ -9285,7 +9285,7 @@ Creo que estabas a punto de querida.
 You're not another witch, are you?
 No eres otra bruja, ¿verdad?
 Come on young one...
-Vamos joven ...
+Vamos joven...
 lets get you out of those wet clothes.
 Vamos a sacarte de esa ropa mojada.
 Wait, what will I wear? I can't just stand here naked!
@@ -9293,7 +9293,7 @@ Espera, ¿qué me pondré? ¡No puedo pararme aquí desnudo!
 I wouldn't worry about that, my dear.
 No me preocuparía por eso, querida.
 There's only one other person who uses this laundromat...
-Solo hay otra persona que usa esta lavandería ...
+Solo hay otra persona que usa esta lavandería...
 and she only comes in on Tuesdays.
 Y ella solo viene los martes.
 fine weather we're having, no?
@@ -9303,9 +9303,9 @@ En realidad, hace un poco de frío.
 it must be Tuesday.
 Debe ser el martes.
 I have no idea where we are or what this \"spirit place\" is?
-No tengo idea de dónde estamos o qué es este "Spirit Place \"?
+No tengo idea de dónde estamos o qué es este \"Spirit Place\"?
 I know someone who can take you as far as the countryside...
-Conozco a alguien que puede llevarte hasta el campo ...
+Conozco a alguien que puede llevarte hasta el campo...
 but from there you will need to return on your own.
 Pero a partir de ahí deberá regresar por su cuenta.
 There's a bus route that can get you as far as the Chikara express train line.
@@ -9345,17 +9345,17 @@ Oh, you better believe it sister!
 Fantastic!
 ¡Fantástico!
 Yep! I'm gonna remind you every day...
-¡Sí! Te recordaré todos los días ...
+¡Sí! Te recordaré todos los días...
 about how you saved my life.
 sobre cómo me salvaste la vida.
 So, you're not mad at me?
 Entonces, ¿no estás enojado conmigo?
 When you get older things become more complicated...
-Cuando envejeces, las cosas se vuelven más complicadas ...
+Cuando envejeces, las cosas se vuelven más complicadas...
 sometimes, I wish I could be as young as you again.
 A veces, desearía poder ser tan joven como tú de nuevo.
 But we can't go back...
-Pero no podemos volver ...
+Pero no podemos volver...
 I won't be going anywhere.
 No iré a ninguna parte.
 I get what you mean.
@@ -9493,7 +9493,7 @@ Bad things!?
 Bad hit you a long time ago, pal!
 ¡Mal golpe te golpeó hace mucho tiempo, amigo!
 I'll j-just be out of your way...
-J-solo estaré fuera de tu camino ...
+J-solo estaré fuera de tu camino...
 ...no. I'm sorry.
 ...no. Lo siento.
 I feel like a great, big, jerk!
@@ -9515,7 +9515,7 @@ She risked her own life to save mine!
 Was mine worth all the trouble?
 ¿Valió la pena el mío todos los problemas?
 She lost everything because of me...
-Ella perdió todo por mi ...
+Ella perdió todo por mi...
 everything.
 todo.
 Who wrote this?
@@ -9525,13 +9525,13 @@ Tarta de llave
 If you're reading this then be prepared for what's about to happen.
 Si está leyendo esto, prepárese para lo que está por suceder.
 You're not who you think you are...
-No eres quien crees que eres ...
+No eres quien crees que eres...
 and neither is she.
 Y tampoco ella.
 You were born from a witch and she was born from a saviour.
 Naciste de una bruja y ella nació de un Salvador.
 The loop is the only thing that binds you both together...
-El bucle es lo único que los une a ambos ...
+El bucle es lo único que los une a ambos...
 if you break it, you may not see each other again.
 Si lo rompe, es posible que no se vuelva a ver.
 BurntNote
@@ -9543,7 +9543,7 @@ Es hora de terminar con este desastre.
 She has to go!
 ¡Ella tiene que ir!
 I can't keep protecting her...
-No puedo seguir protegiéndola ...
+No puedo seguir protegiéndola...
 I'm losing my strength.
 Estoy perdiendo mi fuerza.
 She is manipulating you.
@@ -9569,7 +9569,7 @@ Nota quemada
 B-But that's impossible!
 B Pero eso es imposible!
 And nothing gets past Gustoph too...
-Y nada pasa a Gustoph también ...
+Y nada pasa a Gustoph también...
 because he takes up the entire doorway!
 ¡Porque toma toda la puerta!
 HA!
@@ -9583,13 +9583,13 @@ Sí, Goulanh o Ghost-ish.
 Before you go, could you please check on my buddy, Stretch?
 Antes de ir, ¿podrías verificar a mi amigo, estirarse?
 I-I think I did...
-Creo que lo hice ...
+Creo que lo hice...
 where does he like to hide?
 ¿Dónde le gusta esconderse?
 Can I-
 Yo puedo-
 *Whistling* ...Oh!
-* Silbido* ... ¡Oh!
+*Silbido* ... ¡Oh!
 Well, I'm the guy who drives this train, of course!
 Bueno, soy el tipo que conduce este tren, ¡por supuesto!
 how the heck did you get in here?
@@ -9615,7 +9615,7 @@ Bueno, me alegro de que todo haya funcionado para ti.
 Where's the rest of the passengers?
 ¿Dónde está el resto de los pasajeros?
 They're probably just shy...
-Probablemente sean tímidos ...
+Probablemente sean tímidos...
 or maybe they're scared of something.
 O tal vez tienen miedo de algo.
 You'd best be gettin' back to your cabin, little missy.
@@ -9639,11 +9639,11 @@ Please, don't give up on me now!
 Luzia, do you remember what happened before this all happened?
 Luzia, ¿recuerdas lo que sucedió antes de que todo esto sucedió?
 ...n-no.
-... n-no.
+...n-no.
 What do you remember about mom?
 ¿Qué recuerdas de mamá?
 Well, not much...
-Bueno, no mucho ...
+Bueno, no mucho...
 she was never around.
 Ella nunca estuvo cerca.
 I guess it's because she was too busy working at the hospital-
@@ -9653,21 +9653,21 @@ Luzia, no tenemos madre.
 Y-Yes we do! What do you mean by-
 Y-yes lo hacemos! Que quieres decir con-
 She's not our real mother. We were both left on her door step when we were born...
-Ella no es nuestra verdadera madre. Ambos nos quedamos en su puerta cuando nacimos ...
+Ella no es nuestra verdadera madre. Ambos nos quedamos en su puerta cuando nacimos...
 we're not even real sisters.
 Ni siquiera somos hermanas reales.
 I've been lying to you this whole time...
-Te he estado mintiendo todo este tiempo ...
+Te he estado mintiendo todo este tiempo...
 I-I'm sorry...Luzia.
-Lo siento ... Luzia.
+Lo siento...Luzia.
 *Sniff* P-Please, tell me this is a joke, right?
-* Sliff* p-please, dime que es una broma, ¿verdad?
+*Sliff* p-please, dime que es una broma, ¿verdad?
 It has to be!
 ¡Tiene que ser!
 *Sniff*I don't know who to trust anymore?!
 *Offle*¿Ya no sé en quién confiar?
 ...I feel empty inside.
-... Me siento vacío por dentro.
+...Me siento vacío por dentro.
 Luzia, please-
 Luzia, por favor
 Hey!
@@ -9707,25 +9707,25 @@ Pero el valle siempre mostrará el peor resultado.
 What do you see when you go through the valley?
 ¿Qué ves cuando pasas por el valle?
 Heh, Y'know, nobody's ever asked me that before...apart from one other.
-Je, ya sabes, nadie me ha preguntado eso antes ... aparte del otro.
+Je, ya sabes, nadie me ha preguntado eso antes...aparte del otro.
 What I saw was how I ended up here. I crashed my train...
-Lo que vi fue cómo terminé aquí. Me estrellé mi tren ...
+Lo que vi fue cómo terminé aquí. Me estrellé mi tren...
 killing all but one passenger...
-Matando a todos menos a un pasajero ...
+Matando a todos menos a un pasajero...
 ...me.
 ...yo.
 It's not your fault, little missy...
-No es tu culpa, pequeña señorita ...
+No es tu culpa, pequeña señorita...
 it's mine.
 es mio.
 Strange, you remind me of someone I used to know.
 Extraño, me recuerdas a alguien que solía conocer.
 This is going to sound even stranger...
-Esto va a sonar aún más extraño ...
+Esto va a sonar aún más extraño...
 but I remember you.
 Pero te recuerdo.
 I remember a cabin in the misty woods...
-Recuerdo una cabaña en Misty Woods ...
+Recuerdo una cabaña en Misty Woods...
 I just can't remember anything else.
 No puedo recordar nada más.
 ...Ash?
@@ -9733,19 +9733,19 @@ No puedo recordar nada más.
 No, it's can't be.
 No, no puede ser.
 I-In my home...
-I-en mi casa ...
+I-en mi casa...
 Instead, I made it worse...
-En cambio, lo empeoré ...
+En cambio, lo empeoré...
 once I had joined my passengers...
-Una vez me uní a mis pasajeros ...
+Una vez me uní a mis pasajeros...
 I could finally understand, what it felt like to be let down...
-Finalmente pude entender, cómo se sentía ser decepcionado ...
+Finalmente pude entender, cómo se sentía ser decepcionado...
 they depended on me.
 Ellos dependían de mí.
 It wasn't your fault, Gus.
 No fue tu culpa, Gus.
 We don't control life...
-No controlamos la vida ...
+No controlamos la vida...
 life controls us.
 La vida nos controla.
 You sound a lot like someone else I used to know.
@@ -9769,11 +9769,11 @@ E-lock
 HEY! GIRL!
 ¡OYE! ¡CHICA!
 \"Little girl\" does have a name, ya know?
-\ "Niña \" ¿Tiene un nombre, ya sabes?
+\"Niña\" ¿Tiene un nombre, ya sabes?
 What Little Jacket doesn't know is; why is Luzia upset?
 Lo que la pequeña chaqueta no sabe es; ¿Por qué Luzia está molesta?
 I act differently, I've been fighting with Sombie more...
-Actúo de manera diferente, he estado luchando con Sombie más ...
+Actúo de manera diferente, he estado luchando con Sombie más...
 I just have no idea what I've done.
 Simplemente no tengo idea de lo que he hecho.
 A story called \"Two Birds One Stone\".
@@ -9795,11 +9795,11 @@ Once upon a time, there were two sisters that lived in the country-side.
 They were the best of friends and did everything together.
 Eran los mejores amigos e hicieron todo juntos.
 They were so close that they liked and enjoyed the same things...
-Estaban tan cerca que les gustaba y disfrutaron las mismas cosas ...
+Estaban tan cerca que les gustaba y disfrutaron las mismas cosas...
 especially this one man.
 Especialmente este hombre.
 However, the man only had eyes for one of the sisters...
-Sin embargo, el hombre solo tenía ojos para una de las hermanas ...
+Sin embargo, el hombre solo tenía ojos para una de las hermanas...
 the taller one.
 el más alto.
 Younger sister was so upset by this that she tried everything she could to be taller.
@@ -9807,15 +9807,15 @@ La hermana menor estaba tan molesta por esto que intentó todo lo que pudo para 
 So, younger sister got a witch to use magic to make legs longer, just like older sister.
 Entonces, la hermana menor consiguió una bruja para usar la magia para hacer que las piernas sean más largas, al igual que la hermana mayor.
 In order for the witch's magic to work, she had to cut off older sister's legs...
-Para que la magia de la bruja funcione, tuvo que cortar las piernas de la hermana mayor ...
+Para que la magia de la bruja funcione, tuvo que cortar las piernas de la hermana mayor...
 and she did in her sleep.
 Y ella lo hizo mientras dormía.
 Younger sister got what she wanted but was also given a curse.
 La hermana menor obtuvo lo que quería, pero también se le dio una maldición.
 Wait! I've heard this before...
-¡Esperar! He escuchado esto antes ...
+¡Esperar! He escuchado esto antes...
 I remember something...about a theater.
-Recuerdo algo ... sobre un teatro.
+Recuerdo algo...sobre un teatro.
 You should remember, Luzia.
 Deberías recordar, Luzia.
 Because you're the-
@@ -9831,7 +9831,7 @@ YOU ATE HIM! YOU ATE THE LITTLE GUY!
 Oh, I'm sorry. He looked like the perfect snack.
 Oh lo siento. Parecía el bocadillo perfecto.
 I have been for centuries...and I still am.
-He estado durante siglos ... y todavía lo estoy.
+He estado durante siglos...y todavía lo estoy.
 I'm here to see my sister!
 ¡Estoy aquí para ver a mi hermana!
 I know she's on this train.
@@ -9849,7 +9849,7 @@ You're not laying a finger on her, you ugly lady!
 Not just one finger but all of them. Right around her throat!
 No solo un dedo sino todos ellos. ¡Justo alrededor de su garganta!
 Once I kill her, you're next...
-Una vez que la mate, eres el siguiente ...
+Una vez que la mate, eres el siguiente...
 mother.
 madre.
 I-I-
@@ -9887,7 +9887,7 @@ No hasta que se haya levantado la maldición.
 You have to break the loop, Luzia.
 Tienes que romper el bucle, Luzia.
 You've been tricked...
-Te han engañado ...
+Te han engañado...
 once you reach home, you will restart the loop. You'll ruin everything!
 Una vez que llegue a casa, reiniciará el bucle. ¡Arruinarás todo!
 The Noodle Lady told me that it would end the curse!
@@ -9911,35 +9911,35 @@ YOU CAN'T DO THIS TO US! I SAVED YOUR LIFE!
 Pfft! As if! You should of thought about that before you kidnapped us.
 ¡No! ¡Como si! Deberías pensar en eso antes de secuestrarnos.
 Wait! Luzia, I-I know about your dreams...
-¡Esperar! Luzia, yo-yo sé sobre tus sueños ...
+¡Esperar! Luzia, yo-yo sé sobre tus sueños...
 The marketplace, the therapist...all of it.
-El mercado, el terapeuta ... todo.
+El mercado, el terapeuta...todo.
 It's a bond that we both share. I wasn't lying when I said we have met before.
 Es un vínculo que ambos compartimos. No estaba mintiendo cuando dije que nos habíamos conocido antes.
 You're lying! I've never seen you in my entire life, lady!
 ¡Estás mintiendo! ¡Nunca te he visto en toda mi vida, señora!
 I-I wish you could just...remember.
-Ojalá pudieras ... Recuerda.
+Ojalá pudieras...Recuerda.
 Just give me back my sister...
-Solo devuélvame a mi hermana ...
+Solo devuélvame a mi hermana...
 please.
 Por favor.
 It's like we're one soul living in two bodies. I don't understand it myself but...
-Es como si estuviéramos un alma viviendo en dos cuerpos. No lo entiendo yo mismo pero ...
+Es como si estuviéramos un alma viviendo en dos cuerpos. No lo entiendo yo mismo pero...
 I wish I could explain it.
 Ojalá pudiera explicarlo.
 Luzia, whatever happens...
-Luzia, pase lo que pase ...
+Luzia, pase lo que pase...
 don't ever let your Sombria go...
-Nunca dejes que tu sombria vaya ...
+Nunca dejes que tu sombria vaya...
 or she'll share the same fate as my sister.
 O compartirá el mismo destino que mi hermana.
 Heh. Like I said, you're too young to understand...
-Je. Como dije, eres demasiado joven para entender ...
+Je. Como dije, eres demasiado joven para entender...
 but someday, you will.
 Pero algún día lo harás.
 Luzia, if you choose this path...
-Luzia, si eliges este camino ...
+Luzia, si eliges este camino...
 you're going to have to make a choice.
 Tendrás que tomar una decisión.
 To save your life, or Sombria's
@@ -9947,7 +9947,7 @@ Para salvar tu vida, o la de Sombria
 Wait, why?! I can't save us both?!
 ¡¿Espera por qué?! ¿No puedo salvarnos a los dos?
 If you choose to listen to her be warned...
-Si eliges escucharla, sea advertido ...
+Si eliges escucharla, sea advertido...
 this will not go the way you think.
 Esto no irá como piensas.
 Look! All I want is my sister back!
@@ -9957,9 +9957,9 @@ I want us to go home! So everything can go back to the way it was.
 me too.
 Yo también.
 T-There's something still bugging me...
-T-hay algo todavía molestarme ...
+T-hay algo todavía molestarme...
 if you're not The Red Witch...
-Si no eres la bruja roja ...
+Si no eres la bruja roja...
 then who is?
 Entonces, ¿quién es?
 It's yo-
@@ -9973,7 +9973,7 @@ Escondido en los cuerpos de los vivos, ¿verdad?
 I have waited a very long time for this moment.
 He esperado mucho tiempo por este momento.
 I've been hanging from your bathhouse wall...
-He estado colgando de la pared de tu casa de baños ...
+He estado colgando de la pared de tu casa de baños...
 thinking about all those years on how I could have spent my LIFE!
 ¡Pensando en todos esos años en cómo podría haber pasado mi vida!
 Tena, I'm sorr-
@@ -10015,7 +10015,7 @@ Typicall!
 Leave these two out of this, Tena.
 Deja a estos dos fuera de esto, Tena.
 They are more than welcome to leave...
-Son más que bienvenidos a irse ...
+Son más que bienvenidos a irse...
 but you aren't going anywhere.
 Pero no vas a ir a ninguna parte.
 Luzia, please listen to what I've told you.
@@ -10041,7 +10041,7 @@ W-necesitamos ir a casa-.
 Yes, we do! And now we can! I can't believe you're-
 ¡Sí! ¡Y ahora podemos! No puedo creer que estés-
 I-I'm sorry, S-Sombie...
-Lo siento, S-Sombie ...
+Lo siento, S-Sombie...
 No, NO!
 ¡No no!
 B-B-but, h-how?
@@ -10059,7 +10059,7 @@ Lo siento, Luzia.
 I-I was really scared, y'know.
 Estoy realmente asustado, ya sabes.
 I just wanted to show mom I can be responsible...
-Solo quería mostrarle a mamá que puedo ser responsable ...
+Solo quería mostrarle a mamá que puedo ser responsable...
 and it seems like I failed both of you.
 Y parece que los fallé a los dos.
 Just look what happened to you.
@@ -10091,7 +10091,7 @@ Simplemente no se sintió como un sueño.
 I swear!
 ¡Lo juro!
 Well, now that you're awak maybe I can see the nurse...
-Bueno, ahora que estás despierto, tal vez pueda ver a la enfermera ...
+Bueno, ahora que estás despierto, tal vez pueda ver a la enfermera...
 and we can get the heck outta here.
 Y podemos sacar el dique aquí.
 Sure, just let me go see the nurse real quick, ok?
@@ -10101,7 +10101,7 @@ Y ese fue el motel más elegante de Ash Pines.
 I wish you'd just wake up, Luzia.
 Desearía que te despertaras, Luzia.
 So we can go home...
-Para que podamos ir a casa ...
+Para que podamos ir a casa...
 please...
 por favor...
 m-my real sister back.
@@ -10109,7 +10109,7 @@ M-mi hermana real de vuelta.
 It's been 3 months now!
 ¡Han pasado 3 meses!
 *Sniff* I sure could use a smoke.
-* Sniff* Seguro que podría usar un humo.
+*Sniff* Seguro que podría usar un humo.
 Mr. Gus always goes on about his drinking problem.
 El Sr. Gus siempre continúa sobre su problema de bebida.
 Mom said she'd be here soon.
@@ -10117,7 +10117,7 @@ Mamá dijo que estaría aquí pronto.
 She works here for crying out loud.
 Ella trabaja aquí por llorar en voz alta.
 *Sigh* Who am I kidding...
-* Suspiro* ¿A quién estoy bromeando ...
+*Suspiro* ¿A quién estoy bromeando...
 you can't hear me anyway.
 No puedes oírme de todos modos.
 I'm waiting for my daughters to arrive and I can't hear them.
@@ -10229,7 +10229,7 @@ Uh Huh, claro.
 Just remember I have a nice face too, Stretch.
 Solo recuerda que también tengo una buena cara, estiramiento.
 *Blush* Was it really that obvious!?
-* Rubor* ¿Fue realmente tan obvio?
+*Rubor* ¿Fue realmente tan obvio?
 I'm s-so sorry!
 ¡Lo siento, así que lo siento!
 Ha! It's fine!
@@ -10253,9 +10253,9 @@ No muerdo, prometo.
 O-Ok.
 O-ok.
 *Blushing* Thanks, S-Sombria.
-* Sonrojo* Gracias, S-Sombria.
+*Sonrojo* Gracias, S-Sombria.
 W-What the...
-W-que el ...
+W-que el...
 WHAT THE HELL HAPPENED HERE?!
 ¿Qué demonios pasó aquí?
 It's so peaceful outside.
@@ -10263,15 +10263,15 @@ Es muy pacífico afuera.
 and such a quiet night, too.
 Y una noche tan tranquila también.
 It feels like she has been that coma forever...
-Parece que ella ha sido ese coma para siempre ...
+Parece que ella ha sido ese coma para siempre...
 I just need a sign...
-Solo necesito una señal ...
+Solo necesito una señal...
 anything...
 cualquier cosa...
 please?
 ¿por favor?
 I better head inside...
-Mejor me dirijo a entrar ...
+Mejor me dirijo a entrar...
 what a quiet night though.
 Sin embargo, qué noche tan tranquila.
 It'll haunt me til' the day I die if you don't.
@@ -10279,13 +10279,13 @@ Me perseguirá hasta el día en que muera si no lo haces.
 SceneSetup
 Escena
 I-I just...get like that sometimes.
-Yo-yo ... me pongo así a veces.
+Yo-yo...me pongo así a veces.
 I don't like to share it with anyone.
 No me gusta compartirlo con nadie.
 Just my therapist...
-Solo mi terapeuta ...
+Solo mi terapeuta...
 I basically tell him everything...
-Básicamente le digo todo ...
+Básicamente le digo todo...
 but he doesn't help.
 Pero él no ayuda.
 look, never mind.
@@ -10311,7 +10311,7 @@ chocolate?
 Here you go! You've earnt it!
 ¡Aquí tienes! ¡Lo has ganado!
 It's a long way down. I'd need a good enouh reason to throw this down there...
-Es un largo camino hacia abajo. Necesitaría una buena razón para tirar esto allí ...
+Es un largo camino hacia abajo. Necesitaría una buena razón para tirar esto allí...
 huh, it smells like...chocolate?
 Huh, huele a ... ¿Chocolate?
 leave me alone.
@@ -10349,13 +10349,13 @@ I'm scared that I might lose you!
 I always never go through with it!
 ¡Nunca nunca lo hago!
 Sometimes, we do go through it...
-A veces, lo atravesamos ...
+A veces, lo atravesamos...
 but I know I can't stop you...
-Pero sé que no puedo detenerte ...
+Pero sé que no puedo detenerte...
 even though I tried to.
 Aunque intenté hacerlo.
 I know this is not my choice...
-Sé que esta no es mi elección ...
+Sé que esta no es mi elección...
 it's yours.
 es tuyo.
 but I will always be there for you, even if I'm not around.
@@ -10363,7 +10363,7 @@ Pero siempre estaré ahí para ti, incluso si no estoy cerca.
 We still have a shot to break this loop!
 ¡Todavía tenemos una oportunidad para romper este bucle!
 But you need to trust me...
-Pero necesitas confiar en mí ...
+Pero necesitas confiar en mí...
 please, Sombie.
 Por favor, Sombie.
 Ok, I trust you.
@@ -10381,7 +10381,7 @@ Sin embargo, se ve bastante viejo.
 Subway Platform
 Plataforma de metro
 *Sigh* I'm so hungry.
-* Suspiro* Tengo tanta hambre.
+*Suspiro* Tengo tanta hambre.
 Now, how do I-
 Ahora, ¿cómo lo hago?
 It must open the gate outside.
@@ -10453,7 +10453,7 @@ Sin embargo, no puedo.
 I CAN'T MOVE ON! AND IT'S ALL BECAUSE OF YOU!
 ¡No puedo seguir adelante! ¡Y TODO ES GRACIAS A TI!
 *Sigh* Look, we all have to make choices that we don't like.
-* Suspiro* Mira, todos tenemos que tomar decisiones que no nos gusten.
+*Suspiro* Mira, todos tenemos que tomar decisiones que no nos gusten.
 What would happen if she died?
 ¿Qué pasaría si ella muriera?
 This loop thingy of yours would be broken.
@@ -10469,13 +10469,13 @@ what's it gonna be? Witch!
 Good! We finally made some progress!
 ¡Bueno! ¡Finalmente avanzamos!
 Yes, we all will...
-Sí, todos lo haremos ...
+Sí, todos lo haremos...
 including my sister.
 incluyendo a mi hermana.
 W-Wait?! What do you-
 W-WAIT? Qué es lo que tú-
 I don't know if I am one who has caused all this...
-No sé si soy uno que ha causado todo esto ...
+No sé si soy uno que ha causado todo esto...
 but I do know, that I am the one to end it.
 Pero sí sé que yo soy yo quien lo termina.
 there is another.
@@ -10489,9 +10489,9 @@ Antes de que me vaya...
 Sombria found her.
 Sombria la encontró.
 I-I thought I lost her...
-Pensé que la perdí ...
+Pensé que la perdí...
 she fell onto the tracks...
-Ella cayó sobre las vías ...
+Ella cayó sobre las vías...
 I-I fell, onto the tracks.
 I-i cayó, en las pistas.
 We're just like you, y'know?
@@ -10503,7 +10503,7 @@ Old lady?
 She talks about the story of the red witch all the time.
 Ella habla sobre la historia de la bruja roja todo el tiempo.
 But she never mentioned you would be so...nice.
-Pero ella nunca mencionó que serías tan ... agradable.
+Pero ella nunca mencionó que serías tan...agradable.
 She told you I was The Red Witch?
 ¿Te dijo que era la bruja roja?
 She said \"only The Red Witch can break the loop.\"
@@ -10525,7 +10525,7 @@ Entonces, ¿quieres jugar?
 Fine.
 Multa.
 *Sigh* Truth or dare, you've heard of it before, right?
-* Suspiro* Verdad o desafío, has oído hablar de eso antes, ¿verdad?
+*Suspiro* Verdad o desafío, has oído hablar de eso antes, ¿verdad?
 Ok, ok. Truth.
 Bien bien. Verdad.
 Playing it safe, huh?
@@ -10559,9 +10559,9 @@ Wait! I need to know-
 I said, dare.
 Dije, me atrevo.
 J-Just...
-J-solo ...
+J-solo...
 end me, please...
-terminar conmigo, por favor ...
+terminar conmigo, por favor...
 for Sombria.
 Para la sombría.
 Sombie has suffered enough and it's all because of me.
@@ -10575,7 +10575,7 @@ Just go, now!
 a debt repaid.
 una deuda reembolsada.
 Don't mess this up, Luzia...
-No te arruines esto, Luzia ...
+No te arruines esto, Luzia...
 a lot of lives are at steak.
 Muchas vidas están en Steak.
 Yes, we did...
@@ -10587,7 +10587,7 @@ Espero que sí.
 I feel great! Just like pickles and beans!
 ¡Me siento genial! ¡Al igual que los encurtidos y los frijoles!
 O-Oh I am...
-O-oh yo soy ...
+O-oh yo soy...
 are you ok? You seem, different.
 ¿Estás bien? Pareces diferente.
 I've always been like this?
@@ -10625,7 +10625,7 @@ Estoy bien, creo.
 If you say so, my dear.
 Si lo dices, querida.
 I just want to say thanks...
-Solo quiero decir gracias ...
+Solo quiero decir gracias...
 for helping me understand Sombria.
 por ayudarme a comprender la sombría.
 Oh! You're very welcome, my dear.
@@ -10641,7 +10641,7 @@ Deja ir a tus hijas.
 Luzia, you shouldn't be putting your nose into-
 Luzia, no deberías poner tu nariz en
 You lied to them, told them that everything was gonna be ok...
-Les mentiste, les dijiste que todo iba a estar bien ...
+Les mentiste, les dijiste que todo iba a estar bien...
 but it wasn't, was it?
 Pero no fue, ¿verdad?
 You turned the other cheek!
@@ -10665,7 +10665,7 @@ YES! I BLAME YOU-
 Then why didn't you stop them?
 Entonces, ¿por qué no los detuviste?
 They asked you for help...
-Te pidieron ayuda ...
+Te pidieron ayuda...
 and what did you tell them?
 ¿Y qué les dijiste?
 I told them to ignore that man! He was nothing but trouble!
@@ -10679,7 +10679,7 @@ Les dijiste que eran tontos, que los hombres solo los usan para obtener lo que q
 You lied to them.
 Llegaste a ellos.
 You forced them to stay home, to cook and clean...
-Los obligó a quedarse en casa, a cocinar y limpiar ...
+Los obligó a quedarse en casa, a cocinar y limpiar...
 while you courted with the very same man they liked.
 Mientras cortejaste con el mismo hombre que les gustaba.
 T-THAT'S NOT TRUE!
@@ -10693,7 +10693,7 @@ Yo Te reto...
 to die.
 morir.
 For all the lives you have ruined...
-Por todas las vidas que has arruinado ...
+Por todas las vidas que has arruinado...
 may you find piece, old hag.
 Que encuentres pieza, vieja bruja.
 I really could just go back to bed.
@@ -10703,9 +10703,9 @@ I've missed you so much!
 I feel...
 Siento...
 so...sleepy...
-Entonces ... con sueño ...
+Entonces...con sueño...
 I can't keep my eyes open...
-No puedo mantener los ojos abiertos ...
+No puedo mantener los ojos abiertos...
 I can't take it anymore...
 No lo soporto más...
 It's mom's lucky screwdriver.
@@ -10749,7 +10749,7 @@ EN MEMORIA DE:
 MY COUSIN BLAKE AND MY FRIEND MIKAILA
 Mi primo Blake y mi amiga Mikaila
 Always thinking of you...always.
-Siempre pensando en ti ... siempre.
+Siempre pensando en ti...siempre.
 ART TOOLS
 Herramientas de arte
 Aseprite
@@ -10797,7 +10797,7 @@ El valle de las penas te mostró lo contrario, ¿no?
 Can you save her, Sombria?
 ¿Puedes salvarla, Sombia?
 I-I have to...
-Tengo que ...
+Tengo que...
 she saved me.
 Ella me salvó.
 Besides, she's my little sister.
@@ -10833,7 +10833,7 @@ Hey! Escucha...
 do you wanna go grab some waffles or something at Daisy's?
 ¿Quieres ir a tomar algunos gofres o algo en Daisy's?
 I thought I'd drop by...
-Pensé que pasaría ...
+Pensé que pasaría...
 see if you two made it back in one piece.
 Mira si ustedes dos volvieron en una sola pieza.
 It took a forever! But we made it!
@@ -10849,7 +10849,7 @@ Vas a decirle lo desagradable que era para ti ayuda.
 The door looks like it's gonna fall off anyway.
 Parece que la puerta se va a caer de todos modos.
 It sounds like someone calling my name...
-Parece que alguien que me llama mi nombre ...
+Parece que alguien que me llama mi nombre...
 should I call back?
 ¿Debería volver a llamar?
 Lu-Luzia?!
@@ -10857,7 +10857,7 @@ Lu-Luzia?
 Is that really you!?
 ¿¡Eres realmente tú!?
 I-It's me...
-Yo es yo ...
+Yo es yo...
 it's-
 su-
 MOM!
@@ -10865,7 +10865,7 @@ MOM!
 It's so g-good to see your face again, honey.
 Es tan bueno ver tu cara de nuevo, cariño.
 I-I don't know. I woke up in here, it feels like it's been weeks...
-No lo sé. Me desperté aquí, parece que han pasado semanas ...
+No lo sé. Me desperté aquí, parece que han pasado semanas...
 maybe months.
 Tal vez meses.
 W-Where is Sombria?
@@ -10875,7 +10875,7 @@ Ella está en su habitación, probablemente llorando. ¡Sin embargo, la sirve bi
 She called me stupid! She said we were adopted! I just can't trust her anymore.
 ¡Ella me llamó estúpido! ¡Dijo que fuimos adoptados! Ya no puedo confiar en ella.
 Luzia, I remember the first day I lay eyes on you...
-Luzia, recuerdo el primer día que te miré ...
+Luzia, recuerdo el primer día que te miré...
 I just knew that you were mine, your sister too.
 Solo sabía que eras mía, tu hermana también.
 Both you and Sombria arrived on my doorstep a very long time ago.
@@ -10895,7 +10895,7 @@ Lo siento, Luzia.
 For all of it.
 Por todo.
 T-That bow of yours...
-T-esa reverencia tuya ...
+T-esa reverencia tuya...
 it's crooked.
 Está torcido.
 It's how I like it.
@@ -10903,7 +10903,7 @@ Así es como me gusta.
 It suits you.
 Te conviene.
 T-Thanks...
-T-gracias ...
+T-gracias...
 no matter what happens to me.
 No importa lo que me pase.
 always look out for your sister.
@@ -10919,19 +10919,19 @@ Lo siento mama.
 There's no need to be.
 No hay necesidad de serlo.
 Just stick together...
-Solo manténgase juntos ...
+Solo manténgase juntos...
 and you'll be alright.
 y estarás bien.
 I haven't been my self lately.
 No he sido mi yo últimamente.
 I want to help, I really do...
-Quiero ayudar, realmente lo hago ...
+Quiero ayudar, realmente lo hago...
 but this stuff seems so complicated, she never wants my help.
 Pero esto parece tan complicado que ella nunca quiere mi ayuda.
 She does, Luzia.
 Ella lo hace, Luzia.
 She can't tell you how she feels, but that's what's best about being sisters...
-Ella no puede decirte cómo se siente, pero eso es lo mejor de ser hermanas ...
+Ella no puede decirte cómo se siente, pero eso es lo mejor de ser hermanas...
 you already know.
 usted ya sabe.
 Thanks...
@@ -10947,7 +10947,7 @@ No quiero dejarlo ir.
 Mom?
 ¿Mamá?
 I've missed you too, Sombie...
-Yo también te extrañé, sombrío ...
+Yo también te extrañé, sombrío...
 and you're long arms.
 Y tus largos brazos.
 TENA!!!
@@ -10961,11 +10961,11 @@ Where the heck is she?
 No, way!
 ¡De ninguna manera!
 I-I,u-uh...hi.
-I-i, u-uh ... hola.
+I-i, u-uh...hola.
 We've already ordered, thanks.
 Ya hemos ordenado, gracias.
 Huh, what? Oh, no! I uh...
-¿Eh qué? ¡Oh, no! Yo uh ...
+¿Eh qué? ¡Oh, no! Yo uh...
 You ok?
 ¿Estás bien?
 Y-Yes! I'm just looking for my sister, Tena. You haven't seen her, have you?
@@ -10989,7 +10989,7 @@ Oh, yeah! Thanks for reminding me!
 Thanks for holding it for me. Cya!
 Gracias por sostenerlo para mí. ¡Cya!
 Well, there she goes...again.
-Bueno, ahí va ... otra vez.
+Bueno, ahí va...otra vez.
 Glad she's ok, I hate it when my sister runs off like that.
 Me alegro de que esté bien, lo odio cuando mi hermana sale corriendo así.
 Hey! I do not!
@@ -11021,11 +11021,11 @@ That!
 Actually, I'm not even going there, it's too early.
 En realidad, ni siquiera voy allí, es demasiado temprano.
 It's pretty neat...
-Es bastante ordenado ...
+Es bastante ordenado...
 it has a swing, so that's something.
 Tiene un columpio, así que eso es algo.
 I love coming here it helps me...
-Me encanta venir aquí, me ayuda ...
+Me encanta venir aquí, me ayuda...
 relax.
 relax.
 Too bad I can't keep coming here anymore.
@@ -11043,7 +11043,7 @@ Why did you keep coming back?
 Pfft! Because you're my sister, silly!
 ¡No! ¡Porque eres mi hermana, tonta!
 Of course I'd be there for you...
-Por supuesto que estaría ahí para ti ...
+Por supuesto que estaría ahí para ti...
 whenever you need me.
 cuando me necesites.
 There's something that I wanted to ask you.
@@ -11107,15 +11107,15 @@ Do you think it's weird talking to your older sister?
 Well yeah, a little.
 Bueno, sí, un poco.
 You've never been this \"happy\" before.
-Nunca has sido esto \ "feliz" antes.
+Nunca has sido esto \"feliz\" antes.
 Yeah, it's a little weird...
-Sí, es un poco raro ...
+Sí, es un poco raro...
 but I kinda like it, y'know?
 Pero me gusta un poco, ¿sabes?
 So what's gonna happen now?
 Entonces, ¿qué va a pasar ahora?
 Well, I guess I'm gonna have to look after you...
-Bueno, supongo que tendré que cuidarte ...
+Bueno, supongo que tendré que cuidarte...
 seeing how moms-
 viendo cómo las mamás-
 I know, Sombie.
@@ -11169,7 +11169,7 @@ Será un año difícil por delante, Luzia.
 But we'll manage.
 Pero nos las arreglaremos.
 Well with a big sis like you...
-Bien con una hermana grande como tú ...
+Bien con una hermana grande como tú...
 I know we definitely will!
 ¡Sé que definitivamente lo haremos!
 Huh, Luzia. That bow of yours is crooked.
@@ -11179,60 +11179,60 @@ Just the way I like it!
 Ha! Never change, Luzia.
 ¡Decir ah! Nunca cambies, Luzia.
 Stranga Games, Duckman
-Juegos de Stranga, Duckman
+
 VOICE ACTORS
 ACTORES DE DOBLAJE
 Sombria..................Gigglescar
-Sombria .................. Gigglescar
+
 Luzia....................Shion
-Luzia .................... Shion
+
 \"THE LOOP\" SONG VOCALIST
-\ "The Loop \" Vocalista de la canción
+\"The Loop\" Vocalista de la canción
 Emee
-Emee
+
 BETA TESTERS
 Beta testers
 Akriloth
-Akriloth
+
 Aspid Cat
-Gato aspid
+
 BEKOBCN
-Bekobcn
+
 Cristian Nuñez \"BlindRage\"
-Cristian Nuñez \ "Blindrage \"
+
 chocko-cookie
-chocko-cookie
+
 doc_twOwO
-doc_twowo
+
 Gin_Luc
-Gin_luc
+
 gsd
-GSD
+
 KitKima
-Kitkima
+
 Kim \"Omen\"
-Kim \ "Omen \"
+
 ladymira
-ladymira
+
 Lucid
-Lúcido
+
 Daniil Smolyar \"MegaMix_Craft\"
-Daniil Smolyar \ "megamix_craft \"
+
 Miku-San
-Miku-san
+
 Rafaela Duckling
-Patito de rafaela
+
 SCARY-_-
-ATERRADOR-_-
+
 Stephi
-Stephi
+
 XlalasogoneX
-Xlalasogonex
+
 Benedikt \"Leogrim\" Geierhofer
-Benedikt \ "Leogrim \" Geierhofer
+
 FULL GAME TESTERS
 Probadores de juego completos
 Adventure Game Studio 3.6.0
-Adventure Game Studio 3.6.0
+
 RoomRefresh
-Resonancia
+
