@@ -7,10 +7,12 @@ However, I'm opening up these files so that the community can add their own tran
 
 # INSTRUCTIONS
 
-1. Download the `English.trs` (or whichever language you wish to update) file to your pc.
+1. Download the `English.trs`/`English.txt` (or whichever language you wish to update) file to your pc.
 
 2. Open [this](https://tzachshabtay.github.io/ags-trs-editor/) page in any web browser.
     * Click the little upload cloud symbol in the top left and select the `<Language>.trs` file.
+    
+    Or use any text editor you want if you are going to translate Steam Store page :>
 
 3. Go nuts, lol! Click on any line and retype the line out to add your translation.
 
@@ -26,7 +28,7 @@ However, I'm opening up these files so that the community can add their own tran
    o dia está claro e ensolarado <- Add translations here (Pardon the cheap translation) 
    ```
 
-5. Once you are done there - please submit a new **Pull Request** naming it like that: `[Your_Language_Code] Update/Add Translation` (e.g. `[UA] Add Translation`)! 
+5. Once you are done there - please submit a new **Pull Request** naming it like that: `[Your_Language_Code] Update/Add Game/Store Translation` (e.g. `[UA] Add Game Translation`)! 
 
    After doing that - please do try to find fluent language speaker who is not you, to check your translation! (But if you can't do that - let us know by adding that to your PR description!) 
 
