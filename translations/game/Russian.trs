@@ -817,7 +817,7 @@ SECRET END
 Early Access Checkpoint
 Точка Сохранения Раннего Доступа
 Stranga Games says: Thanks for playing!
-Stranga Games говорит: Спасибо за то что играли!
+Stranga Games говорит: Спасибо за игру!
 W-Wha? Where am I?
 Ч-Что? Где я?
 P-Please?
@@ -843,43 +843,43 @@ I-I'm sorry, Sombria...
 we'll figure this out soon, I promise.
 мы скоро всё выясним, обещаю.
 I can't open it.
-Я не могу открыть это.
+Не могу её открыть.
 The lock's broken!
 Замок сломан!
 Hello!?
-Привет!?
+Здравствуйте?
 Is anyone in there!?
-Есть там кто-нибудь!?
+Здесь кто-нибудь есть?!
 I guess not.
-Я думаю, нет.
+Кажется, нет.
 It's a poster for a cola company.
-Это плакат для компании колы.
+Это постер с рекламой газировки.
 \"Feel fresh with our new cola Buzz Blast\"
-\"Почувствуй себя свежее с нашей новой колой Buzz Blast\"
+\"Освежись с нашей новой колой Buzz Blast\"
 The bottle's stuck between her boobs.
-Бутылка застряла в её груди.
+Сама кола застряла у модели между буферами.
 ACH_BOOBPOSTER
 
 They're old animal cages.
-Это старые клетки для животных.
+Эти клетки для животных выглядят очень старыми.
 They smell horrible, like something died in-
-Они пахнут ужасно, как будто что-то умерло в-
+Они ужасно пахнут, как будто внутри что-то ум...
 Oh, the poor things.
-Ох, бедные существа.
+О, бедные животные...
 Boiler Door Unlocked
 Дверь Котельной Разблокирована
 Wait, there's something in there.
-Подожди, там что-то есть.
+Секунду, там внутри что-то есть.
 A key!
 Ключ!
 I can't reach it, my hands won't fit through the cage.
-Я не могу добраться до него, мои руки не пройдут через решётку.
+Мне его не достать - рука не пролазит сквозь прутья.
 I could use somthing smaller and longer to reach them.
-Я могла бы использовать что-то меньше и длиннее, чтобы добраться до него.
+Возможно, я смогу достать ключ чем-то более маленьким и длинным?
 A little closer.
-Немного ближе.
+Ещё немного...
 There! I wonder what you unlock, little key.
-Вот так! Интересно, что ты открываешь, маленький ключ.
+Ура! Интересно, что он открывает?
 CoatHanger
 
 Hey! Now there's something I can use!
@@ -887,13 +887,13 @@ Hey! Now there's something I can use!
 There's nothing else useful in here.
 Здесь нет ничего полезного.
 It's pretty dark down there.
-Там довольно темно.
+Внизу довольно темно.
 Wait!
-Подожди!
+Погодите...
 I can see something shiny!
 Я вижу что-то блестящее!
 I need something to reach it, though.
-Однако мне нужно что-то, чтобы добраться до этого.
+Но мне нечем его достать.
 Whoops! Almost dropped it!
 Упс! Почти уронила!
 I can use this to reach that shiny thing.
@@ -941,37 +941,37 @@ ACH_YUMMY_NOODLES
 FishGuy
 
 Excuse me?
-Извините?
+Простите, пожалуйста?..
 Do you know where I am?
-Вы знаете, где я?
+Вы не знаете, где я?
 This is the Downtown Marketplace, why? Are you lost?
-Это рынок в центре города, а что? Ты заблудилась?
+Это Центральный рынок... А что, ты заблудилась?
 I'm not sure.
 Я не уверена.
 Where are your parents?
 Где твои родители?
 I'm not sure about that either.
-Я также не уверена в этом.
+В этом я тоже не уверена.
 Well, maybe you should just wait here...
-Ну, может быть, тебе следует просто подождать здесь...
+Тогда, может быть, тебе лучше подождать здесь...
 it'll make it easier for them to find you.
-Так им будет легче найти тебя.
+Так им будет проще тебя найти.
 I guess you're right.
-Я думаю, вы правы.
+Наверное, вы правы.
 Say, you haven't found a key, have you?
-Скажи, ты не находила ключ, не так ли?
+Кстати, ты случайно не находила ключ?
 I dropped it around here somewhere.
-Я обронил его где-то здесь.
+Я выронил его где-то неподалёку.
 Nope, sorry, Mister.
-Нет, извините, Мистер.
+Не-а. Простите.
 I-It's an air duct...
-Э-Это воздушный канал...
+Э-это вентиляция...
 maybe I can find a way out through here?
-может, я могу найти выход через неё?
+Может быть, через неё я смогу выбраться отсюда?
 It's pretty dark in there, though.
-Впрочем, там довольно темно.
+Однако, там довольно темно.
 I'll need to find a light before I go in.
-Мне нужно найти свет, прежде чем я пойду.
+Сперва нужно найти, чем освещать путь.
 That's better! I can see where I'm going now.
 Так-то лучше! Теперь я могу видеть куда я иду.
 I hope this'll help us find a way home.
@@ -989,25 +989,25 @@ I thought I'd never find it.
 ACH_COMMON_COURTESY
 
 It's locked...but...
-Она заперта... но...
+Дверь заперта, но...
 I can hear someone crying in there.
-я слышу, как кто-то плачет там.
+я слышу, как внутри кто-то плачет.
 Empty
 Пусто
 Door
 Дверь
 Serving Window
-Окно Обслуживания
+Окно Выдачи Заказов
 Poster
 Плакат
 Creates
-Ящики
+Клетки
 Cutscene
 Заставка
 Man
 Мужчина
 Air Duct
-Воздушный Канал
+Вентиляция
 Locker
 Шкафчик
 Boiler Room
