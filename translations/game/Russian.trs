@@ -173,7 +173,7 @@ Mom's Heart
 Chapter Select Unlocked
 Выбор Главы Разблокирован
 I can't use this here.
-Я не могу здесь это использовать.
+Я не могу использовать это здесь.
 Who drew this?
 Кто это нарисовал?
 A
@@ -321,13 +321,13 @@ Description
 Mumbo no 5
 
 INFO
-INFO
+ИНФОРМАЦИЯ
 ....
 
 Luzia
 Люция
 ITEM FOUND
-ПОЛУЧЕНО
+НАЙДЕН ПРЕДМЕТ
 Blue Mug
 Голубая Кружка
 v1.00
@@ -413,7 +413,7 @@ Spirit Of Roh
 Spirit Of Red Witch
 Дух Красной Ведьмы
 Saving Game
-Сохранение
+Сохранение Игры
 Boiler Key
 Ключ от бойлерной
 It's an old rusty key to the boiler room.
@@ -829,7 +829,7 @@ W-What are you doing here?
 I need your help, Luzia.
 Помоги мне, Люция.
 Like I told you before, I don't need your help!
-Я уже говорила: мне не нужна твоя опека!
+Я уже говорила: мне не нужна твоя помощь!
 B-But I-
 Но... Но я...
 Just go away, Sombria!
@@ -841,7 +841,7 @@ Just go!
 I-I'm sorry, Sombria...
 Прости, Сомбрия...
 we'll figure this out soon, I promise.
-Скоро мы найдём отсюда выход. Обещаю. 
+скоро мы выберемся отсюда. Обещаю. 
 I can't open it.
 Я не могу открыть это.
 The lock's broken!
@@ -901,7 +901,7 @@ I can use this to reach that shiny thing.
 It's a flashlight...
 Это фонарик...
 this could be useful.
-Может пригодиться.
+он может пригодиться.
 Well, I guess I don't need this coat hanger anymore.
 Думаю, вешалка мне больше не понадобится.
 It's unlocked!
@@ -917,7 +917,7 @@ Mmmm...
 That smells delicious!
 Как здесь вкусно пахнет!
 Hello there my child, are you lost?
-Здравствуй, моя маленькая. Ты потерялась?
+Здравствуй, дитя. Ты потерялась?
 I don't know...
 Точно не знаю...
 I fell asleep...
@@ -931,9 +931,9 @@ How about some of those tasty noodles?
 I'm starving!
 Умираю от голода!
 I insist...
-И всё же, я настаива...
+И всё же, я настаиваю...
 here you are.
-Вот, держи.
+вот, держи.
 Mmmmmm, yum!
 М-м-м, вкуснятина!
 ACH_YUMMY_NOODLES
@@ -8073,7 +8073,7 @@ LUZIA!!!
  -=+.,:;!?
 
 Save:
-Сейв:
+Сохранение:
 ERROR: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
 ОШИБКА: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
 0
