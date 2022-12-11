@@ -63,7 +63,7 @@ Room Name
 Saving Game...
 Сохранение Игры...
 Game Saved.
-Игра сохранена.
+Игра Сохранена.
 Select a slot to save.
 Выберите слот для сохранения.
 No save slots detected.
@@ -441,11 +441,11 @@ A small keychain flashlight. Can be used in dark areas.
 Bobby Pin
 Заколка
 One of Sombria's old...ugh, bobby pin.
-Одна из старых... фе-е... заколок Сомбрии.
+Одна из старых... эм, заколок Сомбрии.
 Bloody Picture
-Кровавый рисунок
+Кровавая Картина
 It's a bloody picture of our...house?
-Это рисунок... нашего дома?
+Это кровавая картина нашего...дома?
 Doll
 Кукла
 An old plush doll. It has markings on inappropriate places.
@@ -479,33 +479,33 @@ A Red Spider Lily
 It's a beautiful  looking flower but, it has a terrible meaning.
 Это красиво выглядящий цветок, но он имеет ужасное значение.
 Wood
-Древесина
+Доска
 An old piece of timber. It doesn't look safe.
-Старый кусок древесины. Он выглядит небезопасно.
+Старая деревянная доска. Выглядит не слишком надёжно.
 Magnet
 Магнит
 A small but powerful magnet.
-Небольшой, но мощный магнит.
+Маленький, но мощный магнит.
 Fishing Line
 Леска
 A reel of fishing line. Was someone fishing down here?
-Катушка рыболовной лески. Кто-то рыбачил здесь?
+Моток рыболовной лески. Здесь что, кто-то рыбачил?
 Sewer Key
-Ключ от Канализации
+Ключ от канализации
 The key to the sewer gate.
-Ключ от канализационных ворот.
+Ключ от ворот канализации.
 Metal Pipe
 Металлическая Труба
 It's a metal pipe...nothing special about it.
-Это металлическая труба...ничего необычного.
+Металлическая труба, в которой... нет ничего особенного.
 Power Cable
-Силовой Кабель
+Электрокабель
 It's a power cable. Looks like it fits into a computer of somesort.
-Это кабель питания. Похоже, он подходит для компьютера.
+Кажется, он предназначаен для какого-то компьютера.
 Fishing Pole
 Удочка
 A custom made magnetic fishing pole.
-Собранная магнитная удочка.
+Самодельная удочка с магнитом на конце.
 Apple
 Яблоко
 A delicious granny smith.
@@ -573,9 +573,9 @@ $SAVEGAMEDIR$/version.txt
 $SAVEGAMEDIR$/SaveChecker.dat
 
 Save Slots Detected
-Обнаружены слоты сохранения
+Обнаружены Слоты Сохранения
 Empty Slot
-Пустой слот
+Пустой Слот
 Korean
 Корейский
 No save files detected.
@@ -1025,7 +1025,7 @@ Fireplace
 ATruck
 
 Huh?
-А?
+Хм?
 Wait a second, that's not Mom's car!
 Подождите секунду, это не мамина машина!
 Maybe it's Sombie's boyfriend? Doesn't he own a moving truck?
@@ -1033,81 +1033,81 @@ Maybe it's Sombie's boyfriend? Doesn't he own a moving truck?
 She better not be hiding in there!
 Ей лучше не прятаться там!
 A ha! Caught'ya! I could smell you a mile away!
-Ага! Попалась! Этот запах можно учуять за милю!
+А! Поймай! Я мог почувствовать тебя в миле!
 Oh great, the smoke police.
-А вот и дымовая полиция.
+О, отлично, дымовая полиция.
 You gonna tell mom?
-Расскажешь маме?
+Ты скажешь маме?
 No, as usual.
-Нет, как всегда.
+Нет, как обычно.
 I can't sleep Sombie.
-Мне не спится, Сомби.
+Я не могу спать, Сомби.
 I told you before, stop calling me that!
-Я тебе уже говорила, не называй меня так!
+Я говорил тебе раньше, перестань мне это называть!
 Well, what do your friends call you?
-Ладно, как тебя называют друзья?
+Ну, как вам зовут ваши друзья?
 Somba.
 Сомба.
 Pfft! That's stupid.
-Пф-ф-ф! Звучит по-дурацки.
+Пффт! Это глупо.
 I like Sombie better.
-Мне больше нравится \"Сомби\".
-Такое чувство, что ты называешь меня \"зомби\".
+Мне больше нравится Сомби.
+It sounds like you're calling me a \"zombie\".
 Похоже, ты называешь меня \ "Зомби \".
 Do I look like a zombie to you?
-Разве я похожа на зомби?
+Я выгляжу для тебя как зомби?
 Yeah, when your getting outta the shower.
-Ещё как, особенно когда выходишь из душа.
+Да, когда вы выходите из душа.
 Grr! Shut up, Luzia!
-Ой, да иди ты, Люция!
+Грр! Заткнись, Лузия!
 You look like a creepy doll!
-Ты сама выглядишь как зловещая кукла!
+Ты выглядишь как жуткая кукла!
 Yeah, but you can still cuddle a doll.
-Точно, но куклу хотя бы можно обнять.
+Да, но вы все равно можете обнять куклу.
 I wouldn't want to cuddle a zombie.
-Не хотелось бы мне обниматься с зомби...
+Я не хотел бы обниматься с зомби.
 *Sigh* Look, why can't you sleep?
-*Вздох* Слушай, почему ты не спишь?
+* Вздох* Смотри, почему ты не можешь спать?
 I had that dream again....
-Я снова видела тот сон...
+У меня снова была эта мечта ....
 Again? Which one?
-Опять? Который?
+Опять таки? Который из?
 The one where you were stuck in that marketplace...
-Тот, где ты застряла на рынке?..
+Тот, где вы застряли на этом рынке ...
 What about that German singing alligator one?
-Или тот, где крокодил поёт по-немецки?
+Как насчет того немецкого поющего аллигатора?
 *Sigh* Please...
-*Вздох* Прошу тебя...
+* Вздох* Пожалуйста ...
 I was trying to forget about that one, that damned song.
-Я всё пытаюсь забыть его, вместе с этой проклятой песней.
+Я пытался забыть об этом, эта проклятая песня.
 Nope, definately the marketplace one.
-Нет, это действительно был сон про рынок.
+Нет, определенно рынок.
 You mean the one where I'm like this \"ghost-like\" thing?
-В смысле, тот, где я похожа на \"что-то вроде призрака\"?
+Вы имеете в виду ту, где я люблю это \ "Призрачная вещь \"?
 Yep!
-Да!
+Ага!
 Doesn't that bother you at all?
-Тебя это не беспокоит?
+Вас это вообще не беспокоит?
 Why? It's your dream, after all.
-С чего бы? В конце концов, это же твой сон.
+Почему? В конце концов, это ваша мечта.
 But you're dead.
-Но ты в нём мёртвая!
+Но ты мертв.
 It's just a dream Luzia.
-Это всего лишь сон, Люция.
+Это просто мечта, Лузия.
 Whatever you say, Sombie...
-Как скажешь, Сомби...
+Что бы вы ни говорили, Сомби ...
 just don't say I didn't warn you.
-Но потом не говори, что я тебя не предупреждала.
+Только не говори, что я тебя не предупредил.
 You worry too much, besides...
-Не придавай снам слишком много значения. И вообще...
+Вы слишком беспокоитесь, кроме ...
 you better get back to bed, mom's gonna be home soon.
-тебе лучше вернуться в постель. Мама скоро будет дома.
+Тебе лучше встать в постель, мама скоро вернется дома.
 She'll get mad if you're up again.
-Она разозлится, если увидит, что ты опять не спишь.
+Она разозлится, если ты снова встанет.
 Besides, it's cold out here.
-Да и холодно здесь...
+Кроме того, здесь холодно.
 Ok, Ok, I'm going to bed. Yeesh!
-Ладно, поняла, хватит уже! Пойду спать.
+Хорошо, хорошо, я иду спать. Да, да!
 Sommmmbieeee?
 Sommmmbieeee?
 BobbyPin
@@ -1115,15 +1115,15 @@ BobbyPin
 What's this?
 Что это?
 A Bobby Pin.
-Заколка для волос.
+Bobby Pin.
 I used to pick Sombie's room with these.
-Такими я раньше вскрывала замок от комнаты Сомби.
+Раньше я выбирал комнату Сомби с ними.
 Ewww, there's a hair on it.
-Фе-е-е, к ней прилип волос.
+Ewww, на нем есть волосы.
 Why do I feel a sharp pain in my neck?
 Почему я чувствую острую боль в шее?
 Weird.
-Странно.
+Странный.
 There's nothing in here.
 Здесь ничего нет.
 Home
@@ -1133,61 +1133,61 @@ Mailbox
 Truck
 Грузовая машина
 Trash Can
-Мусорный бак
+Урна для мусора
 Garden Bed
-Грядка
+Садовая кровать
 Save Point
-Точка сохранения
+Сохранить точку
 Chapter1
 
 Why do I even bother sleeping?
-И зачем я только сплю?
+Почему я вообще затрудняюсь спать?
 I just keep having the same dream every god damn night!
-Я вижу один и тот же сон каждую чёртову ночь!
+Я просто продолжаю иметь одинаковую мечту каждую чертову ночь!
 The same freakin' dream!
-Один и тот же дурацкий сон!
+Тот же чертовски мечта!
 *Sigh* Great!
-*Вздох* Классно!
+* Вздох* Отлично!
 Now I can't get back to sleep!
-После такого мне и спать больше не хочется!
+Теперь я не могу заснуть!
 Better see what Sombie's up to.
-Лучше посмотрю, что сейчас делает Сомби.
+Лучше увидеть, что задумал Сомби.
 Ok, lets get some sleep!
-Ну ладно, пора спать!
+ОК, давай поспать!
 Ok...
-Ну ладно...
+Ok...
 this is not working!
-у меня не получается!
-ПОЧЕМУ МНЕ НЕ СПИТСЯ?!
+Это не работает!
+WHY CAN'T I SLEEP?!
 Почему я не могу спать?!
 Oh, yeah! The lights!
-А, точно! Свет!
+Ах, да! Огни!
 Better turn them off.
-Нужно его выключить.
+Лучше выключить их.
 Like duh.
-Иначе не заснётся.
+Как дух.
 That was quick, I didn't even leave the bed.
-Как быстро! Даже с кровати вставать не пришлось.
+Это было быстро, я даже не покинул кровать.
 Maybe a fuse or something?
-Может, предохранитель сгорел?
+Может быть, предохранитель или что -то в этом роде?
 *Sigh* I'm gonna get in trouble for this, but...
-*Вздох* Я, конечно, попаду в неприятности, но...
+* Вздох* У меня будут проблемы для этого, но ...
 MOM! MOMMY! THE LIGHT'S BLEW UP!
-МАМА! МАМОЧКА! У НАС СВЕТ ВЫРУБИЛО!
+МАМА! Мама! Свет взорвался!
 M-Mom?
 М-мама?
 I bet Sombie's just tryin' to scare me again.
-Должно быть, Сомби опять пытается меня напугать.
+Бьюсь об заклад, Сомби просто пытается напугать меня снова.
 SOMBIE! YOU'RE GONNA GET IT!
-СОМБИ! ТЫ ОБ ЭТОМ ПОЖАЛЕЕШЬ!
+Сомби! Ты это получишь!
 Sombria!?
-Сомбрия?!
+Сомбрия!?
 Fine, I guess I'll just go and fix the lights myself!
-Ладно, тогда я пойду и починю свет сама!
+Хорошо, я думаю, я просто пойду и сам починю свет!
 Hmm, I think I'll go for a glass of milk!
-Хм-м. Выпью-ка я на ночь молока!
+Хм, я думаю, я пойду на стакан молока!
 That should help me sleep!
-Говорят, это помогает заснуть!
+Это должно помочь мне спать!
 I can't sleep.
 Я не могу спать.
 I hate that dream, so much...
@@ -1195,35 +1195,35 @@ I hate that dream, so much...
 Although, those noodles do sound delicious!
 Хотя эта лапша звучит восхитительно!
 Only my mom's lucky screwdriver, which I don't need.
-Внутри только мамина счастливая отвёртка. Мне она не нужна.
+Только моя мама счастливая отвертка, которая мне не нужна.
 Weird place for a screwdriver? Shouldn't it be in a toolbox?
-Странно, что она лежит здесь. Разве её место не в ящике с инструментами?
+Странное место для отвертки? Разве это не должно быть в наборе инструментов?
 I always hated this picture, my bow is crooked and everything.
-Никогда не любила эту картину. На ней у меня бант криво сидит.
+Я всегда ненавидел эту фотографию, мой лук кривой и все такое.
 Where did I even get this bow from?
-Откуда у меня вообще взялся этот бант?
+Откуда я даже взял этот лук?
 I better stay out of her room, she'd kill me.
-Лучше держаться от комнаты Сомби подальше, не то она меня убьёт!
+Мне лучше держаться подальше от ее комнаты, она убьет меня.
 Besides, it's locked.
-К тому же, дверь закрыта на ключ.
+Кроме того, он заперт.
 Well, just a peek. She's not gonna mind.
-Взгляну одним глазком. Сомби не будет против.
+Ну, просто взгляд. Она не будет возражать.
 Who am I kidding? She's gonna kill me!
-Кого я обманываю? Она меня прикончит!
+Кого я шучу? Она убьет меня!
 Great! The boby pin broke anyway!
-Отлично! Ещё и заколка сломалась!
+Большой! Боба -булавка все равно сломалась!
 Huh? What's this? A photo?
-Секундочку, что это?..
+Хм? Что это? Фото?
 I don't need to use it.
-Сейчас мне не нужен компьютер.
+Мне не нужно его использовать.
 No internet on it anyway, it's for school work.
-К тому же, он без интернета. Только для домашних заданий по школе.
+В любом случае, нет интернета, это для школьной работы.
 Y'know, I think I'll go for a glass of milk.
 Знаешь, я думаю, что пойду на стакан молока.
 Bed
 Кровать
 Computer
-Компьютер
+Компьютерный
 Drawer
 Ящик стола
 Picture
@@ -1231,7 +1231,7 @@ Picture
 Sombria's Room
 Комната Сомбрии
 Downstairs
-Первый этаж
+Внизу
 It's pretty dark outside.
 На улице довольно темно.
 I'll watch TV a little later.
@@ -1241,31 +1241,31 @@ I should really find Sombie first.
 GetToBed
 
 And just where do you think you're going? Hmm?
-Ну и куда ты собралась?
+И как вы думаете, куда идете? Хм?
 Well, MOM! I'm just going to the kitchen to get a glass of milk!
-Да так, МАМУЛЯ, просто шла на кухню, чтобы выпить стакан молока!
+Ну, мама! Я просто собираюсь на кухню, чтобы получить стакан молока!
 Typical eight year old.
-Типичная восьмилетка.
+Типичный восьмилетний.
 Uh, I'm twelve, dumb dumb!
-Мне вообще-то двенадцать, глупая!
+Аэ, мне двенадцать, тупой!
 Whatever, just hurry up and get to bed! Mom's gonna be home soon, and you'll be in trouble then.
-Какая разница? Поторопись, а потом быстро в кровать! Скоро мама вернётся, и у тебя начнутся проблемы.
+Как бы то ни было, просто поторопись и ложись спать! Мама скоро будет дома, и тогда у тебя будут проблемы.
 Don't worry, I'll just tell her I was having a quick smoke before bed.
-Не волнуйся, я просто скажу ей, что просто решила сбегать покурить перед сном.
+Не волнуйся, я просто скажу ей, что у меня был быстрый дым перед сном.
 GRR! JUST HURRY UP, LUZIA!
-ГР-Р! ШЕВЕЛИСЬ УЖЕ, ЛЮЦИЯ!
+Грр! Просто поторопись, Лузия!
 Okay, okay! Yeesh!
-Ладно-ладно! Вот разоралась!..
+Хорошо хорошо! Да, да!
 MomsHome
 
 You hear that?
-Ты это слышишь?
+Вы это слышите?
 Sounds like Mom's car, you better get to bed now!
-Похоже на звук маминой машины. Тебе лучше поторопиться!
+Похоже на машину мамы, вам лучше ложись спать сейчас!
 Oh shit!
 Вот дерьмо!
 Hey! Watch your language, Luzia! Bed! Now!
-Эй! Следи за языком, Люция! В кровать! Живее!
+Привет! Смотрите свой язык, Лузия! Кровать! В настоящее время!
 WhereIsSombria
 
 S-Sombie?
@@ -1277,31 +1277,31 @@ I bet she wants me to follow that trail of \"blood\", but guess what, I'm not du
 She's hiding in the kitchen, I know it!
 Она прячется на кухне, я это знаю!
 Go to bed, Luzia! Now!
-Иди спать, Люция! Бегом!
+Ложись спать, Лузия! В настоящее время!
 Hey, Sombie. Did you draw this?
-Кстати, Сомби, это ты нарисовала?
+Эй, Сомби. Вы нарисовали это?
 What?! Have you been in my room again?!
-Что?! Ты опять залезла в мою комнату?!
+Какая?! Вы снова были в моей комнате?!
 No, you dummy! I found it under your door.
-Нет, глупая! Я нашла это у тебя под дверью.
+Нет, ты манекен! Я нашел это под твоей дверью.
 It's kinda creepy.
-Ну и зловещая картинка.
+Это немного жутко.
 Someone's been mailing them to us lately.
-Кто-то недавно начал присылать нам такие по почте.
+Кто -то в последнее время отправляет их по почте.
 I don't know who it is but if it happens again I'm calling the cops.
-Не знаю, кто это делает, но если придёт ещё одна, я вызываю копов.
+Я не знаю, кто это, но если это случится снова, я звоню полицейским.
 It's really freaking me out.
-Это действительно пугает.
+Это действительно волнует меня.
 Maybe it's burried treasure?
-Может, это карта сокровищ? С закопанным кладом?
+Может, это сокровище?
 Please, just go to bed.
-Пожалуйста, просто иди спать.
+Пожалуйста, просто ложись спать.
 ACH_FINDING_SECRETS
 
 Ew! Luzia, have you been going through the trash again?
-Фу! Люция, ты снова копалась в мусоре?
+Эй! Лузия, ты снова переживал мусор?
 Upstairs
-Второй этаж
+Вверх по лестнице
 Window
 Окно
 TV
@@ -1309,7 +1309,7 @@ TV
 Kitchen
 Кухня
 Front Door
-Входная дверь
+Передняя дверь
 NotHere
 
 Huh, well, she's not in here.
@@ -1317,13 +1317,13 @@ Huh, well, she's not in here.
 Maybe she's hiding in the bathroom?
 Может, она прячется в ванной?
 Huh, it's a sink. That's pretty neat!
-Ого, вот это раковина! Круто!
+Да, это раковина. Это довольно аккуратно!
 If anyone is listening to me right now, I'm using sarcasm!
-Если кто-то меня сейчас слышит, это сарказм!
+Если кто -то сейчас меня слушает, я использую сарказм!
 I would use this mug but Sombie's been slobbering all over it.
-Я бы воспользовалась этой чашкой, но Сомби обслюнявила её со всех сторон.
+Я бы использовал эту кружку, но Сомби был слюнялся по всему.
 Yuck! Smells like cigarettes! How come mom hasn't noticed yet?
-Фу! Пахнет сигаретами! И как мама до сих пор не заметила?
+Тонь! Пахнет как сигареты! Почему мама еще не заметила?
 Sombie!
 Сомби!
 Sombria! Open up, I know you're in there!
@@ -1331,25 +1331,25 @@ Sombria! Open up, I know you're in there!
 Great, I'm gonna have to follow that trail.
 Отлично, мне придется следовать по этому следу.
 I don't need to go to the bathroom.
-Сейчас мне не нужно в туалет.
+Мне не нужно идти в ванную.
 Gee, I wonder why \"assface\" gets to stay up so late? She doesn't even do anything besides being annoying!
-Кстати, почему эта \"задница\" сама не спит по ночам? Ей ведь даже нечем заняться, кроме как злить меня!
+Ну и дела, мне интересно, почему \ "задницу \" не ложится спать так поздно? Она даже ничего не делает, кроме как раздражать!
 Maybe I should tell Mom she's smoking? Nah, that's probably a bad idea, she'll tell Mom about my Mr. Roachy.
-Может, рассказать маме, что она курит? Нет, не пойдёт - тогда она расскажет про моего Таракашку.
+Может, я должен сказать маме, что она курит? Нет, это, вероятно, плохая идея, она расскажет маме о моем мистере Рочи.
 I need to find a better home for it besides Sombie's underware draw.
-Сперва нужно переселить его из шкафа с бельём Сомби в безопасное место.
+Мне нужно найти лучший дом для этого, кроме того, что Сомби о приостановлении.
 Anyways, I better get back to bed.
-Но пока лучше скорее вернуться в кровать.
+В любом случае, мне лучше вернуться в постель.
 I can't believe Mom kept that stupid cat drawing! I did that when I was three!
-Не могу поверить, что мама до сих пор хранит этот дурацкий рисунок с котом. Я накалякала его в три года!
+Я не могу поверить, что мама сохранила этот глупый рисунок кошки! Я сделал это, когда мне было три года!
 I should have drawn a tiger, much cooler!
-Лучше бы я нарисовала тигра, он круче!
+Я должен был нарисовать тигр, намного прохладнее!
 Living Room
 Гостиная
 Bathroom
-Туалет
+Ванная комната
 Refridgerator
-Холодильник
+Переоборудован
 Sink
 Раковина
 Mug
@@ -2993,7 +2993,7 @@ Great! We're locked in.
 Maybe there's another way out.
 Может быть, есть другой выход.
 Draw
-Тумбочка
+Рисовать
 RedWitch
 
 Luzia, I'm so glad you could join us.
@@ -3093,193 +3093,193 @@ EmptyWater
 SewerIntro
 
 Sombie...
-Сомби ...
+Сомби...
 W-What has she done to you?
-W-что она с тобой сделала?
+Ч-Что она с тобой сделала?
 You look, different-
-Ты выглядишь иначе-
+Ты выглядишь... иначе...
 I KNOW, LUZIA!
-Я знаю, Лузия!
+Я ЗНАЮ, ЛЮЦИЯ!
 I-I, know.
-Я-я знаю.
+Я з-знаю.
 I'm sorry, I didn't mean to-
-Мне жаль, я не имел в виду-
+Прости, я не хотела...
 Please, just don't say anything right now...
-Пожалуйста, просто не говори сейчас прямо сейчас ...
+Пожалуйста, просто ничего не говори...
 leave me alone.
-Оставь меня в покое.
+Оставь меня наедине с собой.
 But you always want to be alone!
-Но ты всегда хочешь побыть один!
+Вечно ты хочешь быть наедине с собой!
 Well, I can't be alone when you're around!
-Ну, я не могу быть один, когда ты рядом!
+И у меня всё никак не получается, когда ты рядом!
 Why is this happening to me?
-Почему это происходит со мной?
+Почему это со мной происходит?
 What did I do to deserve this?
-Что я сделал, чтобы заслужить это?
+Чем я всё это заслужила?..
 This must be the way out of here.
-Это должен быть выход отсюда.
+Должно быть, это выход на поверхность.
 But it's locked.
-Но он заперт.
+Но ворота крепко закрыты.
 I'll have to find a key.
-Мне придется найти ключ.
+Придётся найти ключ.
 Just because I'm dry, doesn't mean I want to jump back in.
 Просто потому, что я сухой, это не значит, что я хочу прыгнуть назад.
 More dead animal cages floating in there.
 Больше мертвых клеток животных, плавающих там.
 There's a door on the other side.
-На другой стороне есть дверь.
+На той стороне видна дверь.
 I don't think I can jump that gap.
-Я не думаю, что смогу пережить этот разрыв.
+Но перепрыгнуть не получится.
 Maybe, I could make a bridge.
-Может быть, я мог бы сделать мост.
+Нужно придумать, что использовать вместо моста.
 I hope this holds.
-Я надеюсь, что это держится.
+Надеюсь, эта деревяшка меня выдержит.
 I don't want to get wet again.
-Я не хочу снова промокнуть.
+Плавать я больше не хочу.
 Eww gross!
 Eww Gross!
 Sewer water, yuck!
 Канализационная вода, Yuck!
 Hey! There's something shiny in there.
-Привет! Там что -то блестящее.
+О, там внутри что-то блестит...
 Hmm, I ain't sticking my hand in there.
-Хм, я не приковываю туда руку.
+Но рукой я туда не полезу.
 I'll need to fish it out somehow.
-Мне нужно как -то посыпать это.
+Эту штуку надо как-то притянуть.
 FindMetalPole
 
 Hopefully that shiny thing is made out of metal.
-Надеюсь, эта блестящая вещь сделана из металла.
+Надеюсь, эта блестящая штука окажется металлической.
 Well, it worked!
-Ну, это сработало!
+Сработало!
 It's a metal pipe.
 Это металлическая труба.
 Maybe I can find a use for it.
-Может быть, я смогу найти для этого.
+Может быть, она мне пригодится.
 I could use this plank of wood to make a bridge.
-Я мог бы использовать эту доску из дерева, чтобы сделать мост.
+Из этой доски выйдет отличный мост...
 It looks pretty old though.
-Хотя это выглядит довольно старым.
+Хотя она выглядит очень старой.
 I just hope it doesn't break.
-Я просто надеюсь, что это не сломается.
+Надеюсь, она не сломается.
 There's nothing else in there.
 Там нет ничего больше.
 There's something glimmering in there...
-Там что -то мерцает ...
+Там что-то поблёскивает...
 but I ain't sticking my hand in to find out.
-Но я не вкол руку, чтобы узнать.
+Но я боюсь засовывать туда руку - кто знает, что внутри?
 I'll need something long to reach it.
-Мне нужно что -нибудь долго, чтобы добраться до него.
+Нужно найти что-нибудь длинное...
 FindString
 
 This'll save me using my hand.
-Это спасет меня, используя мою руку.
+И не пришлось лезть туда рукой!
 Some fishing line?
-Какая -то рыболовная линия?
+Рыболовная леска?
 What kind of fish would you catch down here?
-Какую рыбу вы бы загнали здесь?
+Что за рыба может водиться в этой сточной канаве?
 Okay, let's make a fishing pole.
-Хорошо, давайте сделаем рыбацкий столб.
+Ладно, смастерим удочку.
 There's some sort of metal cable floating in the water.
-В воде плавает какой -то металлический кабель.
+Там, в воде, плавает какой-то кабель.
 I could fish it out if I had a fishing pole.
-Я мог бы ловить его, если бы у меня был рыбацкий столб.
+Я могла бы его достать, будь у меня удочка.
 I still can't reach it with the pole...
-Я до сих пор не могу добраться до полюса ...
+Так до него не дотянуться...
 but I could make a fishing pole if I had some string...
-Но я мог бы сделать рыбацкий столб, если бы у меня была какая -то струна ...
+но могла бы сделать удочку, будь у меня леска...
 and a hook.
 и крюк.
 SewerKey
 
 There you are! Mr. Gate Key!
-Вот ты где! Мистер Гейт Ки!
+А вот и вы, мистер Ключ!
 Let's get out of here.
-Давай выбираться отсюда.
+Нам пора выбираться отсюда.
 Sombie! I found the key to the gate.
-Сомби! Я нашел ключ к воротам.
+Сомби! Я нашла ключ от ворот.
 We can get outta here!
-Мы можем уйти здесь!
+Нам пора уходить!
 Just go without me, Luzia...
-Просто уходи без меня, Лузия ...
+Иди без меня, Люция...
 leave me here.
 Оставь меня здесь.
 Pfft, I knew you were going to say that!
-ПФФТ, я знал, что ты собираешься это сказать!
+Пф-ф-ф, я знала, что ты так и скажешь!
 Look Sombie, I don't know what the witch lady did to you...
-Смотри, сомби, я не знаю, что с тобой сделала леди ведьм ...
+Слушай, Сомби, я не знаю, что с тобой сделала эта ведьма...
 but we can fix it, we can't just give up.
-Но мы можем это исправить, мы не можем просто сдаться.
+Но мы сможем всё исправить. Нельзя так просто сдаваться.
 There must be a way to change you back!
-Должен быть способ изменить вас!
+Должен быть способ вернуть всё как было!
 I-I don't know, Luzia.
-Я-я не знаю, Лузия.
+Я... Я не знаю, Люция.
 You won't unless you try, Sombie.
-Вы не будете, если не попробуете, Сомби.
+И не узнаешь, пока не попробуешь, Сомби.
 But the witch, she's dead...
-Но ведьма, она мертва ...
+Но эта ведьма - она мертва...
 how are we going to change me back?
-Как мы собираемся меня сменить?
+Как мы тогда всё исправим?
 Maybe someone else knows? Lets go ask around!
-Может, кто -то еще знает? Пойдем спросить!
+Но, может быть, кто-то другой знает? Пошли поспрашиваем у других!
 Ok, and thanks, Luzia.
-ОК, и спасибо, Лузия.
+Хорошо. И спасибо, Люция.
 I should say it a lot more but it's hard, y'know?
-Я должен сказать это намного больше, но это сложно, понимаешь?
+Мне стоило бы говорить это почаще, но это непросто. Понимаешь?
 It's fine, Sombie.
-Все в порядке, Сомби.
+Всё в порядке, Сомби.
 Let's get going!
-Давайте идти!
+Пошли скорее!
 Gate
 Ворота
 Ladder
 Лестница
 Gap
-Зазор
+Край платформы
 WaterPipe
-
+Труба
 Pile of Wood
-Куча дерева
+Доски
 Control Room
 Комната управления
 Key
 Ключ
 Hole
-Отверстие
+Дыра
 Fishing Spot
 Место для рыбалки
 oKey
 
 Hmm, there must be a key in here somewhere?
-Хм, здесь должен быть ключ?
+Хм-м, где-то здесь может лежать ключ от ворот?
 I'll fix this, Sombie.
-Я исправлю это, Сомби.
+Всё будет хорошо, Сомби
 I don't need to use this anymore.
 Мне больше не нужно использовать это.
 What does this thing do?
-Что делает эта вещь?
+Зачем здесь этот компьютер?
 Water drainage?
-Вода дренаж?
+Чтобы откачивать воду?
 There's no power.
-Там нет силы.
+Он не включается.
 UsePowerCable
 
 Let's power this baby up!
-Давайте питаем этого ребенка!
+Сейчас мы тебя запитаем!
 What's that sound?
 Что это за звук?
 GetMagnet
 
 Hey, now we're talking!
-Эй, теперь мы говорим!
+Эй, вот это дело!
 Cool magnet!
-Крутой магнит!
+Крутейший магнит!
 Game Saved!
 Игра сохранилась!
 Sewer Control Room
-Канализационная диспетчерская
+Комната в канализации
 Main Sewer
-Главная канализация
+Канализация
 Shelves
 Полки
 Ok, lets go find someone who can help you.
@@ -6223,7 +6223,7 @@ It'll haunt me til' the day I die if you don't.
 Just please be alright, Luzia.
 Просто, пожалуйста, все в порядке, Лузия.
 Front door
-Входная дверь
+Передняя дверь
 AshBin
 
 Wall
