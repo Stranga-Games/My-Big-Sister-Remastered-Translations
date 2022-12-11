@@ -357,7 +357,7 @@ Cancel
 Vendor
 Продавец
 Noodle Lady
-Лапшичная Леди
+Продавщица лапши
 Therapist
 Терапевт
 Ashina
@@ -413,11 +413,11 @@ Spirit Of Roh
 Spirit Of Red Witch
 Дух Красной Ведьмы
 Saving Game
-Сохранение
+Сохранение Игры
 Boiler Key
-Ключ от Котельной
+Ключ от бойлерной
 It's an old rusty key to the boiler room.
-Это старый ржавый ключ от котельной.
+Старый заржавевший ключ от бойлерной.
 Blue Cup
 Синяя Чашка
 It's a blue coffee mug.
@@ -429,7 +429,7 @@ A fully charged battery.
 Chopsticks
 Палочки
 An ordinary pair of chopsticks.
-Обычная пара палочек для еды.
+Пара деревянных палочек для еды.
 Coat Hanger
 Вешалка
 An old coat hanger.
@@ -437,7 +437,7 @@ An old coat hanger.
 Flashlight
 Фонарик
 A small keychain flashlight. Can be used in dark areas.
-Небольшой фонарик на цепочке для ключей. Можно использовать в тёмных местах.
+Маленький фонарик-брелок. Полезен в тёмных помещениях.
 Bobby Pin
 Заколка
 One of Sombria's old...ugh, bobby pin.
@@ -825,23 +825,23 @@ P-Please?
 Anybody?
 Кто-нибудь?
 W-What are you doing here?
-Ч-Что ты здесь делаешь?
+К-Как ты сюда попала?
 I need your help, Luzia.
-Мне нужна твоя помощь, Люция.
+Помоги мне, Люция.
 Like I told you before, I don't need your help!
-Как я уже говорила тебе, мне не нужна твоя помощь!
+Я уже говорила: мне не нужна твоя помощь!
 B-But I-
-Н-Но я-
+Но... Но я...
 Just go away, Sombria!
-Просто уходи, Сомбрия!
+Просто исчезни, Сомбрия!
 Luzia...
 Люция...
 Just go!
-Просто уйди!
+Исчезни!
 I-I'm sorry, Sombria...
-М-Мне жаль, Сомбрия...
+Прости, Сомбрия...
 we'll figure this out soon, I promise.
-мы скоро всё выясним, обещаю.
+скоро мы выберемся отсюда. Обещаю. 
 I can't open it.
 Не могу её открыть.
 The lock's broken!
@@ -883,9 +883,9 @@ There! I wonder what you unlock, little key.
 CoatHanger
 
 Hey! Now there's something I can use!
-Хей! Теперь у меня есть что-то, что я могу использовать!
+Ого! Я нашла что-то полезное!
 There's nothing else useful in here.
-Здесь нет ничего полезного.
+Больше здесь ничего нет.
 It's pretty dark down there.
 Внизу довольно темно.
 Wait!
@@ -897,45 +897,45 @@ I need something to reach it, though.
 Whoops! Almost dropped it!
 Упс! Почти уронила!
 I can use this to reach that shiny thing.
-Я могу использовать это, чтобы дотянуться до этой блестящей вещи.
+Попробую подцепить блестящую штуку вешалкой.
 It's a flashlight...
 Это фонарик...
 this could be useful.
-он может быть полезен.
+он может пригодиться.
 Well, I guess I don't need this coat hanger anymore.
-Ну, я думаю, мне больше не нужна эта вешалка.
+Думаю, вешалка мне больше не понадобится.
 It's unlocked!
-Оно открылось!
+Замок открылся!
 You can keep the chopsticks darling.
-Ты можешь оставить эти палочки себе, дорогуша.
+Оставь палочки себе, золотце.
 Thanks!
 Спасибо!
 MmmNoodles
 
 Mmmm...
-Мммм...
+М-м-м...
 That smells delicious!
-Это пахнет вкусно!
+Как здесь вкусно пахнет!
 Hello there my child, are you lost?
-Привет, моё дитя, ты потерялась?
+Здравствуй, дитя. Ты потерялась?
 I don't know...
-Я не знаю...
+Точно не знаю...
 I fell asleep...
-Я уснула...
+Я помню, что заснула...
 the next thing I knew, I woke up here.
-следующее, что я знала - я проснулась здесь.
+а проснулась уже здесь.
 Are you hungry? Can I get you anything?
-Ты голодна? Принести тебе что-нибудь?
+Ты не голодная? Тебе что-нибудь принести?
 How about some of those tasty noodles?
-Как насчет некоторых из этих вкусных тарелок лапши?
+Можно мне этой вкусной лапши?
 I'm starving!
-Я голодна!
+Умираю от голода!
 I insist...
-Я настаиваю...
+И всё же, я настаиваю...
 here you are.
-вот, пожалуйста.
+вот, держи.
 Mmmmmm, yum!
-Мммммм, ням!
+М-м-м, вкуснятина!
 ACH_YUMMY_NOODLES
 
 FishGuy
@@ -973,19 +973,19 @@ It's pretty dark in there, though.
 I'll need to find a light before I go in.
 Сперва нужно найти, чем освещать путь.
 That's better! I can see where I'm going now.
-Так-то лучше! Теперь я могу видеть куда я иду.
+Так-то лучше! Теперь будет видно, куда я иду.
 I hope this'll help us find a way home.
-Я надеюсь, что это поможет нам найти путь домой.
+Надеюсь, это поможет нам вернуться домой.
 Um, excuse me?
-Эм, извините?
+Эм, прошу прощения...
 Yes?
 Да?
 I found your key, Mister!
-Я нашла ваш ключ, Мистер!
+Я нашла ваш ключ!
 Oh, thank you!
-Оу, спасибо!
+О, спасибо!
 I thought I'd never find it.
-Я думал, что никогда не найду его.
+Я думал, что больше его не увижу.
 ACH_COMMON_COURTESY
 
 It's locked...but...
@@ -8079,9 +8079,9 @@ ERROR: Null error referenced in timerValue. [ Please contact the game's develope
 0
 
 An ordinary pair of chopsticks.
-Обычная пара палочек для еды.
+Пара деревянных палочек для еды.
 An old coat hanger.
-Старая вешалка для пальто.
+Старая вешалка.
 A custom made magnetic fishing pole.
 Сделанный на заказ магнитный рыбацкий полюс.
 It's my uncle Bob's screwdriver!
