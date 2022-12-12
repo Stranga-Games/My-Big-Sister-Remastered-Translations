@@ -77,29 +77,29 @@ Select a slot to load.
 Hello?
 Привет?
 Is anybody there?
-Есть там кто-нибудь?
+Там кто-нибудь есть?
 Please, I need your help.
 Пожалуйста, мне нужна твоя помощь.
 Luzia, can't do this on her own...she needs you.
-Люция не сможет сделать это сама...она нуждается в тебе.
+Без тебя Люции с этим не справиться...
 Are you going to help her or not?
 Ты собираешься ей помочь или нет?
 Well?
 Ну?
 Hurry up, you're running out of time.
-Быстрее, у тебя кончается время.
+Торопись, у тебя кончается время.
 You can't do it? Can you?!
-Ты не можешь это сделать? Не так ли?!
+У тебя что, не получатеся?!
 You don't have what it takes!
-В тебе нет того, что для этого нужно!
+Ты не можешь помочь?!
 Well? DO SOMETHING!
-Ну? СДЕЛАЙ ХОТЬ ЧТО-НИБУДЬ!
+Ну? СДЕЛАЙ ЧТО-НИБУДЬ!
 It's too late, there's nothing you can do now.
-Слишком поздно, теперь ты ничего не можешь сделать.
+Слишком поздно, теперь уже ничего не исправить.
 Goodbye.
 Прощай.
 ERROR: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
-ОШИБКА: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
+ERROR: Null error referenced in timerValue. [ Please contact the game's developer to report this message. [ Press any key to close this message box and the game...
 ACH_SOMBIE_DEATH
 
 ...
@@ -751,9 +751,9 @@ We should do this more often...but it's a little late now.
 THE BUS STOP
 АВТОБУСНАЯ ОСТАНОВКА
 It's kinda creepy out here...
-Здесь немного жутко...
+Это место выглядит довольно зловеще...
 but strangely farmilliar. I feel too comfortable.
-но по странному знакомо. Я чувствую себя слишком комфортно.
+но на удивление знакомо. Мне даже слишком комфортно.
 COLD RAILS
 ХОЛОДНЫЕ РЕЛЬСЫ
 We're almost home.
@@ -915,7 +915,7 @@ MmmNoodles
 Mmmm...
 М-м-м...
 That smells delicious!
-Как здесь вкусно пахнет!
+Как вкусно пахнет!
 Hello there my child, are you lost?
 Здравствуй, дитя. Ты потерялась?
 I don't know...
@@ -1085,7 +1085,7 @@ Nope, definately the marketplace one.
 You mean the one where I'm like this \"ghost-like\" thing?
 В смысле, тот, где я похожа на \"что-то вроде призрака\"?
 Yep!
-Да!
+Ага!
 Doesn't that bother you at all?
 Тебя это не беспокоит?
 Why? It's your dream, after all.
@@ -1805,7 +1805,7 @@ she doesn't want my help.
 Pfft! That's what they all say.
 Пффт! Это то, что все они говорят.
 What do you mean?
-Что ты имеешь в виду?
+Что это значит?
 Do you think she want's you to ask you for your help?
 Как вы думаете, она хочет, чтобы вы попросили вас о вашей помощи?
 Heh, but what do I know?
@@ -2409,7 +2409,7 @@ People, especially humans, go missing round here...
 just be careful.
 просто будь осторожен.
 Gotcha...
-Попался...
+Понятно...
 but is there anything to eat around here?
 Но здесь есть что поесть?
 *Goddammit* Look! I'll try and find you a candy bar or something, happy?!
@@ -3699,7 +3699,7 @@ Heh, just drink this and go home.
 That is all.
 Это все.
 Wait, really?
-Подожди, правда?
+Что, серьёзно?
 That's it?
 Вот и все?
 No magic spells, voodoo or rituals?
@@ -3961,67 +3961,67 @@ Annnd there it goes. Enjoyment gone.
 Heh, you're a weird girl Luzia.
 Хех, ты странная девушка Луция.
 So much for the truck ride.
-Так много для поездки на грузовике.
+Вот и вся поездка.
 Just be thankful it got us this far.
-Просто будь благодарным, что это заставило нас так далеко.
+Остаётся радоваться, что грузовик довёз нас хотя бы сюда.
 Where are we anyway?
-Где мы вообще?
+Кстати, где мы?
 It looks like a bus stop.
-Это похоже на автобусную остановку.
+Похоже на автобусную остановку.
 Congratulations, Luzia...
-Поздравляю, Лузия ...
+Поздравляю, Люция...
 you won a cookie.
-Вы выиграли печенье.
+ты заслужила печенюшку.
 Gimme! I'm starving!
-Удачно! Я голоден!
+Дай её мне, умираю от голода!
 All I ate was a dead fish I found in the buffet!
-Все, что я ел, была мертвой рыбой, которую я нашел в буфете!
+Сегодня я не ела ничего кроме дохлой рыбы, которую нашла в буфете!
 Please tell me that didn't happen?
-Пожалуйста, скажите мне, что этого не произошло?
+Пожалуйста, скажи что это шутка...
 I stole it from that faceless guy.
-Я украл это у этого безликого парня.
+Я украла её у того повара без лица.
 I can't believe we're even related.
-Я не могу поверить, что мы даже связаны.
+Даже не верится, что мы родственники.
 I was being sarcastic about the cookie, Luzia.
-Я саркастичен в отношении печенья, Лузия.
+Про печенюшку - это был сарказм, Люция.
 Damn.
-Проклятие.
+Вот чёрт.
 This bus sure is slow.
-Этот автобус, конечно, медленный.
+Что-то автобус не торопится.
 Well, I'm bored.
-Ну, мне скучно.
+Ну а мне скучно.
 Oh no, you're not wandering off again!
-О нет, ты больше не бродишь!
+О нет, ты опять пойдёшь где-то бродить?!
 Please?
-Пожалуйста?
+...Пожалуйста?
 The last time you wondered off I turned into this hideous creature!
-В последний раз, когда вы удивились, я превратился в это отвратительное существо!
+Когда ты ушла в прошлый раз, я превратилась в это ужасное создание!
 Do you really think I'm going to let that happen again?
-Вы действительно думаете, что я позволю этому случиться снова?
+Думаешь, я позволю такому повториться?
 This time, you stay here...
-На этот раз ты остаешься здесь ...
+На этот раз ты оставайся здесь...
 I'm gonna go see if I can find someone  around here, maybe they'll have some food...I'm hungry too.
-Я пойду посмотреть, смогу ли я найти здесь кого -нибудь, может быть, у них будет немного еды ... Я тоже голоден.
+А я пойду поищу кого-нибудь. Надеюсь, у них будет немного еды... Я очень голодная.
 You too?!
-Ты тоже?!
+Ты тоже можешь быть голодной?!
 J-Just wait here, I can smell something...
-J-Just, подождите здесь, я что-то чувствую ...
+П-Просто жди здесь. Я чувствую какой-то запах...
 Call out when the bus arrives.
-Вызовите, когда набудет автобус.
+Позови, когда автобус приедет.
 Huh, so this is what it feels like.
-Да, так это похоже на то, что это похоже.
+Так вот что чувствуешь, когда тебя оставляют.
 FindSombieFood
 
 Hey! A mushroom!
-Привет! Гриб!
+Ого! Это гриб!
 I could eat it.
-Я мог бы съесть это.
+Я могла бы съесть его.
 If I were desperate, looks poisonous.
-Если бы я отчаялся, выглядел ядовитым.
+Если бы совсем отчаялась. Кажется, он ядовитый. 
 Mushroom2
 
 I hope this helps her.
-Я надеюсь, что это поможет ей.
+Надеюсь, это поможет ей.
 IntroCutscene:Forest
 
 Here you go, Sombie.
@@ -4109,7 +4109,7 @@ H-Hey! Is that the bus?
 ACH_NEIGHBOR_SOMBIE
 
 Where's the bus?
-Где автобус?
+Где же этот автобус?
 BusReady
 
 It hasn't arrived yet?
@@ -4149,17 +4149,17 @@ Saving won't help you now.
 Mushroom6
 
 Forest Bus Stop
-Лесная автобусная остановка
+Автобусная остановка
 Forest
 Лес
 Hey, a sign!
-Эй, знак!
+Эй, тут висит знак!
 An ancient spirit lives in this forest. An offering of tasty noodles is required to summon it.
-Древний дух живет в этом лесу. Для ее вызвать вкусный подношение лапши.
+Древний дух обитает в этом лесу. Подношение в виде вкусной лапши необходимо, дабы вызвать его.
 Mushroom1
 
 Here's a big one!
-Вот большой!
+А вот большой!
 To Bus Stop
 На автобусную остановку
 To Lake
@@ -4285,35 +4285,35 @@ To Forrest
 SombriaDeer
 
 Oh!
-Ой!
+О-о!
 Thank god, it's you!
-Слава Богу, это ты!
+Слава богу, это ты!
 I thought you were some kind of monster for a second.
-Я думал, что ты был каким -то монстром на секунду.
+На секунду я даже спутала тебя с каким-то монстром...
 Sooo hungry!
-Ооочень голоден!
+...Этот голод!...
 I'm so hungry, it hurts!
-Я так голоден, это больно!
+Я так голодна, что мне больно!..
 Sombie?
 Сомби?
 The pain, the hunger...
-Боль, голод ...
+Этот голод, эта боль...
 p-please, help me.
-P-Please, помоги мне.
+п-пожалуйста, помоги мне.
 O-Ok...
-O-ok ...
+Л-Ладно...
 just wait right here.
-Просто подожди прямо здесь.
+Просто жди здесь.
 I'll find you something to eat.
-Я найду тебе что -нибудь поесть.
+Я найду тебе еды.
 *Ugh* Hurry!
-* Тьфу* Спешите!
+*Ух-х* Скорее!
 Please help Luzia.
-Пожалуйста, помогите Лузии.
+Пожалуйста, Люция...
 Mushroom4
 
 Maybe she could eat this.
-Может, она могла бы съесть это.
+Может быть, этот подойдёт.
 Mushroom5
 
 Well, it's better than nothing.
@@ -4321,63 +4321,63 @@ Well, it's better than nothing.
 Please...
 Пожалуйста...
 Bring me more.
-Принеси мне больше.
+Принеси мне ещё.
 I feel much better, much...stronger.
-Я чувствую себя намного лучше, намного ... сильнее.
+Я чувствую себя гораздо лучше, гораздо... сильнее.
 But, you shouldn't have left the bathhouse.
-Но вы не должны были покидать баню.
+Но не стоило тебе покидать купальню.
 Luzia, you are in great *Ugh* dange- *Ugh*
-Лузия, ты в отличной *Тьфу *Данге- *Туг *
+Люция, ты в большой *Ухх* опаснос-*Ухх*
 AHH!
-АХ!
+А-А-А!
 What the heck is going on?
-Что, черт возьми, происходит?
+Что за хрень здесь творится?
 Oh, my, GOSH!
-О, черт возьми!
+О. Боже. МОЙ!
 I can see my own butt!
-Я вижу свою собственную задницу!
+Что моя попа делает с этой стороны?!
 Luzia! What is happening?!
-Лузия! Что случилось?!
+Люция! Что происходит?!
 I have absolutely no idea, Sombie.
-Я абсолютно понятия не имею, Сомби.
+Понятия не имею, Сомби.
 Hang on a second.
 Подожди секунду.
 I think I can fix-
-Я думаю, что могу исправить-
+Думаю, я могу...
 OH NO!
 О НЕТ!
 THAT POOR DEER!
-Этот бедный олень!
+БЕДНЫЙ ОЛЕНЬ!
 What happened?!
-Что случилось?!
+Что с ним случилось?!
 Uh...I think you had Bambs for lunch Sombie.
-Э -э ... я думаю, у тебя были бамбы на обед, Сомби.
+Э-э... Кажется, он заглянул на обед, Сомби.
 I-I did this?
-Я-я сделал это?
+Э-Это я сделала?
 What is wrong with me?
-Что не так со мной?
+Что со мной не так?
 Look Sombie, we should really be heading back to the bus stop.
-Посмотри, Сомби, мы действительно должны вернуться к автобусной остановке.
+Слушай, Сомби, нам пора торопиться на автобусную остановку.
 I'll wait for you there.
-Я буду подождать тебя там.
+Буду ждать тебя там.
 I can't just leave her like this.
-Я не могу просто оставить ее таким.
+Я не могу вот так бросить её.
 I need to help Sombie first.
-Мне нужно сначала помочь Сомби.
+Сначала нужно помочь Сомби.
 To Noodle Hut
-В хижину лапши
+В Лапшичную хижину
 To Forest Entrance
-К лесному входу
+Ко входу в лес
 ForestNoodles
 Forestnoodles
 No way...
-Ни за что...
+Невероятно...
 There's a noodle house in the middle of the forest?!
-В середине леса есть дом с лапшой?!
+Здесь можно поесть лапши посреди леса?!
 I must be dreaming...
-Я, должно быть, сплю...
+Должно быть, я сплю...
 or just really hungry.
-Или просто очень голоден.
+или просто очень проголодалась.
 Sorry, I don't mean to be rude...
 Извините, я не хочу быть грубым ...
 But what are you?
@@ -4455,39 +4455,39 @@ I-I'm fine, thank you strange girl!
 MmmNoodlesAgain
 
 One bowl please!
-Одна чаша, пожалуйста!
+Одну миску, пожалуйста!
 Hello, young one.
-Привет, молодой.
+Здравствуй, девочка.
 You're a little far in the woods to be-
-Ты немного далеко в лесу-
+Кажется, ты зашла слишком далеко в ле...
 I said, one bowl please!
-Я сказал, одна чаша, пожалуйста!
+Я говорю - одну миску, пожалуйста!
 Well, you must be hungry.
-Ну, ты должен быть голоден.
+Что ж, наверное, ты была очень голодная.
 I am.
-Я.
+Я и сейчас голодная.
 Then please, take a bowl of noodles.
-Тогда, пожалуйста, возьмите миску с лапшой.
+Тогда, пожалуйста, прими эту миску лапши.
 That was good!
-Это было хорошо!
+Было вкусно!
 In exchange, could I ask a favor?
-В обмен я могу ли я попросить одолжение?
+Взамен, могу ли я попросить об одолжении? 
 Sure!
 Конечно!
 Could you please take a bowl and place it by the shrine...
-Не могли бы вы взять миску и поместить ее за храм ...
+Пожалуйста, возьми эту миску и поставь её у входа в храм...
 it's for someone, special.
-Это для кого -то, особенного.
+Она для особенного клиента.
 Thank you, young one.
-Спасибо, молодой.
+Спасибо тебе, девочка.
 Forest Noodle Hut
-Лесная лапша хижина
+Лапшичная в лесу
 To Forest
 В лес
 Pepe
-Пепе
+Литтл Джекет
 NoodleGashia
-
+Лапшичная гейша
 TrainCutscene
 
 Now this is the way to travel!
