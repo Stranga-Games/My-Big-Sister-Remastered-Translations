@@ -379,13 +379,13 @@ Laundry Lady
 Mudo
 Мудо
 Little Jacket
-Маленький Жакет
+Литтл Джекет
 Wiji
 Виджи
 Noodle Gashia
 Лапшичная Гашия
 Gus
-Гас
+Гус
 Stretch
 Стретч
 Verd
@@ -535,13 +535,13 @@ Special Leaf
 It's a leaf the siza of a hat!
 Это лист размером со шляпу!
 Engine Keycard
-Ключ-карта от Двигателя
+Карта машиниста
 An electronic keycard for the train's engine room.
-Электронная ключ-карта для машинного отделения поезда.
+Электронная ключ-карта от кабины машиниста.
 Luggage Keycard
-Ключ-карта от Багажного Отделения
+Карта от багажа
 A keycard to unlock the Luggage carrage E-Door
-Ключ-карта открывающая электронную дверь багажного отделения
+Ключ-карта от двери в багажный вагон.
 Screwdriver
 Отвертка
 It's my uncle Bob's screwdriver!
@@ -759,17 +759,17 @@ COLD RAILS
 We're almost home.
 Мы почти дома.
 I can feel it getting closer.
-Я чувствую, что он все ближе.
+Он становится ближе с каждой секундой.
 But...
 Но...
 What will happen once we reach home?
-Что произойдет, когда мы доберёмся домой?
+Что случится, когда мы туда попадём?
 Will everything go back to the way it was?
 Станет ли всё как раньше?
 Will Luzia and I go back to the way we were?
-Станем ли мы с Люцией такими как прежде?
+Останемся ли мы с Люцией прежними?
 Will I lose my sister...
-Потеряю ли я свою сестру...
+И не потеряю ли я сестру...
 Forever?
 Навсегда?
 WAKE UP...PLEASE?
@@ -889,7 +889,7 @@ There's nothing else useful in here.
 It's pretty dark down there.
 Внизу довольно темно.
 Wait!
-Погодите...
+Секундочку!
 I can see something shiny!
 Я вижу что-то блестящее!
 I need something to reach it, though.
@@ -1387,7 +1387,7 @@ No...
 Luzia, how can I help you if you're not going to open up to me?
 Люция, как же я помогу тебе, если ты не желаешь мне ничего рассказывать?
 Can I ask you something?
-Можно задать вопрос?
+Можно я задам вопрос?
 You can ask me anything, Luzia.
 Спрашивай о чём захочешь, Люция.
 Why am I here?
@@ -4491,187 +4491,187 @@ NoodleGashia
 TrainCutscene
 
 Now this is the way to travel!
-Теперь это способ путешествовать!
+Вот так путешествие!
 A truck, a bus, now a train?!
-Грузовик, автобус, теперь поезд?!
+Сначала грузовик, потом автобус - теперь поезд?!
 What's next?
 Что дальше?
 An airplane?!
-Самолет?!
+Самолёт?!
 No way!
 Ни за что!
 Nope! Forget that!
-Неа! Забудь про это!
+Не-а! Без меня!
 Why? What's the matter?
-Почему? Что случилось?
+Почему?
 Afraid of heights?
-Бояться высоты?
+Боишься высоты?
 I'm not worried about being up in the sky.
-Я не беспокоюсь о том, чтобы быть в небе.
+Меня пугает не то, что я лечу где-то над облаками.
 I used to have dreams about being on a plane.
-Раньше у меня были мечты о том, чтобы быть в самолете.
+Просто у меня были сны про самолёт...
 What happened?
-Что случилось?
+И что в них происходило?
 Well, I went to the bathroom...
-Ну, я пошел в ванную ...
+Ну, например, мне снилось, что я иду в туалет...
 and when I came back everyone was gone!
-И когда я вернулся, все ушли!
+а когда возвращюсь, салон оказывается пуст. Ни одного пассажира!
 Everyone, it was just me.
-Все, это был только я.
+Все пропали. Осталась только я.
 That's a pretty crazy dream.
-Это довольно безумный сон.
+И правда, какой-то безумный сон.
 Perfect!
-Идеальный!
+Ну вот!
 That's all I can think about right now!
-Это все, о чем я могу подумать прямо сейчас!
+Теперь я не могу перестать о нём думать!
 Remember when uncle Robert tried fixing mom's microwave?
-Помните, когда дядя Роберт пытался исправить микроволновку мамы?
+Помнишь, как дядя Роберт пытался починить мамину микроволновку?
 He forgot to unplug it.
-Он забыл отключить его.
+Он забыл выключить её из розетки.
 Heh, some engineer he is! Too bad he disappeared.
-Хех, какой -то инженер он! Жаль, что он исчез.
+Да уж, дядя Роберт был тем ещё инженером! Жаль, что он так внезапно исчез.
 Whatever happened to aunt Claire and cousin Mark?
-Что случилось с тетей Клэр и двоюродным братом Марком?
+А что случилось с тётей Клэр и кузином Марком?
 She died, Luzia. As for Mark, I have no clue what happened to him. I think he went to a foster home.
-Она умерла, Лузия. Что касается Марка, я понятия не имею, что с ним случилось. Я думаю, что он пошел в приемный дом.
+Тётя Клэр умерла. А Марк - точно не знаю. Наверное, попал в приют для детей-сирот.
 Really? Why didn't he come live with us?
-Действительно? Почему он не приехал с нами?
+Вот оно как? А почему он не пошёл жить к нам?
 You're already a handful.
-Ты уже горстка.
+Потому что тебя одной было достаточно.
 Besides, I think it's for the best...
-Кроме того, я думаю, что это к лучшему ...
+Может, оно и к лучшему...
 I couldn't imaging the amount of mental problems that boy would have with all that's happened to him.
-Я не мог представить количество психических проблем, которые мальчик будет иметь со всем, что с ним случилось.
+Мне трудно представить, какие проблемы с психикой могут быть у ребёнка, пережившего то же, что и он.
 Yeah, it's pretty sad...
-Да, это довольно грустно ...
+Да уж, печальная история...
 *Sigh* I miss home.
-* Вздох* Я скучаю по дому.
+*Вздох* Я скучаю по дому.
 So do I.
 Я тоже.
 I miss mom too.
-Я тоже скучаю по маме.
+И ещё по маме.
 Pfft! I don't.
-Пффт! Я не.
+Пф-ф! А я нет.
 She was never home.
-Она никогда не была дома.
+Её никогда не бывает дома.
 I get that being a nurse is hard work...
-Я понимаю, что быть медсестрой - тяжелая работа ...
+Я знаю, что работать медсестрой трудно...
 but we need attention too!
-Но нам тоже нужно внимание!
+но нам ведь тоже нужно её внимание!
 What's with you, Luzia?
-Что с тобой, Лузия?
+Что с тобой, Люция?
 These things shouldn't matter to a twelve year old.
-Эти вещи не должны иметь значения для двенадцатилетнего ребенка.
+Я думала, двенадцатилетних такое не беспокоит.
 You don't seem like yourself anymore.
-Ты больше не похож на себя.
+Это на тебя не похоже.
 I don't even feel like myself...
-Я даже не чувствую себя ...
+Да уж. Я и сама себя не узнаю...
 I feel as if this has all happened before...
-Я чувствую, как будто все это случилось раньше ...
+И у меня такое чувство, что всё это уже когда-то происходило.
 like I'm living someone else's life, y'know?
-Как будто я живу чужой жизнью, понимаешь?
+Словно я живу чьей-то чужой жизнью...
 I'm not me.
-Я не я.
+Как будто я - это не я.
 You get what I mean?
-Вы понимаете, что я имею в виду?
+У тебя такое бывает?
 I do...
-Я делаю...
+Да...
 I haven't felt myself since the kidnaping.
-Я не чувствовал себя с момента похищения.
+Это чувство не отпускает меня с момента похищения.
 I guess we share the same feelings.
-Я думаю, мы разделяем те же чувства.
+Наверное, тебя тоже.
 You know what else is weird, though?
-Вы знаете, что еще странно, хотя?
+Но знаешь, есть ещё кое-что странное...
 Where the heck is everyone?
-Где, черт возьми, все?
+Куда делись пассажиры?
 The train's empty!
-Поезд пуст!
+Этот поезд едет пустым!
 There was no one on the bus either.
-В автобусе тоже никого не было.
+И в атобусе кроме нас никого не было...
 I'm gonna take a look around.
-Я посмотрю.
+Я пойду осмотрюсь.
 Okay, I'll take a look too.
-Хорошо, я тоже посмотрю.
+Хорошо. Я тоже - разведаю, что находится в хвосте поезда.
 If something happens, we'll meet up in the bathroom.
-Если что -то случится, мы встретимся в ванной.
+Если что-то случится, встречаемся в туалете.
 Ok, we'll-
-Ладно, хорошо-
+Ладно, тогд...
 The bathroom?
-Ванная комната?
+Чего?! В туалете?
 For privacy.
-Для конфиденциальности.
+В целях конфиденциальности.
 Don't want anything else going astray now, don't we?
-Не хочу, чтобы что -то еще сбилось с пути, не так ли?
+Нельзя ведь, чтобы нас застали врасплох, верно?
 Ok, just make sure you're not actually using it when I come in.
-Хорошо, просто убедитесь, что вы на самом деле не используете его, когда я захожу.
+Ладно. Только я не хотела бы, чтобы ты по-настоящему им пользовалась, когда я войду.
 For crying out loud, Luzia.
-За громкий плач, Лузия.
+Да боже ты мой, Люция...
 Who's crying, now?
-Кто сейчас плачет?
+Пора начинать.
 SombieTrainBathroom
 
 JESUS! SOMBIE!
-ИИСУС! Сомби!
+ГОСПОДИ! СОМБИ!
 You scared the hell outta me!
-Ты боишься, черт возьми, меня!
+Ты меня до чёртиков напугала!
 I thought you weren't scared of anything?
-Я думал, ты ничего не боишься?
+Я думала, тебя невозможно напугать?
 Only by spontaneous surprises!
-Только спонтанными сюрпризами!
+Возможно, но только чем-нибудь неожиданным!
 I'll remember to leave a sign on the door next time.
-В следующий раз я не забуду оставить знак на двери.
+В следующий раз повешу знак на дверь.
 So, did you find anything?
-Итак, вы что -нибудь нашли?
+Итак, ты что-нибудь нашла?
 I met the train driver.
-Я встретил водителя поезда.
+Встретила машиниста.
 What did he say?
-Что он сказал?
+Ну и что он сказал?
 Just some really weird stuff.
-Просто действительно странные вещи.
+Что-то странное. Я сама не до конца поняла.
 Well what?
-Хорошо что?
+Что "ну"?
 Do you think this is all a dream?
-Как вы думаете, это все мечта?
+Тебе не кажется, что всё это сон?
 A dream?
-Мечта?
+Сон?
 Am I really Luzia?
-Я действительно Лузия?
+Я действительно Люция?
 Only for as long as I've know you.
-Только до тех пор, пока я тебя знаю.
+Насколько я знаю, да.
 You're sounding really weird right now, Luzia.
-Вы сейчас говорите очень странно, Лузия.
+Теперь это ты говоришь \"что-то странное\", Люция.
 Maybe, I don't know?
-Может, я не знаю?
+Может. Сама не знаю.
 There's something not right in the back of my mind...
-В моем сознании что -то не так ...
+Такое чувство, что с моим сознанием что-то не так...
 I'm just not sure what it is...
-Я просто не уверен, что это такое ...
+Но никак не могу понять, что именно...
 like we're being set or something.
-Как будто нас установлены или что -то в этом роде.
+Как будто кто-то нас к чему-то готовит.
 C'mon, cheer up, Luzia.
-Да ладно, подбодри, Лузия.
+Ладно, Люция. Взбодрись!
 We need to make it home!
-Нам нужно добраться до дома!
+Нам нужно попасть домой!
 Let's stay focused.
-Давайте останемся сосредоточенным.
+Надо сконцентрироваться.
 I'll go talk to the driver.
-Я пойду поговорить с водителем.
+Я пойду и поговорю с машинистом.
 You check the back of the train.
-Вы проверяете заднюю часть поезда.
+Ты осмотри хвостовую часть поезда.
 Oh, I also found this keycard...
-О, я также нашел эту ключевую карту ...
+И да, я нашла эту ключ-карту...
 not sure what it's for, it didn't work on any of the doors...
-Не уверен, для чего это, это не сработало ни на одной из дверей ...
+Не уверена, от чего она. Не подошла ни к одной двери...
 maybe you can find a way to use it.
-Может быть, вы можете найти способ его использовать.
+Может быть, ты найдёшь нужную.
 Train Main Car
-Основной автомобиль
+Центральный вагон
 Luggage Cabin
-Багажник
+Багажный вагон
 Bed Cabin
-Кровать
+Спальный вагон
 Exit Bathroom
-Выйти из ванной комнаты
+Выход из туалета
 TrainNoodles
 
 Wait a hoot picking toot!
@@ -4717,21 +4717,21 @@ TrainRoom
 YellowJacket
 
 Hey! It's you!
-Привет! Это ты!
+Эй, это же ты!
 Yes it is I! Little Jacke-
-Да, это я! Маленький Жак-
+Да, я! Литтл Дже-
 Could you help me?
-Не могли бы вы помочь мне?
+Ты мог бы мне помочь?
 *Sigh* What does little girl want?
-* Вздох* Что хочет маленькая девочка?
+*Вздох* Чего маленькая девочка хочет?
 Do you know a way to unlock this door?
-Вы знаете способ разблокировать эту дверь?
+Ты знаешь, как открыть эту дверь?
 I think you're lying, little man.
-Я думаю, ты лжешь, маленький человек.
+Я думаю, ты врёшь, человечек.
 Little Jacket needs a keycard to unlock this door.
-Маленькая куртка нуждается в клавишной карте, чтобы разблокировать эту дверь.
+Литтл Джекету нужна ключ-карта, чтобы открыть эту дверь.
 Little Jacket can crawl through the vent and unlock it from the other side.
-Маленькая куртка может ползти через вентиляционное отверстие и разблокировать его с другой стороны.
+С картой Литтл Джекет сможет пробраться через вентиляцию и открыть дверь с той стороны.
 Damn! How did she escape?!
 Проклятие! Как она сбежала?!
 Oh...
@@ -4799,45 +4799,45 @@ Keycard required.
 Great! Where am I going to find a keycard?
 Большой! Где я собираюсь найти карту ключей?
 Great! Another locked door!
-Большой! Еще одна запертая дверь!
+Прекрасно! Ещё одна закрытая дверь!
 Little girl's not gonna open that one, not with out Litle Jacket's help!
-Маленькая девочка не собирается открыть это, а не без помощи Litle Jupply!
+Маленькая девочка не откроет эту дверь. Не без помощи Литтл Джэкета!
 Oh? And how do you know how to unlock it?
-Ой? И как узнать, как это разблокировать?
+О-о? И как же, по-твоему, её открыть?
 I have a keycard!
-У меня есть карта клавиши!
+У меня есть ключ-карта!
 Try swiping it!
-Попробуйте провести это!
+А ты попробуй ей провести!
 It didn't work!
-Это не сработало!
+Не сработало!
 Little Jacket knows how! Give the keycard to Little Jacket!
-Маленькая куртка знает, как! Дайте клавишную карту маленькой куртке!
+Литтл Джекет знает, как надо! Отдай карту Литтл Джекету!
 A keycard is what you need, but you need to find it!
-Ключевая карта - это то, что вам нужно, но вам нужно ее найти!
+Нужна ключ-карта, но сперва надо найти её!
 Litle Jacket saw big scary girl looking back here not long ago.
-Litle Jacket увидел большую страшную девушку, оглядываясь сюда не так давно.
+Литтл Джэкет видел большую страшную девочку, которая искала её здесь недавно.
 Please...go away.
-Пожалуйста уходите.
+Пожалуйста... уходи.
 *Whistling*
-*Свист*
+*Насвистывает мелодию*
 Little Jacket wonders what Mudo is doing?
-Маленькая куртка задается вопросом, что делает Мудо?
+Литтл Джекету интересно: что сейчас делает Мудо?
 Is this what you need?
-Это то, что тебе надо?
+Вот, держи.
 Hmm, it looks like it could work.
-Хм, похоже, это может сработать.
+Хм-м, с виду, должно сработать.
 Little Jacket will try.
-Маленькая куртка попробует.
+Литтл Джекет попытается.
 Wait here.
 Жди здесь.
 Open sesame!
 Сезам, откройся!
 Gosh! Thank you! You adorable little thing!
-Черт возьми! Благодарю вас! Вы очаровательную мелочь!
+О-о-о! Спасибо, очаровательная кроха!
 Little Jacket will lock the door if you say that again.
-Маленькая куртка будет заблокировать дверь, если вы скажете это снова.
+Если ты скажешь так ещё раз, Литтл Джекет закроет дверь обратно.
 Whoops! I mean thank you!
-Упс! Я имею в виду, спасибо!
+Упс! Я хотела сказать - \"спасибо\"!
 What the hell is that!
 Что это за фигня!
 I'm sorry little girl, no passengers allowed back here.
@@ -4917,117 +4917,117 @@ I feel sleepy.
 ACH_SECRET_SWITCH
 
 I don't need to press it again.
-Мне не нужно снова нажимать.
+Мне не нужно нажимать её снова.
 Train Luggage Car
-Тренируйте багажную машину
+Багажный вагон
 Main Cabin
-Главная каюта
+Центральный вагон
 E Switch (Damaged)
-E переключатель (поврежден)
+Электронный переключатель (поврежден)
 E Door
-E Дверь
+Электронная дверь
 End Carrage
-Конец Карраги
+Хвостовой вагон
 Travel Point
-Публикация
+
 Secret Switch
 Секретный переключатель
 E-Door
-Электронный дверь
+Электронная дверь
 Room1
 
 This room...
 Эта комната...
 I've been here before.
-Я был здесь раньше.
+Когда-то я здесь уже была.
 This room feels colder.
-Эта комната чувствует себя холоднее.
+В этом купе прохладнее.
 Probably forgot to close the window.
-Наверное забыл закрыть окно.
+Похоже, кто-то забыл закрыть окно.
 A note?
 Записка?
 Why did she do it?
 Зачем она это сделала?
 She risked her own life to save mine!
-Она рискнула своей собственной жизнью, чтобы спасти мою!
+Рискнула собственной жизнью, чтобы спасти мою!
 Was mine worth all the trouble?
-Стоил ли мой все проблемы?
+Разве моя жизнь того стоила?
 She lost everything because of me...
-Она потеряла все из -за меня ...
+Из-за меня она потеряла всё...
 everything.
-все.
+Всё...
 Who wrote this?
 Кто это написал?
 Room3
 
 This room feels warmer.
-Эта комната чувствует себя теплее.
+В этом купе теплее.
 It smells like, burnt leather.
-Пахнет, сгоревшая кожа.
+Оно пахнет горелой кожной обивкой.
 Keycard
 Ключ-карта
 A keycard?
-Карта клавиши?
+Ключ-карта?
 There's a note here too.
-Здесь тоже есть записка.
+К ней приложена записка.
 If you're reading this then be prepared for what's about to happen.
-Если вы читаете это, будьте готовы к тому, что должно произойти.
+Если читаешь это, приготовься к тому, что скоро произойдёт.
 You're not who you think you are...
-Ты не тот, кем ты думаешь ...
+Ты не та, кем себя считаешь...
 and neither is she.
-И она тоже.
+как, впрочем, и она.
 You were born from a witch and she was born from a saviour.
-Вы родились от ведьмы, и она родилась от Спасителя.
+Вы были рождены ведьмой, а она была рождена нашим спасителем.
 The loop is the only thing that binds you both together...
-Цикл - единственное, что связывает вас обоих ...
+Петля - то единственное, что связывает вас двоих...
 if you break it, you may not see each other again.
-Если вы сломаете его, вы можете больше не увидеть друг друга.
+и если она разорвётся, вы можете больше не увидеть друг друга.
 BurntNote
 
 A burnt note?
-Сгоревшая нота?
+Обгоревшая записка?
 It's time...
-Пора...
+Время пришло...
 time to end this mess.
-Пора закончить этот беспорядок.
+Пора покончить с этим кошмаром.
 The loop must be broken!
-Петля должна быть сломана!
+Петля должна быть разорвана!
 I can't go through all of this again!
-Я не могу пройти через все это снова!
+Я не хочу переживать всё это заново!
 She has to go!
-Она должна идти!
+Она должна исчезнуть!
 I can't keep protecting her...
-Я не могу продолжать защищать ее ...
+Я не могу её больше защищать...
 I'm losing my strength.
 Я теряю силы.
 She is manipulating you.
-Она манипулирует вами.
+Она тобой манипулирует.
 Don't hesitate...
-Не стесняйтесь ...
+Не стоит колебаться...
 kill her.
-убей ее.
+просто убей её.
 ACH_FORTHTIME
 
 Front Cabin
-Передняя каюта
+Передний вагон
 Room 1
-Комната 1
+Купе №1
 Room 2
-Комната 2
+Купе №2
 Room 3
-Комната 3
+Купе №3
 Note
-Примечание
+Записка
 Room 4
-Комната 4
+Купе №4
 Burnt Note
-Сгоревшая нота
+Обгоревшая записка
 This must be the engine.
-Это должен быть двигатель.
+Должно быть, это кабина машиниста.
 I can hear humming coming from the otherside.
-Я слышу, как гуляет из других.
+Я слышу, как кто-то напевает с той стороны двери.
 Door requires a keycard...great.
-Дверь требует клавишной карты ... Отлично.
+Требуется ключ-карта... Замечательно.
 GustophLuzia
 
 Excuse me, Mr. Gustoph?
@@ -5067,7 +5067,7 @@ And nothing gets past Gustoph too...
 because he takes up the entire doorway!
 Потому что он берет весь дверной проем!
 HA!
-Ха!
+ХА!
 Are you sure you saw her?
 Вы уверены, что видели ее?
 I'm sure I did, little one.
@@ -5105,97 +5105,97 @@ Okay, I'll go find him.
 MeetGustoph
 
 Sorry to interrupt.
-Извините за прерывание.
+Не хотела бы вас прерывать...
 Can I-
-Могу я-
+Можно, я...
 *Whistling* ...Oh!
-* Свист* ... о!
+*Насвистывает мелодию" ...Ой!
 Hello there, little one!
-Привет, малыш!
+Привет, девочка!
 Who? Me?
-Кто? Мне?
+Кто? Я?
 Well, I'm the guy who drives this train, of course!
-Ну, я парень, который ведет этот поезд, конечно!
+Нет, но это не мешает мне управлять поездом!
 And what I wanna know is...
-И я хочу знать ...
+А ты мне скажи...
 how the heck did you get in here?
-Как, черт возьми, ты попал сюда?
+каким образом ты сюда пробралась?
 I found a keycard in the bed carriage.
-Я нашел клавишу в кровати.
+Нашла ключ-карту в одном из купе.
 So that's where I left the darned keycard!
-Вот где я оставил проклятую клавишную карту!
+Так вот, значит, где я её оставил!
 Excuse me but, who are you?
-Простите, но кто ты?
+Простите, но кто вы?
 They call me Gustoph! But you can call me Gus.
-Они называют меня горов! Но ты можешь называть меня Гасом.
+Меня зовут Густав, но ты можешь звать меня Гус.
 And you must be Luzia?
-А ты, должно быть, Лузия?
+А ты, наверное, Люция?
 How do you know my name?!
-Откуда ты знаешь мое имя?!
+Откуда вы знаете?!
 I know everything!
-Я знаю все!
+Я знаю всё!
 Plus, it's in the passengers log book.
-Кроме того, это в журнале пассажиров.
+К тому же, твоё имя указано в спике пассажиров.
 Gotta keep a head count on all who ride the rails!
-Должен сохранить подсчет всех, кто ездит на рельсах!
+Приходится вести поголовный учёт всех, кто путешествует поездами!
 Even if they don't have a head!
-Даже если у них нет головы!
+Даже если у них нет голов!
 How many people are on the train?
-Сколько людей в поезде?
+Сколько всего людей в этом поезде?
 Hmm, let me see...
-Хм, дай мне посмотреть ...
+Хм-м, давай посчитаем...
 Just one!
-Только один!
+Всего один!
 Just one!?
-Только один!?
+Один?!
 But what about my sister?!
-Но как насчет моей сестры?!
+А как же моя сестра?!
 Your sister?
-Твоя сестра?
+Сестра?
 You only said how many people, little one.
-Вы только сказали, сколько людей, малыш.
+Ты спросила, сколько в поезде людей.
 She's a person too, y'know!
-Она тоже человек, понимаешь!
+Но она, знаете ли, тоже человек!
 Ho Ho! I'm sure she was!
-Хо! Я уверен, что она была!
+Хо-хо! Не сомневаюсь, она им была!
 So, you on holiday?
-Итак, вы в отпуске?
+Так что, вы с сестрой приехали отдыхать?
 No, but I sure'll need one after all this.
-Нет, но я уверен, что понадобится один после всего этого.
+Нет, но после такого отдых нам точно потребуется.
 Been in a bit of a pickle have we, missy?
-Был немного рассол, не так ли, Мисси?
+Вы попали в неприятности?
 You can say that again.
-Ты можешь сказать это снова.
+Да. Как следует вляпались.
 I can't believe we're finally on our way home to end all of this mess.
-Я не могу поверить, что мы, наконец, отправляемся домой, чтобы закончить весь этот беспорядок.
+Поверить не могу, что скоро мы приедем едем домой, и весь этот кошмар закончится.
 Well, I'm glad it all worked out for ya.
-Ну, я рад, что все сработало для тебя.
+Ну что ж, я рад, что у вас всё получилось.
 Sure thing, little one.
-Конечно, малыш.
+Само собой, моя маленькая.
 Where's the rest of the passengers?
-Где остальные пассажиры?
+Где все остальные пассажиры?
 Ha Ha! The rest of the passengers!?
-Ха -ха! Остальные пассажиры!?
+Ха-ха! Остальные?!
 Why, they're all around you!
-Почему, они вокруг тебя!
+Они же здесь буквально повсюду!
 Can't you see them?
-Вы их не видите?
+Ты разве их не видишь?
 Well, no I can't.
-Ну, нет, я не могу.
+Ну... нет, не вижу.
 They're probably just shy...
-Они, наверное, просто застенчивы ...
+Наверное, они просто стесняются...
 or maybe they're scared of something.
-Или, может быть, они что -то боятся.
+или, может, чем-то напуганы.
 Scared? Of who?
-Напугана? Кто?
+Но чем они могут быть напуганы?
 You'd best be gettin' back to your cabin, little missy.
-Тебе лучше вернуться в свою каюту, маленькая Мисси.
+Моя маленькая, тебе нужно вернуться в свой вагон.
 Once we're in the valley of sorrows, you don't wanna be wonderin' around.
-Как только мы в долине печали, вы не хотите удивляться.
+И когда мы будем проезжать по Долине скорби, поверь, тебе лучше оставаться там.
 But come see me later! If you're still alive, that is!
-Но приходите ко мне позже! Если вы все еще живы, это так!
+Но возвращайся проведать меня чуть позже! Если выживешь, разумеется!
 Alive?!
-В живых?!
+Что значит \"если выживу\"?!
 H-Hey, Sombie. Are you okay?
 H-Hey, Sombie. У тебя все нормально?
 What home?
@@ -5367,11 +5367,11 @@ Speaking of which!
 So have we!
 Мы тоже!
 Train Engine
-Поезда двигатель
+Кабина машиниста
 E-Lock
-Электронная блока
+Электронный замок
 Gustoph
-Горы
+Густав
 Jeez! It's freezing out here!
 Боже! Здесь замораживает!
 But still, such an amazing view.
