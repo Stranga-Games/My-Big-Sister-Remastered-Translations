@@ -21,9 +21,9 @@
 ACH_GOTCHA
 
 Game Paused
-Игра Приостановлена
+Игра приостановлена
 Game UnPaused
-Игра Возобновлена
+Игра возобновлена
 WaitForLongest: duration1 cannot be negative!
 WaitForLongest: duration1 не может быть отрицательным!
 WaitForLongest: duration2 cannot be negative!
@@ -61,7 +61,7 @@ Save:
 Room Name
 Название Комнаты
 Saving Game...
-Сохранение Игры...
+Сохранение игры...
 Game Saved.
 Игра сохранена.
 Select a slot to save.
@@ -69,7 +69,7 @@ Select a slot to save.
 No save slots detected.
 Слотов сохранения не обнаружено.
 Load Game
-Загрузить Игру
+Загрузить игру
 Select a slot to load.
 Выберите слот для загрузки.
 %d
@@ -135,37 +135,37 @@ Japanese
 The Marketplace
 Рынок
 A Bad Dream
-Плохой Сон
+Дурной сон
 Is this all real
-Это все реально?
+Всё это происходит на самом деле?
 Taken
-Похищенные
+Пленницы
 Escape
 Побег
 Of Blood and Water
-Из Крови и Воды
+Кровь и вода
 A long ride home
 Долгая поездка домой
 The Bus Stop
-Автобусная Остановка
+Автобусная остановка
 Cold Rails
-Холодные Рельсы
+Холодные рельсы
 Wake Up
-Вставай
+Проснись
 Our Last Stop
-Наша Последняя остановка
+Наша последняя остановка
 Break or Strengthen
-Сломись или Стань Сильнее
+Сломись или стань сильнее
 Happy Ending
-Счастливый Конец
+Счастливая концовка
 Real End
-Настоящий Конец
+Настоящая концовка
 ACH_TALK_OF_THE_TOWN
 
 Good Ending
-Хороший Конец
+Хорошая концовка
 Bad Ending
-Плохой Конец
+Плохая концовка
 MushroomCount
 
 Mom's Heart
@@ -201,9 +201,9 @@ N
 G
 
 Nice try! But you're a letter short...sorry.
-
+Хорошая попытка! Но одной буквы не хватило... извините.
 Thank you very much for playing my games! :D
-Большое спасибо за то, что играли в мои игры! :D
+Большое спасибо за то, что играете в мои игры! :D
 H
 
 It's nice to be in the real world once more!
@@ -233,9 +233,9 @@ Credit Module has reached maximum %d lines, contact game author and tell them to
 Press ESC to skip
 Нажмите ESC, чтобы пропустить
 Save Screenshot as:
-Сохранить Скриншот как:
+Сохранить скриншот как:
 Starting a New Game will erase previous saved Game. Continue?
-Начало Новой Игры сотрёт предыдущую сохранённую игру. Вы хотите продолжить?
+Начало новой игры сотрёт предыдущую сохранённую игру. Вы хотите продолжить?
 YES
 ДА
 NO
@@ -285,19 +285,19 @@ Yes
 No
 Нет
 Select Save File
-Выберите Файл Сохранения
+Выберите файл сохранения
 Auto Save
-Автоматическое Сохранение
+Автоматическое сохранение
 Save State
-Статус Сохранения
+Точка сохранения
 SELECT CHAPTER
 ВЫБЕРИТЕ ГЛАВУ
 SELECT LANGUAGE
 ВЫБЕРИТЕ ЯЗЫК
 Save Game
-Сохранить Игру
+Сохранить игру
 Select Save Slot
-Выберите Слот Сохранения
+Выберите слот сохранения
 Hello
 Привет
 Hotspot
@@ -305,17 +305,17 @@ Hotspot
 GAME PAUSED
 ИГРА ПРИОСТАНОВЛЕНА
 Sound Volume
-Громкость Звуков
+Громкость звука
 Music Volume
-Громкость Музыки
+Громкость музыки
 Resume Game
-Продолжить Игру
+Продолжить игру
 Fullscreen
 Полноэкранный
 INVENTORY
 ИНВЕНТАРЬ
 Item Name
-Название Предмета
+Название предмета
 Description
 Описание
 Mumbo no 5
@@ -329,19 +329,19 @@ Luzia
 ITEM FOUND
 НАЙДЕН ПРЕДМЕТ
 Blue Mug
-Голубая Кружка
+Голубая кружка
 v1.00
 
 Stranga Games©
 
 New Game
-Новая Игра
+Новая игра
 Continue
 Продолжить
 Chapter Select
-Выбор Главы
+Выбор главы
 Quit
-Выйти
+Выход
 Remastered
 
 Settings
@@ -419,7 +419,7 @@ Boiler Key
 It's an old rusty key to the boiler room.
 Старый заржавевший ключ от бойлерной.
 Blue Cup
-Синяя Чашка
+Синяя чашка
 It's a blue coffee mug.
 Это голубая кофейная кружка.
 Battery
