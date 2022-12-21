@@ -509,7 +509,7 @@ A custom made magnetic fishing pole.
 Apple
 Яблоко
 A delicious granny smith.
-Аппетитное яблоко сорта Granny Smith.
+Аппетитное яблоко.
 Gate Key
 Ключ от Ворот
 Key to the laundromat area
@@ -3293,7 +3293,7 @@ I don't know, Luzia.
 *Sigh!* Fine...
 *Вздох* Ладно...
 you stay here, I'll come get you when I find someone that can help you.
-Стой здесь, а я пока поищу кого-нибудь, кто что-нибудь знает.
+Стой здесь, а я пока поищу кого-нибудь, кто что-то знает.
 SombieAppear
 
 GateLock
@@ -3355,7 +3355,7 @@ But for some reason, some wise-ass locked the gate to the laundromat and has the
 Explaination2
 
 What's wrong with your sister?
-В чём проблема вашей сестры?
+В чём проблема твоей сестры?
 I think she's sick?
 Думаю, она заболела?
 Oh my, that's not good.
@@ -3401,7 +3401,7 @@ Ok, seeya!
 Find the noodle lady.
 Найдите Продавщицу лапши.
 She can help your sister.
-Возможно, она поможет вашей сестре.
+Возможно, она поможет твоей сестре.
 UseGateKey
 
 I don't need this key anymore.
@@ -3411,17 +3411,17 @@ Gate Open
 Great, it's locked!
 Прекрасно, ворота закрыты!
 Maybe someone here has a key?
-Может, у кого-то есть от них ключ?
+Может, у кого-то есть ключ от них?
 I need to head to the bathouse.
-Мне нужно отправиться в купальни.
+Мне нужно отправиться в купальню.
 FindMeAnApple
 
 Excuse me!
 Прошу прощения!
 Could you help me and my sister out?
-Вы могли бы помочь нам с сестрой?
+Не могли бы вы помочь нам с сестрой?
 Can you help me out?
-Сперва вы не могли бы меня выручить?
+Сперва, не могли бы вы меня выручить?
 This bozo won't give me any more fried fish, and I'm starving!
 Этот тип больше не даёт мне жареной рыбы, а я умираю от голода!
 If you eat anymore, you'll put me out of business!
@@ -3463,7 +3463,7 @@ Gosh, I'm so hungry!
 LaundryDoor
 
 GiveApple
-Раздача
+ 
 Well? My apple?
 Ну, ты принесла яблоко?
 Here, I spit shined it for you.
@@ -3549,7 +3549,7 @@ I'll pay for your clothes to be cleaned.
 Thank you, that's really nic-
 Спасибо вам, это очень мил...
 Wait! How do you know that I have sister?
-Откуда вы знаете, что у меня есть сестра?
+Погодите! Откуда вы знаете, что у меня есть сестра?!
 I know a lot about you and your sister, Luzia.
 Я многое о вас знаю, Люция.
 I'm here to help you.
@@ -3767,7 +3767,7 @@ Right?
 Hmm, by the looks of things it may be too late for her, Luzia.
 Хм-м. Боюсь, судя по внешним признакам, уже может быть слишком поздно.
 You mean I'll be stuck like this forever?
-Это значит, я навсегда такой и останусь?
+Это значит, я навсегда останусь такой?
 My dear, I hate to be the one to tell you this but, you're dead.
 Золотце, мне не хотелось бы тебе этого говорить, но ты мертва.
 I'M DEAD?!
@@ -3805,7 +3805,7 @@ I look like a hideous creature!
 You just look like a human, only with long arms and pale skin.
 Ты тоже выглядишь как человек, просто с длинными руками и бледной кожей.
 And no legs, what happened to those?
-И без ног. Они-то куда они делись?
+И без ног. Они-то куда делись?
 Anyway, you look fine, Sombie.
 В любом случае, ты нормально выглядишь, Сомби!
 Where is Ashina now?
