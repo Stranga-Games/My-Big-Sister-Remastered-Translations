@@ -21,9 +21,9 @@
 ACH_GOTCHA
 
 Game Paused
-Игра Приостановлена
+Игра приостановлена
 Game UnPaused
-Игра Возобновлена
+Игра возобновлена
 WaitForLongest: duration1 cannot be negative!
 WaitForLongest: duration1 не может быть отрицательным!
 WaitForLongest: duration2 cannot be negative!
@@ -61,7 +61,7 @@ Save:
 Room Name
 Название Комнаты
 Saving Game...
-Сохранение Игры...
+Сохранение игры...
 Game Saved.
 Игра сохранена.
 Select a slot to save.
@@ -69,7 +69,7 @@ Select a slot to save.
 No save slots detected.
 Слотов сохранения не обнаружено.
 Load Game
-Загрузить Игру
+Загрузить игру
 Select a slot to load.
 Выберите слот для загрузки.
 %d
@@ -135,37 +135,37 @@ Japanese
 The Marketplace
 Рынок
 A Bad Dream
-Плохой Сон
+Дурной сон
 Is this all real
-Это все реально?
+Всё это происходит на самом деле?
 Taken
-Похищенные
+Пленницы
 Escape
 Побег
 Of Blood and Water
-Из Крови и Воды
+Кровь и вода
 A long ride home
 Долгая поездка домой
 The Bus Stop
-Автобусная Остановка
+Автобусная остановка
 Cold Rails
-Холодные Рельсы
+Холодные рельсы
 Wake Up
-Вставай
+Проснись
 Our Last Stop
-Наша Последняя остановка
+Наша последняя остановка
 Break or Strengthen
-Сломись или Стань Сильнее
+Сломись или стань сильнее
 Happy Ending
-Счастливый Конец
+Счастливая концовка
 Real End
-Настоящий Конец
+Настоящая концовка
 ACH_TALK_OF_THE_TOWN
 
 Good Ending
-Хороший Конец
+Хорошая концовка
 Bad Ending
-Плохой Конец
+Плохая концовка
 MushroomCount
 
 Mom's Heart
@@ -201,9 +201,9 @@ N
 G
 
 Nice try! But you're a letter short...sorry.
-
+Хорошая попытка! Но одной буквы не хватило... извините.
 Thank you very much for playing my games! :D
-Большое спасибо за то, что играли в мои игры! :D
+Большое спасибо за то, что играете в мои игры! :D
 H
 
 It's nice to be in the real world once more!
@@ -233,9 +233,9 @@ Credit Module has reached maximum %d lines, contact game author and tell them to
 Press ESC to skip
 Нажмите ESC, чтобы пропустить
 Save Screenshot as:
-Сохранить Скриншот как:
+Сохранить скриншот как:
 Starting a New Game will erase previous saved Game. Continue?
-Начало Новой Игры сотрёт предыдущую сохранённую игру. Вы хотите продолжить?
+Начало новой игры сотрёт предыдущую сохранённую игру. Вы хотите продолжить?
 YES
 ДА
 NO
@@ -285,19 +285,19 @@ Yes
 No
 Нет
 Select Save File
-Выберите Файл Сохранения
+Выберите файл сохранения
 Auto Save
-Автоматическое Сохранение
+Автоматическое сохранение
 Save State
-Статус Сохранения
+Точка сохранения
 SELECT CHAPTER
 ВЫБЕРИТЕ ГЛАВУ
 SELECT LANGUAGE
 ВЫБЕРИТЕ ЯЗЫК
 Save Game
-Сохранить Игру
+Сохранить игру
 Select Save Slot
-Выберите Слот Сохранения
+Выберите слот сохранения
 Hello
 Привет
 Hotspot
@@ -305,17 +305,17 @@ Hotspot
 GAME PAUSED
 ИГРА ПРИОСТАНОВЛЕНА
 Sound Volume
-Громкость Звуков
+Громкость звука
 Music Volume
-Громкость Музыки
+Громкость музыки
 Resume Game
-Продолжить Игру
+Продолжить игру
 Fullscreen
 Полноэкранный
 INVENTORY
 ИНВЕНТАРЬ
 Item Name
-Название Предмета
+Название предмета
 Description
 Описание
 Mumbo no 5
@@ -329,19 +329,19 @@ Luzia
 ITEM FOUND
 НАЙДЕН ПРЕДМЕТ
 Blue Mug
-Голубая Кружка
+Голубая кружка
 v1.00
 
 Stranga Games©
 
 New Game
-Новая Игра
+Новая игра
 Continue
 Продолжить
 Chapter Select
-Выбор Главы
+Выбор главы
 Quit
-Выйти
+Выход
 Remastered
 
 Settings
@@ -365,9 +365,9 @@ Ashina
 Nikuya
 Никуя
 Lady on the Wall
-Леди на Стене
+Женщина со стены
 Lady
-Леди
+Дама
 Cyndil
 Синдил
 Landy
@@ -375,15 +375,15 @@ Landy
 Jimmy
 Джимми
 Laundry Lady
-Прачечная Леди
+Дама из прачечной
 Mudo
 Мудо
 Little Jacket
-Маленький Жакет
+Литтл Джекет
 Wiji
 Виджи
 Noodle Gashia
-Лапшичная Гашия
+Лапшичная гейша
 Gus
 Гас
 Stretch
@@ -419,7 +419,7 @@ Boiler Key
 It's an old rusty key to the boiler room.
 Старый заржавевший ключ от бойлерной.
 Blue Cup
-Синяя Чашка
+Синяя чашка
 It's a blue coffee mug.
 Это голубая кофейная кружка.
 Battery
@@ -441,11 +441,11 @@ A small keychain flashlight. Can be used in dark areas.
 Bobby Pin
 Заколка
 One of Sombria's old...ugh, bobby pin.
-Одна из старых... фе-е... заколок Сомбрии.
+Одна из старых заколок Сомбрии. Фе-е-е...
 Bloody Picture
 Кровавый рисунок
 It's a bloody picture of our...house?
-Это рисунок... нашего дома?
+Это кровавый рисунок нашего...дома?
 Doll
 Кукла
 An old plush doll. It has markings on inappropriate places.
@@ -453,71 +453,71 @@ An old plush doll. It has markings on inappropriate places.
 Brain
 Мозг
 A squishy model of a brain.
-Мягкая модель мозга.
+Модель мозга из мягкой резины.
 Therapy Key
-Ключ Терапевта
+Ключ от клиники
 Key to exit the main reception area.
-Ключ для выхода из основной ресепшены.
+Ключ от входной двери клиники.
 Red Tile
-Красная Плитка
+Красная плитка
 A ceramic red tile. It has a strange groove on the back of it.
-Керамическая красная плитка. У неё есть странная канавка на задней панели.
+Красная керамическая плитка. На её задней стороне видно странное углубление.
 Stranga Mask
-Маска Stranga
+Странная маска
 A strange looking mask. Such a happy face...
-Странно выглядящая маска. Такое счастливое лицо...
+Улыбающаяся маска. Такая довольная...
 Knife
 Нож
 The blade's a little blunt, but it could still cut through paper.
-Клинок немного тупой, но он все ещё может прорезать бумагу.
+Лезвие слегка затупилось, но им всё равно можно разрезать даже лист бумаги.
 Dead Fish
-Мертвая Рыба
+Дохлая рыба
 It's a dead Koi fish.
-Это мертвая рыба Кои.
+Тушка карпа кои.
 A Red Spider Lily
-Лилия Красного Паука
+Красная паучья лилия
 It's a beautiful  looking flower but, it has a terrible meaning.
-Это красиво выглядящий цветок, но он имеет ужасное значение.
+Прекрасный цветок с ужасающим символическим смыслом.
 Wood
-Древесина
+Доска
 An old piece of timber. It doesn't look safe.
-Старый кусок древесины. Он выглядит небезопасно.
+Старая деревянная доска. Выглядит не слишком надёжно.
 Magnet
 Магнит
 A small but powerful magnet.
-Небольшой, но мощный магнит.
+Маленький, но мощный магнит.
 Fishing Line
 Леска
 A reel of fishing line. Was someone fishing down here?
-Катушка рыболовной лески. Кто-то рыбачил здесь?
+Моток рыболовной лески. Здесь что, кто-то рыбачил?
 Sewer Key
-Ключ от Канализации
+Ключ от канализации
 The key to the sewer gate.
-Ключ от канализационных ворот.
+Ключ от ворот канализации.
 Metal Pipe
-Металлическая Труба
+Металлическая труба
 It's a metal pipe...nothing special about it.
-Это металлическая труба...ничего необычного.
+Металлическая труба, в которой... нет ничего особенного.
 Power Cable
-Силовой Кабель
+Электрокабель
 It's a power cable. Looks like it fits into a computer of somesort.
-Это кабель питания. Похоже, он подходит для компьютера.
+Кажется, он предназначаен для какого-то компьютера.
 Fishing Pole
 Удочка
 A custom made magnetic fishing pole.
-Собранная магнитная удочка.
+Самодельная удочка с магнитом на конце.
 Apple
 Яблоко
 A delicious granny smith.
-Вкусное яблоко.
+Аппетитное яблоко.
 Gate Key
 Ключ от Ворот
 Key to the laundromat area
 Ключ от ворот прачечной
 Bath House Key
-Ключ от Бани
+Ключ от купальни
 The key to the witch's bath house.
-Ключ к бане ведьмы.
+Запасной ключ от ведьминской купальни.
 Candy Bar
 Шоколадный батончик
 Mmm...chocolate.
@@ -1501,9 +1501,9 @@ OK.
 There's nothing here.
 Здесь ничего нет.
 Ick, a brain...
-Ик, мозг ...
+Оу. Это мозг...
 I better take this, he'll think I'm smart or something.
-Мне лучше принять это, он подумает, что я умный или что -то в этом роде.
+Если я принесу ему мозг, он решит, что я умная... или типа того.
 DollChoice
 Dollchoice
 Hey! A doll!
@@ -1517,7 +1517,7 @@ So you brought me the doll.
 Let's talk about that.
 Ты не против поговорить об этом?
 Please, take a seat.
-Только сперва присядь, пожалуйста.
+Пожалуйста, присаживайся.
 So, why did you pick the doll?
 Итак, почему же ты выбрала куклу?
 It's cute I guess?
@@ -1595,135 +1595,135 @@ See the lady at the desk on your way out.
 ACH_DOLL
 
 Hmm, the brain.
-Хм, мозг.
+Хм-м. Мозг.
 Interesting.
 Интересно.
 Why did you pick this?
-Почему ты это выбрал?
+Почему ты выбрала именно его?
 Because I'm smart!
-Потому что я умный!
+Потому что я умная!
 It's also all pink and squishy!
-Это также все розовое и мягкое!
+А ещё он мягкий и розовый!
 To me it means intellectuality.
-Для меня это означает интеллектуальность.
+Для меня это является свидетельством высокого интеллекта.
 You seem like a smart girl, Luzia.
-Ты выглядишь умной девушкой, Лузия.
+Кажется, ты и впрямь очень умная девочка, Люция.
 Sombie thought so too...
-Сомби тоже так думал ...
+Сомби тоже так думала...
 a \"smart ass\".
-A \ "Smart Ass \".
+Она называла меня \"хитрой задницей\".
 *I can see why.*
-*Я понимаю, почему.*
+*Теперь я понимаю, почему.*
 Tell me something, if you're a smart girl...
-Скажи мне что -нибудь, если ты умная девушка ...
+Тогда ответь мне. Если ты и правда настолько умная...
 why do you still insist your sister is still alive?
-Почему вы все еще настаиваете на том, что ваша сестра все еще жива?
+Почему же ты до сих пор утверждаешь, что твоя сестра жива?
 I-I...
-Я-я ...
+Я-Я...
 look, I don't want to talk about her anymore.
-Слушай, я больше не хочу говорить о ней.
+Слушайте, я не хочу больше о ней говорить.
 We still have another twenty minutes left, Luzia.
-У нас осталось еще двадцать минут, Лузия.
+У нас всё ещё осталось двадцать минут, Люция.
 I said, no more.
-Я сказал, больше нет.
+Я же сказала, не хочу.
 Don't do this again, don't waste my time, Luzia.
-Не делай этого снова, не тратьте свое время, Лузия.
+Ну только не снова. Не трать моё время, Люция.
 Remember what happened the last time you did?
-Помните, что случилось в последний раз?
+Помнишь, что случилось в прошлый раз, когда такое произошло?
 *yes, I remember*
-*Да, я помню*
+*да, я прекрасно помню*
 Now, can we please get back to your sister-
-Теперь, можем ли мы вернуться к своей сестре-
+А теперь, не могли бы мы вернуться к твоей сес...
 You can't do that to me anymore.
-Ты больше не можешь сделать это со мной.
+Больше ты такого не сделаешь.
 D-Do what, Luzia?
-D-DO Что, Лузия?
+Ч-Чего не сделаю, Люция?
 Hurt me.
-Причинил мне боль.
+Не сделаешь мне больно.
 W-What are you talking about? I don't hurt-
-W О чем вы говорите? Мне не больно-
+О-О чём ты? Я не...
 Touch me.
-Прикоснись ко мне.
+Не тронешь меня даже пальцем.
 How dare you! I would never-
-Как ты смеешь! Я бы никогда-
+Да как ты смеешь?! Я бы никогда...
 The medication helps me forget, remember?
-Лекарство помогает мне забыть, помните?
+Из-за лекарств я иногда забываю разные вещи, верно?..
 L-Luzia? What's happened to your voice?
-L-Luzia? Что случилось с вашим голосом?
+Л-Люция? Что с твоим голосом?
 I don't think he get's it, Luzia.
-Я не думаю, что он понял, Лузия.
+Кажется, он ничего не понял, Люция.
 I think it's time we show him...
-Я думаю, пришло время показать ему ...
+Кажется, ему пора узнать...
 what it means to feel \"dead inside\".
-Что значит чувствовать себя мертвым внутри \ ».
+каково это - чувствовать себя \"мёртвым\".
 G-Get the hell away from me!
-G-g-had, черт возьми, от меня!
+О-Отойди от меня! Сейчас же!
 I'm sorry, Mr. Black...
-Извините, мистер Блэк ...
+Простите, мистер Блэк...
 I really am.
-Я действительно.
+Мне действительно очень жаль.
 W-What's that sound?
-W-что это звучит?
+Ч-Что это за звук?
 W-WHAT IS THAT THING?!
-W-что это?!
+ЧТО ЭТО ЗА ЧУДОВИЩЕ?!
 That?
-Что?
+Чудовище?
 That's Sombria.
-Это Сомбрия.
+Это же Сомбрия!
 IMPOSSIBLE!
-НЕВОЗМОЖНО!
+ЭТО НЕВОЗМОЖНО!
 Told ya so!
-Сказал тебе!
+Но я же говорила!..
 STAY AWAY, PLEASE!
-Держись подальше, пожалуйста!
+НЕ ПОДХОДИ! ПОЖАЛУЙСТА!
 See, she's alive.
-Видишь, она жива.
+...Видите, она живая.
 Now do you believe me?
-Теперь ты мне веришь?
+Теперь-то вы мне верите?
 Well? W-Wait, Sombie, what are you doing?
-Что ж? W-wait, Сомби, что ты делаешь?
+Верите, правда же? П-Погоди, Сомби, что ты задумала?
 STAY AWAY!
-ДЕРЖИСЬ ПОДАЛЬШЕ!
+НЕ ПОДХОДИ!
 Sombie! What the heck?! I only meant scare him!
-Сомби! Какого черта?! Я имел в виду только напугать его!
+Сомби, что ты наделала?! Я лишь хотела его напугать!
 Why'd you have to bite off his head for?!
-Зачем тебе откусить его голову?!
+Зачем было откусывать ему голову?!
 God dammit!
-Черт побери!
+Ну что за хрень!
 ee wass hurrrrtinnnng youuu, Luzzzzia.
-ee wass urrrrtinnnng youuu, luzzzzia.
+ооон дееелал тебее плооохооо, Люююцииияяяя.
 Please don't put the voice on, it's stupid.
-Пожалуйста, не надевайте голос, это глупо.
+Пожалуйста, не завывай так. Это нелепо.
 You're not scary, Sombie.
-Ты не страшный, Сомби.
+Ты не страшная, Сомби.
 Luzia, I'm always weak, tired, and extremely hungry.
-Лузия, я всегда слаб, устал и очень голоден.
+Люция, я всё время чувствую слабость, усталость и дикий голод.
 I'm sorry, but I can't stand it! This body aches! The pain...is excruciating!
-Извините, но я терпеть не могу! Это тело болит! Боль ... мучительна!
+Прости, но я больше не могу терпеть! Это тело вечно ломит! Боль... невыносимая!
 You're fine, Sombie.
-Ты в порядке, Сомби.
+Всё хорошо, Сомби.
 Don't put yourself down.
-Не опускайся.
+Тебе незачем так унижать своё тело.
 Do I look fine to you? I'm a hideous creature!
-Я хорошо смотрю на тебя? Я отвратительное существо!
+По-твоему вот это - \"хорошо\"? Я отвратительное чудовище!
 I don't know if I'm dead or alive?
-Я не знаю, мертв я или жив?
+Я сама не знаю, жива я или мертва!
 Well, at least you're out of your room finally.
-Ну, по крайней мере, вы наконец в своей комнате.
+Ну, зато ты наконец-то вышла из своей комнаты...
 THIS ISN'T FUNNY!
-Это не смешно!
+ЗДЕСЬ НЕТ НИЧЕГО СМЕШНОГО!
 Well, it's better than being depressed?
-Ну, это лучше, чем быть подавленным?
+По-моему, смеяться лучше, чем сидеть в депрессии?
 You wouldn't know a thing about being depressed, Luzia!
-Вы бы ничего не узнали о депрессии, Лузия!
+Ты даже понятия не имеешь, что такое депрессия!
 I-I'm sorry, Sombie.
-Я-мне жаль, Сомби.
+И-Извини, Сомби.
 I just want to help-
-Я просто хочу помочь-
+Я просто хотела помочь...
 You can't Luzia...
-Ты не можешь Лузия ...
+Ты не сможешь помочь мне, Люция.
 no one can.
-никто не может.
+Никто не сможет.
 ACH_BRAIN
 
 Find something in this room and bring it to me.
@@ -1747,177 +1747,177 @@ Reception
 There's nothing interesting in here.
 Здесь нет ничего интересного.
 That's strange...
-Это странно...
+Странно...
 there's no one in there.
-Там никого нет.
+Здесь никого нет.
 Just a bunch of sporting magazines.
 Просто куча спортивных журналов.
 The door's locked?
-Дверь заперта?
+Дверь закрыта на ключ?
 What the hell's going on?
-Что, черт возьми, происходит?
+Что за чертовщина?
 Great, now I can get outta here.
-Отлично, теперь я могу уехать здесь.
+Наконец-то я смогу отсюда выйти.
 Feeling sick my darling?
-Чувствуете себя больным, моя дорогая?
+Золотце, у тебя всё хорошо?..
 You took your time in there.
-Вы нашли свое время там.
+Ты долго не выходила.
 I-It must have been something I ate for lunch.
-Я, должно быть, был чем-то, что я ел на обед.
+Должно быть, съела что-то не то.
 Okay dear, see you next time.
-Хорошо, дорогая, увидимся в следующий раз.
+Ладно, моя маленькая. До встречи!
 I hope I don't see \"you\" anymore.
-Надеюсь, я больше не вижу \ "Ты \".
+Надеюсь, больше не встретимся.
 It's just a bunch of brochures for holiday parks.
-Это просто куча брошюр для парков отдыха.
+Это стопка брошюр с рекламой парков развлечений.
 Hey! This place doesn't look too bad.
-Привет! Это место выглядит не очень плохо.
+Кстати, вот это местечко неплохо выглядит!
 Dayfield Motel.
-Дейфилд. Мотель.
+Дэйфилд-Мотель.
 It's got a western cowboy sorta vibe.
-У него есть западная ковбойская атмосфера.
+Есть в нём какой-то ковбойский вайб...
 Sounds like a nice place for a vacation.
-Звучит как хорошее место для отпуска.
+Звучит как приятное место для отдыха.
 ACH_JIT_REFERENCE
 
 NoodleLadyWaitingRoom
 
 Wait a minute?
-Подождите минуту?
+Погодите-ка?
 What are you doing here?
-Что ты здесь делаешь?
+Что вы здесь делаете?
 I'm here just like everyone else.
-Я здесь, как и все остальные.
+Жду своей очереди.
 I've got some problems I need sorting.
-У меня есть некоторые проблемы, которые мне нужны.
+У меня в жизни тоже есть проблемы, которые нужно обсудить со специалистом.
 But what about you, my darling?
-Но как насчет тебя, моя дорогая?
+А что ты тут делаешь, моя дорогая?
 Taking your sister out to lunch?
-Увлечь свою сестру на обед?
+Привела сестру пообедать?
 Don't you have noodles to sell or something?
-У тебя нет лапши, чтобы продать или что -то в этом роде?
+Разве вы не должны продавать лапшу, или типа того?
 Don't you have a sister that needs you?
-У тебя нет сестры, которая тебе нужна?
+А разве ты не должна помочь сестре, попавшей в беду?
 There's nothing I can do for her...
-Я ничего не могу сделать для нее ...
+Я не смогу ей помочь...
 she doesn't want my help.
-Она не хочет моей помощи.
+Она и сама этого не хочет.
 Pfft! That's what they all say.
-Пффт! Это то, что все они говорят.
+Что за вздор! Все так говорят!
 What do you mean?
-Что ты имеешь в виду?
+О чём это вы?
 Do you think she want's you to ask you for your help?
-Как вы думаете, она хочет, чтобы вы попросили вас о вашей помощи?
+Ты думаешь, она хочет, чтобы ты сперва предложила ей помощь?
 Heh, but what do I know?
-Хех, но что я знаю?
+Впрочем, откуда мне знать?
 I'm just an old Lady, after all.
-В конце концов, я просто старушка.
+В конце концов, я просто какая-то старушка.
 She doesn't want my help.
-Она не хочет моей помощи.
+Она не хочет, чтобы я ей помогала.
 That doesn't mean she can't be helped...
-Это не значит, что ей не может помочь ...
+Но это не значит, что ей невозможно помочь...
 put yourself in her position, then tell me how you feel.
-Поставьте себя в ее положение, затем скажите мне, что вы чувствуете.
+Поставь себя на её место, а затем скажи мне, что чувствуешь.
 It's not easy, is it? But it's not impossible either.
-Это не просто, не так ли? Но это тоже не невозможно.
+Пожалуй, это непросто. Но уверена, у тебя получится.
 That word Sombie said before...
-Это слово, которое Сомби сказал раньше ...
+Я чувствую себя так же, как это описывала Сомбрия...
 depressed.
-подавлен.
+Депрессивно.
 Gosh!
-Черт возьми!
+Боже!
 I don't know why you're seeing this fool!
-Я не знаю, почему вы видите этого дурака!
+И зачем ты только ходишь к этому дураку?
 I should start my own clinic, and get outa the noodle business.
-Я должен начать свою собственную клинику и пойти на бизнес по лапше.
+Вместо лавки с раменом мне следует открыть собственную клинику!
 Is there a way to get out of here?
-Есть ли способ выбраться отсюда?
+Вы знаете, как отсюда выйти?
 I need to help Sombria.
-Мне нужно помочь Сомбрию.
+Чтобы я помогла Сомбрии.
 You're twelve, you're better figuring this out than me!
-Тебе двенадцать, тебе лучше понять это, чем я!
+Тебе двенадцать лет - у тебя точно получится найти выход быстрее, чем у меня!
 Besides...
-Кроме...
+Но не теряй времени...
 the key to your problems are better off flushed away.
-Ключ к вашим проблемам лучше выбросить.
+Ключ к твоей проблеме скоро может смыться.
 What's taking that man so long?!
-Что займет этого человека так долго?!
+Чем этот терапевт там занят?!
 I've been waiting for over an hour.
-Я ждал более часа.
+Я сижу здесь уже около часа...
 Thearapists Room
-Комната терапевтов
+Кабинет терапевта
 Magazines
 Журналы
 Receptionist
-Регистратор
+Ресепшн
 Garbage
-Мусор
+Мусорка
 Exit
 Выход
 Brochures
 Брошюры
 No, No, NO!
-Нет нет нет!
+Нет, нет, НЕТ!
 The door's locked!
-Дверь заперта!
+Дверь закрыта на замок!
 Oh, it's just you.
-О, это только ты.
+А, это ты.
 Hey, Sombie...
-Эй, Сомби ...
+Слушай, Сомби...
 what I said back there, I didn't really mean it.
-То, что я сказал там, я действительно не имел в виду это.
+То, что я сказала в кабинете... Я не это имела в виду.
 I'm just trying to make you happ-
-Я просто пытаюсь сделать тебя счастливым
+Я просто хотела, чтобы ты...
 ACH_APOLOGY
 
 Wait, why didn't you show yourself to him!?
-Подожди, почему ты не показал себя ему!?
+Погоди, почему ты не показала себя терапевту?!
 He think's I'm crazy!
-Он думает, что я сумасшедший!
+Он думает, что я сумасшедшая!
 It's not all just about you, ya'know-
-Это не все о тебе, ты знаешь
+Знаешь ли, проблемы есть не только у тебя...
 Why do you look-
-Почему ты смотришь-
+Что с тобой? Ты выглядишь...
 Why is this happening, Luzia?!
-Почему это происходит, Лузия?!
+Почему всё так вышло, Люция?!
 YOU RUINED MY LIFE!
-Ты разрушил мою жизнь!
+ТЫ РАЗРУШИЛА МОЮ ЖИЗНЬ!
 I wish you were never born!
-Я бы хотел, чтобы ты никогда не родился!
+Вот бы ты никогда не рождалась!
 S-Sombie, I'm really sorr-
-S-Sombie, я действительно насыщен
+С-Сомби, мне очень сты-
 ENOUGH, LUZIA!
-Достаточно, Лузия!
+ПРЕКРАТИ, ЛЮЦИЯ!
 I WISH YOU WERE CURSED, JUST LIKE ME!
-Я бы хотел, чтобы вы были прокляты, как и я!
+ВОТ БЫ ТЫ БЫЛА ПРОКЛЯТА! ТАК ЖЕ, КАК Я!
 M-Maybe you're right...
-М-майбе, ты прав ...
+Наверное, ты права...
 you should have let me die.
-Ты должен был позволить мне умереть.
+Лучше бы ты дала мне умереть.
 Well, it's too late, little sister.
-Ну, уже слишком поздно, маленькая сестра.
+Увы, уже слишком поздно, сестрёнка.
 You can't change your mistakes.
-Вы не можете изменить свои ошибки.
+Старых ошибок не исправить.
 She's right...
 Она права...
 this is all my fault.
-Это все моя вина.
+Это моя вина.
 I keep making it worse.
-Я продолжаю делать это хуже.
+И из-за меня всё становится ещё хуже.
 Don't worry, Sombria.
-Не волнуйся, Сомбрия.
+Но не волнуйся, Сомбрия.
 I'll fix this...
-Я исправлю это ...
+Я всё исправлю...
 Is that the door?
-Это дверь?
+Дверь открыта?
 TherpyKey
 
 Why is there a hand coming out of the toilet?
-Почему из туалета выходит рука?
+Почему из этого унитаза торчит рука?
 It's holding a key...
-Он держит ключ ...
+Она держит ключ...
 you've got to be kidding me.
-ты меня разыгрываешь.
+Глазам своим не верю.
 I remember when my cousin Mark said he was eaten by a toilet once...
 Я помню, когда мой двоюродный брат сказал, что однажды его съел туалет ...
 he's weird. Still...
@@ -1925,7 +1925,7 @@ he's weird. Still...
 that does sound quite terrifying.
 Это звучит довольно ужасно.
 I'll wash my hands later.
-Я вымываю руки позже.
+Сейчас не время мыть руки.
 Nothing but trash.
 Ничего, кроме мусора.
 Toilet
@@ -1935,281 +1935,281 @@ Garbage Can
 So, where are we going?
 Итак, куда мы идем?
 I don't know, Luzia!
-Я не знаю, Лузия!
+Не знаю, Люция!
 Stop asking me!
-Перестань меня спрашивать!
+Не спрашивай!
 How can you be so calm about this?!
-Как ты можешь быть таким спокойным в этом?!
+Как ты можешь оставаться такой спокойной?!
 Easy! This has to be a prank!
-Легкий! Это должно быть шутка!
+Запросто! Я думаю, это какой-то пранк!
 A prank? You think this is a prank, Luzia?!
-Шалость? Вы думаете, что это шутка, Лузия?!
+Пранк? То есть, по-твоему всё это пранк, Люция?!
 WE'RE BEING KIDNAPPED!
-Нас похищают!
+НАС ПОХИТИЛИ!
 When is that going to sink into that stupid little head of yours?!
-Когда это собирается погрузиться в ту глупый маленькую голову?!
+Когда уже это дойдёт до твоей маленькой тупой головы?!
 Well, what are we going to do about it?
-Что ж, что мы будем с этим делать?
+Ладно, тогда что мы будем делать?
 There's nothing we can do!
-Мы ничего не можем сделать!
+В том и суть - мы ничего не можем сделать!
 The door's locked, there's no way out.
-Дверь заперта, выхода нет.
+Дверь кузова закрыта на ключ, другого выхода нет.
 Pfft, sure there isn't.
-ПФФТ, конечно, нет.
+Пф-ф-ф. Ясное дело, что нет.
 Why are you still so chirpy about this?
-Почему ты все еще так хитрый об этом?
+Не понимаю, с чего ты такая радостная?
 *Sigh* Only thing left to do is see where they take us.
-* Вздох* Единственное, что осталось сделать, это увидеть, куда они нас берут.
+*Вздох* Остаётся лишь ждать. Посмотрим, куда они нас привезут.
 Who?
-Кто?
+Кто - они?
 I don't know! I didn't get to see them beat me and stuff me in a moving truck, Luzia!
-Я не знаю! Я не мог видеть, как они победили меня и забивают мне в движущемся грузовике, Лузия!
+Не знаю, Люция! Прости, я не успела их разглядеть, пока они избивали меня и запихивали в грузовик!
 One was wearing a mask and the other...
-Один был в маске, а другой ...
+Один вообще носил маску, а второй...
 What?
-Какая?
+Что?
 I thought I saw...
-Я думал, что видел ...
+Кажется, я видела...
 an old-
-Старый-
+пожилую...
 Hey! Do you hear that?
-Привет! Ты слышал это?
+Эй! Ты это слышишь?
 It sounds like music?
-Звучит как музыка?
+Какая-то музыка?..
 Where are we?
-Где мы?
+Где же мы?
 It sounds like...
-Это звучит как...
+По звуку похоже на...
 Little Asia Town!
-Маленький город Азии!
+маленький азиатский городок!
 Little Asia Town?
-Маленький город Азии?
+Азиатский?
 We don't have any Asian towns near us, don't we?
-У нас нет азиатских городов рядом с нами, не так ли?
+Но рядом с нами же нет никаких азиатских городков?
 I thought we did?
-Я думал, что мы сделали?
+А я думала, есть.
 Mom's taken me there, that one time.
-Мама забрала меня туда, один раз.
+Мама меня однажды в такой водила.
 We must be in Little Tokyo.
-Мы должны быть в маленьком Токио.
+Должно быть, мы в Маленьком Токио!
 I'm sure your mistaking this place for somewhere else.
-Я уверен, что вы ошибаетесь в этом месте в другом месте.
+Уверена, ты спутала это место с чем-то другим.
 Pfft! I'm sure is Little Tokyo.
-Пффт! Я уверен, что маленький Токио.
+Пф-ф-ф! А я уверена, что мы в Маленьком Токио!
 Look, whatever. We need a plan to escape when that door opens.
-Смотри, что угодно. Нам нужен план, чтобы сбежать, когда эта дверь откроется.
+Ладно, не важно. Нам нужен план побега к тому моменту, как дверь откроется.
 I'll kick the guy that opens it and then we make a run for it, ok?
-Я открою парня, который откроет его, а затем мы пробежаем за ним, хорошо?
+Я пинаю того, кто её откроет, а потом мы обе бежим со всех ног. Идёт?
 That's a stupid plan! It'll never work.
-Это глупый план! Это никогда не сработает.
+Это идиотский план! Он не сработает...
 And why not?
-И почему бы нет?
+Почему это?
 That never happens in the movies...
-Это никогда не происходит в фильмах ...
+В фильмах такое никогда не срабатывает.
 the kidnapped people usually fall asleep before they arrive.
-Похищенные люди обычно засыпают до прибытия.
+Обычно похищенные засыпают ещё до того, как прибудут на место.
 This isn't a movie, Luzia!
-Это не фильм, Лузия!
+Но мы не в фильме, Люция!
 Feels just like one.
-Чувствует себя как один.
+А по ощущениям больше похоже на фильм...
 Why do I even bother?
-Почему я вообще беспокоюсь?
+Зачем я вообще с тобой спорю?
 *Sigh* Look, it'll work, trust me.
-* Вздох* Смотри, это сработает, поверь мне.
+*Вздох* Просто поверь мне, этот план сработает.
 Whatever you say, sis.
-Что бы вы ни говорили, сестренка.
+Как скажешь, сестрёнка.
 Okay, let's get ready.
-Хорошо, давайте подготовимся.
+Хорошо, тогда приготовься.
 Hopefully, we'll be arriving soon.
-Надеюсь, мы скоро прибудем.
+Надеюсь, скоро грузовик остановится.
 FirstEnter
 
 Well...
 Что ж...
 it's about time you showed up.
-Пришло время приехать.
+Вы как раз вовремя.
 I apologize for the rough transportation.
-Прошу прощения за грубую транспортировку.
+Прошу прощения за некомфортную поездку.
 You're both probably wanting an explanation?
-Вы оба, вероятно, хотите объяснить?
+Предполагаю, вы обе ждёте объяснений?
 Actually, why are you naked? Isn't it cold in there?
-На самом деле, почему ты голый? Разве там не холодно?
+Вообще-то да. Например, почему вы голая? Здесь довольно холодно...
 Heh. Aren't you a mischievous one.
-Хех. Разве ты не озорной.
+Ха! Вижу, ты у нас озорница.
 Welcome, to my bathhouse.
-Добро пожаловать, в мою баню.
+Добро пожаловать в мою купальню.
 What do you want with us?
-Что ты хочешь с нами?
+Что вам от нас нужно?
 Sombie, I wanna go swimming!
 Сомби, я хочу поплавать!
 Shut up, Luzia! Now is definitely not the time-
-Заткнись, Лузия! Сейчас определенно не время-
+Да заткнись ты, Люция! Сейчас явно не время...
 Oh, but where are my manners?
-О, но где мои манеры?
+О, где же мои манеры?
 I am Ashina...
 Я Ашина ...
 but everybody just calls me \"The Red Witch\".
-Но все просто называют меня «красная ведьма».
+но все называют меня \"Красной ведьмой\".
 A witch?
-Ведьма?
+Ведьмой?
 You mean like, pointy hat, warts and, black cats?
-Вы имеете в виду, что заостренная шляпа, бородавки и черные кошки?
+В смысле, с остроконечной шляпой, бородавками и чёрным котом?
 *Small chuckle*
-*Маленький смешок*
+*Тихо смеётся*
 Your Luzia, right?
-Твоя Луция, верно?
+Ты Люция, верно?
 I've heard so much about you.
-Я так много слышал о тебе.
+Я о тебе наслышана.
 What do you want with us?!
-Что ты хочешь с нами?!
+Что вам надо?!
 Why did you bring us here?!
-Почему ты привел нас сюда?!
+Зачем нас сюда привезли?!
 You wish to skip introductions? Fine.
-Вы хотите пропустить представления? Отлично.
+Не любите долгих приветствий? Да будет так!
 I have a \"problem\", that I need help with.
-У меня есть \ "проблема \", с которой мне нужна помощь.
+Есть одна проблема, которую я не могу решить в одиночку.
 It's been haunting me for a very, very long time.
-Это преследовал меня очень, очень давно.
+Она преследует меня уже очень, очень давно.
 And you, Sombria...are the key.
-И ты, Сомбрия ... Ключ.
+А ты, Сомбрия, и есть её решение.
 What! M-Me!?
-Какая! M-me!?
+Я?!
 The thing is, you have something that I need.
-Дело в том, что у вас есть что -то, что мне нужно.
+У тебя есть кое-что, столь необходимое мне.
 A chance.
 Шанс.
 A chance to end this nightmare.
-Шанс закончить этот кошмар.
+Шанс положить конец моему кошмару.
 You see, I was a lot like you.
-Видите ли, я был очень похож на вас.
+Видишь ли, когда-то я была такой же, как ты.
 We bare a striking resemblence, you and I.
-Мы обнажаем поразительное сходство, вы и я.
+Мы даже внешне удивительно схожи.
 So why is that? Fate? No?
-Так почему это? Судьба? Нет?
+Что это? Прихоть судьбы? Или всего лишь случайность?
 I too were in the exact same position as yourself, without a choice.
-Я тоже был в том же положении, что и вы, без выбора.
+Я была в том же положении, что и ты, и так же не имела выбора.
 To get what I wanted I had to make a sacrifice.
-Чтобы получить то, что я хотел, я должен был принести жертву.
+Мне пришлось многим пожертвовать, дабы получить то, к чему я стремилась.
 But did I get what I want? No.
-Но получил ли я то, что хочу? Нет.
+Но вышло ли всё так, как я хотела? Нет...
 I was stuck here, in these cold dark waters for all of eternity...
-Я застрял здесь, в этих холодных темных водах на всю вечность ...
+Я оказалась заточена здесь, в этих холодных и мрачных водах, на целую вечность...
 Until you came along.
-Пока ты не пришел.
+Пока не пришла ты.
 So, Sombria. This...
-Итак, Сомбрия. Этот...
+И вот, Сомбрия. Узри же...
 is my sacrifice.
-моя жертва.
+мою жертву.
 My curse.
-Мое проклятье.
+Моё проклятие.
 No, freaking, way!
-Нет, чертовски, путь!
+Ни. Фига. Себе!
 W-What do you want with me?
-W-что ты хочешь со мной?
+И ч-что я должна сделать?
 Heh, it's not what I want from you.
-Хех, это не то, что я хочу от тебя.
+Тебе не придётся много трудиться, дабы помочь мне.
 It's remarkable how much we resemble one another...
-Примечательно, как много мы напоминаем друг друга ...
+Удивительно, насколько же мы похожи...
 we are almost, identical, you and I. Like twins.
-Мы почти, идентичны, вы и я. Как близнецы.
+Мы почти идентичны. Как близнецы.
 So, I would like to offer you a trade...
-Итак, я хотел бы предложить вам торговлю ...
+И потому я хочу предложить тебе сделку...
 my body...for yours.
-Мое тело ... для твоего.
+Моё тело... в обмен на твоё.
 W-What?! No!
-W-что?! Нет!
+С чего это вдруг?! Нет!
 This all could be yours.The bathhouse, the power, the riches! All of it! Anything you wish!
-Все это может быть твоим. Баня, сила, богатства! Все это! Все, что вы хотите!
+Всё это станет твоим. Купальня, власть, богатства - возьми всё, что у меня есть! Проси что угодно!
 She ain't gettin' your stilts, momma long legs!
-Она не получает твои ходы, мама длинные ноги!
+Даже не пытайся, она не согласится взять себе такие ходули!
 You better let us go-
-Тебе лучше позволить нам идти-
+Лучше отпусти нас по-хороше...
 Wait! Did you say \"anything\"?
-Ждать! Вы сказали \ "что -нибудь \"?
+Хотя стой! Ты сказала "проси что угодно"?
 LUZIA!
-Лузия!
+ЛЮЦИЯ!
 Sombie, ask for a pony, please!
-Сомби, попросите пони, пожалуйста!
+Знаешь, Сомби, попроси у неё пони!
 Just a really tall one!
-Просто действительно высокий!
+С о-о-очень длинными ногами.
 Ha Ha! Sombria, I love your little sister!
-Ха -ха! Сомбрия, я люблю твою младшую сестру!
+Ха-ха! Сомбрия, мне нравится твоя младшая сестра!
 Such a charming little child!
-Такой очаровательный маленький ребенок!
+Что за очаровательное дитя!..
 LUZIA, STOP IT!
-Лузия, останови!
+ЛЮЦИЯ, ПРЕКРАТИ!
 Ok, ok. Forget it, lady!
-Ладно ладно. Забудь об этом, леди!
+Ладно, ладно. Простите, дамочка, сделка с пони отменяется.
 Now, now. There's no need to be upset, it was just an offer.
-Сейчас сейчас. Там не нужно расстраивать, это было просто предложение.
+Ну-ну. Ни к чему так волноваться, это было лишь моё скромное предложение.
 You're more than welcome to decline, Sombria.
-Вы более чем можете отказаться, Сомбрия.
+Ты действительно вправе от него отказаться, Сомбрия.
 Then why did you kidnap us?
-Тогда почему вы нас похитили?
+Зачем вы тогда нас похитили?
 Strange. I don't remember asking for you to be kidnapped.
-Странный. Я не помню, чтобы просил вас похитить.
+Странно. Не припомню, чтобы я приказывала вас похитить.
 If it's who I think it is, she's in for a world of pain and suffering.
-Если это то, что я думаю, она ждет мир боли и страданий.
+Но если к этому приложила руку та, о ком я думаю, её ждёт целый мир страдания и боли.
 Sombria...
-Сомбрия ...
+Сомбрия...
 think about my offer, please.
-Подумайте о моем предложении, пожалуйста.
+Пожалуйста, подумай над моим предложением.
 I don't want to think about it!
-Я не хочу думать об этом!
+Я не хочу о нём думать!
 I just want us to go home!
-Я просто хочу, чтобы мы пошли домой!
+Я просто хочу, чтобы мы вернулись домой!
 If that is all you want, I'll arrange a ride home for you both.
-Если это все, что вы хотите, я договоритесь о вас обоих.
+Если это всё, чего ты хочешь, я подготовлю для вас обеих поездку домой.
 In the mean time feel free to enjoy the buffet, you must be hungry.
-В то же время не стесняйтесь наслаждаться буфетом, вы должны быть голодными.
+Пока идёт время, не стесняйтесь пользоваться нашим буфетом. Вы, должно быть, проголодались?..
 You got a buffet?!
-У тебя буфет?!
+Здесь есть буфет?!
 All you can eat.
-Все, что вы можете съесть.
+О да, и в нём можно есть сколько угодно!
 Ok, I'm sold.
-Хорошо, я продан.
+Это подкупает...
 C'mon, Sombie! Let's go chow down!
-Да ладно, Сомби! Пойдем, похитите!
+Давай, Сомби! Нам нужно что-нибудь пожевать!
 If only you girls knew. Especially you, Luzia.
-Если бы только вы, девочки, знали. Особенно ты, Лузия.
+О, девочки, если бы вы только знали... Особенно ты, Люция...
 Did I say you could be in my presence?
-Я сказал, что ты можешь быть в моем присутствии?
+Разве я разрешала тебе появляться в моём присутствии?
 Surely a mother can visit her daughter?
-Конечно, мать может навестить свою дочь?
+А разве мать не может просто взять и навестить свою дочь?
 You are no mother of mine, you old hag!
-Ты не моя мать, ты старый хаг!
+Не мать ты мне, убогая карга!
 You gave me this wretched curse, and destroyed Tena's-
-Ты дал мне это убогов
+Ты наложила на меня это мерзкое проклятие, и разрушила Тене...
 And you took my daughters for greed over some stupid man.
-И ты взял моих дочерей за жадность из -за глупого человека.
+А ты лишила меня дочерей из-за страсти к какому-то несчастному глупцу!
 What do you want, filth?
-Что ты хочешь, грязь?
+Зачем пришла? Послушать оскорблений?
 Just a friendly word of caution.
-Просто дружелюбное слово осторожности.
+Я пришла с дружеским предостережением.
 I know what you're up to, Ashina. Especially with the child.
-Я знаю, что ты задумал, Ашина. Особенно с ребенком.
+Я знаю, что ты задумала, Ашина. Особенно насчёт ребёнка.
 Like I said, you're here forever.
-Как я уже сказал, ты здесь навсегда.
+Как я и сказала, ты останешься здесь навсегда.
 Just watch your back, you old, pathetic, woman!
-Просто посмотрите на свою спину, вы старая, жалкая, женщина!
+Следи лучше за собой, жалкая старуха!
 She will free us all.
-Она освободит нас всех.
+Эта девочка освободит нас всех.
 ACH_JUST_A_LITTLE_GIRL
 
 Heh! My daughter, she will fall...
-Хе! Моя дочь, она упадет ...
+Хе! Нет, доченька, она не сможет...
 and when she does, you will all be mine.
-И когда она это сделает, вы все будете моими.
+И когда она ошибётся, все вы станете моими.
 You're wrong, you old crone.
-Ты ошибаешься, ты старый Крона.
+Всё будет иначе, дряхлая ты ворона.
 I will have Sombria's body, I will leave this bath...
-У меня будет тело Сомбрии, я оставлю эту ванну ...
+Я получу тело Сомбрии, затем покину эту паршивую баню...
 and I will finally have my cold dead claws around your neck!
-И я наконец -то у меня будут холодные мертвые когти на шее!
+и мои холодные мёртвые когти, наконец, вонзятся в твою шею!
 *Tisk, tisk* My poor daughter, I'm sorry but you will never be free...
-* Тиск, Тиск* моя бедная дочь, извини, но ты никогда не будешь свободным ...
+*Смеётся* Моя несчастная дочь... Прости, но ты никогда не обретёшь свободу...
 just like your friend, Tanto.
-Так же, как твой друг, Танто.
+...как и твой друг, Танто.
 RoomSetup:Bath
 
 TiledWall
@@ -2219,17 +2219,17 @@ Now what?
 Great! The passage is shut!
 Прекрасно! Проход закрыт!
 I guess, I can't look in here.
-Думаю, я не могу смотреть сюда.
+Наверное, я не смогу заглянуть сюда.
 It looks like there's something missing where the eyes should be.
-Похоже, что чего -то не хватает, где должны быть глаза.
+На тех местах, где должны быть глаза, словно чего-то не хватает...
 I guess it's not in there.
 Надеюсь, голова Ашины больше не там...
 Hallway
 Коридор
 Tiled Wall (Right)
-Плиточная стена (справа)
+Плиточная стена (Справа)
 Tiled Wall (Left)
-Плиточная стена (слева)
+Плиточная стена (Слева)
 DoorLocked
 
 SombieCutscene
@@ -2237,87 +2237,87 @@ Sombiecutscene
 Where is everybody?
 Где все?
 Where's the all the food?!
-Где вся еда?!
+И где вся еда?!
 Luzia, please, shut up!
-Лузия, пожалуйста, заткнись!
+Люция, пожалуйста, помолчи!
 I'm not in the mood for your crap right now.
-Я сейчас не в настроении для твоего дерьма.
+Я сейчас не в настроении для твоих глупостей.
 But I'm hungry, Sombie.
-Но я голоден, Сомби.
+Но я хочу есть, Сомби...
 You always are!
-Вы всегда есть!
+Ты всегда хочешь есть!
 I can't just stand here with an empty stomach!
 Я не могу просто стоять здесь с пустым желудком!
 I'm gonna go snoop around.
-Я собираюсь ходить вокруг.
+Пойду разведаю, где может лежать еда.
 No! You stay right here!
-Нет! Вы остаетесь здесь!
+Нет! Никуда не иди!
 Sorry \"mom\"! I can't do that.
-Прости мама\"! Я не могу этого сделать.
+Прости, \"мамуля\", но я так не могу!
 I'm just going to explore in here, ok?
-Я просто собираюсь исследовать здесь, хорошо?
+Я просто немного здесь осмотрюсь, ладно?
 *Sigh* W-Whatever, Luzia. Whatever...
-* Вздох* W-Whatever, Luzia. Что бы ни...
+*Вздох* Ну хорошо, Люция. Хорошо...
 I'll bring you back a donut or something.
-Я верну тебе пончик или что -то в этом роде.
+Принесу тебе пончик или ещё что-нибудь...
 Lockpick
-Отмычка
+Заколка
 Hey, Sombie!
 Эй, Сомби!
 Can I have one of your hair pins?
-Можно мне один из твоих штифтов?
+Можешь дать мне одну из своих заколок?
 Why?
-Почему?
+Зачем?
 My fringe is loose.
-Моя бахрома свободна.
+Мне чёлка в глаза лезет.
 It looks fine, Luzia.
-Это выглядит нормально, Лузия.
+С виду она не такая уж и длинная...
 My back fringe, dummy.
-Моя спина бахрома, манекен.
+Да нет же, та чёлка, что у меня на затылке! Когда я двигаю головой!..
 Whatever, I don't care anymore. Just take it and leave me alone for a while.
-Как бы то ни было, мне все равно. Просто возьми это и оставь меня в покое некоторое время.
+Ладно, мне не важно, зачем тебе заколка. Просто возьми и дай мне подумать, что делать дальше.
 That lady was freaky!
-Эта леди была причудливой!
+Эта дамочка была жуткой!
 Not now, Luzia.
-Не сейчас, Лузия.
+Не сейчас, Люция.
 You think she can get my frisbee of the roof, Sombie?
-Ты думаешь, она может получить мой фрисби на крыше, Сомби?
+Как думаешь, она бы смогла достать с крыши мой диск для фрисби?
 I am not in the mood for this right now!
-Я сейчас не в настроении!
+Сейчас я не в настроении для шуток!
 Pfft, fine. Hey, Sombie-
-ПФФТ, хорошо. Эй, Сомби-
+Пф-ф-ф, ну ладно. Кстати, Сомби...
 STOP CALLING ME THAT!
-Перестань называть меня так!
+ХВАТИТ МЕНЯ ТАК НАЗЫВАТЬ!
 Ok, yeash! Sorry!
-ОК, Yeash! Извиняюсь!
+Ладно-ладно! Прости!
 I didn't mean to make you upset.
-Я не хотел расстраивать тебя.
+Я не хотела тебя разозлить.
 N-No it's okay. *Sigh*
-Н-нет, это нормально. *Вздох*
+Н-Нет, всё в порядке. *Вздох*
 I'm scared, Luzia. I just want to go home.
-Я боюсь, Лузия. Я просто хочу пойти домой.
+Мне страшно, Люция. Я просто хочу домой.
 There's a small hole in the wall.
-В стене есть небольшая дыра.
+Тут в стене небольшое отверстие.
 I wonder what's in there?
-Интересно, что там?
+Интересно, что там внутри?
 Hmm, nothing.
-Хм, ничего.
+Хм-м, ничего.
 Bummer.
-Облом.
+Досадно.
 RedTile
 
 Hey! What's this?
-Привет! Что это?
+Ого! Что это?
 DeadFish
 
 It's a dead fish.
-Это мертвая рыба.
+Это дохлая рыба.
 Poor little guy.
-Бедный маленький парень.
+Вот бедняга...
 You should be in a frying pan with your buddies.
-Вы должны быть в сковороде со своими приятелями.
+Тебя надо отнести к друзьям, на сковородку!
 Maybe I can find you one.
-Может, я могу найти тебя.
+Пошли поищем, где здесь готовят.
 Huh?! It's locked?
 Что? Закрыто на замок?!
 There must be a key around here somewhere.
@@ -2325,37 +2325,37 @@ There must be a key around here somewhere.
 There, finally! It's unlocked.
 Ну вот, наконец-то открылась!
 Crack in the Wall
-Трещиться в стене
+Трещина в стене
 WallKnife
 
 Weird...
-Странный...
+Странно...
 it's a picture of a man hanning in a tree.
-Это картина человека, Ханнинга на дереве.
+Тут нарисован человек, повешенный на дереве.
 Woah! This wall is made out of paper?
-Что! Эта стена сделана из бумаги?
+Погодите! Это фальшивая стена из плотной бумаги?..
 I can't, I have to see that butcher guy.
-Я не могу, я должен увидеть этого мясника.
+Нужно попросить у мясника какой-нибудь острый предмет.
 I'm sorry wall, but this is for your own good.
-Мне жаль, стена, но это для вашего блага.
+Спокойно, стена, сейчас мы проведём небольшую хирургическую операцию...
 Dun, Dun, Dun!
-Дун, Дун, Дун!
+Операция успешно завершена!
 Now that looks pretty creepy!
-Теперь это выглядит довольно жутко!
+Теперь всё это выглядит слегка зловеще...
 There's something written here.
-Здесь что -то написано.
+Здесь что-то написано...
 For far too long have I been chained to these filth covered walls, [ like some sort of animal. [ You will all pay for your selfishness!
-Слишком долго меня приковали к этим покрытым грязным стенам, [как какое -то животное. [Вы все заплатите за свой эгоизм!
+Как долго была я прикована к этим стенам, покрытым грязью, [ словно какое-то животное. [ Все вы заплатите за свой эгоизм!
 LadyFace
 
 Death
 Смерть
 Bathhouse Hallway
-Користость для бани
+Коридор купальни
 Buffet
 Буфет
 Bathing Room
-Купальная комната
+Купальня
 Sauna
 Сауна
 Hollow Wall
@@ -2369,55 +2369,55 @@ DecisionTime
 MeetTheButcher
 
 What does this look like? A Child care center? NO KIDS!
-Как это выглядит? Центр по уходу за детьми? БЕЗ ДЕТЕЙ!
+Здесь кухня, а не детский сад! НИКАКИХ ДЕТЕЙ!
 Ha! I knew it!
-Ха! Я знал это!
+Ха-ха, наконец-то!
 So there are people working here...
-Итак, здесь работают люди ...
+Значит, на кухне действительно кто-то работает...
 and about time too, I'm starving!
-А тоже время, я голодаю!
+Самое время подкрепиться, я голодная!
 You got rocks in that little head of yours? Didn't you hear me say \"No kids allowed in my kitchen\"!?
-У тебя есть камни в этой маленькой головке? Разве ты не слышал, чтобы я сказал \ "Дети не допускаются на моей кухне \"!?
+У тебя в голове камушки вместо мозгов? Я же сказал: \"Никаких детей на моей кухне\" - ты не расслышала?!
 I did, but I'm a delinquent.
-Я сделал, но я преступник.
+Расслышала, но я малолетний правонарушитель.
 So, who are you?
-Так кто ты такой?
+А вы кто?
 *Sigh* This is why I hate kids.
-* Вздох* Вот почему я ненавижу детей.
+*Вздох* Потому я и ненавижу детей...
 The name's Nikuya, but the witch calls me \"The Butcher\".
-Имя Никуя, но ведьма называет меня «Мясником».
+Я Никуя, но ведьма зовёт меня \"Мясником\". 
 I thought you were the chef?
-Я думал, ты шеф -повар?
+Я думала, вы повар?
 I don't cook, well, not anymore.
-Я не готовлю, ну, нет больше.
+Я не готовлю. По крайней мере, теперь.
 Everything here is raw.
-Все здесь сырое.
+Здесь всё подаётся сырым.
 Oh, like sushi?
-О, как суши?
+А, например, как суши?
 *Sigh* NO, not like sushi!
-* Вздох* Нет, не как суши!
+*Вздох* НЕТ, совсем не как суши!
 Do you know what witches eat?
-Вы знаете, что едят ведьмы?
+Ты знаешь, чем питаются ведьмы?
 I think my mom read me a book on that.
-Я думаю, что моя мама прочитала мне книгу об этом.
+Кажется, в детстве мама мне об этом читала...
 they eat gingerbread houses.
-Они едят пряничные дома.
+А, домиками из имбирных пряников?
 Kid, look, this isn't exactly a safe place for you to be in.
-Малыш, смотри, это не совсем безопасное место для тебя.
+Девочка, слушай... здесь не самое безопасное место для таких как ты.
 People, especially humans, go missing round here...
-Люди, особенно люди, пропадают здесь ...
+Многие - особенно люди - не раз пропадали в наших краях без вести...
 just be careful.
-просто будь осторожен.
+Будь начеку.
 Gotcha...
-Попался...
+Поняла...
 but is there anything to eat around here?
-Но здесь есть что поесть?
+Но, всё-таки, здесь есть что-нибудь съедобное?
 *Goddammit* Look! I'll try and find you a candy bar or something, happy?!
-* Чертовски* Смотри! Я попробую найти вам конфеты или что -то в этом роде, счастлив?!
+*Дачтобтебя!* Слушай! Я постараюсь найти тебе шоколад - или что там едят дети? Ты довольна?
 Just don't touch anything!
-Только не трогай ничего!
+Главное, ничего не трогай!
 Ok?
-Ok?
+Договорились?
 No problem!
 Без проблем!
 PulllTheKnife
@@ -2529,21 +2529,21 @@ It's not much.
 Choppy
 Топновный
 Yes! Some delicious noodles!
-Да! Некоторая вкусная лапша!
+Да! Восхитительная лапша!
 I knew there was something to eat around here-
-Я знал, что здесь есть что поесть-
+Я знала, что здесь будет чем перекусить...
 I don't think roaches were in the recipe. *Yuck!*
-Я не думаю, что тараканы были в рецепте. *Yuck!*
+Правда, в списке ингредиентов вряд ли предусматривались тараканы. *Ф-Фу!*
 I'll just take the chopsticks.
-Я просто возьму палочки для еды.
+Лучше просто возьму с собой палочки.
 It's locked.
-Закрыто.
+Закрыто на ключ.
 Hey a freezer!
-Привет, морозильник!
+Это огромный холодильник!
 The door's locked.
-Дверь заперта.
+Дверь закрыта на ключ.
 I'd hate to get locked in there.
-Я бы не хотел быть запертым там.
+Всегда боялась, что войду в такой, а дверь захлопнется.
 metlady
 
 Excuse me, Mr. Butcher.
@@ -2579,131 +2579,131 @@ If you wanna know more about the item to give her just bring it to me first.
 I can shed some info on it for you.
 Я могу пролить некоторую информацию на это для вас.
 Thanks! Oh, and by the way...
-Спасибо! Ох, и, кстати, ...
+Спасибо! О, и кстати...
 where's your face?
-Где твое лицо?
+Где ваше лицо?
 It's in my car, why?
-Это в моей машине, почему?
+Лежит в машине, а что?
 I think you're lying.
-Я думаю, ты лжешь.
+Мне кажется, вы врёте.
 Do I need one?
-Мне нужен один?
+Ладно. Зачем мне лицо?
 What are you?
-Что ты?
+Вы не человек?..
 Kid, you ask way too many questions!
-Малыш, вы задаете слишком много вопросов!
+Девочка, ты задаёшь многовато вопросов!
 Well, how about one more?
-Ну, как насчет еще одного?
+И задам ещё один!
 Can I have that big knife?
-Могу я иметь этот большой нож?
+Можно мне взять вон тот большой нож?
 A little girl with a big knife?
-Маленькая девочка с большим ножом?
+Маленький ребёнок с большим ножом?
 I just got a chill down my spine, and I don't even have a spine.
-Я только что получил охлаждение по позвоночнику, и у меня даже нет позвоночника.
+Только что у меня по спине пробежал холодок. А ведь у меня даже нет спины!
 No, it's mine.
-Нет, это мое.
+Нет, это мой нож.
 Can't have everything we want, sorry, lil' creepy girl.
-Не могу иметь все, что мы хотим, извините, жуткая девушка.
+Мы не всегда получаем то, что хотим. Прости, маленькая зловещая девочка.
 What if I find you a face?
-Что если я найду тебе лицо?
+Что если я найду вам лицо?
 Well, I wouldn't say no to one. I could use a face lift.
-Ну, я бы не сказал никто. Я мог бы использовать подъем для лица.
+Ну, я бы не отказался. Так у меня появился бы повод смотреться в зеркало.
 Hey! Mr. Butcher!
-Привет! Мистер Батчер!
+Эй, господин мясник!
 I have a surprise for you!
-У меня есть для тебя сюрприз!
+У меня для вас сюрприз!
 I found you a face!
-Я нашел тебе лицо!
+Я нашла вам лицо!
 Really? Who'd you steal it off?
-Действительно? Кто бы ты это украл?
+Серьёзно? У кого ты его стащила?
 You didn't cut someone's face-
-Ты не разрезал чьим-то лицом-
+Или... Ты ведь не срезала у кого-то лицо прямо с...
 Ta da!
-ТА!
+Та-да!
 Oh, a mask.
-О, маска.
+Фух-х, это маска.
 So, what do you think?
-Так что ты думаешь?
+Ну как, вам нравится?
 Honestly, it doesn't look half bad!
-Честно говоря, это не выглядит наполовину плохо!
+Честно говоря, она неплохая!
 Thanks, kid!
-Спасибо, малыш!
+Спасибо, девочка!
 So, can I have that knife now?
-Итак, можно ли сейчас этого ножа?
+А можно мне теперь взять нож?
 Sure, go nuts!
-Конечно, сходи с ума!
+Конечно, развлекайся!
 Just be responsible with it.
-Просто нести ответственность с этим.
+Но не забывай об ответственном обращении с холодным оружием.
 You don't wanna go round killin' anyone with it or anything. But why do I care. Enjoy!
-Ты не хочешь обходить кого -либо с этим или что -то в этом роде. Но почему я забочусь. Наслаждаться!
+Ты же не будешь здесь бегать и убивать всех подряд, верно?.. Держи!
 Can you tell me a little more about this item?
-Можете ли вы рассказать мне немного больше об этом предмете?
+Вы могли бы мне рассказать, что это?
 Uh, I already know that.
-Я уже знаю это.
+М-м-м, это я уже знаю.
 Looks like my lunch, a dead traditional koi fish.
-Похоже, мой обед, мертвая традиционная рыба кои.
+Я таких ем на обед. Наша традиционная пища, сырой карп кои.
 A very dead traditional koi fish.
-Очень мертвая традиционная рыба кои.
+А где ты его нашла?
 I found it on the counter in the buffet.
-Я нашел его на стойке в буфете.
+На столе с кастрюлями в буфете.
 Yep, that was my lunch.
-Да, это был мой обед.
+Да. Это и был мой обед.
 Gross.
-Валовой.
+Ужас.
 ACH_WHAT_IS_THIS
 
 Hey! Be careful with that!
-Привет! Будьте осторожны с этим!
+Эй! Поосторожнее с ним!
 Do you have any idea what that is?
-Вы хоть представляете, что это такое?
+Ты хоть понимаешь, что сейчас держишь в руках?
 A flower?
-Цветок?
+Цветочек?
 Pfft! \"Flower\".
-Пффт! \"Цветок\".
+Пф-ф! \"Цветочек\".
 That's a spider lily, it resembles death,
-Это пауковая лилия, она напоминает смерть,
+Это паучья лилия. Символ смерти.
 Cool name, but why is so dangerous?
-Классное имя, но почему так опасно?
+Круто, но что в ней опасного?
 It's used to kill spirits and demons in the afterlife...
-Он используется для убийства духов и демонов в загробной жизни ...
+Её используют для убийства духов и демонов в загробной жизни...
 and I've died far too many times to be touched by that thing for my liking.
-И я слишком много раз умер, чтобы быть затронутым этой штукой, на мой взгляд.
+а я умирал уже слишком много раз, чтобы к ней прикасаться.
 Whoa! Is death painful?
-Уго! Смерть болезненна?
+Ого! А умирать неприятно?
 Is death painful?
-Смерть болезненна?
+Неприятно?
 *Sigh* I just found something even more painful.
-* Вздох* Я только что нашел что -то еще более болезненное.
+*Вздох* Только что я обнаружил кое-что более неприятное.
 Well wadda ya know!
-Что ж, я знаю!
+О-о, что же это у нас тут?
 A pair of chopsticks?
-Пара палочек для еды?
+Пара деревянных палочек!
 Apart from them being very useful with cooking and eating, they are basically just to sticks.
-Помимо того, что они очень полезны с приготовлением пищи и еды, они в основном просто для палочек.
+Если не брать во внимание их полезность в процессе готовки и еды, это просто две палочки.
 Satisfied?
-Доволен?
+Ты довольна?
 No.
 Нет.
 Great! Now leave me alone!
-Большой! А теперь оставь меня в покое!
+Замечательно! Теперь оставь меня в покое!
 Well, aren't you the life of the party.
-Ну, разве ты не жизнь вечеринки.
+Держу пари, на вечеринках вы - душа компании. Любите вечеринки?
 Oh! A candy bar!
 Это шоколадка!
 ACH_I_WANT_CANDY
 
 I need to find Sombie first.
-Мне нужно сначала найти Сомби.
+Сначала мне нужно найти Сомби.
 Restaurant
 Ресторан
 Loading Door
-Загрузка двери
+Загрузка
 Freezer
-Морозильник
+Холодильник
 Butcher
-мясник
+Мясник
 Hanging Butcher
-Висящий мясник
+Подвешенный Мясник
 I don't need a shower right now.
 Мне сейчас не нужен душ.
 Wait!*Sniff*...maybe I do.
@@ -2711,29 +2711,29 @@ Wait!*Sniff*...maybe I do.
 It's a sauna.
 Это сауна.
 I can't see through the glass.
-Я не вижу сквозь стекло.
+Через стекло не видно, что внутри.
 It's locked but...
-Он заперт, но ...
+Закрыто на ключ, но через решётку...
 there's something shiny in there.
-Там что -то блестящее.
+видно, как внутри что-то блестит.
 Maybe Sombie has something that can open this.
-Может быть, у Сомби есть что -то, что может открыть это.
+Может быть, у Сомби есть что-нибудь, что поможет взломать замок.
 A hair pin, perhaps?
-Возможно, прическа?
+Возможно, заколка?
 There's nothing else in here.
-Здесь больше нет.
+Здесь больше ничего нет.
 Just like Sombie's door.
-Так же, как дверь Сомби.
+Тут всё как с дверью в комнату Сомби.
 There! I got it!
-Там! Я понял!
+Щёлк! Получилось!
 Whoops! The hairpin broke!
-Упс! Шпилька сломалась!
+Упс! Заколка сломалась...
 Sorry, Sombie.
-Извините, Сомби.
+Прости, Сомби.
 A mask?
 Маска?
 Why is it smiling?
-Почему это улыбается?
+Почему она улыбается?
 Cut Yourself
 Порезаться
 CutYourself
@@ -2843,115 +2843,115 @@ Oh, here! In my pocket!
 LadyOnTheWall
 
 Gross...
-Валовой...
+Жуть какая...
 And really creepy.
-И действительно жутко.
+Теперь всё выглядит совсем зловеще!
 D-Did you say something, my dear?
-D-DID вы что-то говорите, моя дорогая?
+Т-Ты что-то сказала, моя дорогая?
 W-Wah? No way!
-W-wah? Ни за что!
+Ч-Что?! Не может быть!
 It's alive?
 Оно живое?
 It?
-Это?
+\"Оно\"?
 I-U, uh-
-I-u, э-
+Э-Э-Я, э-эм-м...
 \"It\" is not my name...
-\ "Это \" не мое имя ...
+Я - не \"оно\"...
 I am known as \"The Lady On The Wall\".
-Я известен как \ "Леди на стене \".
+Меня называют \"Женщина со стены\".
 And whom do I have the pleasure of meeting?
-А кого я имею удовольствие встречаться?
+И кого же я имею удовольствие лицезреть?
 What is your name, my dear?
-Как тебя зовут, моя дорогая?
+Как твоё имя, моя дорогая?
 I-It's Luzia.
-Я-это Лузия.
+Л-Люция.
 Hmm, strange name for a young girl.
-Хм, странное имя для молодой девушки.
+Хм-м-м, странное имя для молодой девушки.
 My mom said it's a bright name.
-Моя мама сказала, что это яркое имя.
+Моя мама говорила, что оно светлое.
 Such a dark place to be in for one with such a...\"bright\" name.
-Такое темное место, чтобы быть в одном с таким ... \ "Ярким \" Имя.
+Что за тёмное место для обладателя столь... \"светлого\" имени!
 Tell me Luzia, why are you here?
-Скажи мне, Лузия, почему ты здесь?
+Скажи мне, Люция, что тебя сюда привело?
 We were kidnapped by the witch in the bath and-
-Мы были похищены ведьмой в ванне и
+Нас похитила та ведьма из бассейна, и...
 We?
-Мы?
+\"Нас\"?
 There's someone with you?
-Есть кто -то с тобой?
+С тобой здесь кто-то ещё?
 Yeah, my sister, Sombria.
-Да, моя сестра, Сомбрия.
+Да! Моя сестра, Сомбрия.
 Heh...
-Хех ...
+Хе-х...
 How ironic, the opposites. Light and Dark.
-Как иронично, противоположности. Светлый и темный.
+Как иронично. Противоположности! Свет и Тьма.
 Tell me, did the witch make either of you an offer?
-Скажи мне, ведьма сделала любой из вас предложением?
+Скажи мне, ведьма случайно не предлагала кому-то из вас заключить сделку?
 Well, not to me...
-Ну, не для меня ...
+Ну, не мне...
 she did to Sombie though.
-Хотя она сделала с Сомби.
+Но Сомби предлагала.
 I knew it! Trying to escape your wretched curse now, are you?
-Я знал это! Пытаетесь избежать вашего убогого проклятия, а вы?
+Я так и знала! И теперь ты пытаешься сбежать от своего проклятия, не так ли?
 I don't think so, we're just waiting for our ride home.
-Я так не думаю, мы просто ждем нашей поездки домой.
+Ну, вообще-то нет. Я просто жду, когда она всё подготовит, чтобы мы поехали домой.
 She's not letting you leave, Luzia...
-Она не позволяет тебе уйти, Лузия ...
+Она не отпустит вас, Люция...
 but I may be able to help you, both.
-Но я могу помочь вам, оба.
+Но я, возможно, смогу помочь вам сбежать.
 Okay, how?
-Хорошо, как?
+Ладно, и как же?
 I'll make you a deal...
-Я сделаю тебе сделку ...
+Я предлагаю тебе сделку...
 You bring me something that I want and I'll tell you how to escape, deal?
-Вы принесете мне то, что я хочу, и я скажу вам, как сбежать, разбираться?
+Ты принесёшь мне что-то, что я попрошу, а я расскажу тебе, как отсюда выбраться. Идёт?
 Okay, that sounds fair.
-Хорошо, это звучит справедливо.
+Идёт!.. А в чём подвох?
 However, if you bring me something that I don't want...
-Однако, если вы принесете мне то, чего я не хочу ...
+Видишь ли, если ты принесёшь что-то, что мне не нужно...
 then you will nourish my withing body with yours, deal?
-Тогда вы будете питать мое тело с вашим, сделка?
+то накормишь моё увядшее тело своим. Идёт?
 Wait, what?! No way, lady!
-Чего ждать?! Ни за что, леди!
+Стойте, чего?! Ну уж нет, дамочка!
 I could just eat you now? Save me the trouble of waiting.
-Я мог бы просто съесть тебя сейчас? Спасите меня проблемой ждать.
+Значит, я могу съесть тебя прямо сейчас? Так мне не придётся зря ждать...
 But I'm feeling generous today, so, bring me something of...
-Но сегодня я чувствую себя щедрым, так что принеси мне кое -что ...
+Но сегодня я хочу поразвлечься, так что... принеси мне что-нибудь...
 Usefulness.
-Полезность.
+Полезное.
 itemchoice
 
 Death.
-Смерть.
+Смертельное.
 Tradition.
-Традиция.
+Традиционное.
 ACH_LADY_ON_THE_WALL
 
 Oh, would you look at that!
-О, ты бы посмотрел на это!
+О, только взгляните на это!
 Such a lifeless, greasy body. A dead fish...
-Такое безжизненное, жирное тело. Мертвая рыба ...
+Что за безжизненное, заплывшее жиром тело. Дохлая рыба...
 Looks like you made the right choice.
-Похоже, вы сделали правильный выбор.
+Похоже, ты сделала правильный выбор.
 I shall help you, but just this once.
-Я помогу вам, но только один раз.
+Я помогу тебе, но только на этот раз.
 You need to find the secret passage somewhere in the bathing room.
-Вам нужно найти секретный проход где -нибудь в купальной комнате.
+Чтобы сбежать, найди секретный проход в купальне.
 You'll need this tile plus one other to activate the passage.
-Вам понадобится эта плитка плюс еще одна, чтобы активировать отрывок.
+Тебе потребуется две плитки, чтобы открыть его.
 You should hurry if you want to save your sister...
-Вы должны поторопиться, если хотите спасти свою сестру ...
+Вот одна из них. Торопись, если хочешь спасти свою сестру...
 and...I'm also getting quite hungry.
-И ... я тоже очень голоден.
+И при этом не стать моим обедом.
 *Tisk,tisk* You dissapoint me, Luzia.
-* Тиск, Тиск* Ты разочаровываешь меня, Лузия.
+*Хе, хе* Ты расстроила меня, Люция.
 But you won't dissapoint me stomach.
-Но ты не разочаровышь меня в животе.
+Но ты, безусловно, порадуешь мой желудок.
 Such a deadly flower, such beauty.
-Такой смертельный цветок, такая красота.
+Цветок настолько же прекрасный, насколько смертельный.
 The table is broken.
-Стол сломан.
+Этот столик сломан.
 ShesGone
 
 Hey! S-She's...gone!
@@ -2973,77 +2973,77 @@ Table
 FlashlightDrawer
 
 I don't think anyone would mind me looking.
-Я не думаю, что кто -то не возражает, чтобы я смотрел.
+Никто ведь не будет против, если я загляну внутрь?
 A flashlight?
 Фонарик?
 This should come in handy.
-Это должно пригодиться.
+Наверное, он будет не лишним.
 SpiderLily
 
 Hey, what's this?
 Эй, что это?
 It smells lovely.
-Он прекрасно пахнет.
+Он приятно пахнет...
 Even though a wicked witch runs this place...
-Несмотря на то, что злая ведьма управляет этим местом ...
+Несмотря на то, что этим местом управляет злая ведьма...
 she still finds the time to recycle.
-Она все еще находит время для переработки.
+даже она находит время для сортировки мусора.
 Great! We're locked in.
-Большой! Мы заперты.
+Отлично! Нас заперли!
 Maybe there's another way out.
-Может быть, есть другой выход.
+Возможно, отсюда есть другой выход?
 Draw
-Тумбочка
+Выдвижной ящик
 RedWitch
 
 Luzia, I'm so glad you could join us.
-Лузия, я так рада, что ты смог присоединиться к нам.
+Люция, я очень рада, что ты к нам присоединилась.
 Wait! Stop!
-Ждать! Останавливаться!
+Подожди! Хватит!
 You let her go!
-Ты дал ей уйти!
+Отпусти её!
 LUZIA! JUST RUN! GET OUT OF HERE!
-Лузия! ПРОСТО БЕГИ! Убирайся отсюда!
+ЛЮЦИЯ! БЕГИ! СКОРЕЕ, БЕГИ ОТСЮДА!
 You're not going anywhere.
-Ты никуда не поедешь.
+Тебе не сбежать.
 You might just make it out alive.
-Вы можете просто сделать это живым.
+Но ты можешь остаться в живых.
 I'm not leaving without my her!
-Я не уезжаю без нее!
+Я не уйду без неё!
 Luzia, I admire your bravery...
-Лузия, я восхищаюсь твоей храбростью ...
+Люция, я восторгаюсь твоей храбростью...
 but seriously, what are you going to do?
-А если серьезно, что ты собираешься делать?
+но подумай сама: что ты можешь сделать?
 Something you'll regret if you lay one finger on her!
-Что -то, о чем вы пожалеете, если вы положите на нее один палец!
+Что-то, о чём ты пожалеешь, если тронешь её хотя бы пальцем.
 You mean...like this?
-Ты имеешь в виду ... как это?
+Ты имеешь в виду... вот так?
 *Gasp* SOMBRIA!!!
-* Задыхаться* Сомбрия !!!
+*Удушье* СОМБРИЯ!!!
 Heh, whoops! Sorry, Luzia...
-Хех, упс! Извините, Лузия ...
+Ой!.. Прости, Люция...
 but she's mine now.
 Но теперь она моя.
 WHAT DID YOU DO TO SOMBRIA!
-Что ты сделал с Сомбрией!
+ЧТО ТЫ СДЕЛАЛА С СОМБРИЕЙ?!
 Something that was done to me, a long time ago.
-Что -то, что было сделано со мной давным -давно.
+То же, что сделали со мной, когда-то очень давно.
 Once complete, I'll be taking her body as my own, she'll remain here...
-После завершения я возьму ее тело в качестве моего собственного, она останется здесь ...
+Когда всё закончится, её тело станет моим. Сама она останется здесь...
 You will stay here with the others.
-Вы останетесь здесь с другими.
+Ну а ты останешься с остальными.
 CHANGE HER BACK!
-Изменить ее!
+ВЕРНИ ВСЁ КАК БЫЛО!
 The changes are...permanent, Luzia.
-Изменения ... постоянные, Лузия.
+Изменения необратимы, Люция.
 She is no longer your sister but a portal to my salvation!
-Она больше не твоя сестра, а портал для моего спасения!
+Она больше не твоя сестра, но путь к моему спасению.
 Y-You're wrong...
-Ты не прав ...
+О-Ошибаешься...
 Luzia! Lets go!
-Лузия! Пойдем!
+Люция! Скорее!
 We can escape through this pipe in the water.
-Мы можем сбежать через эту трубу в воде.
+Мы можем сбежать через широкую сливную трубу под водой!
 I can't leave now.
 Я не могу уйти просто так.
 Not without the head.
@@ -3093,315 +3093,315 @@ EmptyWater
 SewerIntro
 
 Sombie...
-Сомби ...
+Сомби...
 W-What has she done to you?
-W-что она с тобой сделала?
+Ч-Что она с тобой сделала?
 You look, different-
-Ты выглядишь иначе-
+Ты выглядишь... иначе...
 I KNOW, LUZIA!
-Я знаю, Лузия!
+Я ЗНАЮ, ЛЮЦИЯ!
 I-I, know.
-Я-я знаю.
+Я з-знаю.
 I'm sorry, I didn't mean to-
-Мне жаль, я не имел в виду-
+Прости, я не хотела...
 Please, just don't say anything right now...
-Пожалуйста, просто не говори сейчас прямо сейчас ...
+Пожалуйста, просто ничего не говори...
 leave me alone.
-Оставь меня в покое.
+Оставь меня наедине с собой.
 But you always want to be alone!
-Но ты всегда хочешь побыть один!
+Вечно ты хочешь быть наедине с собой!
 Well, I can't be alone when you're around!
-Ну, я не могу быть один, когда ты рядом!
+И у меня всё никак не получается, когда ты рядом!
 Why is this happening to me?
-Почему это происходит со мной?
+Почему это со мной происходит?
 What did I do to deserve this?
-Что я сделал, чтобы заслужить это?
+Чем я всё это заслужила?..
 This must be the way out of here.
-Это должен быть выход отсюда.
+Должно быть, это выход на поверхность.
 But it's locked.
-Но он заперт.
+Но ворота крепко закрыты.
 I'll have to find a key.
-Мне придется найти ключ.
+Придётся найти ключ.
 Just because I'm dry, doesn't mean I want to jump back in.
 Просто потому, что я сухой, это не значит, что я хочу прыгнуть назад.
 More dead animal cages floating in there.
 Больше мертвых клеток животных, плавающих там.
 There's a door on the other side.
-На другой стороне есть дверь.
+На той стороне видна дверь.
 I don't think I can jump that gap.
-Я не думаю, что смогу пережить этот разрыв.
+Но перепрыгнуть не получится.
 Maybe, I could make a bridge.
-Может быть, я мог бы сделать мост.
+Нужно придумать, что использовать вместо моста.
 I hope this holds.
-Я надеюсь, что это держится.
+Надеюсь, эта деревяшка меня выдержит.
 I don't want to get wet again.
-Я не хочу снова промокнуть.
+Плавать я больше не хочу.
 Eww gross!
 Eww Gross!
 Sewer water, yuck!
 Канализационная вода, Yuck!
 Hey! There's something shiny in there.
-Привет! Там что -то блестящее.
+О, там внутри что-то блестит...
 Hmm, I ain't sticking my hand in there.
-Хм, я не приковываю туда руку.
+Но рукой я туда не полезу.
 I'll need to fish it out somehow.
-Мне нужно как -то посыпать это.
+Эту штуку надо как-то притянуть.
 FindMetalPole
 
 Hopefully that shiny thing is made out of metal.
-Надеюсь, эта блестящая вещь сделана из металла.
+Надеюсь, эта блестящая штука окажется металлической.
 Well, it worked!
-Ну, это сработало!
+Сработало!
 It's a metal pipe.
 Это металлическая труба.
 Maybe I can find a use for it.
-Может быть, я смогу найти для этого.
+Может быть, она мне пригодится.
 I could use this plank of wood to make a bridge.
-Я мог бы использовать эту доску из дерева, чтобы сделать мост.
+Из этой доски выйдет отличный мост...
 It looks pretty old though.
-Хотя это выглядит довольно старым.
+Хотя она выглядит очень старой.
 I just hope it doesn't break.
-Я просто надеюсь, что это не сломается.
+Надеюсь, она не сломается.
 There's nothing else in there.
-Там нет ничего больше.
+Больше здесь ничего нет.
 There's something glimmering in there...
-Там что -то мерцает ...
+Там что-то поблёскивает...
 but I ain't sticking my hand in to find out.
-Но я не вкол руку, чтобы узнать.
+Но я боюсь засовывать туда руку - кто знает, что внутри?
 I'll need something long to reach it.
-Мне нужно что -нибудь долго, чтобы добраться до него.
+Нужно найти что-нибудь длинное...
 FindString
 
 This'll save me using my hand.
-Это спасет меня, используя мою руку.
+И не пришлось лезть туда рукой!
 Some fishing line?
-Какая -то рыболовная линия?
+Рыболовная леска?
 What kind of fish would you catch down here?
-Какую рыбу вы бы загнали здесь?
+Что за рыба может водиться в этой сточной канаве?
 Okay, let's make a fishing pole.
-Хорошо, давайте сделаем рыбацкий столб.
+Ладно, смастерим удочку.
 There's some sort of metal cable floating in the water.
-В воде плавает какой -то металлический кабель.
+Там, в воде, плавает какой-то кабель.
 I could fish it out if I had a fishing pole.
-Я мог бы ловить его, если бы у меня был рыбацкий столб.
+Я могла бы его достать, будь у меня удочка.
 I still can't reach it with the pole...
-Я до сих пор не могу добраться до полюса ...
+Так до него не дотянуться...
 but I could make a fishing pole if I had some string...
-Но я мог бы сделать рыбацкий столб, если бы у меня была какая -то струна ...
+но я могла бы сделать удочку, будь у меня леска...
 and a hook.
 и крюк.
 SewerKey
 
 There you are! Mr. Gate Key!
-Вот ты где! Мистер Гейт Ки!
+А вот и вы, мистер Ключ!
 Let's get out of here.
-Давай выбираться отсюда.
+Нам пора выбираться отсюда.
 Sombie! I found the key to the gate.
-Сомби! Я нашел ключ к воротам.
+Сомби! Я нашла ключ от ворот.
 We can get outta here!
-Мы можем уйти здесь!
+Нам пора уходить!
 Just go without me, Luzia...
-Просто уходи без меня, Лузия ...
+Иди без меня, Люция...
 leave me here.
 Оставь меня здесь.
 Pfft, I knew you were going to say that!
-ПФФТ, я знал, что ты собираешься это сказать!
+Пф-ф-ф, я знала, что ты так и скажешь!
 Look Sombie, I don't know what the witch lady did to you...
-Смотри, сомби, я не знаю, что с тобой сделала леди ведьм ...
+Слушай, Сомби, я не знаю, что с тобой сделала эта ведьма...
 but we can fix it, we can't just give up.
-Но мы можем это исправить, мы не можем просто сдаться.
+Но мы сможем всё исправить. Нельзя так просто сдаваться.
 There must be a way to change you back!
-Должен быть способ изменить вас!
+Должен быть способ вернуть всё как было!
 I-I don't know, Luzia.
-Я-я не знаю, Лузия.
+Я... Я не знаю, Люция.
 You won't unless you try, Sombie.
-Вы не будете, если не попробуете, Сомби.
+И не узнаешь, пока не попробуешь, Сомби.
 But the witch, she's dead...
-Но ведьма, она мертва ...
+Но эта ведьма - она мертва...
 how are we going to change me back?
-Как мы собираемся меня сменить?
+Как мы тогда всё исправим?
 Maybe someone else knows? Lets go ask around!
-Может, кто -то еще знает? Пойдем спросить!
+Но, может быть, кто-то другой знает? Пошли поспрашиваем у других!
 Ok, and thanks, Luzia.
-ОК, и спасибо, Лузия.
+Хорошо. И спасибо, Люция.
 I should say it a lot more but it's hard, y'know?
-Я должен сказать это намного больше, но это сложно, понимаешь?
+Мне стоило бы говорить это почаще, но это непросто. Понимаешь?
 It's fine, Sombie.
-Все в порядке, Сомби.
+Всё в порядке, Сомби.
 Let's get going!
-Давайте идти!
+Пошли скорее!
 Gate
 Ворота
 Ladder
 Лестница
 Gap
-Зазор
+Край платформы
 WaterPipe
-
+Труба
 Pile of Wood
-Куча дерева
+Доски
 Control Room
 Комната управления
 Key
 Ключ
 Hole
-Отверстие
+Дыра
 Fishing Spot
 Место для рыбалки
 oKey
 
 Hmm, there must be a key in here somewhere?
-Хм, здесь должен быть ключ?
+Хм-м, где-то здесь может лежать ключ от ворот?
 I'll fix this, Sombie.
-Я исправлю это, Сомби.
+Всё будет хорошо, Сомби.
 I don't need to use this anymore.
 Мне больше не нужно использовать это.
 What does this thing do?
-Что делает эта вещь?
+Зачем здесь этот компьютер?
 Water drainage?
-Вода дренаж?
+Чтобы откачивать воду?
 There's no power.
-Там нет силы.
+Он не включается.
 UsePowerCable
 
 Let's power this baby up!
-Давайте питаем этого ребенка!
+Сейчас мы тебя запитаем!
 What's that sound?
 Что это за звук?
 GetMagnet
 
 Hey, now we're talking!
-Эй, теперь мы говорим!
+Эй, вот это дело!
 Cool magnet!
-Крутой магнит!
+Крутейший магнит!
 Game Saved!
 Игра сохранилась!
 Sewer Control Room
 Канализационная диспетчерская
 Main Sewer
-Главная канализация
+Канализация
 Shelves
 Полки
 Ok, lets go find someone who can help you.
-Хорошо, давайте найдем кого -то, кто может вам помочь.
+Ну что ж, пора найти кого-нибудь, кто сможет помочь.
 I-I don't think it would be a good idea that people would see me like this.
-Я-я не думаю, что было бы хорошей идеей, что люди увидят меня таким.
+Я н-не думаю, что это хорошая идея - показываться людям в таком виде...
 Pfft! You look fine, Sombie.
-Пффт! Ты хорошо выглядишь, Сомби.
+Пф-ф-ф! Ты нормально выглядишь, Сомби!
 I don't know, Luzia.
-Я не знаю, Лузия.
+Я не уверена, Люция.
 *Sigh!* Fine...
-* Вздох!* Хорошо ...
+*Вздох* Ладно...
 you stay here, I'll come get you when I find someone that can help you.
-Ты остаешься здесь, я приду тебя, когда найду кого -то, кто может тебе помочь.
+Стой здесь, а я пока поищу кого-нибудь, кто что-то знает.
 SombieAppear
 
 GateLock
 
 I really don't wanna go back in there...
-Я действительно не хочу возвращаться туда ...
+Я очень не хочу туда возвращаться...
 but I need to help Sombie.
-Но мне нужно помочь Сомби.
+но мне нужно помочь Сомби.
 I should look around for some answers first.
-Я должен сначала посмотреть на некоторые ответы.
+Хотя сперва стоит расспросить местных.
 Mmm smells delicious!
-Ммм пахнет вкусно!
+М-м-м, пахнет вкусно!
 How much for a bowl of noodles?
-Сколько за миску лапши?
+Сколько стоит миска лапши?
 3 coins a bowl!
-3 монеты за миску!
+Три монеты за штуку!
 Would you like some?
-Не хотите ли?
+Желаете сделать заказ?
 Sorry, but I wish I had some money...
-Извините, но я хотел бы получить немного денег ...
+Простите, у меня совсем нет денег...
 I'm so hungry.
-Я очень голоден.
+Но я очень голодная.
 Sorry, little lady!
-Извините, маленькая леди!
+Мне жаль, маленькая леди!
 No dough, no noodles!
-Нет теста, нет лапши!
+Нет монет - тогда привет!
 Who you callin' little?!
-Кого вы называете маленьким?!
+...К слову, это кто ещё из нас \"маленький\"?!
 You're shorter than me!
-Ты короче меня!
+Ты же сам короче меня!
 So cliché.
-Так клише.
+Что за клише!
 It's a laundromat.
-Это прачечная.
+Вот и прачечная.
 I could use some clean clothes right about now.
-Я мог бы использовать чистую одежду прямо сейчас.
+Чистые вещи мне бы сейчас пригодились.
 Explaination
 
 I'm looking for someone who can help my-
-Я ищу кого-то, кто может помочь мне-
+Я ищу кого-нибудь, кто мог бы помочь мое-
 Sorry, little one. I'm really busy with this mess.
-Извините, малыш. Я действительно занят этим беспорядком.
+Прости, девочка. Я слишком занята разгребанием этого бардака.
 Do you know anyone who can help me?
-Вы знаете кого -нибудь, кто может мне помочь?
+Вы не знаете кого-нибудь, кто мог бы помочь?
 I think my sister is cursed.
-Я думаю, что моя сестра проклята.
+Кажется, мою сестру прокляли.
 Hmm, you should find Yoko.
-Хм, ты должен найти Йоко.
+Хм-м... Обратись к Йоко.
 She's an expert on such things.
 Она эксперт по таким вещам.
 Yoko?
 Йоко?
 Where can I find her?
-Где я могу ее найти?
+Где я могу её найти?
 Well, my friend usually sees her in the laundromat, washing her blankets.
-Ну, моя подруга обычно видит ее в прачечной, мыть ее одеяла.
+Моя подруга часто видит её в прачечной, где она стирает свои одеяла.
 But for some reason, some wise-ass locked the gate to the laundromat and has the key.
-Но по какой-то причине некоторые мудрые заперли ворота к прачечной и имеют ключ.
+Но какой-то идиот закрыл ворота к прачечной на ключ и унёс его с собой.
 Explaination2
 
 What's wrong with your sister?
-Что не так с твоей сестрой?
+В чём проблема твоей сестры?
 I think she's sick?
-Думаю, она болен?
+Думаю, она заболела?
 Oh my, that's not good.
-О боже, это не хорошо.
+О-о, это очень печально.
 What kind of sickness does she have?
-Какая у нее болезнь?
+И что у неё за болезнь?
 Something that makes you pale, with really long arms-
-То, что делает вас бледным, с действительно длинными руками-
+Что-то, от чего кожа бледнеет, а руки становятся такими... длинными...
 That sounds more like a curse to me.
-Для меня это больше похоже на проклятие.
+Это больше похоже не на болезнь, а на проклятие.
 I thought so.
-Я так и думал.
+Я тоже так подумала.
 You didn't meet a witch by chance? Did you?
-Вы не встретили ведьму случайно? Ты?
+Вы с сестрой случайно не встречали ведьму?
 Maybe.
-Может быть.
+...Не исключено.
 Well, the only person I know that could help you is Yoko.
-Ну, единственный человек, которого я знаю, который мог бы вам помочь, это Йоко.
+Единственный мой знакомый, который может помочь вам - это Йоко.
 She's also known as the \"Noodle Lady\".
-Она также известна как \ "лапша Леди \".
+Она работает продавщицей лапши.
 Noodle lady?
-Леди с лапшой?
+Продавщицей лапши?..
 Yeah, she's like an expert on curses n' stuff.
-Да, она как эксперт по проклятиям и вещам.
+Да, а ещё она специалист по проклятиям и всему такому.
 So where can I find her?
-Итак, где я могу ее найти?
+И где мне её найти?
 She's usually in the laundromat, washing her underwear.
-Обычно она в прачечной, мыть нижнее белье.
+Обычно по вечерам она в прачечной, стирает своё нижнее белье.
 Really? I need to was my undies too!
-Действительно? Мне тоже нужно было тоже мои трусы!
+Правда? Сейчас мне и самой бы это не помешало.
 Probably the rest of my clothes too.
-Наверное, остальная часть моей одежды тоже.
+Не говоря о стирке всей остальной одежды.
 No offence, but you smell like you need a wash in general.
-Без обид, но вы пахнете, как будто вам нужно мыть в целом.
+Не сочтите за грубость, но, судя по запаху, вам бы ещё и стоило помыться.
 It's not like I went swimming in a sewer or anything.
-Не то чтобы я пошел плавать в канализации или что -то в этом роде.
+От меня пахнет так, словно я плавала в канализации, да?
 Did you?
-Ты?
+...
 That's gross!
-Это грубо!
+Какой ужас!
 Ok, seeya!
-ОК, СИДЕЙ!
+Ладно, мне уже пора!..
 Find the noodle lady.
-Найдите леди с лапшой.
+Найдите Продавщицу лапши.
 She can help your sister.
-Она может помочь твоей сестре.
+Возможно, она поможет твоей сестре.
 UseGateKey
 
 I don't need this key anymore.
@@ -3409,99 +3409,99 @@ I don't need this key anymore.
 Gate Open
 Ворота открыты
 Great, it's locked!
-Отлично, он заперт!
+Прекрасно, ворота закрыты!
 Maybe someone here has a key?
-Может, у кого -то здесь есть ключ?
+Может, у кого-то есть ключ от них?
 I need to head to the bathouse.
-Мне нужно отправиться в ванну.
+Мне нужно отправиться в купальню.
 FindMeAnApple
 
 Excuse me!
-Извините меня!
+Прошу прощения!
 Could you help me and my sister out?
-Не могли бы вы помочь мне и моей сестре?
+Не могли бы вы помочь нам с сестрой?
 Can you help me out?
-Можете ли вы помочь мне?
+Не могли бы вы меня сперва выручить?
 This bozo won't give me any more fried fish, and I'm starving!
-Этот бозо не даст мне больше жареной рыбы, и я голодаю!
+Этот тип больше не даёт мне жареной рыбы, а я умираю от голода!
 If you eat anymore, you'll put me out of business!
-Если вы больше едите, вы избавите меня от бизнеса!
+Если ты и дальше будешь есть у меня \"в долг\", я обанкрочусь!
 You're worse than that Tanto guy!
-Ты хуже этого парня Танто!
+Ты ещё хуже, чем тот парень по имени Танто!
 Look, mister...
-Смотри, мистер ...
+Дружище...
 Give me one, and I'll show you.
-Дай мне один, и я покажу тебе.
+Дай мне жареную рыбу, а я отдам тебе кое-что взамен...
 Nice try!
 Хорошая попытка!
 Maybe you should eat some fruit for once! Much healthier!
-Может быть, вам следует съесть фрукты на этот раз! Гораздо здоровее!
+Может, для разнообразия тебе лучше переключиться на фрукты? Здоровее будешь!
 Ya know, I could eat an apple right about now.
-Знаешь, я мог бы съесть яблоко прямо сейчас.
+Кстати, да, я бы сейчас не отказался от яблока!
 I'll tell you what, you find me an apple and I'll give you the gate key to the laundromat, deal?
-Я скажу вам, что, вы найдете мне яблоко, и я дам вам ключ ворот от прачечной, сделка?
+Давай так: ты принесешь мне яблоко, а я отдам тебе ключ от ворот к прачечной! Идёт?
 *Sigh* Fine...
-* Вздох* хорошо ...
+*Вздох* Ладно...
 but if you don't, I'll make you choke on that apple.
-Но если вы этого не сделаете, я заставлю вас задушить это яблоко.
+Но если не отдашь, я тебе это яблоко кое-куда засуну.
 It's a deal, then!
-Тогда это сделка!
+Спасибо за яблоко!
 Thanks for the apple.
 Спасибо за яблоко.
 GetApple
 
 FREE APPLES!
-Бесплатные яблоки!
+ХАЛЯВНЫЕ ЯБЛОКИ!
 Huh? A sign?
-Хм? Знак?
+Тут висит знак...
 Take one a day to keep the witch away.
-Возьмите один день, чтобы удержать ведьму.
+\"Кто яблоко в день съедает, тому ведьма не досаждает\".
 One it is then!
-Один тогда!
+Жаль, что я не знала этого раньше.
 Gosh, I'm so hungry!
-Черт возьми, я так голоден!
+Да уж, я проголодалась!
 LaundryDoor
 
 GiveApple
-Раздача
+ 
 Well? My apple?
-Что ж? Мое яблоко?
+Ну, ты принесла яблоко?
 Here, I spit shined it for you.
-Здесь я плевал это для вас.
+Сам посмотри.
 Oh, awesome! Thanks!
-О, потрясающе! Спасибо!
+О, замечательно! Спасибо!
 Now, your end of the deal!
-Теперь ваш конец сделки!
+Теперь твоя часть договора!
 Oh, right. Here, take this.
-О верно. Здесь возьмите это.
+Вот, возьми это.
 You can unlock the gate to the laundromat with it.
-Вы можете разблокировать ворота в прачечную.
+С его помощью можно открыть ворота к прачечной.
 I better head to the bathhouse.
-Я лучше направляюсь к бане.
+Мне нужно идти к купальне.
 why are you here?
-почему ты здесь?
+Зачем ты пришла?
 I said I'll do this on my own.
-Я сказал, что сделаю это самостоятельно.
+Я же сказала, что сделаю всё сама.
 Well, I figured you might need the key to get in.
-Ну, я подумал, что вам может понадобиться ключ, чтобы войти.
+Ну, я узнала, что чтобы войти, тебе потребуется ключ.
 We ain't gonna find the witch's head standing here.
-Мы не найдем голову ведьмы, стоящей здесь.
+Мы не найдём голову ведьмы, если так и будем здесь стоять.
 Hey...
-Привет...
+Эй...
 Thanks...lil' sis.
-Спасибо ... сестра.
+Спасибо... сестрёнка.
 Sorry, heppa. Store's closed.
-Извините, Хеппа. Магазин закрыт.
+Звиняй, подруга. Магазин закрыт.
 Today's special is \"Salty Cod Soup\"...yuck!
-Сегодняшнее специальное предложение - "соленый суп трески \" ... Yuck!
+Блюдо дня - \"Суп из солёной трески\"... бе-е-е!
 Yuck! No thanks!
-Тонь! Спасибо, не надо!
+Фу-у! Нет, спасибо!
 Downtown
 Центр города
 Bath House
-Бат Дом
+Купальня
 Noodle Shop
-Лапша магазин
+Лапшичная
 Menu
 Меню
 Laundry
@@ -3519,71 +3519,71 @@ Mary
 Stairs
 Лестница
 Noodle Lady's House
-Дом леди с лапшой
+Дом Продавщицы лапши
 I've been expecting you...
-Я ждал тебя...
+Я ждала тебя...
 Luzia.
-Лузия.
+...Люция.
 And I've been expecting you...
-И я ожидал тебя ...
+И я ждала тебя...
 ...old woman.
-...старая женщина.
+...бабушка.
 You don't even know who I am, do you?
-Ты даже не знаешь, кто я, а ты?
+Ты даже не знаешь, кто я, не так ли?
 No, no I don't.
-Нет, нет, я не знаю.
+Нет... Не знаю.
 Heh, but you may remember me.
-Хех, но ты можешь помнить меня.
+Но, возможно, ты меня помнишь...
 Wait a minute!
-Подождите минуту!
+Погодите!
 You're the noodle lady from my dreams!
-Ты леди с лапшой из моей мечты!
+Вы - продавщица лапши из моих снов!
 Oh my!
-Боже!
+О-о, золотце!
 You're all wet and smelly!
-Ты все мокрый и вонючий!
+Ты вся мокрая и ужасно пахнешь! Твою одежду необходимо постирать.
 Why don't you call your sister and tell her to come here.
-Почему бы тебе не позвонить своей сестре и не сказать ей, чтобы она приехала сюда.
+Почему бы тебе не пригласить сестру присоединиться к нам?
 I'll pay for your clothes to be cleaned.
-Я заплачу за вашу одежду, чтобы быть очищенной.
+Я заплачу за стирку для вас обеих.
 Thank you, that's really nic-
-Спасибо, это действительно Ник-
+Спасибо вам, это очень мил...
 Wait! How do you know that I have sister?
-Ждать! Как узнать, что у меня есть сестра?
+Погодите! Откуда вы знаете, что у меня есть сестра?!
 I know a lot about you and your sister, Luzia.
-Я много знаю о тебе и твоей сестре, Лузии.
+Я многое о вас знаю, Люция.
 I'm here to help you.
-Я здесь, чтобы помочь вам.
+И я здесь, чтобы помочь вам.
 I never asked for your help, old lady.
-Я никогда не просил твоей помощи, старуха.
+Я не просила вас о помощи, бабушка.
 I think you were just about to, deary.
-Я думаю, что ты был, дорогая.
+Но, полагаю, ты как раз собиралась. Иначе зачем тебе было искать старушку Йоко?
 You're not another witch, are you?
-Ты не другая ведьма, а ты?
+Неужели вы тоже ведьма?..
 Come on young one...
-Давай, молодой ...
+Не волнуйся об этом, золотце.
 lets get you out of those wet clothes.
-Давай вытащим тебя из этой влажной одежды.
+Кстати, тебе пора снять эти мокрые тряпки.
 Wait, what will I wear? I can't just stand here naked!
-Подожди, что я буду носить? Я не могу просто стоять здесь голым!
+Погодите, а что я буду носить? Не могу же я стоять тут голой!
 I wouldn't worry about that, my dear.
-Я бы не стал беспокоиться об этом, моя дорогая.
+Об этом тоже не стоит волноваться, дорогая.
 There's only one other person who uses this laundromat...
-Есть только один человек, который использует этот прачечный ...
+Кроме меня в эту прачечную заглядывает лишь ещё одна посетительница...
 and she only comes in on Tuesdays.
-И она приходит только по вторникам.
+да и та приходит только по вторникам.
 So tell me girls...
-Так скажи мне, девочки ...
+Скажите, девочки...
 fine weather we're having, no?
-Прекрасная погода, которую мы имеем, нет?
+Чудесная сегодня погодка, не правда ли?
 Not a cloud in the night sky.
-Не облако в ночном небе.
+И в ночном небе ни облачка...
 Actually, it's a little cold.
-На самом деле, это немного холодно.
+Признаться, сейчас немного холодно.
 Huh...
 Хм...
 it must be Tuesday.
-Это должен быть вторник.
+Должно быть, сегодня вторник.
 Oh? You girls are back?
 Ой? Вы, девочки, вернулись?
 You look surprised to see us?
@@ -3739,141 +3739,141 @@ U-uh, упс!
 NoodleCutscene
 
 You were kidnapped?
-Вы были похищены?
+Получается, вас похитили?
 Yeah, and they beat up Sombie too!
-Да, и они тоже избили Сомби!
+Да, и ещё несколько раз ударили Сомби!
 That settles it, she has gone too far this time!
-Это урегулирует, она зашла слишком далеко на этот раз!
+Это отвратительно. На этот раз она зашла слишком далеко!
 Uh, who has?
-Ах, кто есть?
+Э-э, кто - \"она\"?
 Well, it's about time I introduced myself.
-Ну, пришло время представить себе.
+Ну что ж, вот и пришло время рассказать о себе.
 I am Yokona Kagami...
-Я йокона Кагами ...
+Меня зовут Йокона Кагами...
 But everyone just calls me Noodle Lady.
-Но все просто называют меня лапшой.
+Но все вокруг называют меня просто Продавщицей лапши.
 Let me guess, it's because you sell noodles?
-Дай угадать, это потому, что ты продаешь лапшу?
+Сейчас угадаю - это потому, что вы продаёте лапшу?
 I own the Ramen shop next door.
-У меня есть магазин Ramen по соседству.
+Я владелица лавки с раменом в двух шагах отсюда.
 I see you both have met my daughter, Ashina.
-Я вижу, вы оба встретили мою дочь, Ашину.
+Как я поняла, вы обе уже знакомы с моей дочерью, Ашиной.
 The witch is your daughter?
-Ведьма твоя дочь?
+Так эта ведьма - ваша дочь?
 This is perfect! You can help Sombie!
-Это потрясающе! Вы можете помочь Сомби!
+Замечательно! Тогда вы сможете помочь Сомби!
 Right?
-Верно?
+Ведь правда?
 Hmm, by the looks of things it may be too late for her, Luzia.
-Хм, судя по всему, для нее может быть слишком поздно, Лузия.
+Хм-м. Боюсь, судя по внешним признакам, уже может быть слишком поздно.
 You mean I'll be stuck like this forever?
-Вы имеете в виду, что я навсегда застрял?
+Это значит, я навсегда останусь такой?
 My dear, I hate to be the one to tell you this but, you're dead.
-Моя дорогая, я ненавижу быть тем, кто говорит тебе это, но ты мертв.
+Золотце, мне не хотелось бы тебе этого говорить, но ты мертва.
 I'M DEAD?!
-Я МЕРТВ?!
+МЕРТВА?!
 But she's standing right there!
-Но она стоит прямо здесь!
+Но она же стоит прямо перед нами!
 Sombria, place your hand over your heart.
-Сомбрия, положи руку на сердце.
+Сомбрия, приложи руку там, где сердце.
 Do you feel a beat?
-Вы чувствуете ритм?
+Ты чувствуешь его стук?
 THERE'S NO BEAT! I'M DEAD!!
-Там нет удара! Я МЕРТВ!!
+СТУКА НЕТ! Я МЕРТВА!!
 WHAT THE HECK HAPPENED TO ME?!
-Что, черт возьми, случилось со мной?!
+ЧТО ЗА ЧЕРТОВЩИНА СО МНОЙ ПРОИСХОДИТ?!
 By the looks of things you're now a Yokai Sombria.
-На взгляде вещей, вы теперь Йокай Сомбрия.
+Судя по всему, Сомбрия, теперь ты ёкай.
 What's a Yokai?
-Что такое йокай?
+Что такое \"ёкай\"?
 A yokai, a ghost, spirit, whatever you want to call it...
-Йокай, призрак, дух, как бы вы ни называли ...
+Ёкай, призрак, дух - существа примерно одного порядка...
 well actually, maybe poltergeist is probably a better term.
-Ну, на самом деле, возможно, Полтергейст, вероятно, лучший термин.
+хотя, наверное, здесь лучше бы подошло слово "полтергейст".
 It seems Ashina wanted something from you but what exactly?
-Кажется, Ашина чего -то хотела от тебя, но что именно?
+Кажется, Ашина хотела от тебя чего-то добиться. Но чего именно?
 S-She wanted to swap bodies.
-S-Ше хотел поменять тела.
+Она х-хотела поменяться телами.
 Hmm, looks like it didn't go all to plan.
-Хм, похоже, что это не было планом.
+Хм-м. Кажется, всё пошло не по плану.
 Something went wrong as you've turned into one of us.
-Что -то пошло не так, когда вы превратились в одного из нас.
+Что-то помешало тебе превратиться в одну из нас.
 One of you? You still look human!
-Один из вас? Ты все еще выглядишь человеком!
+То есть, в ведьму? Но вы выглядите как обычный человек!
 I look like a hideous creature!
-Я выгляжу как отвратительное существо!
+А я выгляжу как чудовище из кошмаров!
 You just look like a human, only with long arms and pale skin.
-Вы просто выглядите как человек, только с длинными руками и бледной кожей.
+Ты тоже выглядишь как человек, просто с длинными руками и бледной кожей.
 And no legs, what happened to those?
-И нет ног, что с ними случилось?
+И без ног. Они-то куда делись?
 Anyway, you look fine, Sombie.
-В любом случае, ты хорошо выглядишь, Сомби.
+В любом случае, ты нормально выглядишь, Сомби!
 Where is Ashina now?
-Где сейчас Ашина?
+А где сейчас Ашина?
 She's dead, I think.
-Я думаю, она мертва.
+По-моему, она мертва.
 Her head was floating in the bath.
-Ее голова плыла в ванне.
+Её голова плавала в воде... отдельно от всего остального.
 Dead?! Ha! Serves her right!
-Мертвый?! Ха! Служит ей правильно!
+Мертва?! Ха! Так ей и надо!
 Wow really? I'd really hate to have you as a mom.
-Ого, правда? Я бы очень хотел, чтобы ты как мама.
+Оу. Серьёзно? Не хотела бы я быть вашей дочерью.
 I think Sombie killed her.
-Я думаю, что Сомби убил ее.
+В конце концов, Сомби ведь убила её...
 Well this is certainly some good news!
-Ну, это, безусловно, хорошие новости!
+И это определённо замечательная новость!
 Good news?
-Хорошие новости?
+Замечательная?
 We may be able to reverse the curse.
-Мы можем обратить вспять проклятие.
+Да. Возможно, нам удастся обратить проклятье вспять.
 Reverse the curse? How?
-Обратите внимание на проклятие? Как?
+Но каким образом?
 All we need is some of Ashina's blood.
-Все, что нам нужно, это часть крови Ашины.
+Нам потребуется немного крови Ашины.
 So if you both are able to retrieve her head then-
-Так что, если вы оба сможете забрать ее голову, тогда-
+Так что если вы сможете добыть её голову...
 Um, how about NO!
-Хм, как насчет нет!
+М-м, как насчёт НЕТ!
 I never want to set foot back in that place again!
-Я никогда не хочу снова идти в это место!
+Я никогда больше не собираюсь туда возвращаться!
 Don't you want to help your sister?
-Разве ты не хочешь помочь своей сестре?
+Разве ты не желаешь помочь сестре?
 I do, but isn't there another way?
-Я делаю, но разве нет другого пути?
+Желаю, но разве нет какого-нибудь другого способа?
 I'll go.
-Я пойду.
+Туда пойду я.
 Wait, Sombie...
-Подожди, Сомби ...
+Погоди, Сомби...
 You've done enough, Luzia.
-Вы сделали достаточно, Лузия.
+Ты и так сделала очень многое, Люция.
 I need to fix this myself.
-Мне нужно исправить это сам.
+Теперь я должна помочь себе сама.
 I love it when sisters squabble.
-Я люблю это, когда сестры ссорятся.
+Спор между сёстрами - что может быть милее?
 Don't you, Luzia?
-Не так ли, Лузия?
+Не правда ли, Люция?
 Yeah, whoopie.
-Да, Вупи.
+Да уж.
 What are you waiting for?
-Чего ты ждешь?
+Чего же ты ждёшь?
 Go after her.
-Иди за ней.
+Ты должна пойти с ней.
 She obviously doesn't want my help.
-Очевидно, она не хочет моей помощи.
+Она очевидно не хочет моей помощи.
 They never do...
-Они никогда не делают ...
+Они никогда не хотят...
 so why wait for an invitation?
-Так зачем ждать приглашения?
+Но к чему ждать приглашения?
 Huh, you're right, old noodle lady.
-Да, ты прав, старая леди с лапшой.
+Наверное, вы правы, бабушка.
 Besides, I've probably pissed her off enough for one day.
-Кроме того, я, вероятно, разозлил ее достаточно на один день.
+Может быть, она просто слишком устала от меня за целый день.
 Here's the spare key to the bathhouse, I keep it incase of emergencies.
-Вот запасной ключ к бане, я держу его в случае чрезвычайных ситуаций.
+Это запасной ключ от купальни. Я хранила его у себя на всякий случай.
 Thanks.
 Спасибо.
 Good luck, little one. You're gonna need it.
-Удачи, малыш. Тебе это понадобится.
+Удачи, моя маленькая!.. Она тебе понадобится.
 So explain to me again...
 Так что объясните мне снова ...
 why are we riding with the door open? Isn't it a little dangerous?
@@ -8087,7 +8087,7 @@ A custom made magnetic fishing pole.
 It's my uncle Bob's screwdriver!
 Это отвертка моего дяди Боба!
 Bathhouse Hallway
-Користость для бани
+Коридор купальни
 That's a spider lily, it resembles death,
 Это пауковая лилия, она напоминает смерть,
 I-U, uh-
