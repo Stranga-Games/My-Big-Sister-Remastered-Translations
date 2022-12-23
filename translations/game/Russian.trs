@@ -519,7 +519,7 @@ Bath House Key
 The key to the witch's bath house.
 Запасной ключ от ведьминской купальни.
 Candy Bar
-Шоколадный Батончик
+Шоколадный батончик
 Mmm...chocolate.
 Ммм...шоколад.
 Mushroom
@@ -557,13 +557,13 @@ Cigarettes
 A pack of a popular brand of cigarettes.
 Пачка популярной марки сигарет.
 Desk Drawer Key
-Ключ от Ящика Стола
+Ключ от ящика стола
 The key to the draw in reception.
-Ключ от ящика на ресепшене.
+Ключ от ящика стола на ресепшене.
 Buffet Key
-Ключ от Буфета
+Ключ от кухни
 The key to unlock the kitchen door in the buffet.
-Ключ открывающий кухонную дверь в буфете.
+Ключ к закрытой двери в кухню.
 $SAVEGAMEDIR$/MBSCS.dat
 
 $SAVEGAMEDIR$/version.txt
@@ -2217,7 +2217,7 @@ TiledWall
 Now what?
 И что теперь?
 Great! The passage is shut!
-Ну вот! Проход закрыт!
+Прекрасно! Проход закрыт!
 I guess, I can't look in here.
 Наверное, я не смогу заглянуть сюда.
 It looks like there's something missing where the eyes should be.
@@ -2323,7 +2323,7 @@ Huh?! It's locked?
 There must be a key around here somewhere.
 Надеюсь, ключ где-то неподалёку...
 There, finally! It's unlocked.
-Ну вот, наконец-то! Открылась!
+Ну вот, наконец-то открылась!
 Crack in the Wall
 Трещина в стене
 WallKnife
@@ -2425,107 +2425,107 @@ PulllTheKnife
 What the...
 Что за...
 M-Mr. Butcher?
-M-mr. Мясник?
+Г-Господин мясник?
 Wait, that's the-
-Подожди, это
+Стойте, это же...
 THE WITCH'S HEAD!
-Голова ведьмы!
+ВЕДЬМИНА ГОЛОВА!
 Why is it on your body?
-Почему это на вашем теле?
+Почему она на ваших плечах?
 There's a knife in your neck!
-В твоей шее нож!
+Ой, у вас в шее нож!
 Hold still! I'll pull it out for ya!
-Не двигайтесь! Я вытащу это для тебя!
+Не шевелитесь! Сейчас я его вытащу!
 Mhmphmphpmhp!!!
-Mhmphmphpmhp !!!
+Мхмпхмпхпмхп!!!
 Huh? What was that?
-Хм? Что это было?
+А? Вы что-то сказали?
 Just hold still, silly billy! Let me pull the knife out-
-Просто держись неподвижно, глупый Билли! Позвольте мне вытащить нож-
+Просто не двигайтесь, вы мне мешаете!..
 Ughh, gross!
-Тьфу, брутто!
+У-у, гадость!
 MHMPHMPHPHPM!!!
-Mhmphmphphpm !!!
+МХМПХМПХРХПМ!!!
 There we go!
-Вот и мы!
+Вот так-то!
 Has Knife
 Есть нож
 WHAT HAVE I DONE?!
-ЧТО Я СДЕЛАЛ?!
+ЧТО Я НАДЕЛАЛА?!
 I'VE KILLED HIM!
-Я убил его!
+Я ЖЕ ЕГО УБИЛА!
 WAIT! HE'S ALIVE?!
-ЖДАТЬ! ОН ЖИВ?!
+СТОЙТЕ, ОН ЖИВОЙ?!
 H-Han.Mphp...Ah! *Cough* FINALLY!
-H-han.mphp ... Ах! * Кашель* Наконец -то!
+Мпхп... А-а! *Кашель*  НАКОНЕЦ-ТО!
 I've been trying to pry open her lips so I can talk...
-Я пытался открыть ее губы, чтобы поговорить ...
+Я всё пытался открыть её губы изнутри...
 and now that I can-
-А теперь, когда я могу-
+И теперь, когда я могу говорить...
 WHY THE HELL DID YOU DO THAT FOR!!?
-Какого черта ты это сделал !!?
+ВОТ НАХРЕНА ТЫ ЭТО СДЕЛАЛА?!!
 I can't believe you're still alive!
-Я не могу поверить, что ты все еще жив!
+Поверить не могу, что вы до сих пор живы!
 As I said be for, I'm already dead!
-Как я уже сказал, я уже мертв!
+Я же говорил - я давно уже мёртв!
 NOW I'M JUST A HEAD! YOU LITTLE DIP-
-Теперь я просто голова! Ты маленький падение-
+А ТЕПЕРЬ Я ПРОСТО ГОЛОВА! ТЫ, МЕЛКАЯ ИДИ-
 Sorry about that, but what the hell happened here?
-Извините за это, но что, черт возьми, здесь произошло?
+Поверьте, мне очень жаль, но что здесь произошло?
 *Sigh* She did this...
-* Вздох* Она сделала это ...
+*Вздох* Это всё она...
 the lady who's not so on the wall anymore.
-Леди, которая больше не так на стене.
+Женщина, которая больше не на стене.
 She broke free.
-Она вырвалась на свободу.
+Теперь она на свободе.
 How?
-Как?
+Но как так вышло?
 Listen kid, there's no time to waste...
-Слушай, малыш, нет времени тратить ...
+Девочка, нельзя терять времени...
 she's after someone named Sombria.
-Она после кого -то по имени Сомбрия.
+она ищет кого-то по имени Сомбрия.
 That's my sister!
 Это моя сестра!
 Find her and get out while you still can!
-Найди ее и уходи, пока ты еще можешь!
+Найди её, и убегайте пока ещё можете!
 She will kill you both if you stay here.
-Она убьет вас обоих, если вы останетесь здесь.
+Она убьёт вас обеих, если встретит.
 But I need that head you're wearing!
-Но мне нужна эта голова, которую вы носите!
+Но мне очень нужна эта голова, которую вы... носите!
 Listen kid, just get out! She is coming for you!
-Слушай, малыш, просто убирайся! Она придет за тобой!
+Просто бегите, прямо сейчас! Она вас ищет!
 Look, I'm going to find Sombria...
-Слушай, я найду Сомбрию ...
+Слушайте, я должна найти Сомбрию...
 just hang in there, and try not to lose your head- I mean her head!
-Просто держись там и постарайся не потерять голову- я имею в виду ее голову!
+а вы никуда не уходите и постарайтесь взять себя в руки!
 What was that?! Some kind of joke?
-Что это было?! Какая -то шутка?
+Это сейчас шутка была?!
 ...yes.
 ...да.
 CandyBar:Cutscene
 
 Oh good.
-О, хорошо.
+А, отлично.
 It's still here.
-Это все еще здесь.
+Она всё ещё тут.
 About time you showed up!
-Время, когда ты появился!
+Вовремя ты появилась!
 Can you let me down? I need to pick myself up!
-Ты можешь меня подвести? Мне нужно поднять себя!
+Ты не могла бы меня опустить? Мне нужно собраться!
 Sorry I took so long.
-Извините, я занял так долго.
+Извини, что задержалась.
 *Sigh* Hey, look kid...
-* Вздох* Эй, посмотри, ребенок ...
+*Вздох* Слушай, девочка...
 sorry about before, got a little tied up in my emotions.
-Извините, что раньше, немного связал мои эмоции.
+прости за то, что нагрубил - я был в слегка подвешенном состоянии...
 You're so sweet for a man with no face.
-Ты такой милый для мужчины без лица.
+Для человека без лица вы очень забавный.
 Don't make me blush! Really, I'll kill ya! Oh! before I forget, I got you something.
-Не заставляй меня краснеть! Действительно, я убью тебя! Ой! Прежде чем я забуду, я тебе кое -что получил.
+О, ты вгоняешь меня в краску! Кстати, пока не забыл - у меня для тебя кое-что есть...
 It's over there, on the bench.
-Это там, на скамейке.
+Посмотри на столе за моей спиной.
 It's not much.
-Это не много.
+Это не так уж много, но...
 Choppy
 Топновный
 Yes! Some delicious noodles!
@@ -2739,89 +2739,89 @@ Cut Yourself
 CutYourself
 
 Sombie! Where the heck have you been!?
-Сомби! Где ты, черт возьми!?
+Сомби? Где ты была?!
 I was looking everywhere for you!
-Я искал для тебя везде!
+Я тебя повсюду искала!
 Luzia, there's no time.
-Лузия, времени нет.
+Люция, у нас нет времени.
 I need you to stand in the other circle now!
-Мне нужно, чтобы ты стоял в другом круге сейчас!
+Скорее становись в другой круг!
 Why? What's going on?
-Почему? В чем дело?
+Зачем? Что тут творится?
 You need to do exactly what I tell you.
-Тебе нужно сделать именно то, что я тебе говорю.
+Делай как я говорю.
 Go now!
-Иди!
+Быстрее!
 Ok, ok!
-Ладно ладно!
+Ладно-ладно!
 You need to cut your hand...
-Тебе нужно разрезать руку ...
+Порежь руку...
 spill your blood in the circle!
-Пролите свою кровь по кругу!
+и пролей кровь внутри круга!
 ARE YOU INSANE!?
-ТЫ С УМА СОШЕЛ!?
+ТЫ С УМА СОШЛА?!
 She's attracted to blood!
-Она привлекает кровь!
+Кровь её приманит!
 WHY DO WE WANT TO ATTRACT HER FOR!?
-Почему мы хотим привлечь ее!?
+ЗАЧЕМ НАМ ЕЁ ПРИМАНИВАТЬ?!
 SHE IS GOING TO EAT US!
-Она собирается съесть нас!
+ОНА ЖЕ СОЖРЁТ НАС!
 Luzia, you need to trust me!
-Лузия, тебе нужно мне доверять!
+Люция, поверь мне!
 Use something to cut yourself!
-Используйте что -нибудь, чтобы порезать себя!
+Найди что-нибудь режущее!
 Luzia, hurry! Get in the other circle!
-Лузия, поторопись! Попасть в другой круг!
+Люция, скорее! Вернись в круг!
 UseKnife
 
 Just close your eyes and...
-Просто закройте глаза и ...
+Просто закрой глаза и...
 Ahhhh!
-Аааа!
+Аааах!
 N-Now what?!
-N-now Что?!
+И ч-что теперь?!
 Just wait.
-Просто подожди.
+Ждём.
 I know you're in here! I can smell you!
-Я знаю, что ты здесь! Я тебя чувствую запах!
+Я знаю, что ты здесь! Я чувствую твой запах!
 Oh, hiding in the sauna are we?
-О, прячутся в сауне, не так ли?
+О-о, мы решили спрятаться в сауне?
 I'm surprised you can fit in there with those long legs!
-Я удивлен, что вы сможете вписаться там с этими длинными ногами!
+Удивительно, что ты уместилась сюда с такими длиннющими ногами!
 Wait! WHAT IS THIS?!
-Ждать! ЧТО ЭТО?!
+Что? ЧТО ПРОИСХОДИТ?!
 A trap!? You fool!
-Ловушка!? Ты дурак!
+Ловушка?! Жалкая дура!
 That won't stop me ripping the legs off you!
-Это не помешает мне сорвать ноги с тебя!
+Она не помешает мне вырвать твои ноги!
 So now wha-
-Так что теперь что-
+И что те-
 Shh!
-Шш!
+Тс-с!
 Just go get the head and lets get the heck outta here.
-Просто иди, возьми голову и давай, черт возьми, здесь.
+Пошли заберём голову и бежим отсюда!
 I don't know how long this trap will hold.
-Я не знаю, как долго будет проходить эта ловушка.
+Не знаю, надолго ли ловушка её задержит.
 Just lock the door.
-Просто запереть дверь.
+Просто запри дверь на защёлку.
 You can't from the outside.
-Вы не можете снаружи.
+Снаружи не получится!
 Who's there?
-Кто здесь?
+Кто у нас там?
 I can hear talking out there.
-Я слышу, как разговоры там.
+Я слышу, как вы шепчетесь.
 Pipe down in there, freak!
-Труба там, урод!
+Остудись там немного, страхолюдина!
 Wait, Luzia?
-Подожди, Лузия?
+Люция? Это ты?
 You two met?
-Вы двое встретились?
+Вы что, знакомы?
 Uh oh.
-Э -э -э -э -э -э -э -э -э.
+Как бы тебе объяснить?..
 Luzia, go get the head now!
-Лузия, иди, возьми голову сейчас!
+Люция, быстро за головой!
 We'll meet back at the noodle lady's house!
-Мы встретимся в доме леди лапши!
+Встретимся дома у Йоко!
 Shower
 Душ
 Lockers
@@ -2829,17 +2829,17 @@ Lockers
 Strange locker
 Странный шкафчик
 Circle Center
-Circle Center
+Центр круга
 DeskKey
 Настольный
 UseFlashlight
 
 It's still pretty dark in here.
-Здесь все еще довольно темно.
+Здесь всё ещё довольно темно.
 Where's my flashlight?
-Где мой фонарик?
+Где же мой фонарик?
 Oh, here! In my pocket!
-О, здесь! В моем кармане!
+А, он здесь! У меня в кармане!
 LadyOnTheWall
 
 Gross...
@@ -2955,19 +2955,19 @@ The table is broken.
 ShesGone
 
 Hey! S-She's...gone!
-Привет! S-SHE ... ушел!
+Эй! Она... п-пропала.
 Not good!
-Нехорошо!
+Плохо дело!
 Wait, what's this?
-Подожди, что это?
+Погодите, что это?
 You...took my legs, my looks, my...life. [ I will never forgive you for what you have done to me! [ You shall all choke on your thick greedy blood.
-Ты ... взял мои ноги, мою внешность, моя ... жизнь. [Я никогда не прощу тебя за то, что ты со мной сделал! [Вы все должны задушить свою густую жадную кровь.
+Ты... отняла мои ноги, мою красоту, мою... жизнь. [ Я никогда не прощу тебя за то, что ты со мной сделала! [ Все вы захлебнётесь своей густой алчной кровью.
 I need to warn Sombie.
-Мне нужно предупредить Сомби.
+Надо предупредить Сомби.
 There's something else here...
-Здесь есть что -то еще ...
+Здесь есть что-то ещё...
 a key? I wonder what it's for?
-ключ? Интересно, для чего это?
+Ключ? Интересно, от чего он?
 Table
 Стол
 FlashlightDrawer
@@ -3045,45 +3045,45 @@ Luzia! Lets go!
 We can escape through this pipe in the water.
 Мы можем сбежать через широкую сливную трубу под водой!
 I can't leave now.
-Я не могу уйти сейчас.
+Я не могу уйти просто так.
 Not without the head.
-Не без головы.
+Нужно забрать голову.
 It's!!
-Его!!
+Здесь!!...
 Another key...
-Еще один ключ ...
+Еще один ключ...
 This one must belong to the buffet door!
-Этот должен принадлежать дверь буфета!
+Скорее всего, этот от двери в кухню!
 It's locked now?
-Теперь он заперт?
+Теперь ящик заперт?
 Maybe there's a key around here, somewhere?
-Может, где -то есть ключ?
+Может быть, ключ лежит где-то неподалёку?
 BloodWater
 
 Oh my gosh!
-О, черт возьми!
+О боже!
 What the hell happened here?
-Что, черт возьми, случилось здесь?
+Что здесь произошло?
 We were literally gone for a few hours...
-Мы буквально ушли на несколько часов ...
+Нас и не было-то буквально пару часов...
 w-who did this?
-W-кто это сделал?
+К-Кто это сделал?
 but I have a feeling we're about to find out.
-Но у меня есть ощущение, что мы собираемся выяснить.
+Но у меня такое чувство, что скоро выясним.
 So, where is the head?
-Итак, где голова?
+Где нам искать голову?
 I think it's in the secret bathroom.
-Я думаю, что это в секретной ванной комнате.
+Думаю, она в тайной купальной комнате.
 I'll go check there, you look around here.
-Я пойду проверь туда, вы смотрите здесь.
+Я пойду туда, а ты осмотрись здесь.
 We'll meet up in the sauna room if anything happens.
-Мы встретимся в комнате сауны, если что -нибудь случится.
+Если что, встречаемся в комнате с сауной.
 Be careful.
-Будь осторожен.
+Будь осторожна.
 How does she vanish like that?
-Как она так исчезает?
+И как ей удаётся так исчезать?
 So cool!
-Так круто!
+Выглядит круто!
 RepositionCharacters
 Перестроительный характер
 MovePlayer
