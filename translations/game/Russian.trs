@@ -539,9 +539,9 @@ Engine Keycard
 An electronic keycard for the train's engine room.
 Электронная ключ-карта от кабины машиниста.
 Luggage Keycard
-Карта от багажа
+Карта от грузового отсека
 A keycard to unlock the Luggage carrage E-Door
-Ключ-карта от двери в багажный вагон.
+Ключ-карта от двери в грузовой отсек.
 Screwdriver
 Отвертка
 It's my uncle Bob's screwdriver!
@@ -4509,7 +4509,7 @@ Afraid of heights?
 I'm not worried about being up in the sky.
 Меня пугает не то, что я лечу где-то над облаками.
 I used to have dreams about being on a plane.
-Просто у меня были сны про самолёт...
+Просто у меня были сны про полёты...
 What happened?
 И что в них происходило?
 Well, I went to the bathroom...
@@ -4587,7 +4587,7 @@ Where the heck is everyone?
 The train's empty!
 Этот поезд едет пустым!
 There was no one on the bus either.
-И в атобусе кроме нас никого не было...
+И в автобусе кроме нас никого не было...
 I'm gonna take a look around.
 Я пойду осмотрюсь.
 Okay, I'll take a look too.
@@ -4617,7 +4617,7 @@ You scared the hell outta me!
 I thought you weren't scared of anything?
 Я думала, тебя невозможно напугать?
 Only by spontaneous surprises!
-Возможно, но только чем-нибудь неожиданным!
+Возможно, но только если это не что-то неожиданное!
 I'll remember to leave a sign on the door next time.
 В следующий раз повешу знак на дверь.
 So, did you find anything?
@@ -4651,7 +4651,7 @@ like we're being set or something.
 C'mon, cheer up, Luzia.
 Ладно, Люция. Взбодрись!
 We need to make it home!
-Нам нужно попасть домой!
+Нам нужно добраться домой!
 Let's stay focused.
 Надо сконцентрироваться.
 I'll go talk to the driver.
@@ -4667,7 +4667,7 @@ maybe you can find a way to use it.
 Train Main Car
 Центральный вагон
 Luggage Cabin
-Багажный вагон
+Грузовой отсек
 Bed Cabin
 Спальный вагон
 Exit Bathroom
@@ -4721,7 +4721,7 @@ Hey! It's you!
 Yes it is I! Little Jacke-
 Да, я! Литтл Дже-
 Could you help me?
-Ты мог бы мне помочь?
+Не мог бы ты мне помочь?
 *Sigh* What does little girl want?
 *Вздох* Чего маленькая девочка хочет?
 Do you know a way to unlock this door?
@@ -4801,7 +4801,7 @@ Great! Where am I going to find a keycard?
 Great! Another locked door!
 Прекрасно! Ещё одна закрытая дверь!
 Little girl's not gonna open that one, not with out Litle Jacket's help!
-Маленькая девочка не откроет эту дверь. Не без помощи Литтл Джэкета!
+Маленькая девочка не откроет эту дверь. Не без помощи Литтл Джекета!
 Oh? And how do you know how to unlock it?
 О-о? И как же, по-твоему, её открыть?
 I have a keycard!
@@ -4815,7 +4815,7 @@ Little Jacket knows how! Give the keycard to Little Jacket!
 A keycard is what you need, but you need to find it!
 Нужна ключ-карта, но сперва надо найти её!
 Litle Jacket saw big scary girl looking back here not long ago.
-Литтл Джэкет видел большую страшную девочку, которая искала её здесь недавно.
+Литтл Джекет видел большую, страшную девочку, которая искала её здесь недавно.
 Please...go away.
 Пожалуйста... уходи.
 *Whistling*
@@ -4919,7 +4919,7 @@ ACH_SECRET_SWITCH
 I don't need to press it again.
 Мне не нужно нажимать её снова.
 Train Luggage Car
-Багажный вагон
+Грузовой отсек
 Main Cabin
 Центральный вагон
 E Switch (Damaged)
@@ -5135,7 +5135,7 @@ How do you know my name?!
 I know everything!
 Я знаю всё!
 Plus, it's in the passengers log book.
-К тому же, твоё имя указано в спике пассажиров.
+К тому же, твоё имя указано в списке пассажиров.
 Gotta keep a head count on all who ride the rails!
 Приходится вести поголовный учёт всех, кто путешествует поездами!
 Even if they don't have a head!
