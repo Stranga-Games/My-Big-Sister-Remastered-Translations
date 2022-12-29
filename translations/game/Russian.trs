@@ -4765,7 +4765,7 @@ Which way did she go?
 S-She went into the secret carriage.
 Она в-вошла в тайный отсек на крыше.
 p-press the button, on t-the wall. Then, t-the gate. *...*
-н-нажми кнопку на стене. Тогда в-ворота *...*
+Н-нажмите кнопку на стене. Тогда в-ворота *...*
 Stretch...
 Стретч...
 I-I'm so sorry.
@@ -4775,7 +4775,7 @@ I have to find Sombria.
 T-That woman s-said she was after...
 Эта женщина с-сказала, что она ищет...
 y-you.
-т-тебя.
+в-вас.
 I'm very sorry Stretch.
 Пожалуйста, прости меня, Стретч.
 I must go.
@@ -4783,7 +4783,7 @@ I must go.
 I-It's okay L-Luzia.
 В-Всё хорошо, Л-Люция.
 Y-You g-gggggg....uhhh...
-Т-Ты к-ккккккк... ухх...
+В-Вы к-кккккк... ухх...
 Stretch!!!
 Стретч!!!
 I'm so sorry.
@@ -4841,7 +4841,7 @@ Whoops! I mean thank you!
 What the hell is that!
 Ты ещё что такое?!
 I'm sorry little girl, no passengers allowed back here.
-Прости, девочка, но пассажирам сюда нельзя.
+Простите, но пассажирам сюда нельзя.
 Who are you?
 Кто вы?
 Me? N-No one ever takes notice of me.
@@ -4859,7 +4859,7 @@ How long have you been here?
 W-Well, as long as I can remember.
 Н-Ну, столько, сколько себя помню.
 Why do you want to know Miss....
-Почему тебе это интересно, э-э...
+Почему вам это интересно, мисс...
 Luzia, my name is Luzia.
 Люция. Меня зовут Люция.
 P-Pleased to meet you, Luzia.
@@ -4871,25 +4871,25 @@ I-I'm sorry.
 I don't mean to be shy.
 Я не специально стесняюсь.
 It's just, I-I've heard a lot about you.
-Просто я м-многое о тебе слышал.
+Просто я м-многое о вас слышал.
 Tell me, are you still trying to break the curse?
-Скажи, ты всё ещё пытаешься избавиться от проклятия?
+Скажите, вы всё ещё пытаетесь избавиться от проклятия?
 You mean the loo- Wait!
 То есть, разорвать пе... Погоди!
 How do you know about that?!
 Откуда ты это знаешь?!
 I'm sorry, I didn't mean to make you upset.
-Прости, я не хотел тебя расстроить.
+Простите, я не хотел вас расстроить.
 Please, tell me what you know about me. PLEASE!
 Пожалуйста, расскажи всё, что обо мне знаешь. ПОЖАЛУЙСТА!
 I-I can't.
 Н-Не могу.
 All I can say is that old lady said a lot about you.
-Всё, что о чём я могу рассказать - та пожилая женщина много о тебе говорила.
+Всё, что я могу сказать - та пожилая женщина много о вас говорила.
 She also said bad things may happen if I talk to you.
-И ещё она говорила, что если я с тобой заговорю, может случиться что-то плохое.
+И ещё она говорила, что если я с вами заговорю, может случиться что-то плохое.
 Please, forgive me.
-Прости, пожалуйста.
+Простите, пожалуйста.
 Bad things!?
 Что-то плохое?!
 You're literally a walking head!
@@ -4897,7 +4897,7 @@ You're literally a walking head!
 Bad hit you a long time ago, pal!
 Что-то плохое уже давно произошло, дружок!..
 I'll j-just be out of your way...
-Лучше я п-просто уйду, чтобы тебе не мешать...
+Лучше я п-просто уйду, чтобы вам не мешать...
 ...no. I'm sorry.
 ...Прости меня!  
 I feel like a great, big, jerk!
@@ -4919,7 +4919,7 @@ ACH_SECRET_SWITCH
 I don't need to press it again.
 Мне не нужно нажимать её снова.
 Train Luggage Car
-Багажный вагон
+Грузовой отсек
 Main Cabin
 Главная каюта
 E Switch (Damaged)
@@ -5437,7 +5437,7 @@ Okay, okay! Go ahead.
 Once upon a time, there were two sisters that lived in the country-side.
 Давным-давно, в одной деревне, жили две сестры.
 They were the best of friends and did everything together.
-Они были лучшими подругами и всё делали вместе.
+Они были очень близки и всё делали вместе.
 They were so close that they liked and enjoyed the same things...
 Они были так близки, что им даже нравились одни и те же занятия и вещи...
 especially this one man.
@@ -5561,7 +5561,7 @@ I don't have to!
 This is your problem not ours!
 Это твоя проблема - не наша!
 Turn my sister back now!
-Верни мою сестру как было, сейчас же!
+Верни всё как было, сейчас же!
 I can't...
 Я не могу...
 not until the curse has been lifted.
