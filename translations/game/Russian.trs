@@ -275,7 +275,7 @@ Main Carriage
 Bedding Carriage
 Спальный Вагон
 Luggage Carriage
-Багажный Вагон
+Грузовой вагон
 Front Carriage
 Передний Вагон
 Are you sure you want to quit?
@@ -4009,7 +4009,7 @@ J-Just wait here, I can smell something...
 Call out when the bus arrives.
 Позови, когда автобус приедет.
 Huh, so this is what it feels like.
-Так вот что чувствуешь, когда тебя оставляют.
+Хе-х. Так вот, каково это...
 FindSombieFood
 
 Hey! A mushroom!
@@ -4509,11 +4509,11 @@ Afraid of heights?
 I'm not worried about being up in the sky.
 Меня пугает не то, что я лечу где-то над облаками.
 I used to have dreams about being on a plane.
-Просто у меня были сны про полёты...
+Просто однажды я видела сон про самолёт, и...
 What happened?
-И что в них происходило?
+Что?
 Well, I went to the bathroom...
-Ну, например, мне снилось, что я иду в туалет...
+Ну, мне приснилось, что я иду в туалет...
 and when I came back everyone was gone!
 а когда возвращюсь, салон оказывается пуст. Ни одного пассажира!
 Everyone, it was just me.
@@ -4917,7 +4917,7 @@ I feel sleepy.
 ACH_SECRET_SWITCH
 
 I don't need to press it again.
-Мне не нужно нажимать её снова.
+Мне не нужно активировать его снова.
 Train Luggage Car
 Грузовой отсек
 Main Cabin
@@ -5057,7 +5057,7 @@ B-But that's impossible!
 I would have seen her!
 Тогда бы я её встретила!
 Maybe you walked straight past her, without noticing?
-Может, ты прошла прямо мимо неё и не обратила внимания?
+Может, ты прошла мимо неё и не обратила внимания?
 N-No, I don't think so.
 Н-Нет, это вряд ли.
 Nothing ever gets past me!
@@ -5095,7 +5095,7 @@ I-I think I did...
 where does he like to hide?
 Где он обычно прячется?
 He should be in the luggage compartment somewhere.
-Чаще всего - где-то в багажном отсеке.
+Чаще всего - где-то в грузовом отсеке.
 Always waiting to take someones luggage.
 Вечно ждёт, что кто-нибудь вручит ему свой багаж.
 The poor guy.
@@ -5239,7 +5239,7 @@ It has to be!
 I'm sorry.
 Мне очень жаль.
 *Sniff*I don't know who to trust anymore?!
-*Всхлип* Я больше не знаю, кому верить?!
+*Всхлип* Я больше не знаю, кому верить!
 For the first time in my life...
 Впервые в жизни я чувствую...
 ...I feel empty inside.
@@ -5293,7 +5293,7 @@ Fire away little Missy!
 What do you see when you go through the valley?
 Что вы видите, когда проезжаете через Долину?
 Heh, Y'know, nobody's ever asked me that before...apart from one other.
-Хе-хе, знаешь, никто ещё никогда у меня этого не спрашивал... может быть, разве что, кроме одного раза.
+Хе-хе, знаешь, никто ещё никогда у меня этого не спрашивал... может быть, только один раз...
 What I saw was how I ended up here. I crashed my train...
 Я видел то, почему в итоге оказался здесь. Мой поезд пошёл под откос...
 killing all but one passenger...
@@ -5429,7 +5429,7 @@ Ok, Little Jacket will tell you, so listen up!
 Once upon a ti-
 Давным-давно, в од...
 Is this going to be a long story?
-Это будет длинная история?
+Это будет долгая история?
 SHHH!
 ТССС!
 Okay, okay! Go ahead.
@@ -5465,7 +5465,7 @@ I remember something...about a theater.
 You should remember, Luzia.
 Уверен, ты вспомнишь её, Люция.
 Because you're the-
-Потому что ты...
+Потому, что ты...
 Wait, what's that sound?
 Стой, что это за звук?
 Ah! Hello, Luzia.
@@ -5535,7 +5535,7 @@ Why should I listen to you?!
 Look what you did to Sombria!
 Смотри, что ты сделала с Сомбрией!
 Your sister is fine, Luzia.
-С твоей сестрой все в порядке, Люция.
+С твоей сестрой всё в порядке, Люция.
 Trust me.
 Поверь мне.
 Then why did you do this?
@@ -5575,7 +5575,7 @@ We are already on our way to break the loop!
 You've been tricked...
 Тебя обманули...
 once you reach home, you will restart the loop. You'll ruin everything!
-Как только вы достигнете дома, цикл начнётся сначала. Вы сами всё и испортите!
+Как только вы достигнете дома, цикл начнётся сначала. Вы сами всё испортите!
 That's not true!
 Такого не может быть!
 The Noodle Lady told me that it would end the curse!
@@ -5889,7 +5889,7 @@ I'm so sorry Luzia!
 Just please wake up!
 Пожалуйста... просто проснись!
 I-I guess I'll just have to wait until you're ready.
-Наверное, мне лишь остаётся ждать, пока ты будешь готова.
+Наверное, мне лишь остаётся ждать, когда ты будешь готова.
 *Sniff* I sure could use a smoke.
 *Всхлип* Мне нужно покурить.
 I'll be right back Luzia.
