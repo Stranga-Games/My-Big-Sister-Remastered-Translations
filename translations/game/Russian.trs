@@ -311,7 +311,7 @@ Music Volume
 Resume Game
 Продолжить игру
 Fullscreen
-Полноэкранный
+Режим изображения
 INVENTORY
 ИНВЕНТАРЬ
 Item Name
@@ -399,7 +399,7 @@ Mogah
 The Red Witch
 Красная Ведьма
 Elevator Man
-Человек-Лифт
+Существо из лифта
 Ash
 Эш
 Tena
@@ -555,7 +555,7 @@ M-Mom's heart? Why did you do this?!
 Cigarettes
 Сигареты
 A pack of a popular brand of cigarettes.
-Пачка популярной марки сигарет.
+Пачка сигарет популярной марки.
 Desk Drawer Key
 Ключ от ящика стола
 The key to the draw in reception.
@@ -2267,7 +2267,7 @@ Hey, Sombie!
 Can I have one of your hair pins?
 Можешь дать мне одну из своих заколок? Очень надо!
 Why?
-Зачем?
+Почему?
 My fringe is loose.
 Мне чёлка в глаза лезет.
 It looks fine, Luzia.
@@ -2623,7 +2623,7 @@ Ta da!
 Oh, a mask.
 Фух-х, это маска.
 So, what do you think?
-Ну как, вам нравится?
+Ну как, нравится?
 Honestly, it doesn't look half bad!
 Честно говоря, она неплохая!
 Thanks, kid!
@@ -3689,7 +3689,7 @@ You mean Sombie, right?
 S-Sure.
 К-Конечно.
 Just remember...
-Просто помните...
+Просто помни...
 that when the time comes, you will have to make a choice.
 что когда настанет время, тебе придётся сделать выбор.
 Just tell me what I have to do.
@@ -5889,7 +5889,7 @@ I'm so sorry Luzia!
 Just please wake up!
 Пожалуйста... просто проснись!
 I-I guess I'll just have to wait until you're ready.
-Наверное, мне лишь остаётся ждать, пока ты будешь готова.
+Наверное, мне лишь остаётся ждать, когда ты будешь готова.
 *Sniff* I sure could use a smoke.
 *Всхлип* Мне нужно покурить.
 I'll be right back Luzia.
@@ -5943,7 +5943,7 @@ Please, call me Sombie.
 Luzia always does.
 Люция всегда так делает.
 How is Luzia, she's been here a for a long time now.
-Кстати, как Люция? Она лежит здесь уже долго...
+Кстати, как Люция? Она лежит здесь уже давно...
 She's doing really well!
 У неё всё хорошо!
 I hope.
@@ -5971,7 +5971,7 @@ Still worried about Luzia, eh?
 She's a tough kid.
 Она сильная.
 She'll be alright.
-Она выберется.
+Она выкарабкается.
 I hope so.
 Надеюсь.
 Still seeing the therapist?
@@ -6113,7 +6113,7 @@ Now, time for a little *yawn* nap. *Zzz*
 RealStretch
 
 Hey.
-Привет...
+Эй...
 Remember me?
 Помнишь меня?
 O-Oh yes!
@@ -6217,7 +6217,7 @@ Christ! I needed that!
 It's getting too cramped in there.
 В госпитале стало слишком много людей.
 I know you can pull through.
-Я знаю, ты выберешься.
+Я знаю, ты очнёшься.
 It'll haunt me til' the day I die if you don't.
 А если нет, это будет преследовать меня до самой смерти.
 Just please be alright, Luzia.
@@ -6323,7 +6323,7 @@ it smells like...
 chocolate?
 шоколадом?
 This seems so stupid.
-Кажется, я сделала что-то глупое.
+Кажется, я делаю что-то глупое.
 What is that sound?
 Что это за звук?
 W-What are you?
@@ -6479,7 +6479,7 @@ Cubicle
 Elevator
 Лифт
 Tickets
-Билеты
+Кассы
 CandyBar
 
 *Sigh* I'm so hungry.
@@ -6537,7 +6537,7 @@ It's locked and won't budge.
 Subway Main
 Станция метро
 Ticketway
-
+Кассы
 Abandoned Tunnel
 Заброшенный туннель
 MeetVerd
@@ -6921,7 +6921,7 @@ Ever since I was little all I ever did was get in her way, interrupt her life.
 I don't deserve someone like her.
 Я не заслуживаю такую сестру, как она.
 Go home.
-Идти домой.
+Иди домой.
 Just go, now!
 Просто иди, сейчас же!
 Self sacrifice...
@@ -7083,9 +7083,9 @@ and what did you tell them?
 I told them to ignore that man! He was nothing but trouble!
 Я говорила им не связываться с тем глупцом! От него были одни беды!
 I don't care if they both liked him, you didn't have to take their lives away!
-Мне плевать, что он нравился им обеим, тебе не стоило отбирать у них жизнь!
+Мне плевать, что он нравился им обеим, тебе не стоило отнимать у них жизнь!
 I didn't, you did.
-Я и не отбирала. Это сделали вы.
+Я и не отнимала. Это сделали вы.
 You told them they were foolish, that men only use them to get what they want.
 Это вы говорили, что они глупы, и что мужчины лишь используют их, чтобы получить желаемое.
 You lied to them.
@@ -7159,7 +7159,7 @@ Thanks, mom!
 I'll let her stay in there until she wants to be nice to me.
 Пусть там и сидит до тех пор, пока не станет ко мне добрее.
 Besides, it's locked anyway...
-К тому же, дверь закрыта на ключ...
+К тому же, дверь заперта изнутри...
 and awfully quiet?
 но в комнате подозрительно тихо?
 H-Hey Sombie?
@@ -7377,7 +7377,7 @@ What's that lump in the middle of the bowl?!
 It's just cereal, okay! *Munch*
 Это просто сухой завтрак, серьёзно! *Хрум*
 Jeez! *munch munch*
-Ну ладно! *хрум хрум*
+Боже! *хрум хрум*
 ACH_A_MOTHERS_HEART
 
 Can you not talk with your mouth full.
@@ -7443,7 +7443,7 @@ That's right!
 She should!
 Следовало бы!
 It's not like she appreciated me for helping her get home or anything!
-В итоге она ведь даже не поблагодарила меня за помощь!
+В итоге она даже не поблагодарила меня за помощь!
 And it was me who did everything!
 А ведь это я всё делала!
 Maybe we should remind her of your efforts, Luzia.
@@ -7463,17 +7463,17 @@ Yep, that's a sink alright.
 ACH_SINK
 
 It's Sombie's mug.
-Это кружка Сомби.
+Кружка Сомби.
 It smells like ciggaretts.
-Пахнет как сиггаретты.
+Пахнет сигаретным дымом.
 Haha! The toaster.
-Ха -ха! Тостер.
+Ха-ха! Тостер.
 I remember when Sombie caught her hands...
-Я помню, когда Сомби поймал ее за руки ...
+Помню, как Сомби однажды засунула туда руку...
 Wow...
-Ух ты...
+Оу...
 That's not even funny anymore.
-Это уже даже не смешно.
+Это больше не кажется смешным.
 I don't need  to do that.
 Мне не нужно этого делать.
 There's a picture on here.
@@ -7627,7 +7627,7 @@ But I've been in a coma for like forever!
 Okay, okay.
 Ладно, ладно.
 I see you're back to your normal self again.
-Вижу, теперь ты снова стала сама собой.
+Вижу, теперь ты снова стала самой собой.
 No, I'm back to my hungry self.
 Нет, я стала ещё более голодной.
 WHERE ARE THESE DAMN WAFFLES?!
@@ -7649,7 +7649,7 @@ Does it have dinosaurs?
 W-Well, no.
 Н-Ну, нет.
 Then it doesn't have everything.
-Получается, там есть отнюдь не всё.
+Получается, там есть не всё.
 *Sigh* Lil' sis, I've missed you.
 *Вздох* Сестрёнка, я по тебе скучала.
 I've missed you too, Sombie...
@@ -7711,7 +7711,7 @@ I'm Sombria, and this is -
 Actually, her name is Somba, but I like to call her Sombie.
 На самом деле, её зовут Сомба, но мне больше нравится называть её Сомби.
 It was nice to meet you both. Sorry, I have to go before Tena starts chatting up guys in the parking lot again.
-Была рада встретить вас обеих. Извините, нужно бежать, пока Тена снова не начала болтать с парнями на парковке.
+Была рада вас встретить. Извините, надо бежать, пока Тена снова не начала болтать с парнями на парковке.
 Love your hair and your bow! Cya!
 Крутая причёска и крутой бант! До встречки!
 Oh! Luzia! Thanks for everything!
@@ -7727,7 +7727,7 @@ That!
 Actually, I'm not even going there, it's too early.
 Ладно, не важно. Потом пойду проверю заказ. Сейчас слишком рано.
 Where are my damned waffles!
-Где мои проклятые вафли!
+Где же мои чёртовы вафли?!
 Sorry sis, but I need something other than noodles!
 Извини, сестрёнка, но иногда мне нужно что-то кроме лапши!
 Wow! I didn't think you'd ever get sick of food.
